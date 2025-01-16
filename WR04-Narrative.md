@@ -1,0 +1,1 @@
+# Sustainable development strategies for the real estate industry, investors, and political stakeholders, considering the current building efficiency and future development potentials
