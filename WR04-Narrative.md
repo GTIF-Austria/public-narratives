@@ -8,15 +8,15 @@ As a matter of fact, building stocks in European countries are ageing and requir
 
 Aim of this service is to support users in the identification of renovation potentials and energy efficiency opportunities in a building stock through the use of Earth observation (EO) derived data and the provision of advanced services interfaces including interactive Web cartography.
 
-This service  relies on time series of land surface temperature data from Copernicus Sentinel satellites, provided via the Copernicus Data Space Ecosystem (CDSE). The implemented methodology is based on satellite data and temperature changes, combined with digital data on the building stock, building class, and cadastral data. Available data are analysed to infer building quality, energy consumption, and renovation potentials, geographically constrained to the user-specified Area of Interest (AoI). 
+This service  relies on time series of land surface temperature data from Copernicus Sentinel satellites, provided via the Copernicus Data Space Ecosystem (CDSE). The implemented methodology is based on satellite data and temperature changes, combined with digital data of the building stock, building class, and cadastral data. Available data are analysed to infer building quality, energy consumption, and renovation potentials, geographically constrained to the user-specified Area of Interest (AoI). 
 
 ### Map of building energy efficiency and renovation potential
 
 The Capability provides a thematic map product generated for the customer-selected AoI that may span a municipality, a region or an entire country.
 
-<INTERACTIVE MAP ILLUSTRATION: Results Example Map mapped over terrtory of City of Vienna - free and open service provided by AIT> 
+<INTERACTIVE MAP ILLUSTRATION: Results Example Map of territory of City of Vienna, Austria - free and open service provided by AIT> 
 
-<DATA CONTENT ILLUSTRATIONResult example potential- and meta-data including updatedness (shown in an image clipped from the map as tool tip)> 
+<DATA CONTENT ILLUSTRATION: Result example potential- and meta-data including updatedness (shown in an image clipped from the map as tool tip)> 
 
 ### APIs
 The map is delivered via two different Application Programming Interfaces (APIs): (1) the OGC Web Map Service (WMS), a Web-standard portrayal and streaming interface for cascaded integration into widely used Geographical Information Systems such as QGIS, and (2) a RESTful machine-to-machine (M2M) API for integration with special end-user IT environments. Both APIs will be access-controlled for an authorized group of users.
