@@ -24,13 +24,13 @@ The map is delivered via two different Application Programming Interfaces (APIs)
 
 ### WebGIS Visualization
 The basic functionality Web-based Geographical Information System (WebGIS) is illustrated here. The WebGIS will be access-controlled for an authorized group of users.
-<WEBGUI ILLUSTRATION  .....>
+<WEBGIS ILLUSTRATION  .....>
 (c) 2025 AIT
 
 ### Download,
 Maps can also be offered for download as files from an access controlled sFTP Server as GeoPackage (GPKG), an open, non-proprietary, platform-independent standard, building on existing standards, for storing geospatial data (vector and raster data) in a file.
 
-##Long-term perspective
+## Long-term perspective
 At present, the geographical coverage of the City of Vienna is the pilot area for which the service features are being demonstrated. For this pilot AOI the data provided by the service is open source. Results and lessons learned are being detailed and documented for this pilot. Information is being provided on necessary input and the to be expected output data for any geographical area requested in the future.
 
 The extension to other Austrian regions, to the whole of Austria, or AOIs beyond Austria will be subject to available funding. Depending on customer policies, basic services may be provided as open source whereas more advanced analyses tailored to the specific needs of a specific user may be offered as dedicated business service for the construction sector, administration, building owner, etc.
