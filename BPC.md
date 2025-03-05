@@ -4,6 +4,8 @@
 ## Solution
 Get insights about deployed solar energy modules in your area of interest with our cutting-edge AI-powered solar panel mapping technology. Using advanced computer vision and high-resolution aerial or satellite imagery, our solution delivers precise, actionable insights for solar energy planning and management.
 
+
+
 ## Why Choose Our Solution?
 ## List <!--{ as="div" }-->
 1. High-Quality & Up-to-Date: Our AI-powered geospatial software solutions allow to build and update maps at human-level accuracy.
@@ -63,3 +65,5 @@ We are looking forward to hearing from you.
 Gerhard Neuhold
 [gerhard@n-vision.at](gerhard@n-vision.at)
 Sales, CEO & Founder
+
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a37e1a34618efb3155e17a7860d2488bde0cd499/assets/triebnigg/Solar-Panel-Mapping-1741169266311.png" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/solar-panel-mapping-by-n-vision/assets/triebnigg/Solar-Panel-Mapping-1741169266311.png" />
