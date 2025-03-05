@@ -1,5 +1,5 @@
 # Solar Panel Mapping <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
-#### by N Vision <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+#### Cutting-edge AI-powered service by N Vision <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Solution
 Get insights about deployed solar energy modules in your area of interest with our cutting-edge AI-powered solar panel mapping technology. Using advanced computer vision and high-resolution aerial or satellite imagery, our solution delivers precise, actionable insights for solar energy planning and management.
