@@ -1,3 +1,7 @@
+---
+cover-image: https://picsum.photos/id/53/800/600
+---
+
 # Solar Panel Mapping <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
 #### Cutting-edge AI-powered service by N Vision <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
