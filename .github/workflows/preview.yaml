@@ -29,10 +29,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Not needed if lastUpdated is not enabled
-      - name: Copy narratives
-        run: mkdir narratives && mv ./*.md ./narratives && mv ./assets ./narratives/assets
       - name: Clone website
-        run: git clone https://github.com/GTIF-Austria/public-website.git
+        run: git clone https://github.com/GTIF-Austria/public-website.git build
+      - name: Copy narratives
+        run: mkdir build/narratives && mv ./*.md ./build/narratives && mv ./assets ./build/narratives/assets
+      - name: Change directory
+        run: cd build        
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
