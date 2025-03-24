@@ -32,9 +32,7 @@ jobs:
       - name: Clone website
         run: git clone https://github.com/GTIF-Austria/public-website.git build
       - name: Copy narratives
-        run: mkdir build/narratives && mv ./*.md ./build/narratives && mv ./assets ./build/narratives/assets
-      - name: Change directory
-        run: cd build        
+        run: mkdir build/narratives && mv ./*.md ./build/narratives && mv ./assets ./build/narratives/assets     
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -44,10 +42,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
-        run: npm i
+        run: cd build && npm i
       - name: Build with VitePress with correct base
-        run: NODE_OPTIONS='--experimental-network-imports=node' npx vitepress build --base /pr-preview/pr-${{ github.event.number }}/
+        run: cd build && NODE_OPTIONS='--experimental-network-imports=node' npx vitepress build --base /pr-preview/pr-${{ github.event.number }}/
       - name: Deploy preview to Github Pages
         uses: rossjrw/pr-preview-action@v1 #v2 should be coming soon
         with:
-          source-dir: .vitepress/dist
+          source-dir: build/.vitepress/dist
