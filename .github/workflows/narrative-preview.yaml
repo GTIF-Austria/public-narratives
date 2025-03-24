@@ -2,7 +2,6 @@
 name: Deploy Narrative PR previews
 
 on:
-  workflow_dispatch
   pull_request:
     types:
       - opened
