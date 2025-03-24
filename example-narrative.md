@@ -10,7 +10,7 @@ cover-image: https://picsum.photos/id/53/800/600
 
 Storytelling is the enabling part of GTIF outcome presentation because resulting data can often be complex and challenging to communicate. By framing data within narratives, storytelling makes GTIF concepts accessible, engaging, and memorable to a wider audience. It bridges the gap between the scientific and technical details involved in the production of the GTIF information and the public's understanding of its utility in green transition and climate change adaptation. 
 
-It provides just enough background to make the nature and availability of the offered GTIF-information understandable: Descriptions of the input data used, the value-adding steps applied, how the information factory links them internally, how the related provider landscape is structured, through which services information is conveyed, and which the conditions are for its access and exploitation...
+It provides just enough background to make the nature and availability of the offered GTIF-information understandable: Descriptions of the input data used, the value-adding steps applied, how the information factory links them internally, how the related provider landscape is structured, through which services information is conveyed, and which the conditions are for its access and exploitation....
 
 ## How do I get started?
 
