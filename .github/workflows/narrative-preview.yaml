@@ -1,7 +1,8 @@
 # .github/workflows/preview.yml
-name: Deploy PR previews
+name: Deploy Narrative PR previews
 
 on:
+  workflow_dispatch
   pull_request:
     types:
       - opened
@@ -13,10 +14,9 @@ concurrency: preview-${{ github.ref }}
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
-  pull-requests: write
 
 jobs:
   deploy-preview:
