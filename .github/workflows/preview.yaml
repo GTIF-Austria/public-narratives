@@ -30,7 +30,7 @@ jobs:
         with:
           fetch-depth: 0 # Not needed if lastUpdated is not enabled
       - name: Copy narratives
-        run: mkdir narratives && mv * ./narratives
+        run: mkdir narratives && mv ./*.md ./narratives && mv ./narratives ./narratives/assets
       - name: Clone website
         run: git clone https://github.com/GTIF-Austria/public-website.git
       - name: Setup Node
