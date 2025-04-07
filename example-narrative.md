@@ -1,3 +1,7 @@
+---
+cover-image: https://picsum.photos/id/53/800/600
+---
+
 # Example Narrative <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
 
 #### An introduction on how to write interactive and multimedial stories using markdown. Scroll down to get started! <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
@@ -108,6 +112,16 @@ Each tour step is described as an `h3` (`###`) heading.
 #### Third tour step.
 
 To change individual parameters like zoom or center, or to change the map layers for a step, just set them using the HTML comment syntax. This changes the map setting for the current map
+
+## Image Tour section <!--{ as="img" mode="tour" }-->
+
+### <!--{ src="https://picsum.photos/800/600" }-->
+#### This is an image tour.
+It allows you to have different sources for each tour "step".
+
+### <!--{ src="https://picsum.photos/900/700" }-->
+#### Second tour step.
+Each tour step is described as an *h3* (*###*) heading.
 
 ## About Section, Legals and Subscription Information
 
