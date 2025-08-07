@@ -5,7 +5,7 @@ tags: building footprint, remote sensing, change detection
 ---
 
 # Building Stock Update: Smart City Infrastructure Monitoring
-## Introduction
+
 The GTIF Building Footprints service provides a comprehensive solution for monitoring and analyzing urban infrastructure through satellite-based observation. This service delivers up-to-date, spatially and temporally consistent building data, serving as a fundamental component for Smart City solutions.
 
 
