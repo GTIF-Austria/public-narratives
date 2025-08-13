@@ -28,7 +28,7 @@ The Deformation Monitoring of Critical Infrastructure (DMCI) Capability is the s
 
 ### DMCI Map
 
-The DMCI Map visualizes the movements of road or railway segments observed by InSAR satellites in a straightforward and easily interpretable manner. The line of sight data available is transformed into vertical displacements and an average value is calculated for all persistent scatterers within a segment of 50m length. The available information is thus merged into one dataset.  This dataset includes:
+The DMCI Map visualizes the movements of road or railway segments observed by InSAR satellites in a straightforward and easily interpretable manner. The line of sight data available is transformed into vertical displacements and an average value is calculated for all persistent scatterers withn a segment of 50m length. The available information is thus merged into one dataset.  This dataset includes:
 * the classification of the point (road, railway, bridge, tunnel, etc.)
 * the reliability of the point, as expressed by the number of available persistent scatterers within the segment,
 * the evaluation result wether the point shows no anomalies, is subjected to settlement or uplift or no assessment is possible due to insufficient or inconsistent data,
@@ -42,10 +42,8 @@ The points are color-coded, with white points showing no significant deformation
 
 The basic functionality Web-based Geographical Information System (WebGIS) is illustrated here. The WebGIS will be access-controlled for an authorized group of users. 
 	
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ea3ab7dd22d468343fd08fdcc7440cc9fda2e2c5/assets/AIT-TIT/WR10Figure-1739891671569.jpg" data-fallback-src="https://raw.githubusercontent.com/AIT-TIT/public-narratives/AIT-TIT/wr-10-transport-infrastructure-predictive-maintenance/assets/AIT-TIT/WR10Figure-1739891671569.jpg" />
-(c) 2025 AIT
+<iframe src="https://gtif-austria.info/explore?x=9.6848&y=47.3859&z=12.2&datetime=2025-01-01&template=light&indicator=predictive_maintenance" width="650" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" position></iframe>
 
-	
 	
 ### APIs 
 
