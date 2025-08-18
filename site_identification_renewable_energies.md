@@ -1,3 +1,11 @@
+---
+cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Enefit-Greeni-Purtse-hybriidpark-Ida-Virumaal-1749907570161.webp
+
+domain: Energy Transition
+tags: wind energy, photovoltaic, RED-III
+
+---
+
 # Site Identification for Renewable Energies
 ## Motivation
 The designation of acceleration areas for renewables, as required by the European renewable energy directive, is a challenging political process involving several stakeholders, including federal and state authorities. One main challenge in the expansion of renewable energies, namely large-scale PV-plants and wind energy, lies in the identification of suitable areas, taking into account the many technical, social and economic restrictions as well as nature and landscape protection. This regionally structured data on renewable resources and potential areas are therefore an important information for the designation of wind energy development zones and a valuable planning basis for project developers. 

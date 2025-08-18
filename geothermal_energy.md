@@ -1,3 +1,11 @@
+---
+cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Shallow-geothermal-energy-1568x896-1749906773529.jpg
+
+domain: Energy Transition
+tags:  soil moisture, ground temperature, sustainable heat
+
+---
+
 # Exploring the Earth's Gentle Warmth: A Tool for Harnessing Shallow Geothermal Energy
 
 Imagine a clean, renewable energy source right beneath our feet, quietly waiting to heat our homes and communities. Shallow geothermal energy taps into the Earth's gentle warmth, just a few meters below the surface, offering a sustainable solution for heating and cooling. Our project brings this incredible resource closer to everyone with an easy-to-use online tool that calculates its potential and efficiency.

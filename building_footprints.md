@@ -1,4 +1,10 @@
-# Building Footprints Service: Smart City Infrastructure Monitoring
+---
+cover-image: https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede
+domain: Sustainable Cities
+tags: building footprint, remote sensing, change detection
+---
+
+# Building Stock Update: Smart City Infrastructure Monitoring
 ## Introduction
 The GTIF Building Footprints service provides a comprehensive solution for monitoring and analyzing urban infrastructure through satellite-based observation. This service delivers up-to-date, spatially and temporally consistent building data, serving as a fundamental component for Smart City solutions.
 
@@ -13,18 +19,10 @@ The Building Footprints service combines advanced satellite imagery analysis wit
 * Regular updates to maintain current infrastructure information
 
 
-
+## Workflow
+The service implements three core technological components.
 
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-02.png)
-
-## Workflow
-The service implements three core technological components
-
-### Data Fusion
-The system integrates multiple data sources including:
-*	High-resolution satellite imagery
-*	Existing building footprint databases
-*	Temporal data series for change detection
 
 ### Constant Monitoring
 The service provides continuous surveillance of urban areas through:
@@ -32,18 +30,26 @@ The service provides continuous surveillance of urban areas through:
 *	Automated change detection
 *	Temporal analysis of urban development
 
-
-
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-03.png)
 
 
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-04.png)
+
+
+### Data Fusion
+The system integrates multiple data sources including:
+*	Temporal data series for change detection
+*	High-resolution satellite imagery
+*	Existing building footprint databases
+
 
 ### Feature Extraction
 Advanced algorithms are employed to extract building information:
 *	AI-powered building detection
 *	Automated footprint generation
 *	Change analysis and verification
+
+![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-07.png)
 
 
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-05.png)
@@ -52,10 +58,8 @@ Advanced algorithms are employed to extract building information:
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-06.png)
 
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-07.png)
-
-
 ![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-08.png)
+
 
 ### Advanced AI-Powered Building Detection
 The Building Footprints service leverages cutting-edge AI technology for accurate building detection and segmentation. Our system employs the SAM-Adapter model (Segment Anything Model with domain-specific adaptation) to precisely identify and segment buildings in diverse urban environments. This approach has been validated for effectiveness in challenging scenarios, including refugee settlements where building detection is particularly complex. 
@@ -82,6 +86,17 @@ For the same area, the Pleiades image (0.5m resolution) ordered by ubicube shows
 The building footprints algorithm provides probability maps in a first step (colorful). Comparison to existing building stock data shows huge differences. 
 
 ![Bild11](https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede)
+
+### 3D Building Stock Integration
+
+The Building Footprints service is evolving toward comprehensive 3D urban modeling by integrating our current 2D detection capabilities with surface and elevation data. This advancement will enable:
+
+* Complete building stock updates with height and volumetric information
+* Detailed 3D city models for advanced urban planning
+* Improved analysis of urban density and skyline changes
+* Enhanced solar potential assessment based on roof geometry
+
+This integration leverages digital surface models (DSM) and digital terrain models (DTM) to extract building heights and shapes, creating accurate 3D representations of urban environments. The resulting models will support more sophisticated applications in urban planning, energy efficiency analysis, and smart city development.
 
 ## Use Cases
 The Building Footprints service supports various stakeholders:
@@ -168,9 +183,9 @@ The Building Footprints service is provided by ubicube GmbH, a Space Tech startu
 
 ### Contact Information
 ubicube GmbH
-Schönbrunner Straße 231, 1120 Wien
-www.ubicube.eu
-office@ubicube.eu
+- Schönbrunner Straße 231, 1120 Wien
+- www.ubicube.eu
+- office@ubicube.eu
 
 ### Legal Information
 The Building Footprints service is subject to ubicube's General Terms and Conditions. The service is provided "as is" without any warranty or guarantee for a specific property, suitability, or usability. ubicube reserves the right to interrupt or discontinue the service at any time without prior notice.
