@@ -54,6 +54,9 @@ This map visualizes the deformation of infrastructure over time and can be a hel
 Zooming into a dot on the map and clicking on it will show you the data for that specific location.
 
 
+
+### Vertical Deflection (mm) <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/oscar-strasser/public-narratives/oscar-strasser/deformation-monitoring-service-of-critical-infrastructure-for-transport-infrastructure-predictive-maintenance/assets/oscar-strasser/visualization-1755527820252.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/91da2c2053c17374ff6b7331ca62326ab8e318c8/assets/visualization-1755527820252.png" style="width: 45%; height: 200px;"}-->
+
 ## APIs 
 
 The map is optionally delivered via two different Application Programming Interfaces (APIs): (1) the OGC Web Map Service (WMS), a Web-standard portrayal and streaming interface for cascaded integration into widely used Geographical Information Systems such as QGIS, and (2) a RESTful machine-to-machine (M2M) API for integration with special end-user IT environments. Both APIs will be access-controlled for an authorized group of users.
