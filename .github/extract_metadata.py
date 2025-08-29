@@ -141,6 +141,8 @@ def extract_metadata(file_path, base_url):
         preview_url = fetch_and_resize_media(
             img_url, "output/assets/previews", 400
         )
+    else: 
+        preview_url = None
 
     # Merge extracted metadata
     metadata.update({"file": file_url, "title": h1, "subtitle": h3, "image": preview_url})
