@@ -6,7 +6,7 @@ cover-image: https://victoriacars.com/en/wp-content/uploads/sites/4/2022/01/beni
 # Graduation trip to Benidorm <!--{ as="img" data-fallback-src="" mode="hero" src="https://www.europeanceo.com/wp-content/uploads/2018/09/BND_Benidorm_bonds.jpg" }-->
 ### by Oscar Strasser <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
-## <center> Start of the trip<center/>
+## <center> Start of trip<center/>
 
 ## Map tour <!--{ as="eox-map" mode="tour" }-->
 
