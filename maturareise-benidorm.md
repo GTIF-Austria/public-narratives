@@ -8,7 +8,6 @@ cover-image: https://victoriacars.com/en/wp-content/uploads/sites/4/2022/01/beni
 
 ## <center> Start of the trip<center/>
 
-
 ## Map tour <!--{ as="eox-map" mode="tour" }-->
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.219704,48.000989] zoom="18" animationOptions="{duration:500}" }-->
