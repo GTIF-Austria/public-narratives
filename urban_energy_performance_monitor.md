@@ -1,17 +1,17 @@
 ---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Energy-performance-of-buildings-cover-1749975298270.png
-
-domain: Sustainable Cities
-
-tags:  remote sensing, surface temperature, Sentinel-3
+date: 2025-09-06
+theme: Sustainable Cities
+tags: remote sensing, surface temperature, Sentinel-3
+official: true
 
 ---
 
-# Energy Performance of Buildings <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Energy-performance-of-buildings-hero-1749975057844.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1434714ec07a9fe83bae56f7978ed34024a28287/assets/Energy-performance-of-buildings-hero-1749975057844.jpg" }-->
-### Local Observer Service provided by Austrian Institute of Technology <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+# Urban Energy Performance Monitor <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Energy-performance-of-buildings-hero-1749975057844.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1434714ec07a9fe83bae56f7978ed34024a28287/assets/Energy-performance-of-buildings-hero-1749975057844.jpg" }-->
+### provided by Austrian Institute of Technology and partners<!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 
-### New measuring instruments and reference values through integration of satellite thermal imagery that make building energy efficiency more visible and quantifiable.<!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
+### New measuring instruments and reference values through integration of satellite thermal imagery that make urban energy efficiency more visible and quantifiable.<!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Problem & Needs
 
@@ -25,21 +25,21 @@ The general picture is illustrated via the [EU Buildings Climate Tracker](https:
 
 According to the EU Building Directive EPBD, each Member State should set up a national database for the overall energy efficiency of buildings. This should contain data on the energy efficiency of individual buildings and the energy efficiency of the national building stock. Aggregated and anonymized data on the building stock should be publicly accessible and available in a machine-readable format. Access to the full energy certificates should be granted free of charge to owners and users. Those interested in buying or renting should also have free access. Municipalities should also be able to use the database to draw up municipal heating plans. Individual stakeholders may be provided with fine-grained actionable information for planning and decision making even at the level of individual buildings or building blocks. 
 
-## Solution Capability: EPeBLO
+## Solution Capability: UEPM
 
-The Energy Performance of Buildings \- Local Observer (EPeBLO) Capability is the service which responds to the geospatial aspects and local dimension of monitoring the energy efficiency of buildings. It supports the identification of energy-related renovation potential of buildings. It achieves this by delivering on-demand digital cartographic and statistical products derived from time-series of high-resolution thermal satellite imagery processed in combination with bespoke “urban index” building stock information within a user-provided Area of Interest defined at street-level.
+The *Urban Energy Performance Monitor (UEPM)* Capability is the service which responds to the geospatial aspects and local dimension of monitoring the energy efficiency of buildings. It supports the identification of energy-related renovation potential of buildings. It achieves this by delivering on-demand digital cartographic and statistical products derived from time-series of high-resolution thermal satellite imagery processed in combination with bespoke *Energy Performance Index* building stock information within a user-provided Area of Interest defined at street-level.
 
-The Local Observer service can deliver thematic, geographically mapped data layers to regional and local data bases such as multi-purpose land cover and land use maps. It can complement the picture of collected energy certificates, inspections records, building renovation passports, the smart capability indicator and measured or calculated energy consumption for the buildings. The service can also be combined with recordings of the life cycle emissions of buildings.
+The monitor service can deliver thematic, geographically mapped data layers to regional and local data bases such as multi-purpose land cover and land use maps. It can complement the picture of collected energy certificates, inspections records, building renovation passports, the smart capability indicator and measured or calculated energy consumption for the buildings. The service can also be combined with recordings of the life cycle emissions of buildings.
 
-The service may be tried out free of charge at pre-commercialization stage because of sponsorship provided by [ESA Network of Resources](#network-of-resources-\(nor\)).
+A free demonstration version of the UEPM service is available for selected pilot cities. Further pre-commercial demonstration projects may apply for sponsorship through the [ESA Network of Resources](#network-of-resources-\(nor\)). This enables municipalities to evaluate the service without or reduced initial investments.
 
-### EPeBLO Information Products
+### UEPM Information Products
 
-#### EPeBLO Map
+#### UEPM Map
 
-The EPeBLO Capability provides a thematic map product generated on-demand for a customer-selected, geographic Area of Interest (AoI) that may span a building, a block of buildings, a district, or an entire municipality. This map is intended to make the search for locations and areas much easier and, in the interests of identifying energy efficiency and renovation potentials within the building stock.
+The UEPM Capability provides a thematic map product generated on-demand for a customer-selected, geographic Area of Interest (AoI) that may span a building, a block of buildings, a district, or an entire municipality. This map is intended to make the search for locations and areas much easier and, in the interests of identifying energy efficiency and renovation potentials within the building stock.
 
-The EPeBLO map contains the building energy efficiency index valid for the local context. It is calculated based on the downscaled Land Surface Temperature (LST) data, fine grained information about the built environment, either directly calculated from earth observation data or already [preprocessed building footprints](https://www.data.gv.at/katalog/dataset/bev_digitaleslandschaftsmodellbauwerkestichtag25012023) and local meteorological data. The map may also be based on integrated use of the urban index product generated from multi-temporal Sentinel-2 as part of the [GTIF Building Stock Update service](https://gtif-austria.info/narratives/building_footprints). The building energy efficiency index is calculated based on the effective temperature difference between remotely observed temperature and global temperature, assuming normal building usage and sufficient contrast between outdoor and indoor temperature (e.g. comparison in winter conditions). 
+The UEPM map contains the building energy efficiency index valid for the local context. It is calculated based on the downscaled Land Surface Temperature (LST) data, fine grained information about the built environment, either directly calculated from earth observation data or already [preprocessed building footprints](https://www.data.gv.at/katalog/dataset/bev_digitaleslandschaftsmodellbauwerkestichtag25012023) and local meteorological data. The map may also be based on integrated use of the urban index product generated from multi-temporal Sentinel-2 as part of the [GTIF Building Stock Update service](https://gtif-austria.info/narratives/building_footprints). The building energy efficiency index is calculated based on the effective temperature difference between remotely observed temperature and global temperature, assuming normal building usage and sufficient contrast between outdoor and indoor temperature (e.g. comparison in winter conditions). 
 
 Copernicus Sentinel-3 LST data freely available globally is downscaled using two distinct methods, including one that leverages the correlation between LST and various land cover indices (e.g., NDVI, NDBI, NDBSI, NDMI, MNDWI, SAVI) through a Random Forest regressor. This method progressively refines the resolution down to 30m, producing a cloud-optimized datacube with a daily thermal time series. The resulting data is integrated with climatological information to derive an energy efficiency index and supports statistical analyses such as yearly or monthly means of all generated data.
 
@@ -53,15 +53,15 @@ Copernicus Sentinel-3 LST data freely available globally is downscaled using two
 
 *Figure 3 – A comparison of the downscaled Sentinel 3 LST and Landsat LST at 30m resolution with time-series of mean values for a selected AoI polygon over all 20 validation dates, city of Nis, Serbia.*
 
-#### EPeBLO Report
+#### UEPM Report
 
-The *Energy Performance of Buildings – Local Observer Report* provides a concise, location-specific assessment of building energy efficiency and renovation potential. It summarizes key findings based on the fusion of downscaled LST data from Copernicus Sentinel satellites with local building information such as typology, usage, construction year, and cadastral records.
+The *UEPM Report* provides a concise, location-specific assessment of building stock energy efficiency and renovation potential. It summarizes key findings based on the fusion of downscaled LST data from Copernicus Sentinel satellites with local building information such as typology, usage, construction year, and cadastral records.
 
 Each report includes:
 
-* A thermal efficiency map of the selected area of interest (AoI), classifying buildings by relative performance
+* A thermal efficiency map of the selected area of interest (AoI), classifying areas by relative performance
 
-* Statistical summaries of energy efficiency indices across different building types or districts
+* Statistical summaries of energy efficiency indices across different areas or districts
 
 * A change analysis based on time-series data, highlighting areas with improving or deteriorating thermal signatures
 
@@ -72,9 +72,9 @@ Each report includes:
 The report is designed to support data-driven decision-making for municipalities, energy agencies, and real estate stakeholders. It complements official energy performance certificates by providing satellite-derived, independent indicators that enable area-wide screening and planning support.
 
 
-### EPeBLO APIs
+### UEPM APIs
 
-The EPeBLO map is accessible through two specialized Application Programming Interfaces (APIs) to ensure seamless integration into geospatial platforms. 
+The UEPM map is accessible through two specialized Application Programming Interfaces (APIs) to ensure seamless integration into geospatial platforms. 
 
 1. Date values ​​with available map data are delivered via a STAC catalogue API. This is done by calling a web service, specifying the access token and bounding box (Min X, Min Y, Max X, Max Y).  
 * The return value of the web service contains information about the available data in the time-series, which contains the date of the recording.  
@@ -91,13 +91,13 @@ The EPeBLO map is accessible through two specialized Application Programming Int
 
 While the current approach prioritizes geospatial standards, a REST API could be considered as a future development to enhance accessibility and interoperability based on user needs (e.g. for calculating statistics of the map time-series data).
 
-### EPeBLO Download
+### UEPM Download
 
-EPeBLO Maps can also be offered for download as files from an access controlled sFTP Server as GeoPackage (GPKG), an open, non-proprietary, platform-independent standard, building on existing standards, for storing geospatial data (vector and raster data) in a file. 
+UEPM Maps can also be offered for download as files from an access controlled sFTP Server as GeoPackage (GPKG), an open, non-proprietary, platform-independent standard, building on existing standards, for storing geospatial data (vector and raster data) in a file. 
 
-### EPeBLO Dashboard 
+### UEPM Dashboard 
 
-The EPeBLO Map is also presented via a graphical user interface dashboard supporting configurable WebGIS functionalities for map browsing, statistical analysis of the energy efficiency index and report generation for user-selected AoIs. 
+The UEPM Map is also presented via a graphical user interface dashboard supporting configurable WebGIS functionalities for map browsing, statistical analysis of the energy efficiency index and report generation for user-selected AoIs. 
 
 A freely accessible dashboard is offered showing indexes generated as a promotional example of the service. Re-use of these data or taking screenshots of the dashboard for non-commercial use is permitted when the attribution “**©** OHB-DS generated using Copernicus Sentinel data” is added. For other uses, stakeholder-friendly [service subscription plans](#subscriptions) are offered.  
 
@@ -105,11 +105,11 @@ A freely accessible dashboard is offered showing indexes generated as a promotio
 
 ![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Dashboard-draft-2-1749976689208.jpg)
 
-*Figure 4 – EPeBLO Dashboard (preliminary mockup \- update with real dashboard implementation image COMING SOON.*
+*Figure 4 – UEPM Dashboard (preliminary mockup \- update with real dashboard implementation image COMING SOON.*
 
 ## Delivery Process
 
-The delivery process for the EPeBLO Capability involving Customer and Provider(s) is shown in the following workflow.
+The delivery process for the UEPM Capability involving Customer and Provider(s) is shown in the following workflow.
 
 ![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Workflow-1749976889944.png)
 
@@ -117,22 +117,19 @@ The delivery process for the EPeBLO Capability involving Customer and Provider(s
 
 ### Provider Entities
 
-The following entities are, or may be, involved in the provision of the EPeBLO Capability:
+The following entities are, or may be, involved in the provision of the UEPM Capability:
 
 **Descriptions of service providers, their roles and contact details COMING SOON**
 
 **Austrian Institute of Technologies (AIT)**  
 
-
 **OHB Digital Services (OHB- DS)**  
-
 
 **Ubicube**  
 
-
 [**EOX IT Services (EOX)**](https://eox.at)
 
-1. EOX offers **workspace resources** needed for instantiations of the EPeLBO Capability itself and for downstream Advanced Applications and Services (AAS) building upon the EPeLBO Capability. Such resources include:  
+1. EOX offers **workspace resources** needed for instantiations of the UEPM Capability itself and for downstream Advanced Applications and Services (AAS) building upon the EPeLBO Capability. Such resources include:  
 * Streamlined data discovery and access: the workspace includes a centralized repository for accessing the necessary range of remote sensing and geospatial datasets, simplifying the discovery process and ensuring that relevant data can be quickly located.  
 * Pre-defined workflows and routines: the HUB platform offers pre-configured algorithms, validated scripts, and automated workflows that reduce setup time and facilitate faster data processing, appealing to users needing efficiency in routine data tasks.  
 * Cloud-based computational resources allow users to handle large datasets without investing in their own hardware, making it accessible for users with limited computational resources.
@@ -141,7 +138,7 @@ The following entities are, or may be, involved in the provision of the EPeBLO C
 
 ### Disclaimer
 
-The EPeLBO Capability is a large-scale screening tool that analyses satellite data to provide insights into the energy performance of buildings. As the assessment is based on satellite imagery, factors such as cloud coverage may influence the accuracy, and the spatial resolution is more suitable for evaluating groups of buildings rather than individual structures. Since the analysis is conducted from an aerial perspective, it does not account for thermal insulation on building sides or other obscured areas. The frequency of data updates depends on the availability of new satellite imagery. This service is designed as an initial assessment to highlight areas where thermal insulation improvements may be relevant. While satellite data offers a broad overview, incorporating ground data can enhance accuracy and detail.
+The UEPM Capability is a large-scale screening tool that analyses satellite data to provide insights into the energy performance of buildings. As the assessment is based on satellite imagery, factors such as cloud coverage may influence the accuracy, and the spatial resolution is more suitable for evaluating groups of buildings rather than individual structures. Since the analysis is conducted from an aerial perspective, it does not account for thermal insulation on building sides or other obscured areas. The frequency of data updates depends on the availability of new satellite imagery. This service is designed as an initial assessment to highlight areas where thermal insulation improvements may be relevant. While satellite data offers a broad overview, incorporating ground data can enhance accuracy and detail.
 
 ## Subscriptions
 
@@ -163,5 +160,5 @@ The following section can be activated once the EPeBLO Capability is registered 
 
 ### Network of Resources (NoR)
 
-The European Space Agency (ESA) offers sponsorship to eligible entities to **cover the costs of trying out the services provided by the BRP Capability**. Through ESA’s [Network of Resources (NoR)](https://nor-discover.org/) mechanism, a voucher will be provided for the selected BRP service plan, allowing free-at-point-of-use consumption for research, product development and up to pre-commercial demonstration. Vouchers must not be used to support any commercial revenue flows. 
+The European Space Agency (ESA) offers sponsorship to eligible entities to **cover the costs of trying out the services provided by the UEPM Capability**. Through ESA’s [Network of Resources (NoR)](https://nor-discover.org/) mechanism, a voucher will be provided for the selected BRP service plan, allowing free-at-point-of-use consumption for research, product development and up to pre-commercial demonstration. Vouchers must not be used to support any commercial revenue flows. 
 
