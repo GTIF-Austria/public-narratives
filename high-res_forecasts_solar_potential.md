@@ -32,22 +32,35 @@ The solar potential forecasts are based on GeoSphere Austria's radiation model *
 
 Meteorological input data, including integrated water vapor content, air pressure, and cloud cover, are sourced from the AROME/INCA forecast system (Termonia et al., 2018; Haiden et al., 2011).
 
-![infodienst_solar_step1](https://github.com/user-attachments/assets/d85df220-58a1-400d-9faa-bbcb1cd1e664)
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <figure style="text-align: center; width: 45%;">
+    <img alt="global solar radiation timestep 1" src="https://github.com/user-attachments/assets/d85df220-58a1-400d-9faa-bbcb1cd1e664" style="width: 100%;">
+    <figcaption>Fig 1: Example output of global solar radiation from <em>STRAHLGRID</em>. 1300 UTC of an arbitrary day.</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 45%;">
+    <img alt="global solar radiation timestep 2" src="https://github.com/user-attachments/assets/04db3bc8-5907-4b3c-8cfd-250d26366a81" style="width: 100%;">
+    <figcaption>Fig 2: Example output of global solar radiation from <em>STRAHLGRID</em>. 1400 UTC of an arbitrary day.</figcaption>
+  </figure>
+</div>
 
-_Fig 1: Example output of global solar radiation from *STRAHLGRID*. 1300 UTC of an arbitrary day._
-
-![infodienst_solar_step2](https://github.com/user-attachments/assets/04db3bc8-5907-4b3c-8cfd-250d26366a81)
-_Fig 2: Example output of global solar radiation from *STRAHLGRID*. 1400 UTC of an arbitrary day._ 
 
 The output of STRAHLGRID is then converted into solar power generation potential using the methodology described by *Jerez et al.* (2015). The resulting potential can be scaled to specific PV systems by multiplying it with the nominal installed capacity.
 
-![infodienst_solar_potential_step1](https://github.com/user-attachments/assets/dcf92c00-ab12-46e0-b433-601469fb58d7)
-_Fig 3: Example output of solar potential. 1300 UTC of an arbitrary day._
 
-![infodienst_solar_potential_step2](https://github.com/user-attachments/assets/5e93041a-39d0-4d48-9469-5c1a86939032)
-_Fig 4: Example output of solar potential. 1400 UTC of an arbitrary day._
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <figure style="text-align: center; width: 45%;">
+    <img alt="solar potential timestep 1" src="https://github.com/user-attachments/assets/dcf92c00-ab12-46e0-b433-601469fb58d7" style="width: 100%;">
+    <figcaption>Fig 3: Example output of solar potential. 1300 UTC of an arbitrary day.</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 45%;">
+    <img alt="solar potential timestep 2" src="https://github.com/user-attachments/assets/5e93041a-39d0-4d48-9469-5c1a86939032" style="width: 100%;">
+    <figcaption>Fig 4: Example output of solar potential. 1400 UTC of an arbitrary day.</figcaption>
+  </figure>
+</div>
+
 
 ## Additional Features: Snow and Dust Cover Warnings
+
 In addition to solar potential forecasts, the system can optionally integrate GeoSphere Austria’s SNOWGRID model and WRF-Chem dust forecasts to provide warnings for snow or dust cover. These warnings are particularly useful for maintaining PV system performance under adverse environmental conditions.
 
 
