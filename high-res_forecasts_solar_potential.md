@@ -5,7 +5,7 @@ tags:  photovolatic, solar energy, forecast, remote sensing, STRAHLGRID
 
 ---
 
-# High-Resolution Forecasts Solar Potential Forecasts
+# High-Resolution Solar Potential Forecasts
 
 High quality solar radiation data is an essential resource for a wide range of applications, particularly in the context of energy and mobility transitions, sustainable energy planning and climate change adaption.
 These solar potential forecasts provide valuable insights for optimizing energy systems, advancing sustainable energy planning, improving grid stability, and supporting the integration of renewable energy sources.
