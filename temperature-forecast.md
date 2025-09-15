@@ -1,8 +1,12 @@
 ---
 cover-image:  https://github.com/user-attachments/assets/ba568616-1583-4f6b-a647-8b4c2a327bf0
+
+domain: Sustainable Cities
+tags: heat hotspots, remote sensing, risk, vulnerability
+
 --- 
 
-# High-resolution extreme temperature forecasts for cities <!--{ as="img" mode="hero" src="https://github.com/user-attachments/assets/9825e748-1c21-4cbe-8a3c-b2ea13e2a349" }-->
+# High-resolution Extreme Temperature Forecasts for Cities <!--{ as="img" mode="hero" src="https://github.com/user-attachments/assets/9825e748-1c21-4cbe-8a3c-b2ea13e2a349" }-->
 
 Rising temperatures and increasing heat stress pose significant challenges for city population and vegetation, particularly during summer and require urban planners to transform cities into resilient and climate-adapted living spaces. Cities, with built-up areas and extensive sealed surfaces, create heat hotspots, exacerbating thermal discomfort and health risks. Vulnerable groups - such as the elderly, children, and individuals with chronic health conditions - are especially affected, facing an increased risk of heat-related illnesses and mortality. At the same time, fluctuating temperatures drive dynamic energy demands. The growing need for cooling in summer and heating in winter places additional pressure on energy infrastructure, requiring more efficient supply management and forecasting, based on accurate temperature forecasts.
 

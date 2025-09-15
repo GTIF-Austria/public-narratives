@@ -1,5 +1,7 @@
 ---
 cover-image: https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede
+domain: Sustainable Cities
+tags: building footprint, remote sensing, change detection
 ---
 
 # Building Stock Update: Smart City Infrastructure Monitoring

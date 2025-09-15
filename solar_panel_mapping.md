@@ -1,5 +1,9 @@
 ---
 cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/nvision-solar-panels-cover.webp
+
+domain: Energy Transition
+tags: photovoltaic, remote sensing, computer vision
+
 ---
 
 # Solar Panel Mapping

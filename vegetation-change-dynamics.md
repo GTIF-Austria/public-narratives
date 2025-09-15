@@ -1,5 +1,9 @@
 ---
-cover-image: https://picsum.photos/id/53/800/600
+cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/multi-temporal-vegetation-analysis-1749908113862.png
+
+domain: Carbon Accounting
+tags: remote sensing, semantic data cube
+
 ---
 
 <img  style="display: block; 

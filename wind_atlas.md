@@ -1,3 +1,11 @@
+---
+cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Windatlas-1749907861729.png
+
+domain: Energy Transition
+tags: wind potential
+
+---
+
 # Austrian Wind Atlas
 ## Motivation
 Wind energy is an essential and indispensable part of the expansion of renewable energies in Austria, in particular as it complements energy production from photovoltaics and hydropower during the night and in the winter months.

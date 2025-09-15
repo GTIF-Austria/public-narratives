@@ -1,5 +1,9 @@
 ---
 cover-image: https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554563509.png
+
+domain: Sustainable Cities
+tags:  urban climate, remote sensing, exposition, vulnerability
+
 ---
 
 # Heat Risk Maps
@@ -17,15 +21,24 @@ In Wien steigt die Anzahl an Hitzetagen und Tropennächten kontinuierlich an.
 *Quelle: Klimastatusbericht Österreich 2023, Klimarückblick Wien, Hrsg. CCCA 2024.*
 
 ###
+Im Jahr **2024** gab es an der **Station Hohe Warte in Wien**
+* doppelt so viele Sommertage,
+* mehr als vier mal so viele Hitzetage, und
+* mehr als zehn mal so viele Tropennächte
+
+als im Referenzzeitraum 1961 - 1990.
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/46bd082b05871481e50abb046467285554293b3a/assets/KlimadashboardatHoheWarte2024-1747648429811.PNG" style="width: 100%; height: 100%;" data-fallback-src="https://raw.githubusercontent.com/schneidermartin/public-narratives/schneidermartin/feedback-implementation/assets/schneidermartin/KlimadashboardatHoheWarte2024-1747648429811.PNG" />
+
+*Quelle: www.klimadashboard.at*
+
+###
 Die **hohe Bevölkerungsdichte** und der **urbane Wärmeinseleffekt** zwingen Städte dazu, sich anzupassen und Maßnahmen zu ergreifen, um die zunehmende Bedrohung zu bekämpfen. 
+Insbesondere **vulnerable Gruppen** leiden unter anhaltend hohen Temperaturen und Hitzestress - mit ernstzunehmenden Konsequenzen auf die Gesundheit.
 
 **Doch Anpassungsmaßnahmen sind oft nur lokal wirksam, und die Mittel sind begrenzt**.
 
 ### 
-Insbesondere **vulnerable Gruppen** leiden unter anhaltend hohen Temperaturen und Hitzestress - mit ernstzunehmenden Konsequenzen auf die Gesundheit.
-
-### 
-Unter einer Vielzahl an **drängenden Fragestellungen**, sind auch diese zu finden:
+Das wirft eine Vielzahl an **drängenden Fragestellungen** auf, u.a.
 - Wo sind Maßnahmen zur Reduktion der Hitzebelastung nötig?
 - Welche Personengruppen sollen durch gezielte Maßnahmen besser geschützt/unterstützt werden?
 - Wo herrscht der dringendste Handlungsbedarf?
@@ -43,7 +56,7 @@ In den letzten Jahren wurden **verschiedene Untersuchungen zur Analyse des Stadt
 *Quelle: Darstellung von orf.at auf Basis der Daten von Stadt Wien (energie.wien.gv.at), ECOTEN, OpenStreetMap*
 
 
-### Wo gibt es Verbesserungsbedarf?
+### Wo gibt es Verbesserungsbedarf in der Bereitstellung verwendbarer Daten und Informationen?
 
 ### 1. Flexibilität & Aktualität
 #### Hitze ≠ Hitzerisiko
@@ -57,11 +70,8 @@ Durch die **Verwendung unterschiedlicher Eingangsdaten, Berechnungsmethoden oder
 ### 3. Übertragbarkeit
 Detaillierte Untersuchungen erfordern meist **maßgeschneiderte Lösungen für einzelne Städte**. Bisher besteht noch keine einheitliche Berechnungsmethodik des Hitzerisikos, um dieses für viele Städte und Regionen zur Verfügung zu stellen. 
 
-### 
-**Flexible, konsistente und übertragbare Hitzerisikokarten** sind nicht nur eine Hilfestellung für **Städte und Gemeinden**, sondern auch für **Unternehmen und Organisationen**, die künftige Hitzerisiken abschätzen müssen.
-
-
 ## Lösungsweg "Heat Risk Maps"
+**Flexible, konsistente und übertragbare Hitzerisikokarten** sind nicht nur eine Hilfestellung für **Städte und Gemeinden**, sondern auch für **Unternehmen und Organisationen**, die künftige Hitzerisiken abschätzen müssen.
 
 Entsprechend des Risikokonzepts des IPCC (6.Sachstandsbericht (AR6) der Arbeitsgruppe 2) setzt sich ein **Risiko aus Gefahr, Exposition und Vulnerabilität** zusammen.
 
@@ -73,8 +83,7 @@ Dafür müssen verschiedene Daten aus unterschiedlichen Disziplinen umfassend zu
 
 Der entwickelte Hitzerisiko-Algorithmus kombiniert **aktuelle Satelliteninformationen**, wie Gebäudestruktur, Bodenversiegelungsgrad oder Baumbestand, mit **Bevölkerungsstatistiken** sowie hochauflösenden, auf Österreich zugeschnittenen **Klimadaten**. 
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d5b9ad0d69524f62e0647147174007da4c56111c/assets/Datasourcessketch-1742553530237.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/Datasourcessketch-1742553530237.png" />
-
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f670fdd9c7b0dc24e6be13c01ac46e97d6480ccd/assets/Datasourcessketch2-1747647762985.png" data-fallback-src="https://raw.githubusercontent.com/schneidermartin/public-narratives/schneidermartin/feedback-implementation/assets/schneidermartin/Datasourcessketch2-1747647762985.png" />
 
 Die Methodik erlaubt es, die Hitzerisikokarten wiederholt zu berechnen, wenn neue oder aktualisierte Datensätze verfügbar sind, und macht so die **Auswirkungen von Anpassungsmaßnahmen und Stadtentwicklung sichtbar**.
 
@@ -129,10 +138,15 @@ Quelle: OHB SE (https://www.ohb.de/)
 
 Quelle: OHB SE (https://www.ohb.de/)
 
-# Offene Fragen 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/214fb85ff18ec9bcf27740f14a7e955aaa138ed0/assets/ExampleViennaRiskbuildings-1742554563509.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554563509.png" />
+# Kontakt
+**Jan Peters-Anders**<br>
+Research Engineer<br>
+Digital Resilient Cities<br>
+Center for Energy
 
-- Werden aktuell Hitzerisikokarten verwendet, und wenn ja, von wem und wofür genau?
-- Für welche Gruppen/Infrastruktur/... soll ein Hitzerisiko berechenbar sein?
-- Auf welcher räumlichen Genauigkeit sollen Hitzerisikokarten zur Verfügung stehen? (Datenverfügbarkeit zu Gebäude/Sanierungsstandard, o.ä.)
-- Wofür könnten Hitzerisikokarten zukünftig verwendet werden?
+**AIT Austrian Institute of Technology GmbH**<br>
+Giefinggasse 6 | 1210 Vienna | Austria<br>
+T +43 50550-4586 | M +43 664 8157995<br>
+jan.peters-anders@ait.ac.at | www.ait.ac.at
+
+
