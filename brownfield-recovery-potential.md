@@ -13,7 +13,7 @@ tags:  brownfield, remote sensing, soil sealing
 
 ## Problem & Needs
 
-The availability of land is a critical factor in the development of new commercial projects. However, municipalities and companies seeking to expand or relocate face increasing space constraints, particularly in metropolitan areas. To promote sustainability, the net resealing of commercial areas should be minimized, making the reactivation of underutilized sites—so-called brownfields—an essential strategy. These sites offer several advantages, as they are often already integrated into local supply networks, benefit from established infrastructure, and are easily accessible for employees.
+The availability of land is a critical factor in the development of new commercial projects. However, municipalities and companies seeking to expand or relocate face increase space constraints, particularly in metropolitan areas. To promote sustainability, the net resealing of commercial areas should be minimized, making the reactivation of underutilized sites—so-called brownfields—an essential strategy. These sites offer several advantages, as they are often already integrated into local supply networks, easily accessible for employees and benefit from established infrastructure.
 
 Despite their potential, a major challenge remains: the lack of centralized and comprehensive data on the location, availability, and potential contamination of brownfields. While some municipalities maintain detailed records, others rely on fragmented and inconsistent information, making the efficient redevelopment of these sites more complex. Without a systematic approach, the full potential of brownfield revitalization remains underutilized.
 
@@ -21,7 +21,7 @@ Addressing this gap aligns with Environmental, Social, and Governance (ESG) prin
 
 ## Solution Capability
 
-The Brownfield Recovery Potential (BRP) Capability is the service which provides the answers to the above questions related to brownfields as described in the following. The service may be tried out free of charge at pre-commercialization stage because of sponsorship provided by [ESA Network of Resources](#network-of-resources-\(nor\)).
+The Brownfield Recovery Potential (BRP) Capability is a service which provides the answers to the questions above related to brownfields as described in the following paragraph. The service may be tried out free of charge at pre-commercialization stage because of a sponsorship provided by [ESA Network of Resources](#network-of-resources-\(nor\)).
 
 ### BRP Map
 
