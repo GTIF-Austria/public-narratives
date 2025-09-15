@@ -1,74 +1,102 @@
 ---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp
 domain: Energy Transition
-tags:  photovolatic, remote sensing, STRAHLGRID
+tags:  photovolatic, solar energy, forecast, remote sensing, STRAHLGRID
 
 ---
 
-# High-resolution Forecasts of Solar Potential
+# High-Resolution Solar Potential Forecasts
 
-High quality data on solar radiation is an essential input for a wide range of applications in the context of energy and mobility transitions, sustainable energy planning and climate change adaption.<br>
-These solar potential forecasts offer significant benefits for energy management and grid stability. Forecasted radiation data can enable predictive control of heat pumps and thermal storage systems, improve conditions for selling surplus energy and support better planning for electric vehicle charging. The 30-hour forecasts also contribute to grid stability by allowing for the regulation of PV peaks through other power plants or supplementary loads. In the long term, this information could also enhance transaction optimization at electricity markets.<br>
-Furthermore, warnings can be developed and integrated to notify when a covering layer (such as snow or dust) is likely to affect the PV performance.
+High quality solar radiation data is an essential resource for a wide range of applications, particularly in the context of energy and mobility transitions, sustainable energy planning and climate change adaption.
+These solar potential forecasts provide valuable insights for optimizing energy systems, advancing sustainable energy planning, improving grid stability, and supporting the integration of renewable energy sources.
+
+
+## Applications of Solar Potential Forecasts
+
+The availability of reliable solar radiation forecasts enables several key applications:
+
+- Energy System Optimization: Forecasted radiation data can be used for predictive control of heat pumps and thermal storage systems, improving energy efficiency.
+- Grid Stability: 30-hour forecasts allow for the regulation of photovoltaic peaks through the coordination of other power plants or supplementary loads, contributing to grid stability.
+- Electric Vehicle Charging: Improved planning of where and when to charge electric vehicles.
+- Market Transactions: Long-term forecasts can support transaction optimization in electricity markets.
+- PV Performance Monitoring: Warnings for covering layers (e.g. snow or dust) can be integrated to inform users when PV performance may be affected.
+
 
 ## Product description
 
-The starting point for calculating the solar potential is the GeoSphere Austria radiation model *STRAHLGRID*. *STRAHLGRID* calculates direct and diffuse radiation (and their sum, global radiation) on horizontal and real surfaces in the spectral range of 0.3 to 3 µm. The model accounts for atmospheric turbidity effects (e.g. water vapor and aerosols), cloud cover and horizon shading. The cloud parametrization is derived from the calibration of satellite cloud data with ground based radiation measurements. For the calculations, a high-quality digital elevation model is used to account for topographic effects, alongside meteorological input data (integrated water vapor content, air pressure and cloud cover) to adress atmospheric effects. For the meteorological input data, forecast data from AROME/INCA is used as initial data. 
+The solar potential forecasts are based on GeoSphere Austria's radiation model *STRAHLGRID*, which calculates direct, diffuse and global radiation on both horizontal and real surfaces. The model operates in the spectral range of 0.3 to 3 µm and incorporates the following factors:
 
-![infodienst_solar_step1](https://github.com/user-attachments/assets/d85df220-58a1-400d-9faa-bbcb1cd1e664)
+- Atmospheric turbidity effects, such as water vapor and aerosols.
+- Cloud cover: Cloud parametrization is derived from the calibration of satellite cloud data with ground-based radiation measurements.
+- Topographic effects: A high-resolution digital elevation model is used to account for horizon shading and terrain effects.
 
-_Fig 1: Example output of global solar radiation from *STRAHLGRID*. 1300 UTC of an arbitrary day._
+Meteorological input data, including integrated water vapor content, air pressure, and cloud cover, are sourced from the AROME/INCA forecast system (Termonia et al., 2018; Haiden et al., 2011).
 
-![infodienst_solar_step2](https://github.com/user-attachments/assets/04db3bc8-5907-4b3c-8cfd-250d26366a81)
-_Fig 2: Example output of global solar radiation from *STRAHLGRID*. 1400 UTC of an arbitrary day._ 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <figure style="text-align: center; width: 45%;">
+    <img alt="global solar radiation timestep 1" src="https://github.com/user-attachments/assets/d85df220-58a1-400d-9faa-bbcb1cd1e664" style="width: 100%;">
+    <figcaption>Fig 1: Example output of global solar radiation from <em>STRAHLGRID</em>. 1300 UTC of an arbitrary day.</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 45%;">
+    <img alt="global solar radiation timestep 2" src="https://github.com/user-attachments/assets/04db3bc8-5907-4b3c-8cfd-250d26366a81" style="width: 100%;">
+    <figcaption>Fig 2: Example output of global solar radiation from <em>STRAHLGRID</em>. 1400 UTC of an arbitrary day.</figcaption>
+  </figure>
+</div>
 
-The output of this radiation model is then going to be converted into solar power generation potential by the method of *Jerez et al (2015)*.  The output is the potential for the generated power. To obtain the power at the installed system, this value must be multiplied by the nominal installed watts.
 
-![infodienst_solar_potential_step1](https://github.com/user-attachments/assets/dcf92c00-ab12-46e0-b433-601469fb58d7)
-_Fig 3: Example output of solar potential. 1300 UTC of an arbitrary day._
+The output of STRAHLGRID is then converted into solar power generation potential using the methodology described by *Jerez et al.* (2015). The resulting potential can be scaled to specific PV systems by multiplying it with the nominal installed capacity.
 
-![infodienst_solar_potential_step2](https://github.com/user-attachments/assets/5e93041a-39d0-4d48-9469-5c1a86939032)
-_Fig 4: Example output of solar potential. 1400 UTC of an arbitrary day._
 
-And addiation feature of this product is, that not only the solar potential can be calculated, but also warnings on snow and dust covers can be provided. These warnings are genereted through the integration of GeoSphere Austria's operational snow model *SNOWGRID*, and dust forecasts from *WRF-Chem*.
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <figure style="text-align: center; width: 45%;">
+    <img alt="solar potential timestep 1" src="https://github.com/user-attachments/assets/dcf92c00-ab12-46e0-b433-601469fb58d7" style="width: 100%;">
+    <figcaption>Fig 3: Example output of solar potential. 1300 UTC of an arbitrary day.</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 45%;">
+    <img alt="solar potential timestep 2" src="https://github.com/user-attachments/assets/5e93041a-39d0-4d48-9469-5c1a86939032" style="width: 100%;">
+    <figcaption>Fig 4: Example output of solar potential. 1400 UTC of an arbitrary day.</figcaption>
+  </figure>
+</div>
 
-## Technical features
 
-|                       |               |
-| --------------------- | -------------: |
-| spatial resolution    | 100(0) m         |
+## Additional Features: Snow and Dust Cover Warnings
+
+In addition to solar potential forecasts, the system can optionally integrate GeoSphere Austria’s SNOWGRID model and WRF-Chem dust forecasts to provide warnings for snow or dust cover. These warnings are particularly useful for maintaining PV system performance under adverse environmental conditions.
+
+
+## Technical Specifications
+
+| Feature               | Specification |
+| --------------------- | ------------: |
+| spatial resolution    | 100(0) m      |
 | temporal resolution   | 1 hour        |
 | forecast range        | +30 hours     |
 | forecast time         | 00 UTC        |
 | snow cover            | yes/no        |
-| dust cover      | yes/no              |
+| dust cover            | yes/no        |
 
-The model chain for Austria is implemented as default. The model can be adapted to other regions with some additional effort. 
-
-# Offene Fragen...
-
-* Welche Vorhersagedauer ist relevant?
-* Wann wird die Information benötigt? (Immer zu speziellen Uhrzeiten oder zB verstärkt in der Früh?)
-* In welcher Form ist die Information von Intersse? (In der Fläche? Als Zeitreihen?)
-* Sind Vergleiche mit einer Klimatologie relevant? (zB Hab ich morgen mehr als im langjährigen Mittel?)
+The model chain is currently implemented for Austria but can be adapted to other regions with additional customization.
 
 
-# Organizational details and contact
+## Contact Information
 
 ![GSA_Basislogo_Positiv_RGB_XXS](https://github.com/user-attachments/assets/e4a90124-22af-4c13-b659-f91991b36d0d)
 
 **Contact**: [APOLIS-Team](mailto:apolis@geosphere.at)
 
+
 ## Available services
 
-* **Free Version** <br>
-Example forecasts for selected Austrian cities during project runtime. Long term strategy TBD.
-* **Commercial Service**<br>
-Service on demand. Please contact: Kundenservice GeoSphere Austria
+* **Free Version**: Example forecasts are available for selected Austrian cities during the project runtime. Long-term availability is under consideration.
+* **Commercial Service**: : Customized forecasts are available on demand. For more information, please contact GeoSphere Austria’s customer service.
 
-# References
 
-1. [Goebel et al, 2022 - Development of a very high resolution solar radiation cadaster for estimating solar energy potential across the entire federal state of Salzburg, Austria](https://doi.org/10.5194/ems2022-396)
-2. [Seitner et al, 2024 - STRAHLGRID: A solar radiation model with applications across different spatial scales](https://doi.org/10.5194/ems2024-366)
-3. [Jerez et al, 2015 - The impact of climate change on photovoltaic power generation in Europe](https://www.nature.com/articles/ncomms10014)
-4. Publication of model algorithm in progress. 
+## References
+
+1. Göbel et al (2022): Development of a very high resolution solar radiation cadaster for estimating solar energy potential across the entire federal state of Salzburg, Austria. <https://doi.org/10.5194/ems2022-396>.
+2. Seitner et al (2024): STRAHLGRID: A solar radiation model with applications across different spatial scales. <https://doi.org/10.5194/ems2024-366>.
+3. Jerez et al. (2015): The impact of climate change on photovoltaic power generation in Europe. *Nat Commun* 6, 10014. <https://doi.org/10.1038/ncomms10014>
+4. Termonia et al. (2018): The ALADIN System and its canonical model configurations AROME CY41T1 and ALARO CY40T1, *Geosci Model Dev*, 11, 257-281. <https://doi.org/10.5194/gmd-11-257-2018>.
+5. Haiden et al. 2011): The Integrated Nowcasting through Comprehensive Analysis (INCA) System and its Validation over the Eastern Alpine Region. *Wea Forecasting*, 26, 166-183. <https://doi.org/10.1175/2010WAF2222451.1>. 
+6. Olefs et al. (2020): Changes in Snow Depth, Snow Cover Duration, and Potential Snowmaking Conditions in Austria, 1961–2020—A Model Based Approach. *Atmosphere*, 11, 1330. <https://doi.org/10.3390/atmos11121330>.
+7. Publication of model algorithm in progress.
