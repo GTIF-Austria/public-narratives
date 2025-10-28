@@ -10,8 +10,8 @@ tags: heat hotspots, remote sensing, risk, vulnerability
 
 Rising temperatures and increasing heat stress pose significant challenges for city population and vegetation, particularly during summer and require urban planners to transform cities into resilient and climate-adapted living spaces. Cities, with built-up areas and extensive sealed surfaces, create heat hotspots, exacerbating thermal discomfort and health risks. Vulnerable groups - such as the elderly, children, and individuals with chronic health conditions - are especially affected, facing an increased risk of heat-related illnesses and mortality. At the same time, fluctuating temperatures drive dynamic energy demands. The growing need for cooling in summer and heating in winter places additional pressure on energy infrastructure, requiring more efficient supply management and forecasting, based on accurate temperature forecasts.
 
-## the challenge
-### forecast air temperature on a spatial scale that is representing urban features
+## The challenge
+### Forecast air temperature on a spatial scale that is representing urban features
 
 Accurate, high-resolution urban weather forecasts are essential for mitigating health risks, optimizing energy distribution, and enhancing overall urban resilience. Unfortunately, current weather forecast models, based on regional-scale meteorological data, lack the spatial resolution necessary to capture the fine-scale temperature variations caused by urban morphology. On a 3-dimensional grid, these models are computing values that are "representative" for each model grid box. What does that mean in practice?
 For downtown Vienna, the yellow lines represent the 2.5km model grid 
@@ -24,8 +24,8 @@ and this is the 2m air temperature [K] forecast for 16th of August 2022, 13UTC f
 based on GeoSphere Austria's current weather forecast model.  
   
 
-## our solution
-### tailor-made high-resolution temperature forecasts for your city
+## Our solution
+### Tailor-made high-resolution temperature forecasts for your city
 
 GeoSphere Austria provides the latest technology to forecast urban weather phenomena more detailed than typically available, with a fine spatial scale of 100 meters. Unlike standard weather models, this approach incorporates urban-specific data to deliver detailed forecasts at the district level. For the example of Vienna, this means that you will get that information for the center grid cell:
 ![t2m_25x25_innerestadt_2020081613_zuschnitt](https://github.com/user-attachments/assets/9caad778-f68a-4808-859b-c32c278beacf)
@@ -38,7 +38,7 @@ This advanced modelling approach can support a wide range of stakeholders, inclu
 
 By improving weather information at an urban scale, we empower cities to better adapt to weather and climate extremes.
 
-### workflow
+### Workflow
 
 By integrating precise satellite-based data, air temperature (and derived variables) can be calculated on a 100-meter grid to simulate and forecast their spatial and hourly variations providing a database for informed decision-making. The model integrates multiple high-resolution datasets to enhance forecast accuracy:  
 ›	**Satellite-based land cover data** (e.g., Sentinel-2) to map surface properties and urban structures.  
@@ -49,7 +49,7 @@ By integrating precise satellite-based data, air temperature (and derived variab
 
 
 
-### technical features 
+### Technical features 
 
 |                       |               |
 | --------------------- | ------------- |
@@ -60,7 +60,7 @@ By integrating precise satellite-based data, air temperature (and derived variab
 
 The model domain is either based on data created by us or based on your data that you can provide from your city.
 
-## use case
+## Use case
 
 ›	Heat-health related high-resolution temperature forecasting    
 o	Identification of heat hotspots at a neighbourhood level to detect areas affecting vulnerable groups.  
