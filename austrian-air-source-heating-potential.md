@@ -28,4 +28,11 @@ To determine the Annual Performance Factor (JAZ), the heat demand, as outlined b
 
 ## Section B
 Text content
+
+| Building Type / Standard       | Space Heating + Hot Water [kWh/a] | Heat Pump Rated Power [kW] | Full Load Hours [h/a] |
+|--------------------------------|------------------------------------|-----------------------------|-------------------------|
+| Old Building (unsanated)       | 20,000 – 25,000                    | 10 – 14                     | 1,800 – 2,200           |
+| New Building (well insulated)  | 8,000 – 12,000                     | 6 – 8                       | 1,300 – 1,600           |
+| Low energy / Passive House     | 4,000 – 6,000                      | 3 – 5                       | 1,000 – 1,500           |
+
         
