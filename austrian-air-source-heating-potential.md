@@ -26,7 +26,7 @@ The technical viability of utilizing air heat is predominantly influenced by the
 
 To determine the Annual Performance Factor (JAZ), the heat demand, as outlined by the Austrian Heat Map, is partitioned into a constant hot water demand (WWB) and a heating degree-day weighted space heating demand (HWB). This division is based on the distribution of building ages and their respective renovation statuses (see Figure 1).
 
-#####Figure 1: Annual Performance Factors of Air-to-Water Heat Pumps Using Graz as an Example, Depending on Supply Temperatures and Space/Hot Water Shares
+##### Figure 1: Annual Performance Factors of Air-to-Water Heat Pumps Using Graz as an Example, Depending on Supply Temperatures and Space/Hot Water Shares
 
 | Building Type / Standard       | Space Heating + Hot Water [kWh/a] | Heat Pump Rated Power [kW] | Full Load Hours [h/a] |
 |--------------------------------|------------------------------------|-----------------------------|-------------------------|
