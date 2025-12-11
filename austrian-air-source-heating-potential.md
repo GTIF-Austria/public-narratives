@@ -52,3 +52,42 @@ The results thus offer a realistic representation of the technically and practic
 ### National-Level
 
 #####  Figure 2: History and Temporal Development of Achievable Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
+
+##### Figure 3: Identified Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
+
+##### Figure 4: Identified Potentials for Air Heat at the National Level (Reference: Capacity; TRANSITION)
+
+##### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
+
+### Regional-Level
+##### Table 2: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Ambient Heat (supplied to the heat pump) by Federal States.
+
+##### Table 3: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Installed Heating Capacity by Federal States.
+
+##### Table 4: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of the Number of Installed Units by Federal States (in 1,000 Units).
+
+##### Figure 6: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2030 (low) – 7.4 TWhth
+
+##### Figure 7: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2030 (high) – 10.0 TWhth
+
+##### Figure 8: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2040 (low) – 13.1 TWhth
+
+##### Figure 9: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2040 (high) – 20.4 TWhth
+
+**Impact of Climate Change and Comparison**
+
+The increasing air temperatures resulting from climate change influence the efficiency of air heat pumps in two primary ways. First, the higher average outdoor air temperature improves the Carnot efficiency, leading to an increase in the Annual Performance Factor (JAZ). Second, the warming of the atmosphere reduces the demand for space heating, a factor that has already been accounted for in the underlying demand data.
+
+To quantify the temperature-related effects, air temperatures from the Secures-MET dataset under the climate change scenario RCP4.5 (moderate) for the years 2030 and 2050 were utilized. Overall, the temperature growth results in a rise in the potential for air heat, as illustrated in Figure 10. Specifically, the technical potential increases by approximately 3.4 TWh, or around 10%. Given that the heat demand—and consequently the amount of heat produced by the heat pump—is exogenously incorporated into the modelling and remains consistent across both scenarios, the electricity demand of the heat pumps decreases in the moderate climate change scenario.
+
+##### Figure 10: Identified Heat Potentials (ambient heat supplied to the heat pump) for Air Heat at the National Level and Comparison with the Impact of Climate Change RCP4.5 on Outdoor Temperature (Reference: Energy; TRANSITION)
+
+## Evaluation of Results
+
+Air heat currently represents the most widely deployed ambient heat technology in Austria. Its high availability, relatively low development costs, and potential for rapid scalability position it as a critical technology for the energy transition in heating.
+
+The potential analysis indicates that the utilization of air heat could realistically expand from 4.5 TWh in 2023 to approximately 20.4 TWh (ambient heat supplied to the heat pump) by 2040. Achieving this growth will require ambitious renovation rates, the decarbonization of individual heating systems, and the implementation of economic incentives to promote high-efficiency heat pumps. These factors are pivotal in driving the scaling of air heat technologies.
+
+
+
+
