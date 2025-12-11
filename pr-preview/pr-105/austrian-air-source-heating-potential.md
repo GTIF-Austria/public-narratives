@@ -28,10 +28,27 @@ To determine the Annual Performance Factor (JAZ), the heat demand, as outlined b
 
 ##### Figure 1: Annual Performance Factors of Air-to-Water Heat Pumps Using Graz as an Example, Depending on Supply Temperatures and Space/Hot Water Shares
 
+### Explanation of Performance Calculation:
+In the context of air heat pumps employed for combined space heating and hot water production in Austrian single-family homes (EFH), the following practical guidelines are typically applied:
+
+##### Table 1: Full load hours of an air heat pump for combined space heating and hot water production in a typical Austrian single-family home (EFH)
+
 | Building Type / Standard       | Space Heating + Hot Water [kWh/a] | Heat Pump Rated Power [kW] | Full Load Hours [h/a] |
 |--------------------------------|------------------------------------|-----------------------------|-------------------------|
 | Old Building (unsanated)       | 20,000 – 25,000                    | 10 – 14                     | 1,800 – 2,200           |
 | New Building (well insulated)  | 8,000 – 12,000                     | 6 – 8                       | 1,300 – 1,600           |
 | Low energy / Passive House     | 4,000 – 6,000                      | 3 – 5                       | 1,000 – 1,500           |
 
-        
+The Annual Performance Factor (JAZ) is modelled under varying conditions, including building characteristics and fluctuations in ambient air temperature, with a spatial resolution of 100m x 100m. Given that the heat demand data does not differentiate between distinct building types, a global estimate of 1,500 hours per year is applied uniformly across all buildings, as specified in Table 1
+
+## Results
+
+The following evaluations of the potential for air heat are based on the Transition Heat Demand Scenario, as outlined in the Austrian Heat Map. As previously noted, this scenario applies to technologies predominantly utilized in decentralized settings. It presents an ambitious pathway toward decarbonizing the heating sector, particularly through a substantial reduction in space heating demand, achieved via extensive thermal renovation measures and the modernization of the building stock.
+
+The concomitant reduction in heat demand densities directly influences the expansion of potential district heating areas. Consequently, the focus of future heat supply increasingly shifts toward decentralized applications, where air-to-water heat pumps are expected to play a central role—especially in the single-family home sector and among existing buildings with reduced supply temperatures.
+
+The results thus offer a realistic representation of the technically and practically viable air heat potentials, considering stricter efficiency standards and the broader context of an ambitious national heating transition. In this context, heat potential is defined as the thermal energy supplied to the heat pump from the surrounding environment.
+
+### National-Level
+
+#####  Figure 2: History and Temporal Development of Achievable Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
