@@ -96,5 +96,5 @@ Cooling degree days are shown for a region around Vienna on 27th of June 2019. C
 
 ![GSA_Basislogo_Positiv_RGB_XXS](https://github.com/user-attachments/assets/e4a90124-22af-4c13-b659-f91991b36d0d)
 
-Contact points: [Brigitta Hollosi](mailto:brigitta.hollosi@geosphere.at), [Stefan Schneider](mailto:stefan.schneider@geosphere.at)
+Contact points: [David Neubauer](mailto:david.neubauer@geosphere.at), [Stefan Schneider](mailto:stefan.schneider@geosphere.at)
 
