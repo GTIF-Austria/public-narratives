@@ -11,7 +11,9 @@ According to the market survey 17/2024, by the end of 2023, a total of 491,361 h
 ## Methodological Concept
 
 ### Definition and Delimitation
-In this study, the potential for air heat is defined as the utilization of ambient air as an energy source for air-to-water heat pumps, primarily to meet space heating and hot water demands in buildings, as well as for integration into district heating networks. This technology field encompasses not only air-to-water heat pumps but also includes hot water heat pumps, air-to-air heat pumps, and ventilation systems with heat recovery in decentralized applications.
+In this study, the potential for air heat is
+
+defined as the utilization of ambient air as an energy source for air-to-water heat pumps, primarily to meet space heating and hot water demands in buildings, as well as for integration into district heating networks. This technology field encompasses not only air-to-water heat pumps but also includes hot water heat pumps, air-to-air heat pumps, and ventilation systems with heat recovery in decentralized applications.
 
 ### Theoretical Potential:
 The thermal energy stored in ambient air is, under standard conditions, physically unlimited. Due to its theoretical nature of being inexhaustible and its limited relevance for estimating potential, no explicit quantification was conducted in this study.
