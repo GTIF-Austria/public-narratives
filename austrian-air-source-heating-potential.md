@@ -48,6 +48,19 @@ The associated decline in heat demand density has a direct impact on the spatial
 
 The results thus provide a realistic depiction of the technically and practically achievable ambient air heat potentials under tightened efficiency requirements and within the context of an ambitious national heat-transition strategy. In this context, heat potential refers to the amount of thermal energy that is extracted from the ambient air and supplied to the heat pump.
 
+### National-Level
+
+#####  Figure 2: History and Temporal Development of Achievable Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
+
+##### Figure 3: Identified Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
+
+##### Figure 4: Identified Potentials for Air Heat at the National Level (Reference: Capacity; TRANSITION)
+
+##### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
+
+### Regional-Level
+
+##### Table 2: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Ambient Heat (supplied to the heat pump) by Federal States.
 <table>
   <thead>
     <tr>
@@ -102,21 +115,6 @@ The results thus provide a realistic depiction of the technically and practicall
 </tr>
   </tbody>
 </table>
-
-### National-Level
-
-#####  Figure 2: History and Temporal Development of Achievable Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
-
-##### Figure 3: Identified Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
-
-##### Figure 4: Identified Potentials for Air Heat at the National Level (Reference: Capacity; TRANSITION)
-
-##### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
-
-### Regional-Level
-
-
-##### Table 2: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Ambient Heat (supplied to the heat pump) by Federal States.
 
 ##### Table 3: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Installed Heating Capacity by Federal States.
 
