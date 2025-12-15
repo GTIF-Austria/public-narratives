@@ -60,31 +60,6 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ### Regional-Level
 
-
-<table>
-  <thead>
-    <tr>
-      <th rowspan="2">Region</th>
-      <th>2023</th>
-      <th colspan="3">Annual Energy Output [GWh] – 2030</th>
-      <th colspan="3">Annual Energy Output [GWh] – 2040</th>
-      <th rowspan="2">2050+<br>Techn. Potential</th>
-    </tr>
-    <tr>
-      <th>Current</th>
-      <th>Low</th>
-      <th>Medium</th>
-      <th>High</th>
-      <th>Low</th>
-      <th>Medium</th>
-      <th>High</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- data rows -->
-  </tbody>
-</table>
-
 <table style="background-color:white; border-collapse:collapse; width:100%;">
   <thead>
     <tr style="background-color:white;">
