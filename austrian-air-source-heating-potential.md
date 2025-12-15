@@ -60,8 +60,27 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ### Regional-Level
 
-          2023 |  Annual Energy Output – 2030  |  Annual Energy Output – 2040  | 2050+
-                Current | Low | Medium | High | Low | Medium | High | Techn. Potential
+<table style="background-color:white; border-collapse:collapse;">
+  <thead>
+    <tr style="background-color:white;">
+      <th rowspan="2">Region</th>
+      <th colspan="1">2023</th>
+      <th colspan="3">Annual Energy Output [GWh] – 2030</th>
+      <th colspan="3">Annual Energy Output [GWh] – 2040</th>
+      <th rowspan="2">2050+<br>Techn. Potential</th>
+    </tr>
+    <tr style="background-color:white;">
+      <th>Current</th>
+      <th>Low</th>
+      <th>Medium</th>
+      <th>High</th>
+      <th>Low</th>
+      <th>Medium</th>
+      <th>High</th>
+    </tr>
+  </thead>
+
+
 
 
 | Region | 2023 Current | 2030 <br> Low | 2030 Medium | 2030 High | 2040 Low | 2040 Medium | 2040 High | 2050+ Technical Potential |
