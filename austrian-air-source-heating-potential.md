@@ -11,25 +11,24 @@ The thermal energy supplied by all heat pump systems amounted to approximately 9
 ## Methodological Concept
 
 ### Definition and Delimitation
-In this study, the potential for air heat is
+In this study, ambient air heat potential refers to the use of outdoor air as an energy source for air-to-water heat pumps, particularly for meeting space heating and domestic hot water demand in buildings, as well as for feeding heat into district heating networks. Domestic hot water heat pumps, air-to-air heat pumps, and residential ventilation systems with heat recovery are also considered part of this technology field in decentralized applications.
 
-defined as the utilization of ambient air as an energy source for air-to-water heat pumps, primarily to meet space heating and hot water demands in buildings, as well as for integration into district heating networks. This technology field encompasses not only air-to-water heat pumps but also includes hot water heat pumps, air-to-air heat pumps, and ventilation systems with heat recovery in decentralized applications.
+### Theoretical Potential
+The thermal energy stored in ambient air is—under normal conditions—physically available without limitation. Due to this theoretical boundlessness and its limited relevance for potential assessment, no explicit quantification of the theoretical potential was conducted.
 
-### Theoretical Potential:
-The thermal energy stored in ambient air is, under standard conditions, physically unlimited. Due to its theoretical nature of being inexhaustible and its limited relevance for estimating potential, no explicit quantification was conducted in this study.
+### Technical Potential
+The technical usability of ambient air heat is determined primarily by the efficiency of the heat pump, which is influenced by the following key parameters:
 
-### Technical Potential:
-The technical viability of utilizing air heat is predominantly influenced by the efficiency of the heat pump, which is primarily governed by the following factors:
+* Heat source: average monthly outdoor air temperature at the respective location
+* Heat sink: required supply temperature in the heating and domestic hot water system, depending on the building’s construction period and renovation status
 
-* Heat Source: The average monthly ambient air temperature at the specific location.
-* Heat Sink: The required supply temperature for the heating or hot water system, which is determined by the building's construction period and its renovation status.
+For determining the seasonal performance factor (SPF/JAZ), the heating demand according to the Austrian Heat Map is divided—based on the distribution of building age classes and renovation levels—into a constant domestic hot water demand (DHW) and a heating degree-day–weighted space heating demand (SHD) (see Figure 1).
 
-To determine the Annual Performance Factor (JAZ), the heat demand, as outlined by the Austrian Heat Map, is partitioned into a constant hot water demand (WWB) and a heating degree-day weighted space heating demand (HWB). This division is based on the distribution of building ages and their respective renovation statuses (see Figure 1).
 
 ##### Figure 1: Annual Performance Factors of Air-to-Water Heat Pumps Using Graz as an Example, Depending on Supply Temperatures and Space/Hot Water Shares
 
 ### Explanation of Performance Calculation:
-In the context of air heat pumps employed for combined space heating and hot water production in Austrian single-family homes (EFH), the following practical guidelines are typically applied:
+For air-source heat pumps used for combined space heating and domestic hot water production in Austrian single-family homes (SFH), the following practical benchmark values apply:
 
 ##### Table 1: Full load hours of an air heat pump for combined space heating and hot water production in a typical Austrian single-family home (EFH)
 
@@ -39,15 +38,15 @@ In the context of air heat pumps employed for combined space heating and hot wat
 | New Building (well insulated)  | 8,000 – 12,000                     | 6 – 8                       | 1,300 – 1,600           |
 | Low energy / Passive House     | 4,000 – 6,000                      | 3 – 5                       | 1,000 – 1,500           |
 
-The Annual Performance Factor (JAZ) is modelled under varying conditions, including building characteristics and fluctuations in ambient air temperature, with a spatial resolution of 100m x 100m. Given that the heat demand data does not differentiate between distinct building types, a global estimate of 1,500 hours per year is applied uniformly across all buildings, as specified in Table 1
+The seasonal performance factors are modelled at a spatial resolution of 100 m × 100 m under varying boundary conditions (building characteristics, evolution of outdoor air temperatures). Since the heat demand data do not allow differentiation by building type (e.g., single-family homes, office buildings), a uniform value of 1,500 full-load hours per year is assumed for all buildings, in accordance with Table 66. Potential changes in full-load hours resulting from technological or regulatory developments, as well as from the integration of thermal storage systems, are not considered in this analysis.
 
 ## Results
 
-The following evaluations of the potential for air heat are based on the Transition Heat Demand Scenario, as outlined in the Austrian Heat Map. As previously noted, this scenario applies to technologies predominantly utilized in decentralized settings. It presents an ambitious pathway toward decarbonizing the heating sector, particularly through a substantial reduction in space heating demand, achieved via extensive thermal renovation measures and the modernization of the building stock.
+The following analyses of ambient air heat potential are based on the Transition heat demand scenario of the Austrian Heat Map. As noted earlier, this scenario is used for technologies that are predominantly deployed in decentralized applications. It represents an ambitious decarbonization pathway for the heating sector and, in particular, assumes a substantial reduction in space heating demand due to comprehensive thermal refurbishment measures and modernization of the building stock.
 
-The concomitant reduction in heat demand densities directly influences the expansion of potential district heating areas. Consequently, the focus of future heat supply increasingly shifts toward decentralized applications, where air-to-water heat pumps are expected to play a central role—especially in the single-family home sector and among existing buildings with reduced supply temperatures.
+The associated decline in heat demand density has a direct impact on the spatial extent of prospective district heating areas. Consequently, the focus of future heat supply increasingly shifts toward decentralized solutions, in which air-to-water heat pumps can assume a central role—especially in single-family homes and in the existing building stock with reduced supply temperature requirements.
 
-The results thus offer a realistic representation of the technically and practically viable air heat potentials, considering stricter efficiency standards and the broader context of an ambitious national heating transition. In this context, heat potential is defined as the thermal energy supplied to the heat pump from the surrounding environment.
+The results thus provide a realistic depiction of the technically and practically achievable ambient air heat potentials under tightened efficiency requirements and within the context of an ambitious national heat-transition strategy. In this context, heat potential refers to the amount of thermal energy that is extracted from the ambient air and supplied to the heat pump.
 
 ### National-Level
 
@@ -74,19 +73,28 @@ The results thus offer a realistic representation of the technically and practic
 
 ##### Figure 9: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2040 (high) – 20.4 TWhth
 
-**Impact of Climate Change and Comparison**
+### Impact of Climate Change and Comparison
 
-The increasing air temperatures resulting from climate change influence the efficiency of air heat pumps in two primary ways. First, the higher average outdoor air temperature improves the Carnot efficiency, leading to an increase in the Annual Performance Factor (JAZ). Second, the warming of the atmosphere reduces the demand for space heating, a factor that has already been accounted for in the underlying demand data.
+Rising air temperatures as a result of climate change affect the efficiency of air-source heat pumps in two ways. First, higher average outdoor air temperatures improve the Carnot efficiency, thereby increasing the seasonal performance factor (SPF/JAZ). Second, atmospheric warming reduces the demand for space heating, a development that is already reflected in the underlying heat demand data.
 
-To quantify the temperature-related effects, air temperatures from the Secures-MET dataset under the climate change scenario RCP4.5 (moderate) for the years 2030 and 2050 were utilized. Overall, the temperature growth results in a rise in the potential for air heat, as illustrated in Figure 10. Specifically, the technical potential increases by approximately 3.4 TWh, or around 10%. Given that the heat demand—and consequently the amount of heat produced by the heat pump—is exogenously incorporated into the modelling and remains consistent across both scenarios, the electricity demand of the heat pumps decreases in the moderate climate change scenario.
+To estimate these temperature-related effects, the air temperature data from the Secures-MET dataset [67] were applied for the climate change scenario RCP4.5 (moderate) for the years 2030 and 2050. Overall, the increase in temperature results in a rise in the potential for ambient air heat, as illustrated in Figure 10. In particular, the technical potential increases by approximately 3.4 TWh, or about 10%. Since heat demand (and thus the amount of heat produced by the heat pump) is incorporated exogenously into the modelling and remains constant across the two scenarios, the electricity demand of heat pumps decreases in the moderate climate change scenario.
+
 
 ##### Figure 10: Identified Heat Potentials (ambient heat supplied to the heat pump) for Air Heat at the National Level and Comparison with the Impact of Climate Change RCP4.5 on Outdoor Temperature (Reference: Energy; TRANSITION)
 
-## Evaluation of Results
+### Evaluation of Results
 
-Air heat currently represents the most widely deployed ambient heat technology in Austria. Its high availability, relatively low development costs, and potential for rapid scalability position it as a critical technology for the energy transition in heating.
+Ambient air heat is currently the most widespread ambient heat technology in Austria. Its high availability, comparatively low development costs, and rapid scalability make it a key technology for the heat transition. 
 
-The potential analysis indicates that the utilization of air heat could realistically expand from 4.5 TWh in 2023 to approximately 20.4 TWh (ambient heat supplied to the heat pump) by 2040. Achieving this growth will require ambitious renovation rates, the decarbonization of individual heating systems, and the implementation of economic incentives to promote high-efficiency heat pumps. These factors are pivotal in driving the scaling of air heat technologies.
+The potential analysis shows that the use of ambient air heat could increase from the current level of approximately 4.5 TWh (2023) to around 20.4 TWh of supplied environmental heat by 2040 under realistic market trajectories. Key drivers of this expansion include ambitious renovation rates (in line with WEM 2023), the decarbonization of individual heating systems, and economic incentives for high-efficiency heat pumps. However, several additional factors must also be taken into account:
+
+* Electricity prices and the availability of renewable power: The economic viability and climate impact of air-source heat pumps depend strongly on the development of electricity prices and the share of renewables in the electricity mix. A high share of renewable electricity generation is essential to minimize indirect emissions.
+* Grid infrastructure and load management: The additional electricity demand resulting from large-scale heat pump deployment puts new requirements on power grids. Load management strategies, flexibility options, and, where necessary, storage solutions are needed to prevent grid congestion.
+* Competition for electricity: Electricity demand is increasing not only due to the heat transition but also in other sectors, such as the rapid uptake of electromobility. This may lead to supply constraints and rising electricity prices, potentially affecting the economic performance of air-source heat pumps.
+* Noise emissions in urban areas: Noise emissions represent a critical factor for public acceptance, particularly in densely populated areas where large potentials have been identified. Technical solutions—including low-noise fans and noise-mitigating structural measures—must therefore be considered.
+
+Ambient air heat remains a central technology for the decarbonization of the heating sector. Its continued expansion, however, requires a holistic assessment of electricity supply, grid capacities, and regulatory frameworks, as well as the consideration of acceptance-related factors such as noise emissions
+
 
 
 
