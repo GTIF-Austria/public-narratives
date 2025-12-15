@@ -48,6 +48,40 @@ The associated decline in heat demand density has a direct impact on the spatial
 
 The results thus provide a realistic depiction of the technically and practically achievable ambient air heat potentials under tightened efficiency requirements and within the context of an ambitious national heat-transition strategy. In this context, heat potential refers to the amount of thermal energy that is extracted from the ambient air and supplied to the heat pump.
 
+<table>
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>2023</th>
+      <th colspan="3">2030</th>
+      <th colspan="3">2040</th>
+      <th>2050+</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Current</th>
+      <th>Low</th>
+      <th>Medium</th>
+      <th>High</th>
+      <th>Low</th>
+      <th>Medium</th>
+      <th>High</th>
+      <th>Techn. Potential</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Burgenland</td><td>218</td><td>367</td><td>430</td><td>500</td><td>680</td><td>893</td><td>1.107</td><td>1.875</td>
+    </tr>
+    <tr>
+      <td>Carinthia (Kärnten)</td><td>314</td><td>522</td><td>608</td><td>702</td><td>934</td><td>1.195</td><td>1.442</td><td>2.139</td>
+    </tr>
+    <tr>
+      <td>Lower Austria (Niederösterreich)</td><td>1.173</td><td>1.938</td><td>2.251</td><td>2.591</td><td>3.419</td><td>4.363</td><td>5.297</td><td>8.695</td>
+    </tr>
+  </tbody>
+</table>
+
 ### National-Level
 
 #####  Figure 2: History and Temporal Development of Achievable Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
