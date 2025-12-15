@@ -32,11 +32,12 @@ For air-source heat pumps used for combined space heating and domestic hot water
 
 ##### Table 1: Full load hours of an air heat pump for combined space heating and hot water production in a typical Austrian single-family home (EFH)
 
-| Building Type / Standard       | Space Heating + Hot Water [kWh/a] | Heat Pump Rated Power [kW] | Full Load Hours [h/a] |
-|--------------------------------|------------------------------------|-----------------------------|-------------------------|
-| Old Building (unsanated)       | 20,000 – 25,000                    | 10 – 14                     | 1,800 – 2,200           |
-| New Building (well insulated)  | 8,000 – 12,000                     | 6 – 8                       | 1,300 – 1,600           |
-| Low energy / Passive House     | 4,000 – 6,000                      | 3 – 5                       | 1,000 – 1,500           |
+| Building Type / Standard            | Space Heating + Hot Water [kWh/a] | Heat Pump Rated Power [kW] | Full Load Hours [h/a] |
+|------------------------------------|----------------------------------|----------------------------|-----------------------|
+| Old Building (unsanated)            | 20,000 – 25,000                  | 10 – 14                    | 1,800 – 2,200         |
+| New Building (well insulated)      | 8,000 – 12,000                   | 6 – 8                      | 1,300 – 1,600         |
+| Low energy / Passive House          | 4,000 – 6,000                    | 3 – 5                      | 1,000 – 1,500         |
+
 
 The seasonal performance factors are modelled at a spatial resolution of 100 m × 100 m under varying boundary conditions (building characteristics, evolution of outdoor air temperatures). Since the heat demand data do not allow differentiation by building type (e.g., single-family homes, office buildings), a uniform value of 1,500 full-load hours per year is assumed for all buildings, in accordance with Table 66. Potential changes in full-load hours resulting from technological or regulatory developments, as well as from the integration of thermal storage systems, are not considered in this analysis.
 
