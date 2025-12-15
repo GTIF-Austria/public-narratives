@@ -60,9 +60,19 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ### Regional-Level
 
-| Region | 2023 | 2030 Low | 2030 Med | 2030 High | 2040 Low | 2040 Med | 2040 High | 2050+ |
-|-------|------|----------|----------|-----------|----------|----------|-----------|-------|
-| Burgenland | 218 | 367 | 430 | 500 | 680 | 893 | 1.107 | 1.875 |
+| Region | 2023 Current | 2030 Low | 2030 Medium | 2030 High | 2040 Low | 2040 Medium | 2040 High | 2050+ Technical Potential |
+|--------|--------------|----------|-------------|-----------|----------|-------------|-----------|---------------------------|
+| Burgenland | 218 | 367 | 430 | 500 | 680 | 893 | 1,107 | 1,875 |
+| Carinthia (Kärnten) | 314 | 522 | 608 | 702 | 934 | 1,195 | 1,442 | 2,139 |
+| Lower Austria (Niederösterreich) | 1,173 | 1,938 | 2,251 | 2,591 | 3,419 | 4,363 | 5,297 | 8,695 |
+| Upper Austria (Oberösterreich) | 1,214 | 1,946 | 2,228 | 2,525 | 3,149 | 3,804 | 4,368 | 5,556 |
+| Salzburg | 314 | 516 | 598 | 686 | 895 | 1,119 | 1,323 | 1,828 |
+| Styria (Steiermark) | 512 | 862 | 1,013 | 1,184 | 1,617 | 2,154 | 2,719 | 4,682 |
+| Tyrol (Tirol) | 334 | 558 | 652 | 757 | 1,012 | 1,317 | 1,624 | 2,584 |
+| Vorarlberg | 286 | 477 | 556 | 642 | 853 | 1,088 | 1,308 | 1,880 |
+| Vienna (Wien) | 150 | 261 | 313 | 374 | 554 | 831 | 1,220 | 5,296 |
+| **Total Austria (Österreich)** | **4,515** | **7,445** | **8,650** | **9,962** | **13,114** | **16,765** | **20,409** | **34,535** |
+
 
 
 ##### Table 2: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Ambient Heat (supplied to the heat pump) by Federal States.
