@@ -24,6 +24,7 @@ The technical usability of ambient air heat is determined primarily by the effic
 
 For determining the seasonal performance factor (SPF/JAZ), the heating demand according to the Austrian Heat Map is divided—based on the distribution of building age classes and renovation levels—into a constant domestic hot water demand (DHW) and a heating degree-day–weighted space heating demand (SHD) (see Figure 1).
 
+![xxx](https://aitonline.sharepoint.com/:i:/r/sites/KLIENErneuerbarenpotenzialstudie/Shared%20Documents/General/Arbeitspakete/AP4_Projektmanagement/Endbericht/Narratives/TF7.1%20Air%20Source/01%20Figures/Figure%201%20TF71%20Air.jpg?csf=1&web=1&e=PLNtRP)
 ##### Figure 1: Annual Performance Factors of Air-to-Water Heat Pumps Using Graz as an Example, Depending on Supply Temperatures and Space/Hot Water Shares
 
 ### Explanation of Performance Calculation:
