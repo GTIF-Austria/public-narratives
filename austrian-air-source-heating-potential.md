@@ -38,7 +38,6 @@ For air-source heat pumps used for combined space heating and domestic hot water
 | New Building (well insulated)      | 8,000 – 12,000                   | 6 – 8                      | 1,300 – 1,600         |
 | Low energy / Passive House          | 4,000 – 6,000                    | 3 – 5                      | 1,000 – 1,500         |
 
-
 The seasonal performance factors are modelled at a spatial resolution of 100 m × 100 m under varying boundary conditions (building characteristics, evolution of outdoor air temperatures). Since the heat demand data do not allow differentiation by building type (e.g., single-family homes, office buildings), a uniform value of 1,500 full-load hours per year is assumed for all buildings, in accordance with Table 66. Potential changes in full-load hours resulting from technological or regulatory developments, as well as from the integration of thermal storage systems, are not considered in this analysis.
 
 ## Results
@@ -60,6 +59,12 @@ The results thus provide a realistic depiction of the technically and practicall
 ##### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
 
 ### Regional-Level
+
+| Region | 2023 | 2030 Low | 2030 Med | 2030 High | 2040 Low | 2040 Med | 2040 High | 2050+ |
+|-------|------|----------|----------|-----------|----------|----------|-----------|-------|
+| Burgenland | 218 | 367 | 430 | 500 | 680 | 893 | 1.107 | 1.875 |
+
+
 ##### Table 2: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Ambient Heat (supplied to the heat pump) by Federal States.
 
 ##### Table 3: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Installed Heating Capacity by Federal States.
