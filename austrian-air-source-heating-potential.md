@@ -81,7 +81,19 @@ The results thus provide a realistic depiction of the technically and practicall
   </thead>
 
   <tbody>
-    <tr style="font-weight:bold;">
+<tr>
+      <td style="border:1px solid #000; padding:6px;">Burgenland</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">218</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">367</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">430</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">500</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">680</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">893</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.107</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.875</td>
+    </tr>
+		
+		<tr style="font-weight:bold;">
       <td style="border:1px solid #000; padding:6px;">Total Austria (Österreich)</td>
       <td style="border:1px solid #000; padding:6px; text-align:right;">4.515</td>
       <td style="border:1px solid #000; padding:6px; text-align:right;">7.445</td>
