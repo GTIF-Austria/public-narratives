@@ -60,25 +60,149 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ### Regional-Level
 
-<table style="background-color:white; border-collapse:collapse;">
+<table style="background-color:white; border-collapse:collapse; width:100%;">
   <thead>
     <tr style="background-color:white;">
-      <th rowspan="2">Region</th>
-      <th colspan="1">2023</th>
-      <th colspan="3">Annual Energy Output [GWh] – 2030</th>
-      <th colspan="3">Annual Energy Output [GWh] – 2040</th>
-      <th rowspan="2">2050+<br>Techn. Potential</th>
+      <th rowspan="2" style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Region</th>
+      <th colspan="1" style="background-color:white; border:1px solid #000; padding:6px;">2023</th>
+      <th colspan="3" style="background-color:white; border:1px solid #000; padding:6px;">Annual Energy Output [GWh] – 2030</th>
+      <th colspan="3" style="background-color:white; border:1px solid #000; padding:6px;">Annual Energy Output [GWh] – 2040</th>
+      <th rowspan="2" style="background-color:white; border:1px solid #000; padding:6px;">2050+<br>Techn. Potential</th>
     </tr>
     <tr style="background-color:white;">
-      <th>Current</th>
-      <th>Low</th>
-      <th>Medium</th>
-      <th>High</th>
-      <th>Low</th>
-      <th>Medium</th>
-      <th>High</th>
+      <th style="background-color:white; border:1px solid #000; padding:6px;">Current</th>
+      <th style="background-color:white; border:1px solid #000; padding:6px;">Low</th>
+      <th style="background-color:white; border:1px solid #000; padding:6px;">Medium</th>
+      <th style="background-color:white; border:1px solid #000; padding:6px;">High</th>
+      <th style="background-color:white; border:1px solid #000; padding:6px;">Low</th>
+      <th style="background-color:white; border:1px solid #000; padding:6px;">Medium</th>
+      <th style="background-color:white; border:1px solid #000; padding:6px;">High</th>
     </tr>
   </thead>
+
+  <tbody>
+    <tr style="background-color:white;">
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Burgenland</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">218</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">367</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">430</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">500</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">680</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">893</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.107</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.875</td>
+    </tr>
+
+    <tr style="background-color:white;">
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Carinthia (Kärnten)</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">314</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">522</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">608</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">702</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">934</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.195</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.442</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">2.139</td>
+    </tr>
+
+    <tr style="background-color:white;">
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Lower Austria (Niederösterreich)</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.173</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.938</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">2.251</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">2.591</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">3.419</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">4.363</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">5.297</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">8.695</td>
+    </tr>
+
+    <tr style="background-color:white;">
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Upper Austria (Oberösterreich)</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.214</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.946</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">2.228</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">2.525</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">3.149</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">3.804</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">4.368</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">5.556</td>
+    </tr>
+
+    <tr style="background-color:white;">
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Salzburg</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">314</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">516</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">598</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">686</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">895</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.119</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.323</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.828</td>
+    </tr>
+
+    <tr style="background-color:white;">
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Styria (Steiermark)</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">512</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">862</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.013</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.184</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.617</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">2.154</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">2.719</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">4.682</td>
+    </tr>
+
+    <tr style="background-color:white;">
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Tyrol (Tirol)</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">334</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">558</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">652</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">757</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.012</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.317</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.624</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">2.584</td>
+    </tr>
+
+    <tr style="background-color:white;">
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Vorarlberg</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">286</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">477</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">556</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">642</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">853</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.088</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.308</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.880</td>
+    </tr>
+
+    <tr style="background-color:white;">
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Vienna (Wien)</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">150</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">261</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">313</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">374</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">554</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">831</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">1.220</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">5.296</td>
+    </tr>
+
+    <tr style="background-color:white; font-weight:bold;">
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:left;">Total Austria (Österreich)</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">4.515</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">7.445</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">8.650</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">9.962</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">13.114</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">16.765</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">20.409</td>
+      <td style="background-color:white; border:1px solid #000; padding:6px; text-align:right;">34.535</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
