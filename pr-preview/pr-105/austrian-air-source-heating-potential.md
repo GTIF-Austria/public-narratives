@@ -118,6 +118,36 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ##### Table 3: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Installed Heating Capacity by Federal States.
 
+<table>
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>2023</th>
+      <th colspan="3">Installed Capacity [MW] – 2030</th>
+      <th colspan="3">Installed Capacity [MW]  – 2040</th>
+      <th>2050+</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Current</th>
+      <th>Low</th>
+      <th>Medium</th>
+      <th>High</th>
+      <th>Low</th>
+      <th>Medium</th>
+      <th>High</th>
+      <th>Techn. Potential</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+<tr style="font-weight:bold;">
+<td>Total Austria (Österreich)</td><td>4.515</td><td>7.445</td><td>8.650</td><td>9.962</td><td>13.114</td><td>16.765</td><td>20.409</td><td>34.535</td>
+</tr>
+  </tbody>
+</table>
+
+
 ##### Table 4: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of the Number of Installed Units by Federal States (in 1,000 Units).
 
 ##### Figure 6: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2030 (low) – 7.4 TWhth
