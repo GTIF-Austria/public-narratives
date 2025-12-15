@@ -176,6 +176,60 @@ The results thus provide a realistic depiction of the technically and practicall
 
 
 ##### Table 4: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of the Number of Installed Units by Federal States (in 1,000 Units).
+<table>
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>2023</th>
+      <th colspan="3">Number of Units [1,000 Units] – 2030</th>
+      <th colspan="3">Number of Units [1,000 Units] – 2040</th>
+      <th>2050+</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Current</th>
+      <th>Low</th>
+      <th>Medium</th>
+      <th>High</th>
+      <th>Low</th>
+      <th>Medium</th>
+      <th>High</th>
+      <th>Techn. Potential</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Burgenland</td><td>218</td><td>367</td><td>430</td><td>500</td><td>680</td><td>893</td><td>1.107</td><td>1.875</td>
+    </tr>
+    <tr>
+      <td>Carinthia (Kärnten)</td><td>314</td><td>522</td><td>608</td><td>702</td><td>934</td><td>1.195</td><td>1.442</td><td>2.139</td>
+    </tr>
+    <tr>
+      <td>Lower Austria (Niederösterreich)</td><td>1.173</td><td>1.938</td><td>2.251</td><td>2.591</td><td>3.419</td><td>4.363</td><td>5.297</td><td>8.695</td>
+    </tr>
+</tr>
+<td>Upper Austria (Oberösterreich)</td><td>1.214</td><td>1.946</td><td>2.228</td><td>2.525</td><td>3.149</td><td>3.804</td><td>4.368</td><td>5.556</td>
+</tr>
+<tr>
+<td>Salzburg</td><td>314</td><td>516</td><td>598</td><td>686</td><td>895</td><td>1.119</td><td>1.323</td><td>1.828</td>
+</tr>
+<tr>
+<td>Styria (Steiermark)</td><td>512</td><td>862</td><td>1.013</td><td>1.184</td><td>1.617</td><td>2.154</td><td>2.719</td><td>4.682</td>
+</tr>
+<tr>
+<td>Tyrol (Tirol)</td><td>334</td><td>558</td><td>652</td><td>757</td><td>1.012</td><td>1.317</td><td>1.624</td><td>2.584</td>
+</tr>
+<tr>
+<td>Vorarlberg</td><td>286</td><td>477</td><td>556</td><td>642</td><td>853</td><td>1.088</td><td>1.308</td><td>1.880</td>
+</tr>
+<tr>
+<td>Vienna (Wien)</td><td>150</td><td>261</td><td>313</td><td>374</td><td>554</td><td>831</td><td>1.220</td><td>5.296</td>
+</tr>
+<tr style="font-weight:bold;">
+<td>Total Austria (Österreich)</td><td>4.515</td><td>7.445</td><td>8.650</td><td>9.962</td><td>13.114</td><td>16.765</td><td>20.409</td><td>34.535</td>
+</tr>
+  </tbody>
+</table>
 
 ##### Figure 6: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2030 (low) – 7.4 TWhth
 
