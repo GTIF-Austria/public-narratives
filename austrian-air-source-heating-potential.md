@@ -42,31 +42,6 @@ The seasonal performance factors are modelled at a spatial resolution of 100 m �
 
 ## Results
 
-
-Some text before the table.
-
-<table style="background-color:white; border-collapse:collapse;">
-  <tr style="background-color:white;">
-    <th>Region</th>
-    <th>2023 Current</th>
-    <th>2030 Low</th>
-    <th>2030 Medium</th>
-    <th>2030 High</th>
-    <th>2040 Low</th>
-    <th>2040 Medium</th>
-    <th>2040 High</th>
-    <th>2050+ Technical Potential</th>
-  </tr>
-  <tr style="background-color:white;">
-    <td>Burgenland</td><td>218</td><td>367</td><td>430</td><td>500</td><td>680</td><td>893</td><td>1,107</td><td>1,875</td>
-  </tr>
-  <tr style="background-color:white;">
-    <td>Carinthia (Kärnten)</td><td>314</td><td>522</td><td>608</td><td>702</td><td>934</td><td>1,195</td><td>1,442</td><td>2,139</td>
-  </tr>
-</table>
-
-Some text after the table.
-
 The following analyses of ambient air heat potential are based on the Transition heat demand scenario of the Austrian Heat Map. As noted earlier, this scenario is used for technologies that are predominantly deployed in decentralized applications. It represents an ambitious decarbonization pathway for the heating sector and, in particular, assumes a substantial reduction in space heating demand due to comprehensive thermal refurbishment measures and modernization of the building stock.
 
 The associated decline in heat demand density has a direct impact on the spatial extent of prospective district heating areas. Consequently, the focus of future heat supply increasingly shifts toward decentralized solutions, in which air-to-water heat pumps can assume a central role—especially in single-family homes and in the existing building stock with reduced supply temperature requirements.
