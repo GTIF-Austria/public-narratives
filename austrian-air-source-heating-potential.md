@@ -53,8 +53,8 @@ The results thus provide a realistic depiction of the technically and practicall
     <tr>
       <th>Region</th>
       <th>2023</th>
-      <th colspan="3">2030</th>
-      <th colspan="3">2040</th>
+      <th colspan="3">Annual Energy Output [GWh] – 2030</th>
+      <th colspan="3">Annual Energy Output [GWh] – 2040</th>
       <th>2050+</th>
     </tr>
     <tr>
