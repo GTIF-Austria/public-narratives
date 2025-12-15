@@ -99,7 +99,6 @@ Some text before the table.
 Some text after the table.
 
 
-
 <table style="background-color:white; border-collapse:collapse; width:100%;">
   <thead>
     <tr style="background-color:white;">
@@ -121,7 +120,7 @@ Some text after the table.
   </thead>
 
   <tbody>
-<tr>
+    <tr>
       <td style="border:1px solid #000; padding:6px;">Burgenland</td>
       <td style="border:1px solid #000; padding:6px; text-align:right;">218</td>
       <td style="border:1px solid #000; padding:6px; text-align:right;">367</td>
@@ -132,8 +131,104 @@ Some text after the table.
       <td style="border:1px solid #000; padding:6px; text-align:right;">1.107</td>
       <td style="border:1px solid #000; padding:6px; text-align:right;">1.875</td>
     </tr>
-		
-		<tr style="font-weight:bold;">
+
+    <tr>
+      <td style="border:1px solid #000; padding:6px;">Carinthia (Kärnten)</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">314</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">522</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">608</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">702</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">934</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.195</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.442</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">2.139</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:6px;">Lower Austria (Niederösterreich)</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.173</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.938</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">2.251</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">2.591</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">3.419</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">4.363</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">5.297</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">8.695</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:6px;">Upper Austria (Oberösterreich)</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.214</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.946</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">2.228</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">2.525</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">3.149</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">3.804</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">4.368</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">5.556</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:6px;">Salzburg</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">314</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">516</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">598</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">686</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">895</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.119</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.323</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.828</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:6px;">Styria (Steiermark)</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">512</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">862</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.013</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.184</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.617</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">2.154</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">2.719</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">4.682</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:6px;">Tyrol (Tirol)</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">334</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">558</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">652</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">757</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.012</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.317</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.624</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">2.584</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:6px;">Vorarlberg</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">286</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">477</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">556</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">642</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">853</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.088</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.308</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.880</td>
+    </tr>
+
+    <tr>
+      <td style="border:1px solid #000; padding:6px;">Vienna (Wien)</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">150</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">261</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">313</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">374</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">554</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">831</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">1.220</td>
+      <td style="border:1px solid #000; padding:6px; text-align:right;">5.296</td>
+    </tr>
+
+    <tr style="font-weight:bold;">
       <td style="border:1px solid #000; padding:6px;">Total Austria (Österreich)</td>
       <td style="border:1px solid #000; padding:6px; text-align:right;">4.515</td>
       <td style="border:1px solid #000; padding:6px; text-align:right;">7.445</td>
