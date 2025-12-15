@@ -60,6 +60,46 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ### Regional-Level
 
+Some text before the table.
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Region</th>
+      <th>2023</th>
+      <th colspan="3">Annual Energy Output [GWh] – 2030</th>
+      <th colspan="3">Annual Energy Output [GWh] – 2040</th>
+      <th rowspan="2">2050+<br>Techn. Potential</th>
+    </tr>
+    <tr>
+      <th>Current</th>
+      <th>Low</th>
+      <th>Medium</th>
+      <th>High</th>
+      <th>Low</th>
+      <th>Medium</th>
+      <th>High</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Burgenland</td>
+      <td>218</td>
+      <td>367</td>
+      <td>430</td>
+      <td>500</td>
+      <td>680</td>
+      <td>893</td>
+      <td>1.107</td>
+      <td>1.875</td>
+    </tr>
+  </tbody>
+</table>
+
+Some text after the table.
+
+
+
 <table style="background-color:white; border-collapse:collapse; width:100%;">
   <thead>
     <tr style="background-color:white;">
