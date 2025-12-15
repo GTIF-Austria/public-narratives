@@ -44,12 +44,21 @@ For air-source heat pumps used for combined space heating and domestic hot water
     <tr>
       <th>Building Type / Standard </th>
       <th>Space Heating + Hot Water <br>[kWh/a]</th>
-      <th>Heat Pump Rated Power [kW]</th>
-      <th>Full Load Hours [h/a]</th>
+      <th>Heat Pump Rated Power <br>[kW]</th>
+      <th>Full Load Hours <br>[h/a]</th>
     </tr>
   </thead>
   <tbody>
-  
+  <tr>
+<td>Old Building (unsanated)</td><td>20,000 – 25,000</td><td>10 – 14</td><td>1,800 – 2,200</td>
+</tr>
+<tr>
+<td>New Building (well insulated)</td><td>8,000 – 12,000</td><td>6 – 8</td><td>1,300 – 1,600</td>
+</tr>
+<tr>
+<td>Low energy / Passive House</td><td>4,000 – 6,000</td><td>3 – 5</td><td>1,000 – 1,500</td>
+</tr>
+
   </tbody>
 </table>
 
