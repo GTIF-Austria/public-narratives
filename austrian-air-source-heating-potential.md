@@ -59,7 +59,7 @@ The results thus provide a realistic depiction of the technically and practicall
 ##### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
 
 ### Regional-Level
-
+| Region | 2023 Current  2030 Low | 2030 Medium | 2030 High | 2040 Low | 2040 Medium | 2040 High | 2050+ Technical Potential |
 | Region | 2023 Current | 2030 <br> Low | 2030 Medium | 2030 High | 2040 Low | 2040 Medium | 2040 High | 2050+ Technical Potential |
 |--------|--------------|----------|-------------|-----------|----------|-------------|-----------|---------------------------|
 | Burgenland | 218 | 367 | 430 | 500 | 680 | 893 | 1,107 | 1,875 |
