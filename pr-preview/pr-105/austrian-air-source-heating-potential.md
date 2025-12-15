@@ -60,7 +60,7 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ### Regional-Level
 
-| Region | 2023 Current | 2030 Low | 2030 Medium | 2030 High | 2040 Low | 2040 Medium | 2040 High | 2050+ Technical Potential |
+| Region | 2023 Current | 2030 <br> Low | 2030 Medium | 2030 High | 2040 Low | 2040 Medium | 2040 High | 2050+ Technical Potential |
 |--------|--------------|----------|-------------|-----------|----------|-------------|-----------|---------------------------|
 | Burgenland | 218 | 367 | 430 | 500 | 680 | 893 | 1,107 | 1,875 |
 | Carinthia (Kärnten) | 314 | 522 | 608 | 702 | 934 | 1,195 | 1,442 | 2,139 |
