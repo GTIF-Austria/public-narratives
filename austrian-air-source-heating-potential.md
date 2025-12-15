@@ -31,14 +31,6 @@ For determining the seasonal performance factor (SPF/JAZ), the heating demand ac
 For air-source heat pumps used for combined space heating and domestic hot water production in Austrian single-family homes (SFH), the following practical benchmark values apply:
 
 ##### Table 1: Full load hours of an air heat pump for combined space heating and hot water production in a typical Austrian single-family home (EFH)
-
-| Building Type / Standard            | Space Heating + Hot Water [kWh/a] | Heat Pump Rated Power [kW] | Full Load Hours [h/a] |
-|------------------------------------|----------------------------------|----------------------------|-----------------------|
-| Old Building (unsanated)            | 20,000 – 25,000                  | 10 – 14                    | 1,800 – 2,200         |
-| New Building (well insulated)      | 8,000 – 12,000                   | 6 – 8                      | 1,300 – 1,600         |
-| Low energy / Passive House          | 4,000 – 6,000                    | 3 – 5                      | 1,000 – 1,500         |
-
-
 <table>
   <thead>
     <tr>
