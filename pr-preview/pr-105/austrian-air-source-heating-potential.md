@@ -29,7 +29,7 @@ For determining the seasonal performance factor (SPF/JAZ), the heating demand ac
 
 ###### Figure 1: Annual Performance Factors of Air-to-Water Heat Pumps Using Graz as an Example, Depending on Supply Temperatures and Space/Hot Water Shares
 
-### Explanation of Performance Calculation:
+### Explanation of Performance Calculation
 For air-source heat pumps used for combined space heating and domestic hot water production in Austrian single-family homes (SFH), the following practical benchmark values apply:
 
 ###### Table 1: Full load hours of an air heat pump for combined space heating and hot water production in a typical Austrian single-family home (EFH)
