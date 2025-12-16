@@ -1,5 +1,5 @@
 # Austrian Air Source Heating Potential  
-+
+(+)
 
 ## Background 
 For the sub-technology field of ambient air heat, no nationwide harmonized dataset on the spatial distribution of potential has been available to date. Within the project Spatial Energy Planning for Heat Transition (FFG Project 868850), an initial methodological foundation was established; however, this was not transferred into an operational model. Building on this preliminary work, the present project developed, implemented, and applied a consistent methodological framework suitable for determining the potential across Austria.
