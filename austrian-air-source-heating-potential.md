@@ -1,9 +1,8 @@
 cover-image: <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/CoverImage-1765899971415.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a1757f13c3021ed26c65f1f858d3568f2ca49887/assets/CoverImage-1765899971415.png" style="display:block; margin:auto;width:100%; height: 100%;"}-->
 ---
-
 # Austrian Air Source Heating Potential  
 
-## Background 
+## Background
 <p style="text-align: justify;">
 For the sub-technology field of ambient air heat, no nationwide harmonized dataset on the spatial distribution of potential has been available to date. Within the project Spatial Energy Planning for Heat Transition (FFG Project 868850), an initial methodological foundation was established; however, this was not transferred into an operational model. Building on this preliminary work, the present project developed, implemented, and applied a consistent methodological framework suitable for determining the potential across Austria.
 	</p> <p style="text-align: justify;">
