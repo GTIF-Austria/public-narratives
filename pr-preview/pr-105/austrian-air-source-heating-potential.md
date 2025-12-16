@@ -1,5 +1,4 @@
-
-Cover-image 
+Cover-image: 
 # Austrian Air Source Heating Potential  
 
 ## Background 
