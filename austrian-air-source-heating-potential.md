@@ -48,7 +48,6 @@ For air-source heat pumps used for combined space heating and domestic hot water
 The seasonal performance factors are modelled at a spatial resolution of 100 m × 100 m under varying boundary conditions (building characteristics, evolution of outdoor air temperatures). Since the heat demand data do not allow differentiation by building type (e.g., single-family homes, office buildings), a uniform value of 1,500 full-load hours per year is assumed for all buildings, in accordance with Table 66. Potential changes in full-load hours resulting from technological or regulatory developments, as well as from the integration of thermal storage systems, are not considered in this analysis.
 
 
-
 ## Results
 
 <p style="text-align: justify;">
@@ -68,44 +67,6 @@ The results thus provide a realistic depiction of the technically and practicall
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-3-TF71-Air-PNG-1765892252503.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ad104d6d4d8336381305dfb8784998561f210678/assets/Figure-3-TF71-Air-PNG-1765892252503.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 3: Identified Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-4-TF71-Air-PNG-1765892288710.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/9e6202466a19ca361a2b39341264061bbcea85f2/assets/Figure-4-TF71-Air-PNG-1765892288710.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-###### Figure 4: Identified Potentials for Air Heat at the National Level (Reference: Capacity; TRANSITION)
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-5-TF71-Air-PNG-1765892462583.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1c3ee856e8b0a65198fb6f54fa4bd020514d165/assets/Figure-5-TF71-Air-PNG-1765892462583.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-###### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
-
-#### Regional-Level
-
-###### Table 2: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Ambient Heat (supplied to the heat pump) by Federal States.
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-1-TF71-Air-PNG-1765895873880.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ea2ecb1cf62a044cca6d2d3b97107e74c39983d6/assets/Table-1-TF71-Air-PNG-1765895873880.png" style="display:block; margin:auto; width: 90%; height: 90%;"}-->
-
-###### Table 3: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Installed Heating Capacity by Federal States.
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-2-TF71-Air-PNG-1765896238615.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/aecd64a183b817a857d9c77e6704ed0624bd2dae/assets/Table-2-TF71-Air-PNG-1765896238615.png" style="display:block; margin:auto;width: 90%; height: 90%;"}-->
-
-###### Table 4: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of the Number of Installed Units by Federal States (in 1,000 Units).
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-3-TF71-Air-PNG-1765896466234.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/50415b221189bd00fbbe8df6fa3b0b8c598eb4bc/assets/Table-3-TF71-Air-PNG-1765896466234.png" style="display:block; margin:auto;width: 90%; height: 90%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-6-TF71-Air-PNG-1765892572675.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b549415f220b517b961c03bb3be6b8462c0fc8c1/assets/Figure-6-TF71-Air-PNG-1765892572675.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-###### Figure 6: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2030 (low) – 7.4 TWhth
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-7-TF71-Air-PNG-1765892994675.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b06640e21f7cb94dbea7f191b02abedfda6027f1/assets/Figure-7-TF71-Air-PNG-1765892994675.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-###### Figure 7: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2030 (high) – 10.0 TWhth
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-8-TF71-Air-PNG-1765893042183.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/16dc7b9aba22d1543be5255dd5708a3cab206e57/assets/Figure-8-TF71-Air-PNG-1765893042183.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-###### Figure 8: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2040 (low) – 13.1 TWhth
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-9-TF71-Air-PNG-1765892619857.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f515a0b80816d5289df6e1696ca50bb798414c7f/assets/Figure-9-TF71-Air-PNG-1765892619857.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-###### Figure 9: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2040 (high) – 20.4 TWhth
 
 #### Impact of Climate Change and Comparison
 
@@ -145,6 +106,15 @@ Ambient air heat remains a central technology for the decarbonization of the hea
 <p style="text-align: justify;"> [3] 	Statistik Austria, Nutzenergieanalyse 2023, Wien, 2024.
 
 <p style="text-align: justify;"> [4] 	Herbert, Formayer et al. (DOI: 10.1038/s41597-023-02494-4), „SECURES-Met - A European wide meteorological data set suitable for electricity modelling (supply and demand) for historical climate and climate change projections,“ zenodo.org, 15 05 2023. [Online]. Available: https://zenodo.org/records/7907883. [Zugriff am 11 11 2025].
+	
+## About 
+<p style="text-align: justify;">
+Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 2030 und 2040 wurde im Auftrag des Klima- und Energiefonds und dotiert aus Mitteln des BMK unter Leitung des AIT Austrian Institute ob Technology GmbH (AIT) gemeinsam mit Umweltbundesamt (UBA), Technische Universität Wien (TU Wien), AEE – Institut für Nachhaltige Technologien (AEE INTEC) und Energiewerkstatt durchgeführt." (muss noch verenglischt werden) und dann noch explizit anführen jene Institutionen, die dieses Technologiefeld bearbeiten, plus uns und EOX
+	
+[Institution] acts as provider for this service.
+	
+EOX complements with its IT expertise, acting as host and front-end expert.
+
 
 
 
