@@ -9,7 +9,6 @@ The thermal energy supplied by all heat pump systems amounted to approximately 9
 
 The share of ambient air within total environmental heat utilization is approximated based on the respective market shares of air-source heat pumps (and analogously for all other heat pump source systems).
 
-
 ## Methodological Concept
 
 ### Definition and Delimitation
