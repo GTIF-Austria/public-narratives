@@ -44,16 +44,20 @@ For air-source heat pumps used for combined space heating and domestic hot water
 
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-1-TF71-Air-PNG-1765896740803.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6279f0938dd79ebdfc224490ad8f7c9db564c7c9/assets/Table-1-TF71-Air-PNG-1765896740803.png" style="display:block; margin:auto;width:70%; height: 70%;"}-->
 
+<p style="text-align: justify;">
 The seasonal performance factors are modelled at a spatial resolution of 100 m × 100 m under varying boundary conditions (building characteristics, evolution of outdoor air temperatures). Since the heat demand data do not allow differentiation by building type (e.g., single-family homes, office buildings), a uniform value of 1,500 full-load hours per year is assumed for all buildings, in accordance with Table 66. Potential changes in full-load hours resulting from technological or regulatory developments, as well as from the integration of thermal storage systems, are not considered in this analysis.
 
 
 
 ## Results
 
+<p style="text-align: justify;">
 The following analyses of ambient air heat potential are based on the Transition heat demand scenario of the Austrian Heat Map. As noted earlier, this scenario is used for technologies that are predominantly deployed in decentralized applications. It represents an ambitious decarbonization pathway for the heating sector and, in particular, assumes a substantial reduction in space heating demand due to comprehensive thermal refurbishment measures and modernization of the building stock.
 
+<p style="text-align: justify;">
 The associated decline in heat demand density as a direct impact on the spatial extent of prospective district heating areas. Consequently, the focus of future heat supply increasingly shifts toward decentralized solutions, in which air-to-water heat pumps can assume a central role—especially in single-family homes and in the existing building stock with reduced supply temperature requirements.
 
+<p style="text-align: justify;">
 The results thus provide a realistic depiction of the technically and practically achievable ambient air heat potentials under tightened efficiency requirements and within the context of an ambitious national heat-transition strategy. In this context, heat potential refers to the amount of thermal energy that is extracted from the ambient air and supplied to the heat pump.
 
 ### National-Level
@@ -65,22 +69,17 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ###### Figure 3: Identified Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
 
-
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-4-TF71-Air-PNG-1765892288710.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/9e6202466a19ca361a2b39341264061bbcea85f2/assets/Figure-4-TF71-Air-PNG-1765892288710.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 4: Identified Potentials for Air Heat at the National Level (Reference: Capacity; TRANSITION)
-
 
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-5-TF71-Air-PNG-1765892462583.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1c3ee856e8b0a65198fb6f54fa4bd020514d165/assets/Figure-5-TF71-Air-PNG-1765892462583.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
 
-
-
 ### Regional-Level
 
 ###### Table 2: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Ambient Heat (supplied to the heat pump) by Federal States.
-
 
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-1-TF71-Air-PNG-1765895873880.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ea2ecb1cf62a044cca6d2d3b97107e74c39983d6/assets/Table-1-TF71-Air-PNG-1765895873880.png" style="display:block; margin:auto; width: 90%; height: 90%;"}-->
 
@@ -89,7 +88,6 @@ The results thus provide a realistic depiction of the technically and practicall
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-2-TF71-Air-PNG-1765896238615.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/aecd64a183b817a857d9c77e6704ed0624bd2dae/assets/Table-2-TF71-Air-PNG-1765896238615.png" style="display:block; margin:auto;width: 90%; height: 90%;"}-->
 
 ###### Table 4: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of the Number of Installed Units by Federal States (in 1,000 Units).
-
 
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-3-TF71-Air-PNG-1765896466234.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/50415b221189bd00fbbe8df6fa3b0b8c598eb4bc/assets/Table-3-TF71-Air-PNG-1765896466234.png" style="display:block; margin:auto;width: 90%; height: 90%;"}-->
 
@@ -111,8 +109,10 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ### Impact of Climate Change and Comparison
 
+<p style="text-align: justify;">
 Rising air temperatures as a result of climate change affect the efficiency of air-source heat pumps in two ways. First, higher average outdoor air temperatures improve the Carnot efficiency, thereby increasing the seasonal performance factor (SPF/JAZ). Second, atmospheric warming reduces the demand for space heating, a development that is already reflected in the underlying heat demand data.
 
+<p style="text-align: justify;">
 To estimate these temperature-related effects, the air temperature data from the Secures-MET dataset [5] were applied for the climate change scenario RCP4.5 (moderate) for the years 2030 and 2050. Overall, the increase in temperature results in a rise in the potential for ambient air heat, as illustrated in Figure 10. In particular, the technical potential increases by approximately 3.4 TWh, or about 10%. Since heat demand (and thus the amount of heat produced by the heat pump) is incorporated exogenously into the modelling and remains constant across the two scenarios, the electricity demand of heat pumps decreases in the moderate climate change scenario.
 
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-10-TF71-Air-PNG-1765892629603.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94b2a26b31200b816ec3f0055e333ca1e20628cc/assets/Figure-10-TF71-Air-PNG-1765892629603.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
@@ -121,26 +121,30 @@ To estimate these temperature-related effects, the air temperature data from the
 
 ### Evaluation of Results
 
+<p style="text-align: justify;">
 Ambient air heat is currently the most widespread ambient heat technology in Austria. Its high availability, comparatively low development costs, and rapid scalability make it a key technology for the heat transition. 
 
+<p style="text-align: justify;">
 The potential analysis shows that the use of ambient air heat could increase from the current level of approximately 4.5 TWh (2023) to around 20.4 TWh of supplied environmental heat by 2040 under realistic market trajectories. Key drivers of this expansion include ambitious renovation rates (in line with WEM 2023), the decarbonization of individual heating systems, and economic incentives for high-efficiency heat pumps. However, several additional factors must also be taken into account:
 
 * Electricity prices and the availability of renewable power: The economic viability and climate impact of air-source heat pumps depend strongly on the development of electricity prices and the share of renewables in the electricity mix. A high share of renewable electricity generation is essential to minimize indirect emissions.
 * Grid infrastructure and load management: The additional electricity demand resulting from large-scale heat pump deployment puts new requirements on power grids. Load management strategies, flexibility options, and, where necessary, storage solutions are needed to prevent grid congestion.
 * Competition for electricity: Electricity demand is increasing not only due to the heat transition but also in other sectors, such as the rapid uptake of electromobility. This may lead to supply constraints and rising electricity prices, potentially affecting the economic performance of air-source heat pumps.
 * Noise emissions in urban areas: Noise emissions represent a critical factor for public acceptance, particularly in densely populated areas where large potentials have been identified. Technical solutions—including low-noise fans and noise-mitigating structural measures—must therefore be considered.
-
+	
+<p style="text-align: justify;">
 Ambient air heat remains a central technology for the decarbonization of the heating sector. Its continued expansion, however, requires a holistic assessment of electricity supply, grid capacities, and regulatory frameworks, as well as the consideration of acceptance-related factors such as noise emissions
 
 ## References
 
+<p style="text-align: justify;">	
 [1] 	P. Biermayr, S. Aigenbauer, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, M. Fuhrmann, M.-C. Haidacher, F. Hengel, M. Jaksch-Fliegenschnee, K. Leonhartsberger, D. Matschegg, S. Moidl, E. Prem, T. Riegler, S. Savic, C. Strasser, P. Wonisch und E. Wopienka, „Innovative Energietechnologien in Österreich Marktentwicklung 2023,“ BMK, Berichte aus Energie- und Umweltforschung 17a/2024, Wien, 2024.
 
-[2] 	P. Biermayr, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, A. Haumer, M. Jaksch-Fliegenschnee, K. Leonhartsberger, C. Strasser und P. Wonisch, „Innovative Energietechnologien in Österreich Marktentwicklung 2024,“ BMK, Berichte aus Energie- und Umweltforschung 23/2025, Wien, 2025.
+<p style="text-align: justify;"> [2] 	P. Biermayr, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, A. Haumer, M. Jaksch-Fliegenschnee, K. Leonhartsberger, C. Strasser und P. Wonisch, „Innovative Energietechnologien in Österreich Marktentwicklung 2024,“ BMK, Berichte aus Energie- und Umweltforschung 23/2025, Wien, 2025.
 
-[3] 	Statistik Austria, Nutzenergieanalyse 2023, Wien, 2024.
+<p style="text-align: justify;"> [3] 	Statistik Austria, Nutzenergieanalyse 2023, Wien, 2024.
 
-[4] 	Herbert, Formayer et al. (DOI: 10.1038/s41597-023-02494-4), „SECURES-Met - A European wide meteorological data set suitable for electricity modelling (supply and demand) for historical climate and climate change projections,“ zenodo.org, 15 05 2023. [Online]. Available: https://zenodo.org/records/7907883. [Zugriff am 11 11 2025].
+<p style="text-align: justify;"> [4] 	Herbert, Formayer et al. (DOI: 10.1038/s41597-023-02494-4), „SECURES-Met - A European wide meteorological data set suitable for electricity modelling (supply and demand) for historical climate and climate change projections,“ zenodo.org, 15 05 2023. [Online]. Available: https://zenodo.org/records/7907883. [Zugriff am 11 11 2025].
 
 
 
