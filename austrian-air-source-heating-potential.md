@@ -3,10 +3,11 @@
 ## Background 
 For the sub-technology field of ambient air heat, no nationwide harmonized dataset on the spatial distribution of potential has been available to date. Within the project Spatial Energy Planning for Heat Transition (FFG Project 868850), an initial methodological foundation was established; however, this was not transferred into an operational model. Building on this preliminary work, the present project developed, implemented, and applied a consistent methodological framework suitable for determining the potential across Austria.
 
-According to the Market Survey 17/2024 [60], a total of 491,361 heat pump systems were in operation in Austria at the end of 2023, of which 68.2% were air-source heat pumps [58].
+According to the Market Survey 17/2024 [1], a total of 491,361 heat pump systems were in operation in Austria at the end of 2023, of which 68.2% were air-source heat pumps [2].
+The thermal energy supplied by all heat pump systems amounted to approximately 9,859 GWh, of which 6,610 GWh can be attributed to utilized environmental heat [1], [2], [3]. 
 
-The thermal energy supplied by all heat pump systems amounted to approximately 9,859 GWh, of which 6,610 GWh can be attributed to utilized environmental heat [60], [58], [63]. The share of ambient air within total environmental heat utilization is approximated based on the respective market shares of air-source heat pumps (and analogously for all other heat pump source systems).
- 
+The share of ambient air within total environmental heat utilization is approximated based on the respective market shares of air-source heat pumps (and analogously for all other heat pump source systems).
+
 
 ## Methodological Concept
 
@@ -262,7 +263,7 @@ The results thus provide a realistic depiction of the technically and practicall
 
 Rising air temperatures as a result of climate change affect the efficiency of air-source heat pumps in two ways. First, higher average outdoor air temperatures improve the Carnot efficiency, thereby increasing the seasonal performance factor (SPF/JAZ). Second, atmospheric warming reduces the demand for space heating, a development that is already reflected in the underlying heat demand data.
 
-To estimate these temperature-related effects, the air temperature data from the Secures-MET dataset [67] were applied for the climate change scenario RCP4.5 (moderate) for the years 2030 and 2050. Overall, the increase in temperature results in a rise in the potential for ambient air heat, as illustrated in Figure 10. In particular, the technical potential increases by approximately 3.4 TWh, or about 10%. Since heat demand (and thus the amount of heat produced by the heat pump) is incorporated exogenously into the modelling and remains constant across the two scenarios, the electricity demand of heat pumps decreases in the moderate climate change scenario.
+To estimate these temperature-related effects, the air temperature data from the Secures-MET dataset [5] were applied for the climate change scenario RCP4.5 (moderate) for the years 2030 and 2050. Overall, the increase in temperature results in a rise in the potential for ambient air heat, as illustrated in Figure 10. In particular, the technical potential increases by approximately 3.4 TWh, or about 10%. Since heat demand (and thus the amount of heat produced by the heat pump) is incorporated exogenously into the modelling and remains constant across the two scenarios, the electricity demand of heat pumps decreases in the moderate climate change scenario.
 
 
 ##### Figure 10: Identified Heat Potentials (ambient heat supplied to the heat pump) for Air Heat at the National Level and Comparison with the Impact of Climate Change RCP4.5 on Outdoor Temperature (Reference: Energy; TRANSITION)
@@ -279,6 +280,14 @@ The potential analysis shows that the use of ambient air heat could increase fro
 * Noise emissions in urban areas: Noise emissions represent a critical factor for public acceptance, particularly in densely populated areas where large potentials have been identified. Technical solutions—including low-noise fans and noise-mitigating structural measures—must therefore be considered.
 
 Ambient air heat remains a central technology for the decarbonization of the heating sector. Its continued expansion, however, requires a holistic assessment of electricity supply, grid capacities, and regulatory frameworks, as well as the consideration of acceptance-related factors such as noise emissions
+
+## References
+
+[1] 	P. Biermayr, S. Aigenbauer, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, M. Fuhrmann, M.-C. Haidacher, F. Hengel, M. Jaksch-Fliegenschnee, K. Leonhartsberger, D. Matschegg, S. Moidl, E. Prem, T. Riegler, S. Savic, C. Strasser, P. Wonisch und E. Wopienka, „Innovative Energietechnologien in Österreich Marktentwicklung 2023,“ BMK, Berichte aus Energie- und Umweltforschung 17a/2024, Wien, 2024.
+[2] 	P. Biermayr, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, A. Haumer, M. Jaksch-Fliegenschnee, K. Leonhartsberger, C. Strasser und P. Wonisch, „Innovative Energietechnologien in Österreich Marktentwicklung 2024,“ BMK, Berichte aus Energie- und Umweltforschung 23/2025, Wien, 2025.
+[3] 	Statistik Austria, Nutzenergieanalyse 2023, Wien, 2024.
+[4] 	Herbert, Formayer et al. (DOI: 10.1038/s41597-023-02494-4), „SECURES-Met - A European wide meteorological data set suitable for electricity modelling (supply and demand) for historical climate and climate change projections,“ zenodo.org, 15 05 2023. [Online]. Available: https://zenodo.org/records/7907883. [Zugriff am 11 11 2025].
+
 
 
 
