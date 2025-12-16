@@ -1,4 +1,6 @@
-Cover-image: 
+cover-image: <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/CoverImage-1765899971415.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a1757f13c3021ed26c65f1f858d3568f2ca49887/assets/CoverImage-1765899971415.png" style="display:block; margin:auto;width:100%; height: 100%;"}-->
+---
+
 # Austrian Air Source Heating Potential  
 
 ## Background 
