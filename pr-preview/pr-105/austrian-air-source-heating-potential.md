@@ -2,12 +2,14 @@
 # Austrian Air Source Heating Potential  
 
 ## Background 
-For the sub-technology field of ambient air heat, no nationwide harmonized dataset on the spatial distribution of potential has been available to date. Within the project Spatial Energy Planning for Heat Transition (FFG Project 868850), an initial methodological foundation was established; however, this was not transferred into an operational model. Building on this preliminary work, the present project developed, implemented, and applied a consistent methodological framework suitable for determining the potential across Austria.
 
+For the sub-technology field of ambient air heat, no nationwide harmonized dataset on the spatial distribution of potential has been available to date. Within the project Spatial Energy Planning for Heat Transition (FFG Project 868850), an initial methodological foundation was established; however, this was not transferred into an operational model. Building on this preliminary work, the present project developed, implemented, and applied a consistent methodological framework suitable for determining the potential across Austria.
+	</p> <p style="text-align: justify;">
 According to the Market Survey 17/2024 [1], a total of 491 361 heat pump systems were in operation in Austria at the end of 2023, of which 68.2% were air-source heat pumps [2].
 The thermal energy supplied by all heat pump systems amounted to approximately 9 859 GWh, of which 6 610 GWh can be attributed to utilized environmental heat [1], [2], [3]. 
+	</p><p style="text-align: justify;">
+The share of ambient air within total environmental heat utilization is approximated based on the respective market shares of air-source heat pumps (and analogously for all other heat pump source systems). 	</p>
 
-The share of ambient air within total environmental heat utilization is approximated based on the respective market shares of air-source heat pumps (and analogously for all other heat pump source systems).
 
 ## Methodological Concept
 
