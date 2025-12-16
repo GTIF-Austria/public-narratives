@@ -33,29 +33,55 @@ For determining the seasonal performance factor (SPF/JAZ), the heating demand ac
 For air-source heat pumps used for combined space heating and domestic hot water production in Austrian single-family homes (SFH), the following practical benchmark values apply:
 
 ###### Table 1: Full load hours of an air heat pump for combined space heating and hot water production in a typical Austrian single-family home (EFH)
-<table>
+
+<table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th>Building Type / Standard </th>
-      <th>Space Heating + Hot Water <br>[kWh/a]</th>
-      <th>Heat Pump Rated Power <br>[kW]</th>
-      <th>Full Load Hours <br>[h/a]</th>
+      <th style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        Building Type / Standard
+      </th>
+      <th style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        Space Heating + Hot Water <br>[kWh/a]
+      </th>
+      <th style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        Heat Pump Rated Power <br>[kW]
+      </th>
+      <th style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        Full Load Hours <br>[h/a]
+      </th>
     </tr>
   </thead>
   <tbody>
-  <tr>
-<td>Old Building (unsanated)</td><td>20 000 – 25 000</td><td>10 – 14</td><td>1 800 – 2 200</td>
-</tr>
-<tr>
-<td>New Building (well insulated)</td><td>8 000 – 12 000</td><td>6 – 8</td><td>1 300 – 1 600</td>
-</tr>
-<tr>
-<td>Low energy / Passive House</td><td>4 000 – 6 000</td><td>3 – 5</td><td>1 000 – 1 500</td>
-</tr>
-
+    <tr>
+      <td style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        Old Building (unsanated)
+      </td>
+      <td style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        20.000 – 25.000
+      </td>
+      <td style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        10 – 14
+      </td>
+      <td style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        1.800 – 2.200
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        New Building (well insulated)
+      </td>
+      <td style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        8.000 – 12.000
+      </td>
+      <td style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        6 – 8
+      </td>
+      <td style="border:1px solid black; padding:6px; text-align:center; font-size:14px;">
+        1.300 – 1.600
+      </td>
+    </tr>
   </tbody>
 </table>
-
 
 The seasonal performance factors are modelled at a spatial resolution of 100 m × 100 m under varying boundary conditions (building characteristics, evolution of outdoor air temperatures). Since the heat demand data do not allow differentiation by building type (e.g., single-family homes, office buildings), a uniform value of 1,500 full-load hours per year is assumed for all buildings, in accordance with Table 66. Potential changes in full-load hours resulting from technological or regulatory developments, as well as from the integration of thermal storage systems, are not considered in this analysis.
 
