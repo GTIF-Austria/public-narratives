@@ -13,17 +13,17 @@ The share of ambient air within total environmental heat utilization is approxim
 
 ## Methodological Concept
 
-### Definition and Delimitation
+#### Definition and Delimitation
 <p style="text-align: justify;">
 In this study, ambient air heat potential refers to the use of outdoor air as an energy source for air-to-water heat pumps, particularly for meeting space heating and domestic hot water demand in buildings, as well as for feeding heat into district heating networks. Domestic hot water heat pumps, air-to-air heat pumps, and residential ventilation systems with heat recovery are also considered part of this technology field in decentralized applications.
 	</p>
 	
-### Theoretical Potential
+#### Theoretical Potential
 <p style="text-align: justify;">
 The thermal energy stored in ambient air is—under normal conditions—physically available without limitation. Due to this theoretical boundlessness and its limited relevance for potential assessment, no explicit quantification of the theoretical potential was conducted.
 	</p>
 	
-### Technical Potential
+#### Technical Potential
 <p style="text-align: justify;">
 The technical usability of ambient air heat is determined primarily by the efficiency of the heat pump, which is influenced by the following key parameters:
 
@@ -37,7 +37,7 @@ For determining the seasonal performance factor (SPF/JAZ), the heating demand ac
 
 ###### Figure 1: Annual Performance Factors of Air-to-Water Heat Pumps Using Graz as an Example, Depending on Supply Temperatures and Space/Hot Water Shares
 
-### Explanation of Performance Calculation
+#### Explanation of Performance Calculation
 For air-source heat pumps used for combined space heating and domestic hot water production in Austrian single-family homes (SFH), the following practical benchmark values apply:
 
 ###### Table 1: Full load hours of an air heat pump for combined space heating and hot water production in a typical Austrian single-family home (EFH)
@@ -60,7 +60,7 @@ The associated decline in heat demand density as a direct impact on the spatial 
 <p style="text-align: justify;">
 The results thus provide a realistic depiction of the technically and practically achievable ambient air heat potentials under tightened efficiency requirements and within the context of an ambitious national heat-transition strategy. In this context, heat potential refers to the amount of thermal energy that is extracted from the ambient air and supplied to the heat pump.
 
-### National-Level
+#### National-Level
 
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-2-TF71-Air-PNG-1765892196926.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94a1b336d21ce092e6b57396fa00a3dd552a09d7/assets/Figure-2-TF71-Air-PNG-1765892196926.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
@@ -77,7 +77,7 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ###### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
 
-### Regional-Level
+#### Regional-Level
 
 ###### Table 2: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Ambient Heat (supplied to the heat pump) by Federal States.
 
@@ -107,7 +107,7 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ###### Figure 9: Achievable Heat Potentials (ambient heat supplied to the heat pump) 2040 (high) – 20.4 TWhth
 
-### Impact of Climate Change and Comparison
+#### Impact of Climate Change and Comparison
 
 <p style="text-align: justify;">
 Rising air temperatures as a result of climate change affect the efficiency of air-source heat pumps in two ways. First, higher average outdoor air temperatures improve the Carnot efficiency, thereby increasing the seasonal performance factor (SPF/JAZ). Second, atmospheric warming reduces the demand for space heating, a development that is already reflected in the underlying heat demand data.
