@@ -26,7 +26,9 @@ The technical usability of ambient air heat is determined primarily by the effic
 
 For determining the seasonal performance factor (SPF/JAZ), the heating demand according to the Austrian Heat Map is divided—based on the distribution of building age classes and renovation levels—into a constant domestic hot water demand (DHW) and a heating degree-day–weighted space heating demand (SHD) (see Figure 1).
 
-##### Figure 1: Annual Performance Factors of Air-to-Water Heat Pumps Using Graz as an Example, Depending on Supply Temperatures and Space/Hot Water Shares
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-1-TF71-Air-PNG-1765891737782.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/038208c539ca2c80713b868ae8624f8b524d6e55/assets/Figure-1-TF71-Air-PNG-1765891737782.png" style="width: 100%; height: 600px;"}-->
+
+###### Figure 1: Annual Performance Factors of Air-to-Water Heat Pumps Using Graz as an Example, Depending on Supply Temperatures and Space/Hot Water Shares
 
 ### Explanation of Performance Calculation:
 For air-source heat pumps used for combined space heating and domestic hot water production in Austrian single-family homes (SFH), the following practical benchmark values apply:
@@ -57,8 +59,6 @@ For air-source heat pumps used for combined space heating and domestic hot water
 
 
 The seasonal performance factors are modelled at a spatial resolution of 100 m × 100 m under varying boundary conditions (building characteristics, evolution of outdoor air temperatures). Since the heat demand data do not allow differentiation by building type (e.g., single-family homes, office buildings), a uniform value of 1,500 full-load hours per year is assumed for all buildings, in accordance with Table 66. Potential changes in full-load hours resulting from technological or regulatory developments, as well as from the integration of thermal storage systems, are not considered in this analysis.
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-1-TF71-Air-PNG-1765891737782.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/038208c539ca2c80713b868ae8624f8b524d6e55/assets/Figure-1-TF71-Air-PNG-1765891737782.png" style="width: 100%; height: 600px;"}-->
 
 ## Results
 
