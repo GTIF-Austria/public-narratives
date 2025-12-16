@@ -290,6 +290,18 @@ The potential analysis shows that the use of ambient air heat could increase fro
 
 Ambient air heat remains a central technology for the decarbonization of the heating sector. Its continued expansion, however, requires a holistic assessment of electricity supply, grid capacities, and regulatory frameworks, as well as the consideration of acceptance-related factors such as noise emissions
 
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-10-TF71-Air-PNG-1765892629603.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94b2a26b31200b816ec3f0055e333ca1e20628cc/assets/Figure-10-TF71-Air-PNG-1765892629603.png" style="width: 100%; height: 600px;"}-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-9-TF71-Air-PNG-1765892619857.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f515a0b80816d5289df6e1696ca50bb798414c7f/assets/Figure-9-TF71-Air-PNG-1765892619857.png" style="width: 100%; height: 600px;"}-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-9-TF71-Air-PNG-1765892605245.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/9172faa8010cfc76d6474233924b0c218a290c84/assets/Figure-9-TF71-Air-PNG-1765892605245.png" style="width: 100%; height: 600px;"}-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-8-TF71-Air-PNG-1765892594133.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/8e79d854c0239adce723ea1975843d4530dab6db/assets/Figure-8-TF71-Air-PNG-1765892594133.png" style="width: 100%; height: 600px;"}-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-7-TF71-Air-PNG-1765892583431.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/206ff61d2b80b6bb9dc08e9d0b73aaa0212962df/assets/Figure-7-TF71-Air-PNG-1765892583431.png" style="width: 100%; height: 600px;"}-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-6-TF71-Air-PNG-1765892572675.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b549415f220b517b961c03bb3be6b8462c0fc8c1/assets/Figure-6-TF71-Air-PNG-1765892572675.png" style="width: 100%; height: 600px;"}-->
+
 ## References
 
 [1] 	P. Biermayr, S. Aigenbauer, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, M. Fuhrmann, M.-C. Haidacher, F. Hengel, M. Jaksch-Fliegenschnee, K. Leonhartsberger, D. Matschegg, S. Moidl, E. Prem, T. Riegler, S. Savic, C. Strasser, P. Wonisch und E. Wopienka, „Innovative Energietechnologien in Österreich Marktentwicklung 2023,“ BMK, Berichte aus Energie- und Umweltforschung 17a/2024, Wien, 2024.
