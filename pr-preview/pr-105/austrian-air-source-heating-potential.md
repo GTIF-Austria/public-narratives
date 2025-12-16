@@ -284,8 +284,11 @@ Ambient air heat remains a central technology for the decarbonization of the hea
 ## References
 
 [1] 	P. Biermayr, S. Aigenbauer, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, M. Fuhrmann, M.-C. Haidacher, F. Hengel, M. Jaksch-Fliegenschnee, K. Leonhartsberger, D. Matschegg, S. Moidl, E. Prem, T. Riegler, S. Savic, C. Strasser, P. Wonisch und E. Wopienka, „Innovative Energietechnologien in Österreich Marktentwicklung 2023,“ BMK, Berichte aus Energie- und Umweltforschung 17a/2024, Wien, 2024.
+
 [2] 	P. Biermayr, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, A. Haumer, M. Jaksch-Fliegenschnee, K. Leonhartsberger, C. Strasser und P. Wonisch, „Innovative Energietechnologien in Österreich Marktentwicklung 2024,“ BMK, Berichte aus Energie- und Umweltforschung 23/2025, Wien, 2025.
+
 [3] 	Statistik Austria, Nutzenergieanalyse 2023, Wien, 2024.
+
 [4] 	Herbert, Formayer et al. (DOI: 10.1038/s41597-023-02494-4), „SECURES-Met - A European wide meteorological data set suitable for electricity modelling (supply and demand) for historical climate and climate change projections,“ zenodo.org, 15 05 2023. [Online]. Available: https://zenodo.org/records/7907883. [Zugriff am 11 11 2025].
 
 
