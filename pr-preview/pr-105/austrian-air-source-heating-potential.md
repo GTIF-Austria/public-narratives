@@ -11,7 +11,6 @@ The thermal energy supplied by all heat pump systems amounted to approximately 9
 	</p><p style="text-align: justify;">
 The share of ambient air within total environmental heat utilization is approximated based on the respective market shares of air-source heat pumps (and analogously for all other heat pump source systems). 	</p>
 
-
 ## Methodological Concept
 
 #### Definition and Delimitation
@@ -47,7 +46,6 @@ For air-source heat pumps used for combined space heating and domestic hot water
 
 <p style="text-align: justify;">
 The seasonal performance factors are modelled at a spatial resolution of 100 m × 100 m under varying boundary conditions (building characteristics, evolution of outdoor air temperatures). Since the heat demand data do not allow differentiation by building type (e.g., single-family homes, office buildings), a uniform value of 1,500 full-load hours per year is assumed for all buildings, in accordance with Table 66. Potential changes in full-load hours resulting from technological or regulatory developments, as well as from the integration of thermal storage systems, are not considered in this analysis.
-
 
 ## Results
 
