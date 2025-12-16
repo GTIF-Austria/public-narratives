@@ -2,7 +2,7 @@
 # Austrian Air Source Heating Potential  
 
 ## Background 
-
+<p style="text-align: justify;">
 For the sub-technology field of ambient air heat, no nationwide harmonized dataset on the spatial distribution of potential has been available to date. Within the project Spatial Energy Planning for Heat Transition (FFG Project 868850), an initial methodological foundation was established; however, this was not transferred into an operational model. Building on this preliminary work, the present project developed, implemented, and applied a consistent methodological framework suitable for determining the potential across Austria.
 	</p> <p style="text-align: justify;">
 According to the Market Survey 17/2024 [1], a total of 491 361 heat pump systems were in operation in Austria at the end of 2023, of which 68.2% were air-source heat pumps [2].
@@ -14,17 +14,23 @@ The share of ambient air within total environmental heat utilization is approxim
 ## Methodological Concept
 
 ### Definition and Delimitation
+<p style="text-align: justify;">
 In this study, ambient air heat potential refers to the use of outdoor air as an energy source for air-to-water heat pumps, particularly for meeting space heating and domestic hot water demand in buildings, as well as for feeding heat into district heating networks. Domestic hot water heat pumps, air-to-air heat pumps, and residential ventilation systems with heat recovery are also considered part of this technology field in decentralized applications.
-
+	</p>
+	
 ### Theoretical Potential
+<p style="text-align: justify;">
 The thermal energy stored in ambient air is—under normal conditions—physically available without limitation. Due to this theoretical boundlessness and its limited relevance for potential assessment, no explicit quantification of the theoretical potential was conducted.
-
+	</p>
+	
 ### Technical Potential
+<p style="text-align: justify;">
 The technical usability of ambient air heat is determined primarily by the efficiency of the heat pump, which is influenced by the following key parameters:
 
 * Heat source: average monthly outdoor air temperature at the respective location
 * Heat sink: required supply temperature in the heating and domestic hot water system, depending on the building’s construction period and renovation status
 
+<p style="text-align: justify;">
 For determining the seasonal performance factor (SPF/JAZ), the heating demand according to the Austrian Heat Map is divided—based on the distribution of building age classes and renovation levels—into a constant domestic hot water demand (DHW) and a heating degree-day–weighted space heating demand (SHD) (see Figure 1).
 
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-1-TF71-Air-PNG-1765891737782.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/038208c539ca2c80713b868ae8624f8b524d6e55/assets/Figure-1-TF71-Air-PNG-1765891737782.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
