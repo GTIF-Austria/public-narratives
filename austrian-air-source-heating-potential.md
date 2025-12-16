@@ -118,7 +118,7 @@ The results thus provide a realistic depiction of the technically and practicall
 <td>Salzburg</td><td>314</td><td>516</td><td>598</td><td>686</td><td>895</td><td>1 119</td><td>1 323</td><td>1 828</td>
 </tr>
 <tr>
-<td>Styria (Steiermark)</td><td>512</td><td>862</td><td>1.013</td><td>1.184</td><td>1.617</td><td>2.154</td><td>2.719</td><td>4.682</td>
+<td>Styria (Steiermark)</td><td>512</td><td>862</td><td>1 013</td><td>1 184</td><td>1 617</td><td>2 154</td><td>2 719</td><td>4 682</td>
 </tr>
 <tr>
 <td>Tyrol (Tirol)</td><td>334</td><td>558</td><td>652</td><td>757</td><td>1 012</td><td>1 317</td><td>1 624</td><td>2 584</td>
@@ -163,31 +163,31 @@ The results thus provide a realistic depiction of the technically and practicall
 <td>Burgenland</td><td>210</td><td>350</td><td>411</td><td>477</td><td>638</td><td>836</td><td>1.036</td><td>1.724</td>
 </tr>
 <tr>
-<td>Carinthia (Kärnten)</td><td>283</td><td>474</td><td>553</td><td>638</td><td>855</td><td>1.094</td><td>1.320</td><td>1.954</td>
+<td>Carinthia (Kärnten)</td><td>283</td><td>474</td><td>553</td><td>638</td><td>855</td><td>1 094</td><td>1 320</td><td>1 954</td>
 </tr>
 <tr>
-<td>Lower Austria (Niederösterreich)</td><td>1.116</td><td>1.835</td><td>2.131</td><td>2.451</td><td>3.189</td><td>4.064</td><td>4.927</td><td>7.975</td>
+<td>Lower Austria (Niederösterreich)</td><td>1 116</td><td>1 835</td><td>2 131</td><td>2 451</td><td>3 189</td><td>4 064</td><td>4 927</td><td>7 975</td>
 </tr>
 <tr>
-<td>Upper Austria (Oberösterreich)</td><td>1.111</td><td>1.783</td><td>2.041</td><td>2.312</td><td>2.879</td><td>3.477</td><td>3.991</td><td>5.053</td>
+<td>Upper Austria (Oberösterreich)</td><td>1 111</td><td>1 783</td><td>2 041</td><td>2 312</td><td>2 879</td><td>3 477</td><td>3 991</td><td>5 053</td>
 </tr>
 <tr>
-<td>Salzburg</td><td>285</td><td>473</td><td>548</td><td>628</td><td>824</td><td>1.030</td><td>1.218</td><td>1.677</td>
+<td>Salzburg</td><td>285</td><td>473</td><td>548</td><td>628</td><td>824</td><td>1 030</td><td>1 218</td><td>1 677</td>
 </tr>
 <tr>
-<td>Styria (Steiermark)</td><td>475</td><td>799</td><td>939</td><td>1.097</td><td>1.488</td><td>1.982</td><td>2.501</td><td>4.277</td>
+<td>Styria (Steiermark)</td><td>475</td><td>799</td><td>939</td><td>1 097</td><td>1 488</td><td>1 982</td><td>2 501</td><td>4 277</td>
 </tr>
 <tr>
-<td>Tyrol (Tirol)</td><td>309</td><td>517</td><td>604</td><td>701</td><td>935</td><td>1.217</td><td>1.500</td><td>2.373</td>
+<td>Tyrol (Tirol)</td><td>309</td><td>517</td><td>604</td><td>701</td><td>935</td><td>1 217</td><td>1 500</td><td>2 373</td>
 </tr>
 <tr>
-<td>Vorarlberg</td><td>277</td><td>458</td><td>534</td><td>617</td><td>805</td><td>1.026</td><td>1.233</td><td>1.745</td>
+<td>Vorarlberg</td><td>277</td><td>458</td><td>534</td><td>617</td><td>805</td><td>1 026</td><td>1 233</td><td>1 745</td>
 </tr>
 <tr>
-<td>Vienna (Wien)</td><td>148</td><td>255</td><td>306</td><td>366</td><td>530</td><td>795</td><td>1.166</td><td>4.971</td>
+<td>Vienna (Wien)</td><td>148</td><td>255</td><td>306</td><td>366</td><td>530</td><td>795</td><td>1 166</td><td>4 971</td>
 </tr>
 <tr style="font-weight:bold;">
-<td>Total Austria (Österreich)</td><td>4.214</td><td>6.944</td><td>8.066</td><td>9.289</td><td>12.142</td><td>15.520</td><td>18.892</td><td>31.749</td>
+<td>Total Austria (Österreich)</td><td>4 214</td><td>6 944</td><td>8 066</td><td>9 289</td><td>12 142</td><td>15 520</td><td>18 892</td><td>31 749</td>
 </tr>
   
   </tbody>
@@ -245,7 +245,7 @@ The results thus provide a realistic depiction of the technically and practicall
 <td>Vienna (Wien)</td><td>13</td><td>22</td><td>27</td><td>32</td><td>47</td><td>70</td><td>103</td><td>437</td>
 </tr>
 <tr style="font-weight:bold;">
-<td>Total Austria (Österreich)</td><td>371</td><td>611</td><td>709</td><td>817</td><td>1.068</td><td>1.365</td><td>1.661</td><td>2.792</td>
+<td>Total Austria (Österreich)</td><td>371</td><td>611</td><td>709</td><td>817</td><td>1 068</td><td>1 365</td><td>1 661</td><td>2 792</td>
 </tr>
 
   </tbody>
