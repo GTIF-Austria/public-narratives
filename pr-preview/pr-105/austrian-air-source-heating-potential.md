@@ -3,8 +3,8 @@
 ## Background 
 For the sub-technology field of ambient air heat, no nationwide harmonized dataset on the spatial distribution of potential has been available to date. Within the project Spatial Energy Planning for Heat Transition (FFG Project 868850), an initial methodological foundation was established; however, this was not transferred into an operational model. Building on this preliminary work, the present project developed, implemented, and applied a consistent methodological framework suitable for determining the potential across Austria.
 
-According to the Market Survey 17/2024 [1], a total of 491,361 heat pump systems were in operation in Austria at the end of 2023, of which 68.2% were air-source heat pumps [2].
-The thermal energy supplied by all heat pump systems amounted to approximately 9,859 GWh, of which 6,610 GWh can be attributed to utilized environmental heat [1], [2], [3]. 
+According to the Market Survey 17/2024 [1], a total of 491 361 heat pump systems were in operation in Austria at the end of 2023, of which 68.2% were air-source heat pumps [2].
+The thermal energy supplied by all heat pump systems amounted to approximately 9 859 GWh, of which 6 610 GWh can be attributed to utilized environmental heat [1], [2], [3]. 
 
 The share of ambient air within total environmental heat utilization is approximated based on the respective market shares of air-source heat pumps (and analogously for all other heat pump source systems).
 
@@ -44,13 +44,13 @@ For air-source heat pumps used for combined space heating and domestic hot water
   </thead>
   <tbody>
   <tr>
-<td>Old Building (unsanated)</td><td>20,000 – 25,000</td><td>10 – 14</td><td>1,800 – 2,200</td>
+<td>Old Building (unsanated)</td><td>20 000 – 25 000</td><td>10 – 14</td><td>1 800 – 2 200</td>
 </tr>
 <tr>
-<td>New Building (well insulated)</td><td>8,000 – 12,000</td><td>6 – 8</td><td>1,300 – 1,600</td>
+<td>New Building (well insulated)</td><td>8 000 – 12 000</td><td>6 – 8</td><td>1 300 – 1 600</td>
 </tr>
 <tr>
-<td>Low energy / Passive House</td><td>4,000 – 6,000</td><td>3 – 5</td><td>1,000 – 1,500</td>
+<td>Low energy / Passive House</td><td>4 000 – 6 000</td><td>3 – 5</td><td>1 000 – 1 500</td>
 </tr>
 
   </tbody>
