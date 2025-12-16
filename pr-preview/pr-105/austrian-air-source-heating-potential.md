@@ -107,183 +107,28 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ###### Figure 4: Identified Potentials for Air Heat at the National Level (Reference: Capacity; TRANSITION)
 
+
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-5-TF71-Air-PNG-1765892462583.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1c3ee856e8b0a65198fb6f54fa4bd020514d165/assets/Figure-5-TF71-Air-PNG-1765892462583.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
 
+
+
 ### Regional-Level
 
 ###### Table 2: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Ambient Heat (supplied to the heat pump) by Federal States.
-<table>
-  <thead>
-    <tr>
-      <th>Region</th>
-      <th>2023</th>
-      <th colspan="3">Annual Energy Output [GWh] – 2030</th>
-      <th colspan="3">Annual Energy Output [GWh] – 2040</th>
-      <th>2050+</th>
-    </tr>
-    <tr>
-      <th></th>
-      <th>Current</th>
-      <th>Low</th>
-      <th>Medium</th>
-      <th>High</th>
-      <th>Low</th>
-      <th>Medium</th>
-      <th>High</th>
-      <th>Techn. Potential</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Burgenland</td><td>218</td><td>367</td><td>430</td><td>500</td><td>680</td><td>893</td><td>1.107</td><td>1.875</td>
-    </tr>
-    <tr>
-      <td>Carinthia (Kärnten)</td><td>314</td><td>522</td><td>608</td><td>702</td><td>934</td><td>1.195</td><td>1.442</td><td>2.139</td>
-    </tr>
-    <tr>
-      <td>Lower Austria (Niederösterreich)</td><td>1.173</td><td>1.938</td><td>2.251</td><td>2.591</td><td>3.419</td><td>4.363</td><td>5.297</td><td>8.695</td>
-    </tr>
-</tr>
-<td>Upper Austria (Oberösterreich)</td><td>1.214</td><td>1.946</td><td>2.228</td><td>2.525</td><td>3.149</td><td>3.804</td><td>4.368</td><td>5.556</td>
-</tr>
-<tr>
-<td>Salzburg</td><td>314</td><td>516</td><td>598</td><td>686</td><td>895</td><td>1.119</td><td>1.323</td><td>1.828</td>
-</tr>
-<tr>
-<td>Styria (Steiermark)</td><td>512</td><td>862</td><td>1.013</td><td>1.184</td><td>1.617</td><td>2.154</td><td>2.719</td><td>4.682</td>
-</tr>
-<tr>
-<td>Tyrol (Tirol)</td><td>334</td><td>558</td><td>652</td><td>757</td><td>1.012</td><td>1.317</td><td>1.624</td><td>2.584</td>
-</tr>
-<tr>
-<td>Vorarlberg</td><td>286</td><td>477</td><td>556</td><td>642</td><td>853</td><td>1.088</td><td>1.308</td><td>1.880</td>
-</tr>
-<tr>
-<td>Vienna (Wien)</td><td>150</td><td>261</td><td>313</td><td>374</td><td>554</td><td>831</td><td>1.220</td><td>5.296</td>
-</tr>
-<tr style="font-weight:bold;">
-<td>Total Austria (Österreich)</td><td>4.515</td><td>7.445</td><td>8.650</td><td>9.962</td><td>13.114</td><td>16.765</td><td>20.409</td><td>34.535</td>
-</tr>
-  </tbody>
-</table>
+
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-1-TF71-Air-PNG-1765895873880.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ea2ecb1cf62a044cca6d2d3b97107e74c39983d6/assets/Table-1-TF71-Air-PNG-1765895873880.png" style="display:block; margin:auto; width: 90%; height: 90%;"}-->
 
 ###### Table 3: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of Installed Heating Capacity by Federal States.
 
-<table>
-  <thead>
-    <tr>
-      <th>Region</th>
-      <th>2023</th>
-      <th colspan="3">Installed Capacity [MW] – 2030</th>
-      <th colspan="3">Installed Capacity [MW]  – 2040</th>
-      <th>2050+</th>
-    </tr>
-    <tr>
-      <th></th>
-      <th>Current</th>
-      <th>Low</th>
-      <th>Medium</th>
-      <th>High</th>
-      <th>Low</th>
-      <th>Medium</th>
-      <th>High</th>
-      <th>Techn. Potential</th>
-    </tr>
-  </thead>
-  <tbody>
-</tr>
-<td>Burgenland</td><td>210</td><td>350</td><td>411</td><td>477</td><td>638</td><td>836</td><td>1.036</td><td>1.724</td>
-</tr>
-<tr>
-<td>Carinthia (Kärnten)</td><td>283</td><td>474</td><td>553</td><td>638</td><td>855</td><td>1 094</td><td>1 320</td><td>1 954</td>
-</tr>
-<tr>
-<td>Lower Austria (Niederösterreich)</td><td>1 116</td><td>1 835</td><td>2 131</td><td>2 451</td><td>3 189</td><td>4 064</td><td>4 927</td><td>7 975</td>
-</tr>
-<tr>
-<td>Upper Austria (Oberösterreich)</td><td>1 111</td><td>1 783</td><td>2 041</td><td>2 312</td><td>2 879</td><td>3 477</td><td>3 991</td><td>5 053</td>
-</tr>
-<tr>
-<td>Salzburg</td><td>285</td><td>473</td><td>548</td><td>628</td><td>824</td><td>1 030</td><td>1 218</td><td>1 677</td>
-</tr>
-<tr>
-<td>Styria (Steiermark)</td><td>475</td><td>799</td><td>939</td><td>1 097</td><td>1 488</td><td>1 982</td><td>2 501</td><td>4 277</td>
-</tr>
-<tr>
-<td>Tyrol (Tirol)</td><td>309</td><td>517</td><td>604</td><td>701</td><td>935</td><td>1 217</td><td>1 500</td><td>2 373</td>
-</tr>
-<tr>
-<td>Vorarlberg</td><td>277</td><td>458</td><td>534</td><td>617</td><td>805</td><td>1 026</td><td>1 233</td><td>1 745</td>
-</tr>
-<tr>
-<td>Vienna (Wien)</td><td>148</td><td>255</td><td>306</td><td>366</td><td>530</td><td>795</td><td>1 166</td><td>4 971</td>
-</tr>
-<tr style="font-weight:bold;">
-<td>Total Austria (Österreich)</td><td>4 214</td><td>6 944</td><td>8 066</td><td>9 289</td><td>12 142</td><td>15 520</td><td>18 892</td><td>31 749</td>
-</tr>
-  
-  </tbody>
-</table>
-
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-2-TF71-Air-PNG-1765896238615.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/aecd64a183b817a857d9c77e6704ed0624bd2dae/assets/Table-2-TF71-Air-PNG-1765896238615.png" style="display:block; margin:auto;width: 90%; height: 90%;"}-->
 
 ###### Table 4: Achievable Air Heat Potential for the Target Years 2030 and 2040 in the Form of the Number of Installed Units by Federal States (in 1,000 Units).
-<table>
-  <thead>
-    <tr>
-      <th>Region</th>
-      <th>2023</th>
-      <th colspan="3">Number of Units [1,000 Units] – 2030</th>
-      <th colspan="3">Number of Units [1,000 Units] – 2040</th>
-      <th>2050+</th>
-    </tr>
-    <tr>
-      <th></th>
-      <th>Current</th>
-      <th>Low</th>
-      <th>Medium</th>
-      <th>High</th>
-      <th>Low</th>
-      <th>Medium</th>
-      <th>High</th>
-      <th>Techn. Potential</th>
-    </tr>
-  </thead>
-  <tbody>
-   <tr>
-<td>Burgenland</td><td>18</td><td>31</td><td>36</td><td>42</td><td>56</td><td>74</td><td>91</td><td>152</td>
-</tr>
-<tr>
-<td>Carinthia (Kärnten)</td><td>25</td><td>42</td><td>49</td><td>56</td><td>75</td><td>96</td><td>116</td><td>172</td>
-</tr>
-<tr>
-<td>Lower Austria (Niederösterreich)</td><td>98</td><td>161</td><td>187</td><td>216</td><td>280</td><td>357</td><td>433</td><td>701</td>
-</tr>
-<tr>
-<td>Upper Austria (Oberösterreich)</td><td>98</td><td>157</td><td>179</td><td>203</td><td>253</td><td>306</td><td>351</td><td>444</td>
-</tr>
-<tr>
-<td>Salzburg</td><td>25</td><td>42</td><td>48</td><td>55</td><td>72</td><td>91</td><td>107</td><td>147</td>
-</tr>
-<tr>
-<td>Styria (Steiermark)</td><td>42</td><td>70</td><td>83</td><td>96</td><td>131</td><td>174</td><td>220</td><td>376</td>
-</tr>
-<tr>
-<td>Tyrol (Tirol)</td><td>27</td><td>45</td><td>53</td><td>62</td><td>82</td><td>107</td><td>132</td><td>209</td>
-</tr>
-<tr>
-<td>Vorarlberg</td><td>24</td><td>40</td><td>47</td><td>54</td><td>71</td><td>90</td><td>108</td><td>153</td>
-</tr>
-<tr>
-<td>Vienna (Wien)</td><td>13</td><td>22</td><td>27</td><td>32</td><td>47</td><td>70</td><td>103</td><td>437</td>
-</tr>
-<tr style="font-weight:bold;">
-<td>Total Austria (Österreich)</td><td>371</td><td>611</td><td>709</td><td>817</td><td>1 068</td><td>1 365</td><td>1 661</td><td>2 792</td>
-</tr>
 
-  </tbody>
-</table>
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-3-TF71-Air-PNG-1765896466234.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/50415b221189bd00fbbe8df6fa3b0b8c598eb4bc/assets/Table-3-TF71-Air-PNG-1765896466234.png" style="display:block; margin:auto;width: 90%; height: 90%;"}-->
 
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-6-TF71-Air-PNG-1765892572675.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b549415f220b517b961c03bb3be6b8462c0fc8c1/assets/Figure-6-TF71-Air-PNG-1765892572675.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
