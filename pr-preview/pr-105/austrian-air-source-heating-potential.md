@@ -70,12 +70,6 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ### National-Level
 
-
-
-
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-5-TF71-Air-PNG-1765892462583.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1c3ee856e8b0a65198fb6f54fa4bd020514d165/assets/Figure-5-TF71-Air-PNG-1765892462583.png" style="width: 100%; height: 600px;"}-->
-
 ## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-2-TF71-Air-PNG-1765892196926.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94a1b336d21ce092e6b57396fa00a3dd552a09d7/assets/Figure-2-TF71-Air-PNG-1765892196926.png" style="width: 100%; height: 600px;"}-->
 
 ######  Figure 2: History and Temporal Development of Achievable Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
@@ -88,7 +82,9 @@ The results thus provide a realistic depiction of the technically and practicall
 
 ###### Figure 4: Identified Potentials for Air Heat at the National Level (Reference: Capacity; TRANSITION)
 
-##### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-5-TF71-Air-PNG-1765892462583.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1c3ee856e8b0a65198fb6f54fa4bd020514d165/assets/Figure-5-TF71-Air-PNG-1765892462583.png" style="width: 100%; height: 600px;"}-->
+
+###### Figure 5: Identified Potentials for Air Heat at the National Level (Reference: Number of Units; TRANSITION)
 
 ### Regional-Level
 
