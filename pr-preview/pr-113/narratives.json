@@ -6,7 +6,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/site_identification_renewable_energies.md",
     "title": "Site Identification for Renewable Energies",
     "subtitle": "",
-    "image": "assets/previews/Enefit-Greeni-Purtse-hybriidpark-Ida-Virumaal-1749907570161_704d2d58-02b8-4eb9-8109-47050d89c132_preview_preview.png"
+    "image": "assets/previews/Enefit-Greeni-Purtse-hybriidpark-Ida-Virumaal-1749907570161_d3f8655a-b9e3-4a5d-a06b-a9a24c91a66e_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/road-subsidence-1749906097163.webp",
@@ -15,7 +15,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/monitoring_transport_infrastructure.md",
     "title": "Deformation Monitoring Service of Critical Infrastructure for Transport Infrastructure Predictive Maintenance",
     "subtitle": "DMCI Map",
-    "image": "assets/previews/road-subsidence-1749906097163_2b210d35-97ce-46b5-be2b-44e8cac6275c_preview_preview.png"
+    "image": "assets/previews/road-subsidence-1749906097163_0ee54906-6009-4cb5-ad1b-6b1e84e8d6bf_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/brownfieldcover-1749915393864.jpg",
@@ -24,7 +24,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/brownfield-recovery-potential.md",
     "title": "Brownfield Recovery Potential",
     "subtitle": "Area mapping of underutilized properties and brownfields from remote sensing imagery and through application of an Artificial Intelligence algorithm trained with local survey data - a Decision Ready Information Service by Fraunhofer IIS",
-    "image": "assets/previews/brownfieldcover-1749915393864_91338f79-c819-4524-b855-98ef7002d16a_preview_preview.png"
+    "image": "assets/previews/brownfieldcover-1749915393864_7a62a7f4-19cf-4395-951e-dc89c46203e9_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/nvision-solar-panels-cover.webp",
@@ -33,7 +33,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/solar_panel_mapping.md",
     "title": "Solar Panel Mapping",
     "subtitle": "",
-    "image": "assets/previews/nvision-solar-panels-cover_b06a9241-63f0-48b4-8ae4-c587fe07d00c_preview_preview.png"
+    "image": "assets/previews/nvision-solar-panels-cover_2fbb217f-92ba-4dec-861d-52391fae6d79_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Energy-performance-of-buildings-cover-1749975298270.png",
@@ -44,7 +44,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/urban_energy_performance_monitor.md",
     "title": "Urban Energy Performance Monitor",
     "subtitle": "provided by Austrian Institute of Technology and partners",
-    "image": "assets/previews/Energy-performance-of-buildings-cover-1749975298270_3708322c-b23a-4f2d-9bcc-af2acf48d924_preview_preview.png"
+    "image": "assets/previews/Energy-performance-of-buildings-cover-1749975298270_d486fd77-600a-4258-8efe-3576c11b308b_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554563509.png",
@@ -53,7 +53,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/heat_risk_maps.md",
     "title": "Heat Risk Maps",
     "subtitle": "<!--{ layers='[{\"type\":\"Tile\",\"properties\":{\"id\":\"osm\"},\"source\":{\"type\":\"OSM\"}}]' center=[16.37349215538594,48.208361321627784] zoom=\"11\" animationOptions=\"{duration:500}\" }-->",
-    "image": "assets/previews/ExampleViennaRiskbuildings-1742554563509_2291cfbd-a4ab-41f6-b2c7-19cb51481c28_preview_preview.png"
+    "image": "assets/previews/ExampleViennaRiskbuildings-1742554563509_9b7e1a00-6b9c-4c89-ac92-c865231b5198_preview_preview.png"
   },
   {
     "cover-image": "https://github.com/user-attachments/assets/ba568616-1583-4f6b-a647-8b4c2a327bf0",
@@ -62,7 +62,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/temperature-forecast.md",
     "title": "High-resolution Extreme Temperature Forecasts for Cities",
     "subtitle": "forecast air temperature on a spatial scale that is representing urban features",
-    "image": "assets/previews/ba568616-1583-4f6b-a647-8b4c2a327bf0_9420b570-bb6f-4fb1-9dc7-8c88fc4b4d80_preview_preview.png"
+    "image": "assets/previews/ba568616-1583-4f6b-a647-8b4c2a327bf0_9da216e0-9df2-4572-94c2-48ca8428b830_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/LULUCFScreenshot-2025-06-13-174126-1749905176511.png",
@@ -71,7 +71,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/land_use_land_use_change_and_forestry.md",
     "title": "GHG-KIT LULUCF Activity Data",
     "subtitle": "",
-    "image": "assets/previews/LULUCFScreenshot-2025-06-13-174126-1749905176511_04869937-8833-4c0d-a1cb-6f672b3382f4_preview_preview.png"
+    "image": "assets/previews/LULUCFScreenshot-2025-06-13-174126-1749905176511_e7d5a618-17ed-4a0c-8158-b1327335e4a4_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp",
@@ -80,7 +80,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/high-res_forecasts_solar_potential.md",
     "title": "High-resolution Forecasts of Solar Potential",
     "subtitle": "",
-    "image": "assets/previews/solar-potential-1749907032353_cb80a37c-8373-4fad-9a9e-93c710c79041_preview_preview.png"
+    "image": "assets/previews/solar-potential-1749907032353_900a710a-6419-493d-a40a-1c5e617aa027_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/nvision-green-roofs-cover.webp",
@@ -89,14 +89,14 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/green-roof-mapping.md",
     "title": "Green Roof Mapping",
     "subtitle": "",
-    "image": "assets/previews/nvision-green-roofs-cover_206dc548-9e9e-4bb9-b191-c829df6c51d8_preview_preview.png"
+    "image": "assets/previews/nvision-green-roofs-cover_091ad101-bacc-4280-9fa8-e1729eb59dbd_preview_preview.png"
   },
   {
     "cover-image": "https://picsum.photos/id/53/800/600",
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/example-narrative.md",
     "title": "Example Narrative",
     "subtitle": "Markdown with superpowers",
-    "image": "assets/previews/600_1fade349-2e99-4735-8e03-0ae1c0103932_preview_preview.png"
+    "image": "assets/previews/600_619a6550-7072-457e-b818-697b1d927659_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Shallow-geothermal-energy-1568x896-1749906773529.jpg",
@@ -105,7 +105,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/geothermal_energy.md",
     "title": "Exploring the Earth's Gentle Warmth: A Tool for Harnessing Shallow Geothermal Energy",
     "subtitle": "",
-    "image": "assets/previews/Shallow-geothermal-energy-1568x896-1749906773529_e2dea8cd-a2b8-4269-a76a-fec271b13b00_preview_preview.png"
+    "image": "assets/previews/Shallow-geothermal-energy-1568x896-1749906773529_489834e5-b12e-410e-a15b-61c868e54c04_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/multi-temporal-vegetation-analysis-1749908113862.png",
@@ -114,7 +114,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/vegetation-change-dynamics.md",
     "title": "Multitemporal Vegetation Change Dynamics across all Sentinel-2 observations",
     "subtitle": "",
-    "image": "assets/previews/multi-temporal-vegetation-analysis-1749908113862_6e0e6575-bb0b-4eff-b63b-28d30f30f692_preview_preview.png"
+    "image": "assets/previews/multi-temporal-vegetation-analysis-1749908113862_27034866-7843-436f-9c23-7da7ed349c6d_preview_preview.png"
   },
   {
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/solar-thermal.md",
@@ -129,7 +129,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/evapotranspiration-monitoring.md",
     "title": "Evapotranspiration Monitoring Demonstrator for Austria",
     "subtitle": "by Sistema",
-    "image": "assets/previews/evapotranspirationcover-1749285117579_89d6fe40-ab08-45a4-b82a-712c4d78821d_preview_preview.png"
+    "image": "assets/previews/evapotranspirationcover-1749285117579_2fc180d1-ea71-4385-ba10-a7893ec18536_preview_preview.png"
   },
   {
     "cover-image": "https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede",
@@ -138,7 +138,7 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/building_footprints.md",
     "title": "Building Stock Update: Smart City Infrastructure Monitoring",
     "subtitle": "Constant Monitoring",
-    "image": "assets/previews/736dfcf6-0de4-429f-95a4-17ee496fdede_72305722-ca9e-4a37-b08f-4b0f5414b2e9_preview_preview.png"
+    "image": "assets/previews/736dfcf6-0de4-429f-95a4-17ee496fdede_e040adc1-21c6-4952-b78e-75a38384f3fc_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Windatlas-1749907861729.png",
@@ -147,6 +147,6 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-113/wind_atlas.md",
     "title": "Austrian Wind Atlas",
     "subtitle": "",
-    "image": "assets/previews/Windatlas-1749907861729_bb27655a-ac80-4295-97ac-3f7c9ab640b1_preview_preview.png"
+    "image": "assets/previews/Windatlas-1749907861729_78f3d9d9-dbca-4c56-b164-e22767b54f7f_preview_preview.png"
   }
 ]
