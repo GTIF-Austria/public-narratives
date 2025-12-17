@@ -1,7 +1,17 @@
 cover-image: <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/CoverImage-1765899971415.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a1757f13c3021ed26c65f1f858d3568f2ca49887/assets/CoverImage-1765899971415.png" style="display:block; margin:auto;width:100%; height: 100%;"}-->
 ---
-# Austrian Air Source Heating Potential  
 
+<iframe
+  width="100%"
+  height="450"
+  style="border:0; border-radius:12px;"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=16.3700&y=48.2107&z=10.4783&indicator=air_eepot_w23_wocc&datetime=2030-01-01">
+</iframe>
+
+# Austrian Air Source Heating Potential  
 ## Background
 <p style="text-align: justify;">
 For the sub-technology field of ambient air heat, no nationwide harmonized dataset on the spatial distribution of potential has been available to date. Within the project Spatial Energy Planning for Heat Transition (FFG Project 868850), an initial methodological foundation was established; however, this was not transferred into an operational model. Building on this preliminary work, the present project developed, implemented, and applied a consistent methodological framework suitable for determining the potential across Austria.
@@ -113,7 +123,6 @@ Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 20
 [Institution] acts as provider for this service.
 	
 EOX complements with its IT expertise, acting as host and front-end expert.
-
 
 
 
