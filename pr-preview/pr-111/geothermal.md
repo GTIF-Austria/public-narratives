@@ -104,44 +104,45 @@ The methodology for evaluating ambient heat was already described extensively in
 	
 ### Evaluation of Results
 
-Shallow geothermal energy represents a highly promising renewable heating and cooling technology. It offers substantial potential, particularly in urban areas, due to its flexibility, broad applicability, and compatibility with other renewable heat sources.
+<p style="text-align: justify;"> Shallow geothermal energy represents a highly promising renewable heating and cooling technology. It offers substantial potential, particularly in urban areas, due to its flexibility, broad applicability, and compatibility with other renewable heat sources.
 	
-However, the potential analysis shows that the currently installed capacities fall far short of the technical potentials. This is due, on the one hand, to the still limited awareness of the diverse application possibilities of geothermal systems. On the other hand, higher investment costs—especially when compared to air-source heat pumps, the most widespread ambient heat technology—play a significant role.
-Shallow geothermal systems nevertheless hold a central position in the heating transition, especially for space heating. The following aspects are essential for increasing the share of shallow geothermal installations [7]:
+<p style="text-align: justify;"> However, the potential analysis shows that the currently installed capacities fall far short of the technical potentials. This is due, on the one hand, to the still limited awareness of the diverse application possibilities of geothermal systems. On the other hand, higher investment costs—especially when compared to air-source heat pumps, the most widespread ambient heat technology—play a significant role.
+	
+<p style="text-align: justify;"> Shallow geothermal systems nevertheless hold a central position in the heating transition, especially for space heating. The following aspects are essential for increasing the share of shallow geothermal installations [7]:
 	
 **Promoting the Use of Geothermal Energy in Existing Buildings**
 	
-While geothermal systems already constitute standard practice in many new building projects, they are equally suitable for retrofitting existing buildings, including historic or protected structures. State-of-the-art solutions and best-practice examples—particularly in densely built urban areas—should be made accessible to a broad group of stakeholders to highlight potential applications and increase visibility.
+<p style="text-align: justify;"> While geothermal systems already constitute standard practice in many new building projects, they are equally suitable for retrofitting existing buildings, including historic or protected structures. State-of-the-art solutions and best-practice examples—particularly in densely built urban areas—should be made accessible to a broad group of stakeholders to highlight potential applications and increase visibility.
 	
-Successful deployment of geothermal systems in existing buildings is closely linked to renovation measures. Particular attention should be given to the economic synergies between major refurbishment efforts and the integration of geothermal energy, from absorber installation through the building’s climate control concept.
+<p style="text-align: justify;"> Successful deployment of geothermal systems in existing buildings is closely linked to renovation measures. Particular attention should be given to the economic synergies between major refurbishment efforts and the integration of geothermal energy, from absorber installation through the building’s climate control concept.
 	
 **Recognizing Cooling as a Relevant Component of the Energy Transition**
 	
-Increasing summer overheating caused by climate change—together with the formation of urban heat islands and a rising number of tropical nights—places growing strain on the population, particularly on vulnerable groups. Geothermal systems are particularly well suited as a renewable cooling solution: they can not only extract heat from the subsurface but also inject excess heat into it. This stored heat can subsequently be recovered in winter for space heating.
+<p style="text-align: justify;"> Increasing summer overheating caused by climate change—together with the formation of urban heat islands and a rising number of tropical nights—places growing strain on the population, particularly on vulnerable groups. Geothermal systems are particularly well suited as a renewable cooling solution: they can not only extract heat from the subsurface but also inject excess heat into it. This stored heat can subsequently be recovered in winter for space heating.
 	
-This ability to operate within a seasonal “thermal cycle” is a major advantage of geothermal energy over other technologies. Moreover, by storing excess heat in the ground rather than releasing it into the atmosphere, geothermal cooling avoids further intensifying the urban heat island effect.
+<p style="text-align: justify;"> This ability to operate within a seasonal “thermal cycle” is a major advantage of geothermal energy over other technologies. Moreover, by storing excess heat in the ground rather than releasing it into the atmosphere, geothermal cooling avoids further intensifying the urban heat island effect.
 
 **Integration of Geothermal Energy in Multivalent Heating and Cooling, Applications and Anergy Networks; Improving Sector Coupling**
 	
-Shallow geothermal systems exhibit strong integration potential with other low-temperature renewable energy sources. Multivalent low-temperature applications significantly enhance the energy efficiency of geothermal systems when geothermal technologies provide baseload coverage and storage for volatile renewables. In recent years, the first pilot projects for geothermal-assisted low-temperature heating and cooling networks (“anergy networks”) have been implemented in Austria.
+<p style="text-align: justify;"> Shallow geothermal systems exhibit strong integration potential with other low-temperature renewable energy sources. Multivalent low-temperature applications significantly enhance the energy efficiency of geothermal systems when geothermal technologies provide baseload coverage and storage for volatile renewables. In recent years, the first pilot projects for geothermal-assisted low-temperature heating and cooling networks (“anergy networks”) have been implemented in Austria.
 
-Efficiency monitoring of existing installations and improved system simulations—both thermal and hydraulic—of multivalent, storage-supported heating and cooling systems with capacities above 50 kW can make a decisive contribution to the technological development of geothermal-based, decarbonized multivalent systems. With heat pumps acting as “moderators of multivalent applications,” stronger coupling to the electricity sector (sector coupling) is also intended.
+<p style="text-align: justify;"> Efficiency monitoring of existing installations and improved system simulations—both thermal and hydraulic—of multivalent, storage-supported heating and cooling systems with capacities above 50 kW can make a decisive contribution to the technological development of geothermal-based, decarbonized multivalent systems. With heat pumps acting as “moderators of multivalent applications,” stronger coupling to the electricity sector (sector coupling) is also intended.
 
 ## References
 	
-[1] E. Haslinger und G. Götzl, „FTI-Roadmap Geothermie,“ Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK), Wien, 2022.
+<p style="text-align: justify;"> [1] E. Haslinger und G. Götzl, „FTI-Roadmap Geothermie,“ Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK), Wien, 2022.
 	
-[2]P. Biermayr, S. Aigenbauer, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, M. Fuhrmann, M.-C. Haidacher, F. Hengel, M. Jaksch-Fliegenschnee, K. Leonhartsberger, D. Matschegg, S. Moidl, E. Prem, T. Riegler, S. Savic, C. Strasser, P. Wonisch und E. Wopienka, „Innovative Energietechnologien in Österreich Marktentwicklung 2023,“ BMK, Berichte aus Energie- und Umweltforschung 17a/2024, Wien, 2024.
+<p style="text-align: justify;"> [2] P. Biermayr, S. Aigenbauer, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, M. Fuhrmann, M.-C. Haidacher, F. Hengel, M. Jaksch-Fliegenschnee, K. Leonhartsberger, D. Matschegg, S. Moidl, E. Prem, T. Riegler, S. Savic, C. Strasser, P. Wonisch und E. Wopienka, „Innovative Energietechnologien in Österreich Marktentwicklung 2023,“ BMK, Berichte aus Energie- und Umweltforschung 17a/2024, Wien, 2024.
 	
-[3] G. Götzl, C. Steiner, J. Kulich, P. Krois, P. Keglovic, E. Haslinger und J. E. Goldbrunner, Geothermal Energy Use, Country Update for Austria, 2025.
+<p style="text-align: justify;"> [3] G. Götzl, C. Steiner, J. Kulich, P. Krois, P. Keglovic, E. Haslinger und J. E. Goldbrunner, Geothermal Energy Use, Country Update for Austria, 2025.
 	
-[4] Hellström und Sanner, EED - Earth Energy Designer Version 4.3, 2000
+<p style="text-align: justify;"> [4] Hellström und Sanner, EED - Earth Energy Designer Version 4.3, 2000
 	
-[5] Heike Brielmann, Thomas Rosmann, Johannes Grath, Christina Formanek, Harald Loishandl-Weisz, Ingrid Gattringer, Irene Zieritz, „Situation und Entwicklung der Grundwassertemperaturen in Österreich,“ Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft, Wien, 2023
+<p style="text-align: justify;"> [5] Heike Brielmann, Thomas Rosmann, Johannes Grath, Christina Formanek, Harald Loishandl-Weisz, Ingrid Gattringer, Irene Zieritz, „Situation und Entwicklung der Grundwassertemperaturen in Österreich,“ Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft, Wien, 2023
 	
-[6] Umweltbundesamt, „Energie- und Treibhausgasszenarien 2023. WEM, WAM, Transition mit Zeitreihen von 2020 bis 2050. Erhältlich unter: https://www.umweltbundesamt.at/studien-reports/publikationsdetail?pub_id=2503&cHash=142b7026066f138dc8cc2d9e911ab692,“ Wien, 2023
+<p style="text-align: justify;"> [6] Umweltbundesamt, „Energie- und Treibhausgasszenarien 2023. WEM, WAM, Transition mit Zeitreihen von 2020 bis 2050. Erhältlich unter: https://www.umweltbundesamt.at/studien-reports/publikationsdetail?pub_id=2503&cHash=142b7026066f138dc8cc2d9e911ab692,“ Wien, 2023
 	
-[7] Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK), „FTI-Roadmap Geothermie - Vision und FTI-politische Fragestellungen,“ BMK, Wien, 2022.
+<p style="text-align: justify;"> [7] Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK), „FTI-Roadmap Geothermie - Vision und FTI-politische Fragestellungen,“ BMK, Wien, 2022.
 
 ## About 
 <p style="text-align: justify;">
