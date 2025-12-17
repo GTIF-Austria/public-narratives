@@ -7,7 +7,6 @@ cover-image: https://picsum.photos/id/53/800/600
 ----
 # Austrian Geothermal Heating Potential   
 
-# Shallow Geothermal Energy and Groundwater
 ## Introduction
 <p style="text-align: justify;"> The use of shallow geothermal systems is traditionally well established in Austria, particularly in the form of borehole heat exchangers and groundwater-based systems, which have been successfully applied in many regions for over 30 years. These technologies have become indispensable in practice and are recognized as efficient solutions for providing both heating and cooling. The share of shallow geothermal energy in Austria’s renewable heating market is estimated at more than 20%, with further potential in urban areas, especially regarding seasonal thermal storage and cooling applications in anergy networks [1].
 
