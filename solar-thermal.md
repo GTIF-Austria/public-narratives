@@ -33,11 +33,12 @@ The solar radiation potential in Austria is geographically very high. Therefore,
 ### Technical Potential
 
 The technical potential refers to the amount of energy that can be utilized under idealized technical conditions. This involves determining which areas are fundamentally suitable for solar thermal energy, how much collector area can be installed on these surfaces, and what solar yields can potentially be achieved.
-Area Assessment – Building-Integrated Solar Thermal Systems
+
+**Area Assessment – Building-Integrated Solar Thermal Systems**
 
 The assessment of the suitability and utilization potential of roof areas is conducted on a raster basis (1 × 1 m). For the determination of the technical potential, roof areas with annual irradiation levels above 850 kWh/m²·a are assumed to be fully suitable. It is assumed that by 2040, less favourable irradiation classes will be exploited to a greater extent than in 2030. The conversion of roof area potentials into installable collector areas is carried out depending on the roof type and the selected mounting configuration
 
-###Area Assessment for “Ground-Mounted Solar Thermal Systems”
+**Area Assessment for “Ground-Mounted Solar Thermal Systems”**
 
 For ground-mounted solar thermal systems, four land-use classes were identified as potentially suitable areas and evaluated nationwide based on georeferenced data: Industrial, Agricultural cropland, Agricultural used grassland and Landfills and secured contained sites. 
 
