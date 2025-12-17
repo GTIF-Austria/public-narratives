@@ -8,6 +8,14 @@ cover-image: https://picsum.photos/id/53/800/600
 
 # Solar Thermal
 
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-4-TF6-Solar-Thermal-1765979431605.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/90151cae6fdd3e8ca2a829dc70aa614b58f143d5/assets/Figure-4-TF6-Solar-Thermal-1765979431605.png" style="width: 100%; height: 600px;"}-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-3-TF6-Solar-Thermal-1765979418078.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/407a2647076ab10053d9629e7ba5d4e3b50831fa/assets/Figure-3-TF6-Solar-Thermal-1765979418078.png" style="width: 100%; height: 600px;"}-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-2-TF6-Solar-Thermal-1765979398714.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/727e3223083ab7cbe0704af784206e5651c67f64/assets/Figure-2-TF6-Solar-Thermal-1765979398714.png" style="width: 100%; height: 600px;"}-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-1-TF6-Solar-Thermal-1765979386150.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/bcc38a9002fbc96277e7581debe9a13bfc1a4795/assets/Figure-1-TF6-Solar-Thermal-1765979386150.png" style="width: 100%; height: 600px;"}-->
+
 ## Background
 
 <p style="text-align: justify;"> Solar thermal systems utilize solar irradiation to supply space heating and domestic hot water. The technology has been well established for several decades and is applied both in individual buildings and in solar-assisted local and district heating networks.
