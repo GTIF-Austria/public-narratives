@@ -6,8 +6,7 @@ cover-image: https://picsum.photos/id/53/800/600
 
 # Solar Thermal <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
 
-## Solar Thermal
-TF6 Solar Thermal
+# Solar Thermal
 Background
 Solar thermal systems utilize solar irradiation to supply space heating and domestic hot water. The technology has been well established for several decades and is applied both in individual buildings and in solar-assisted local and district heating networks.
 In contrast to photovoltaics, solar thermal energy is spatially constrained by the presence of local heat sinks. In the absence of adequate thermal storage or an immediate heat demand, a portion of the technically achievable energy yield cannot be utilized. Consequently, the realizable potential depends to a large extent on spatial and systemic integration. Key influencing factors include:
