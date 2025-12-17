@@ -1,6 +1,22 @@
-cover-image: <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/CoverImage-1765899971415.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a1757f13c3021ed26c65f1f858d3568f2ca49887/assets/CoverImage-1765899971415.png" style="display:block; margin:auto;width:100%; height: 100%;"}-->
+
+---
+title: Deep Geothermal
+cover-image: https://picsum.photos/id/53/800/600
 ---
 
+# Air Source Heating Potential <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
+
+# Austria GTIF - Air Source Heating Potential
+
+<iframe
+  width="100%"
+  height="450"
+  style="border:0; border-radius:12px;"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=16.3700&y=48.2107&z=10.4783&indicator=air_eepot_w23_wocc&datetime=2030-01-01">
+</iframe>
 
 
 # Austrian Air Source Heating Potential  
@@ -13,7 +29,7 @@ The thermal energy supplied by all heat pump systems amounted to approximately 9
 	</p><p style="text-align: justify;">
 The share of ambient air within total environmental heat utilization is approximated based on the respective market shares of air-source heat pumps (and analogously for all other heat pump source systems). 	</p>
 
-## Methodological Concept
+## Methodology
 
 #### Definition and Delimitation
 <p style="text-align: justify;">
@@ -114,15 +130,6 @@ Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 20
 	
 EOX complements with its IT expertise, acting as host and front-end expert.
 	
-<iframe
-  width="100%"
-  height="450"
-  style="border:0; border-radius:12px;"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=16.3700&y=48.2107&z=10.4783&indicator=air_eepot_w23_wocc&datetime=2030-01-01">
-</iframe>
 
 
 
