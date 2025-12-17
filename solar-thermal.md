@@ -83,11 +83,11 @@ The potential assessment distinguishes between two main application areas:
 
 <p style="text-align: justify;"> The assessment of the realisable potential for building-integrated solar thermal systems is based on the Transition heat demand scenario of the Austrian Heat Map. This scenario represents an ambitious pathway towards the decarbonisation of the heat sector and accounts for a substantial reduction in space heating demand as a result of comprehensive thermal retrofitting and the modernisation of the building stock. At the national level, the realisable potential of building-integrated solar thermal energy amounts to up to 6.2 TWh/a in 2030 and 11.9 TWh/a in 2040 (in each case including existing installations).
  
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-1-TF6-Solar-Thermal-1765979386150.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/bcc38a9002fbc96277e7581debe9a13bfc1a4795/assets/Figure-1-TF6-Solar-Thermal-1765979386150.png" style="style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-1-TF6-Solar-Thermal-1765979386150.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/bcc38a9002fbc96277e7581debe9a13bfc1a4795/assets/Figure-1-TF6-Solar-Thermal-1765979386150.png" style="style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 	
 ###### Figure 1 Temporal development of realisable potentials for building-integrated solar thermal energy
 	
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-2-TF6-Solar-Thermal-1765979398714.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/727e3223083ab7cbe0704af784206e5651c67f64/assets/Figure-2-TF6-Solar-Thermal-1765979398714.png" style="style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-2-TF6-Solar-Thermal-1765979398714.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/727e3223083ab7cbe0704af784206e5651c67f64/assets/Figure-2-TF6-Solar-Thermal-1765979398714.png" style="style="display:block; margin:auto;width: 70%; height: 70%;"}-->
  
 ###### Figure 2 Identified energy potentials for building-integrated solar thermal systems
 
@@ -97,11 +97,11 @@ The potential assessment distinguishes between two main application areas:
 
 <p style="text-align: justify;"> At the national level, the realisable potential of ground-mounted solar thermal energy for feeding into district heating networks amounts to up to 0.3 TWh/a in 2030 and 1.0 TWh/a in 2040 (in both cases including existing installations).
 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-3-TF6-Solar-Thermal-1765979418078.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/407a2647076ab10053d9629e7ba5d4e3b50831fa/assets/Figure-3-TF6-Solar-Thermal-1765979418078.png" style="style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-3-TF6-Solar-Thermal-1765979418078.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/407a2647076ab10053d9629e7ba5d4e3b50831fa/assets/Figure-3-TF6-Solar-Thermal-1765979418078.png" style="style="display:block; margin:auto;width: 70%; height: 70%;"}-->
  
 ###### Figure 3 Temporal development of realisable potentials for ground-mounted solar thermal systems
 	
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-4-TF6-Solar-Thermal-1765979431605.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/90151cae6fdd3e8ca2a829dc70aa614b58f143d5/assets/Figure-4-TF6-Solar-Thermal-1765979431605.png" style="style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-4-TF6-Solar-Thermal-1765979431605.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/90151cae6fdd3e8ca2a829dc70aa614b58f143d5/assets/Figure-4-TF6-Solar-Thermal-1765979431605.png" style="style="display:block; margin:auto;width: 70%; height: 70%;"}-->
  
 ###### Figure 4 Identified energy potentials for ground-mounted solar thermal systems
 
