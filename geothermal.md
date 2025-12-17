@@ -5,27 +5,6 @@ cover-image: https://picsum.photos/id/53/800/600
 # Geothermal  <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
 
 ----
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-11-T7.3-Geothermal-1765969971025.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/064e069e7ac44ff02a44618284f97923f58c1280/assets/Figure-11-T7.3-Geothermal-1765969971025.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-10-T7.3-Geothermal-1765969958423.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6a73bbdeb375237a1375c207a4da642f21f6f1ba/assets/Figure-10-T7.3-Geothermal-1765969958423.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-9-T7.3-Geothermal-1765969943967.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f26bfbe02f35a690764d2fc51d850365c5e2c24b/assets/Figure-9-T7.3-Geothermal-1765969943967.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-8-T7.3-Geothermal-1765969931445.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94b581db61980da8e7b8f1aeef8103def40d8679/assets/Figure-8-T7.3-Geothermal-1765969931445.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-7-T7.3-Geothermal-1765969916683.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/07e942a0a92ff27c34d4ff834ae77cdd046496f3/assets/Figure-7-T7.3-Geothermal-1765969916683.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-6-T7.3-Geothermal-1765969880897.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a5ec4cc6e620350cb26ad5056f947775d659df0f/assets/Figure-6-T7.3-Geothermal-1765969880897.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-5-T7.3-Geothermal-1765969864562.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b65002b74f5b3df3734f2a582d6473ddfb856734/assets/Figure-5-T7.3-Geothermal-1765969864562.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-4-T7.3-Geothermal-1765969838476.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/aa95d0f231a035095a878b289825fe865b3f1ce6/assets/Figure-4-T7.3-Geothermal-1765969838476.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-3-T7.3-Geothermal-1765969825233.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c84dac54b85af42b3f6858cea7bb49cfa7502905/assets/Figure-3-T7.3-Geothermal-1765969825233.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-2-T7.3-Geothermal-1765969810136.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f0538b545c718dd33bbb3d2e1bd97fa020ed3a33/assets/Figure-2-T7.3-Geothermal-1765969810136.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-1-T7.3-Geothermal-1765969789457.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b4f429cc34349f1461b5de2c5585b149d96d7820/assets/Figure-1-T7.3-Geothermal-1765969789457.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 # Austrian Geothermal Heating Potential   
 
@@ -62,9 +41,15 @@ A key metric for evaluating system efficiency is the seasonal performance factor
 
 <p style="text-align: justify;"> For determining the SPF, building heat demand from the Austrian Heat Map is divided into a constant domestic hot water demand and a heating demand weighted by heating degree days, based on the distribution of building age classes and renovation levels.
 
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-1-T7.3-Geothermal-1765969789457.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b4f429cc34349f1461b5de2c5585b149d96d7820/assets/Figure-1-T7.3-Geothermal-1765969789457.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ######  Figure 1 Seasonal Performance Factors of Brine–Water Heat Pumps (Closed Horizontal Systems) in Graz as a Function of Supply Temperatures and Space-Heating/Domestic Hot Water Shares
-	
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-2-T7.3-Geothermal-1765969810136.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f0538b545c718dd33bbb3d2e1bd97fa020ed3a33/assets/Figure-2-T7.3-Geothermal-1765969810136.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ######  Figure 2 Seasonal Performance Factors of Brine–Water Heat Pumps (Closed Vertical Systems) in Graz as a Function of Supply Temperatures and Space-Heating/Domestic Hot Water Shares
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-3-T7.3-Geothermal-1765969825233.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c84dac54b85af42b3f6858cea7bb49cfa7502905/assets/Figure-3-T7.3-Geothermal-1765969825233.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ######  Figure 3 Seasonal Performance Factors of Water–Water Heat Pumps (Open Systems) in Graz as a Function of Supply Temperatures and Space-Heating/Domestic Hot Water Shares
 	
@@ -106,23 +91,41 @@ The methodology for evaluating ambient heat was already described extensively in
 
 <p style="text-align: justify;"> To estimate the combined potential, the seasonal performance factors (SPF/JAZ) of both system types were averaged, enabling a robust estimation that accounts for the range of system configurations.
 
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-4-T7.3-Geothermal-1765969838476.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/aa95d0f231a035095a878b289825fe865b3f1ce6/assets/Figure-4-T7.3-Geothermal-1765969838476.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ###### Figure 4 Historical and Temporal Development of Realizable Heat Potentials—Ambient Heat Input to Heat Pumps—at the National Scale (Energy Reference Basis)
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-5-T7.3-Geothermal-1765969864562.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b65002b74f5b3df3734f2a582d6473ddfb856734/assets/Figure-5-T7.3-Geothermal-1765969864562.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+	
 ######	Figure 5 Identified Heat Potentials—Ambient Heat Input to Heat Pumps—from Shallow Geothermal Energy (Closed Systems) at the National Scale (Energy Reference Basis)
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-6-T7.3-Geothermal-1765969880897.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a5ec4cc6e620350cb26ad5056f947775d659df0f/assets/Figure-6-T7.3-Geothermal-1765969880897.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+	
 ######	Figure 6 Identified Potentials—Heating Capacity of Heat Pumps—from Shallow Geothermal Energy (Closed Systems) at the National Scale (Capacity Reference Basis)
 	
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-7-T7.3-Geothermal-1765969916683.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/07e942a0a92ff27c34d4ff834ae77cdd046496f3/assets/Figure-7-T7.3-Geothermal-1765969916683.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ###### Figure 7 Identified Potentials for Shallow Geothermal Energy (Closed Systems) at the National Scale, Referenced by Number of Installations
 
 ### Results of Open Systems (OS)
+	
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-8-T7.3-Geothermal-1765969931445.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94b581db61980da8e7b8f1aeef8103def40d8679/assets/Figure-8-T7.3-Geothermal-1765969931445.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 8 Historical and Temporal Development of Realizable Heat Potential—Ambient Heat Input to Heat Pumps—at the National Scale (Energy Reference Basis) 
 
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-9-T7.3-Geothermal-1765969943967.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f26bfbe02f35a690764d2fc51d850365c5e2c24b/assets/Figure-9-T7.3-Geothermal-1765969943967.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ###### Figure 9 Identified Heat Potential—Ambient Heat Input to Heat Pumps—from Shallow Geothermal Open Systems at the National Scale (Energy Reference Basis)
 	
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-10-T7.3-Geothermal-1765969958423.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6a73bbdeb375237a1375c207a4da642f21f6f1ba/assets/Figure-10-T7.3-Geothermal-1765969958423.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ###### Figure 10 Identified Potentials for Shallow Geothermal Open Systems at the National Scale (Capacity Reference Basis)
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-11-T7.3-Geothermal-1765969971025.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/064e069e7ac44ff02a44618284f97923f58c1280/assets/Figure-11-T7.3-Geothermal-1765969971025.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 11 Identified Potentials for Shallow Geothermal Open Systems at the National Scale, Referenced by Number of Installations
 
-	
 ### Evaluation of Results
 
 <p style="text-align: justify;"> Shallow geothermal energy represents a highly promising renewable heating and cooling technology. It offers substantial potential, particularly in urban areas, due to its flexibility, broad applicability, and compatibility with other renewable heat sources.
