@@ -19,19 +19,19 @@ cover-image: https://picsum.photos/id/53/800/600
 
 ## Methodological Concept
 	
-### Definition and Scope
+#### Definition and Scope
 	
 <p style="text-align: justify;"> Shallow geothermal energy (lower than 300 m below ground surface) encompasses a wide variety of technologies used to access near-surface thermal resources. In addition to the well-known systems—closed vertical collectors (borehole heat exchangers) and open systems based on groundwater extraction—a range of alternative technologies can harness low-temperature heat from the subsurface (“ambient heat”), particularly where drilling is not feasible or groundwater availability is limited. Examples include spiral collectors, ring trench collectors, and massive absorbers. For this reason, heat from the shallow subsurface has been classified as a universally available resource. 
 
 <p style="text-align: justify;"> Thermal groundwater use was designated as available only in areas with sufficient aquifer yield. Closed geothermal systems (e.g., borehole heat exchangers) were assumed to be deployable in all areas.
 
-### Theoretical Potential
+#### Theoretical Potential
 
 <p style="text-align: justify;"> The thermal energy stored in the shallow subsurface is, in principle, virtually unlimited, as it is replenished continuously by solar radiation, precipitation, and natural geothermal heat flux. Utilization typically occurs at depths of up to 300 meters and temperatures of approximately 25–30 °C using closed systems (borehole heat exchangers, surface collectors, ring trench collectors) or open systems (groundwater heat extraction) [1].
 
 <p style="text-align: justify;"> An exact quantification of the total theoretical potential was not carried out due to its theoretical inexhaustibility and its strong dependence on local geological and hydrogeological conditions.
 
-### Technical Potential
+#### Technical Potential
 
 The technical feasibility of shallow geothermal systems is determined primarily by the efficiency of the heat pump, which, for the three system types considered (closed vertical, closed horizontal, open), depends largely on the following factors:
 
@@ -55,7 +55,7 @@ A key metric for evaluating system efficiency is the seasonal performance factor
 
 ######  Figure 3 Seasonal Performance Factors of Water–Water Heat Pumps (Open Systems) in Graz as a Function of Supply Temperatures and Space-Heating/Domestic Hot Water Shares
 	
-###	Realizable Potential
+####	Realizable Potential
 
 <p style="text-align: justify;"> The realizable potential is determined using a diffusion model (S-curve). This approach represents a model-based approximation whose limitations must be considered when interpreting the results.
 
@@ -87,7 +87,7 @@ The methodology for evaluating ambient heat was already described extensively in
 *	Undisturbed ground temperatures
 
 
-### Results of Closed Systems (GS)
+#### Results of Closed Systems (GS)
 	
 <p style="text-align: justify;"> In this study, closed systems—both vertical and horizontal configurations—were analysed separately at first and subsequently combined. This procedure was chosen because the potential of horizontal systems depends strongly on the available land area. As no specific spatial data on available surface area were available for this study, a combined assessment of the two system types was carried out.
 
@@ -110,7 +110,7 @@ The methodology for evaluating ambient heat was already described extensively in
 
 ###### Figure 7 Identified Potentials for Shallow Geothermal Energy (Closed Systems) at the National Scale, Referenced by Number of Installations
 
-### Results of Open Systems (OS)
+#### Results of Open Systems (OS)
 	
 ## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-8-T7.3-Geothermal-1765969931445.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94b581db61980da8e7b8f1aeef8103def40d8679/assets/Figure-8-T7.3-Geothermal-1765969931445.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
@@ -128,7 +128,7 @@ The methodology for evaluating ambient heat was already described extensively in
 
 ###### Figure 11 Identified Potentials for Shallow Geothermal Open Systems at the National Scale, Referenced by Number of Installations
 
-### Evaluation of Results
+#### Evaluation of Results
 
 <p style="text-align: justify;"> Shallow geothermal energy represents a highly promising renewable heating and cooling technology. It offers substantial potential, particularly in urban areas, due to its flexibility, broad applicability, and compatibility with other renewable heat sources.
 	
