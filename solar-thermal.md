@@ -7,71 +7,112 @@ cover-image: https://picsum.photos/id/53/800/600
 # Solar Thermal <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
 
 # Solar Thermal
-Background
+
+## Background
 Solar thermal systems utilize solar irradiation to supply space heating and domestic hot water. The technology has been well established for several decades and is applied both in individual buildings and in solar-assisted local and district heating networks.
+
 In contrast to photovoltaics, solar thermal energy is spatially constrained by the presence of local heat sinks. In the absence of adequate thermal storage or an immediate heat demand, a portion of the technically achievable energy yield cannot be utilized. Consequently, the realizable potential depends to a large extent on spatial and systemic integration. Key influencing factors include:
-	Development of future heat demand
-	Availability of suitable roof areas
-	Availability of suitable open land in proximity to heating networks
-	Solar irradiation, shading effects, technical constraints, and permissible coverage ratios
-Methodological Framework
+
+* Development of future heat demand
+* Availability of suitable roof areas
+* Availability of suitable open land in proximity to heating networks
+* Solar irradiation, shading effects, technical constraints, and permissible coverage ratios
+
+## Methodological Framework
+
 The analysis exclusively considers space heating and domestic hot water demand in residential and non-residential buildings (hereinafter jointly referred to as heat demand). Cooling energy and process heat are not included. Heat demand is differentiated—based on existing heating networks and modelled heat demand densities—into shares suitable for district heating (ground-mounted solar thermal systems) and shares not suitable for district heating (building-integrated solar thermal systems).
+
 The potential assessment distinguishes between two main application areas:
-Building-integrated solar thermal systems: Systems for domestic hot water preparation and partially solar-supported space heating (solar combi-systems). Typical coverage ratios range from 60–75% of domestic hot water demand and from 10–40% of the combined heat demand (space heating, SH, plus domestic hot water, DHW) [2].
-Solar-assisted heating networks (ground-mounted systems): Large-scale solar thermal installations supplying local and district heating networks. Typical coverage ratios amount to 5–25% of the total heat demand of the network [2]. 
-Theoretical Potential
+
+* Building-integrated solar thermal systems: Systems for domestic hot water preparation and partially solar-supported space heating (solar combi-systems). Typical coverage ratios range from 60–75% of domestic hot water demand and from 10–40% of the combined heat demand (space heating, SH, plus domestic hot water, DHW) [2].
+* Solar-assisted heating networks (ground-mounted systems): Large-scale solar thermal installations supplying local and district heating networks. Typical coverage ratios amount to 5–25% of the total heat demand of the network [2]. 
+
+## Theoretical Potential
 The solar radiation potential in Austria is geographically very high. Therefore, an explicit quantification of the theoretical potential has not been conducted. Instead, the assessment focuses on spatial, system-specific, infrastructural, and economic constraints.
-Technical Potential
+
+### Technical Potential
+
 The technical potential refers to the amount of energy that can be utilized under idealized technical conditions. This involves determining which areas are fundamentally suitable for solar thermal energy, how much collector area can be installed on these surfaces, and what solar yields can potentially be achieved.
 Area Assessment – Building-Integrated Solar Thermal Systems
+
 The assessment of the suitability and utilization potential of roof areas is conducted on a raster basis (1 × 1 m). For the determination of the technical potential, roof areas with annual irradiation levels above 850 kWh/m²·a are assumed to be fully suitable. It is assumed that by 2040, less favourable irradiation classes will be exploited to a greater extent than in 2030. The conversion of roof area potentials into installable collector areas is carried out depending on the roof type and the selected mounting configuration
-Area Assessment for “Ground-Mounted Solar Thermal Systems”
+
+###Area Assessment for “Ground-Mounted Solar Thermal Systems”
+
 For ground-mounted solar thermal systems, four land-use classes were identified as potentially suitable areas and evaluated nationwide based on georeferenced data: Industrial, Agricultural cropland, Agricultural used grassland and Landfills and secured contained sites. 
+
 All areas with the following characteristics were excluded from use:
-	Protected areas 
-	Built-up areas (e.g. buildings, infrastructure)
-	Topographically unsuitable locations (altitude above 2,500 m or steep slopes exceeding 30°–60°, depending on spatial scale)
+*	Protected areas 
+*	Built-up areas (e.g. buildings, infrastructure)
+*	Topographically unsuitable locations (altitude above 2,500 m or steep slopes exceeding 30°–60°, depending on spatial scale)
+
 For the potential assessment, it is assumed that open land areas with annual irradiation levels above 850 kWh/m²·a are fully suitable. The installable collector area is derived using an area utilization factor of 0.4, analogous to installations mounted on flat roofs. In addition, it is verified whether the areas are located in suitable proximity to heating networks.
-Realizable Potentials
-The realizable potentials are derived from the technical potential by applying additional system-related, spatial, and market-related constraints. They represent those energy quantities that appear to be practically attainable by the target years 2030 and 2040 under realistic assumptions regarding system integration and market dynamics.
-Within building-integrated solar thermal applications, a distinction is made between solar domestic hot water systems and solar combi-systems (space heating plus domestic hot water). The share between these two system types is assumed to be 75% and 25%, respectively.
-System-related constraints
+
+### Realizable Potentials
+
+The realizable potentials are derived from the technical potential by applying additional system-related, spatial, and market-related constraints. They represent those energy quantities that appear to be practically attainable by the target years 2030 and 2040 under realistic assumptions regarding system integration and market dynamics. Within building-integrated solar thermal applications, a distinction is made between solar domestic hot water systems and solar combi-systems (space heating plus domestic hot water). The share between these two system types is assumed to be 75% and 25%, respectively.
+
+**System-related constraints**
+
 The realizable collector areas and the associated solar thermal yields are limited by applying technology-specific upper bounds on heat demand coverage. These limits are aligned with systemically meaningful shares for meeting the respective heat demand and serve to avoid energetic oversizing.
-Spatial constraints
+
+**Spatial constraints**
+
 In determining both the technical and realizable potentials for ground-mounted solar thermal systems, additional spatial criteria are applied. For each identified suitable area, it is assessed whether it is located in sufficient spatial proximity to a district heating area as defined under the WEM scenario. Only areas within an economically feasible transmission distance are considered.
-Market-Related Constraints – S-Curve Model
+
+**Market-Related Constraints – S-Curve Model**
+
 The realizable potential for 2030 and 2040 is constrained using a technology-specific S-curve model. This model represents the expected deployment pathway of solar thermal energy based on historical market development as documented in market statistics [4]. A dynamic growth pattern analogous to the Austrian market development between 2000 and 2010 is assumed.
-Calculation of Levelized Cost of Heat
+
+**Calculation of Levelized Cost of Heat**
+
 For the economic assessment of realizable potentials, the specific levelized cost of heat (LCOH) is calculated for both application types. The LCOH represents the average cost per unit of heat generated over the lifetime of a system and enables a comparative evaluation across different technologies and locations. The calculation is based on the realizable collector areas, the resulting thermal peak capacities, and the specific yields derived from regression models. 
-Assumptions on Economic Parameters
+
+**Assumptions on Economic Parameters**
+
 The following assumptions apply to the economic framework. A real weighted average cost of capital (WACC) of 6.52% is used. Electricity prices are not considered, as the electricity demand for pumps, control systems, and similar components is assumed to be negligible. The assumed system lifetime is 20 years for building-integrated systems and 25 years for ground-mounted solar thermal systems. All calculations are carried out at the municipal level and are both technology- and site-specific, which allows regional differences in irradiation, heat demand, and system integration to be adequately represented.
-Results
+
+## Results
+
 The results of the potential assessment are presented below separately for building-integrated solar thermal systems and solar-supported district heating networks. The target years considered are 2030 and 2040, each differentiated into low, medium, and high scenarios. The results are available in aggregated form at the municipal, federal state, and national levels.
-Building-integrated solar thermal systems
-The assessment of the realisable potential for building-integrated solar thermal systems is based on the Transition heat demand scenario of the Austrian Heat Map. This scenario represents an ambitious pathway towards the decarbonisation of the heat sector and accounts for a substantial reduction in space heating demand as a result of comprehensive thermal retrofitting and the modernisation of the building stock.
-At the national level, the realisable potential of building-integrated solar thermal energy amounts to up to 6.2 TWh/a in 2030 and 11.9 TWh/a in 2040 (in each case including existing installations).
+
+### Building-integrated solar thermal systems
+The assessment of the realisable potential for building-integrated solar thermal systems is based on the Transition heat demand scenario of the Austrian Heat Map. This scenario represents an ambitious pathway towards the decarbonisation of the heat sector and accounts for a substantial reduction in space heating demand as a result of comprehensive thermal retrofitting and the modernisation of the building stock. At the national level, the realisable potential of building-integrated solar thermal energy amounts to up to 6.2 TWh/a in 2030 and 11.9 TWh/a in 2040 (in each case including existing installations).
  
-Figure 3 Temporal development of realisable potentials for building-integrated solar thermal energy
+###### Figure 1 Temporal development of realisable potentials for building-integrated solar thermal energy
  
-Figure 4 Identified energy potentials for building-integrated solar thermal systems
-Solar-supported district heating networks
+###### Figure 2 Identified energy potentials for building-integrated solar thermal systems
+
+### Solar-supported district heating networks
+
 The assessment of the realisable potential for ground-mounted solar thermal systems is based on the WEM heat demand scenario of the Austrian Heat Map 2023. This scenario represents a medium pathway of heat demand reduction and reflects a moderate, yet spatially significant, expansion of potential district heating areas.
+
 At the national level, the realisable potential of ground-mounted solar thermal energy for feeding into district heating networks amounts to up to 0.3 TWh/a in 2030 and 1.0 TWh/a in 2040 (in both cases including existing installations).
  
-Figure 11 Temporal development of realisable potentials for ground-mounted solar thermal systems
+###### Figure 3 Temporal development of realisable potentials for ground-mounted solar thermal systems
  
-Figure 12 Identified energy potentials for ground-mounted solar thermal systems
-Evaluation of results
+###### Figure 4 Identified energy potentials for ground-mounted solar thermal systems
+
+### Evaluation of results
+
 The realisable total potential of solar thermal energy on building roofs and open land in Austria amounts to up to 6.5 TWh/a in 2030 and 12.9 TWh/a in 2040 (in both cases including existing installations).
+
 The results underline that it is not the lack of suitable areas, but rather economic, infrastructural, and organisational factors that constrain the actual realisation of solar thermal potentials.
+
 In the long term, solar thermal energy—particularly in combination with thermal storage, hybrid supply systems, and the reduction of system temperatures in space heating—can make a substantial contribution to the decarbonisation of the Austrian heat sector. Key levers in this regard include:
-	targeted integration into municipal heat planning processes,
-	the creation of appropriate investment incentives,
-	regulatory requirements for solar integration in new construction and building renovation,
-	the reduction of system temperatures in district heating networks and existing buildings, and
-	the consistent expansion of fourth- and fifth-generation district heating networks (low-temperature and anergy networks) with integrated solar thermal systems.
-References
+
+*	targeted integration into municipal heat planning processes,
+*	the creation of appropriate investment incentives,
+*	regulatory requirements for solar integration in new construction and building renovation,
+*	the reduction of system temperatures in district heating networks and existing buildings, and
+*	the consistent expansion of fourth- and fifth-generation district heating networks (low-temperature and anergy networks) with integrated solar thermal systems.
+
+### References
+
 [1] 	P. Biermayr, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, A. Haumer, M. Jaksch-Fliegenschnee, K. Leonhartsberger, C. Strasser und P. Wonisch, „Innovative Energietechnologien in Österreich Marktentwicklung 2024,“ BMK, Berichte aus Energie- und Umweltforschung 23/2025, Wien, 2025.
+
 [2] 	Mauthner F., Herkel S., „Classification and benchmarking of solar thermal systems in urban environments,“ Technical report IEA-SHC Task 52 Subtask C (Part C1), 15 June 2016.
+
 [3] 	„Austrian Heat Map,“ 2024. [Online]. Available: https://austrian-heatmap.gv.at/karte/. [Zugriff am 25 03 2024].
+
 [4] 	P. Biermayr, S. Aigenbauer, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, M. Fuhrmann, M.-C. Haidacher, F. Hengel, M. Jaksch-Fliegenschnee, K. Leonhartsberger, D. Matschegg, S. Moidl, E. Prem, T. Riegler, S. Savic, C. Strasser, P. Wonisch und E. Wopienka, „Innovative Energietechnologien in Österreich Marktentwicklung 2023,“ BMK, Berichte aus Energie- und Umweltforschung 17a/2024, Wien, 2024.
