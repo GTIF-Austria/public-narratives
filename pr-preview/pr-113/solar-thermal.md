@@ -77,14 +77,14 @@ The following assumptions apply to the economic framework. A real weighted avera
 
 The results of the potential assessment are presented below separately for building-integrated solar thermal systems and solar-supported district heating networks. The target years considered are 2030 and 2040, each differentiated into low, medium, and high scenarios. The results are available in aggregated form at the municipal, federal state, and national levels.
 
-### Building-integrated solar thermal systems
+#### Building-integrated solar thermal systems
 The assessment of the realisable potential for building-integrated solar thermal systems is based on the Transition heat demand scenario of the Austrian Heat Map. This scenario represents an ambitious pathway towards the decarbonisation of the heat sector and accounts for a substantial reduction in space heating demand as a result of comprehensive thermal retrofitting and the modernisation of the building stock. At the national level, the realisable potential of building-integrated solar thermal energy amounts to up to 6.2 TWh/a in 2030 and 11.9 TWh/a in 2040 (in each case including existing installations).
  
 ###### Figure 1 Temporal development of realisable potentials for building-integrated solar thermal energy
  
 ###### Figure 2 Identified energy potentials for building-integrated solar thermal systems
 
-### Solar-supported district heating networks
+#### Solar-supported district heating networks
 
 The assessment of the realisable potential for ground-mounted solar thermal systems is based on the WEM heat demand scenario of the Austrian Heat Map 2023. This scenario represents a medium pathway of heat demand reduction and reflects a moderate, yet spatially significant, expansion of potential district heating areas.
 
@@ -94,7 +94,7 @@ At the national level, the realisable potential of ground-mounted solar thermal 
  
 ###### Figure 4 Identified energy potentials for ground-mounted solar thermal systems
 
-### Evaluation of results
+#### Evaluation of results
 
 The realisable total potential of solar thermal energy on building roofs and open land in Austria amounts to up to 6.5 TWh/a in 2030 and 12.9 TWh/a in 2040 (in both cases including existing installations).
 
