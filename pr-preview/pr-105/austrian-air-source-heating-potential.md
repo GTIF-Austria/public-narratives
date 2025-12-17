@@ -27,8 +27,8 @@ The thermal energy stored in ambient air is—under normal conditions—physical
 <p style="text-align: justify;">
 The technical usability of ambient air heat is determined primarily by the efficiency of the heat pump, which is influenced by the following key parameters:
 
-* Heat source: average monthly outdoor air temperature at the respective location
-* Heat sink: required supply temperature in the heating and domestic hot water system, depending on the building’s construction period and renovation status
+* <p style="text-align: justify;">Heat source: average monthly outdoor air temperature at the respective location
+* <p style="text-align: justify;">Heat sink: required supply temperature in the heating and domestic hot water system, depending on the building’s construction period and renovation status
 
 <p style="text-align: justify;">
 For determining the seasonal performance factor (SPF/JAZ), the heating demand according to the Austrian Heat Map is divided—based on the distribution of building age classes and renovation levels—into a constant domestic hot water demand (DHW) and a heating degree-day–weighted space heating demand (SHD) (see Figure 1).
@@ -87,10 +87,10 @@ Ambient air heat is currently the most widespread ambient heat technology in Aus
 <p style="text-align: justify;">
 The potential analysis shows that the use of ambient air heat could increase from the current level of approximately 4.5 TWh (2023) to around 20.4 TWh of supplied environmental heat by 2040 under realistic market trajectories. Key drivers of this expansion include ambitious renovation rates (in line with WEM 2023), the decarbonization of individual heating systems, and economic incentives for high-efficiency heat pumps. However, several additional factors must also be taken into account:
 
-* Electricity prices and the availability of renewable power: The economic viability and climate impact of air-source heat pumps depend strongly on the development of electricity prices and the share of renewables in the electricity mix. A high share of renewable electricity generation is essential to minimize indirect emissions.
-* Grid infrastructure and load management: The additional electricity demand resulting from large-scale heat pump deployment puts new requirements on power grids. Load management strategies, flexibility options, and, where necessary, storage solutions are needed to prevent grid congestion.
-* Competition for electricity: Electricity demand is increasing not only due to the heat transition but also in other sectors, such as the rapid uptake of electromobility. This may lead to supply constraints and rising electricity prices, potentially affecting the economic performance of air-source heat pumps.
-* Noise emissions in urban areas: Noise emissions represent a critical factor for public acceptance, particularly in densely populated areas where large potentials have been identified. Technical solutions—including low-noise fans and noise-mitigating structural measures—must therefore be considered.
+* <p style="text-align: justify;">Electricity prices and the availability of renewable power: The economic viability and climate impact of air-source heat pumps depend strongly on the development of electricity prices and the share of renewables in the electricity mix. A high share of renewable electricity generation is essential to minimize indirect emissions.
+* <p style="text-align: justify;">Grid infrastructure and load management: The additional electricity demand resulting from large-scale heat pump deployment puts new requirements on power grids. Load management strategies, flexibility options, and, where necessary, storage solutions are needed to prevent grid congestion.
+* <p style="text-align: justify;">Competition for electricity: Electricity demand is increasing not only due to the heat transition but also in other sectors, such as the rapid uptake of electromobility. This may lead to supply constraints and rising electricity prices, potentially affecting the economic performance of air-source heat pumps.
+* <p style="text-align: justify;">Noise emissions in urban areas: Noise emissions represent a critical factor for public acceptance, particularly in densely populated areas where large potentials have been identified. Technical solutions—including low-noise fans and noise-mitigating structural measures—must therefore be considered.
 	
 <p style="text-align: justify;">
 Ambient air heat remains a central technology for the decarbonization of the heating sector. Its continued expansion, however, requires a holistic assessment of electricity supply, grid capacities, and regulatory frameworks, as well as the consideration of acceptance-related factors such as noise emissions
