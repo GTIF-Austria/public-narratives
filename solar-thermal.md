@@ -28,10 +28,10 @@ The potential assessment distinguishes between two main application areas:
 * <p style="text-align: justify;"> Building-integrated solar thermal systems: Systems for domestic hot water preparation and partially solar-supported space heating (solar combi-systems). Typical coverage ratios range from 60–75% of domestic hot water demand and from 10–40% of the combined heat demand (space heating, SH, plus domestic hot water, DHW) [2].
 * <p style="text-align: justify;"> Solar-assisted heating networks (ground-mounted systems): Large-scale solar thermal installations supplying local and district heating networks. Typical coverage ratios amount to 5–25% of the total heat demand of the network [2]. 
 
-## Theoretical Potential
+#### Theoretical Potential
 <p style="text-align: justify;"> The solar radiation potential in Austria is geographically very high. Therefore, an explicit quantification of the theoretical potential has not been conducted. Instead, the assessment focuses on spatial, system-specific, infrastructural, and economic constraints.
 
-### Technical Potential
+#### Technical Potential
 
 <p style="text-align: justify;"> The technical potential refers to the amount of energy that can be utilized under idealized technical conditions. This involves determining which areas are fundamentally suitable for solar thermal energy, how much collector area can be installed on these surfaces, and what solar yields can potentially be achieved.
 
@@ -51,7 +51,7 @@ The potential assessment distinguishes between two main application areas:
 
 <p style="text-align: justify;"> For the potential assessment, it is assumed that open land areas with annual irradiation levels above 850 kWh/m²·a are fully suitable. The installable collector area is derived using an area utilization factor of 0.4, analogous to installations mounted on flat roofs. In addition, it is verified whether the areas are located in suitable proximity to heating networks.
 
-### Realizable Potentials
+#### Realizable Potentials
 
 <p style="text-align: justify;"> The realizable potentials are derived from the technical potential by applying additional system-related, spatial, and market-related constraints. They represent those energy quantities that appear to be practically attainable by the target years 2030 and 2040 under realistic assumptions regarding system integration and market dynamics. Within building-integrated solar thermal applications, a distinction is made between solar domestic hot water systems and solar combi-systems (space heating plus domestic hot water). The share between these two system types is assumed to be 75% and 25%, respectively.
 
