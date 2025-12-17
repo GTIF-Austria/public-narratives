@@ -38,7 +38,7 @@ The technical feasibility of shallow geothermal systems is determined primarily 
 * <p style="text-align: justify;"> Heat sink: required supply temperature of the heating or domestic hot water system
 A key metric for evaluating system efficiency is the seasonal performance factor (SPF or COP_annual). The greater the temperature difference between source and sink, the lower the seasonal performance factor. 
 
-<p style="text-align: justify;"> For determining the SPF, building heat demand from the Austrian Heat Map is divided into a constant domestic hot water demand and a heating demand weighted by heating degree days, based on the distribution of building age classes and renovation levels (see Figure 1, Figure 2 and Figure 3).
+<p style="text-align: justify;"> For determining the SPF, building heat demand from the Austrian Heat Map is divided into a constant domestic hot water demand and a heating demand weighted by heating degree days, based on the distribution of building age classes and renovation levels.
 
 ######  Figure 1 Seasonal Performance Factors of Brine–Water Heat Pumps (Closed Horizontal Systems) in Graz as a Function of Supply Temperatures and Space-Heating/Domestic Hot Water Shares
 	
@@ -92,13 +92,13 @@ The methodology for evaluating ambient heat was already described extensively in
 
 ### Results of Open Systems (OS)
 
-###### Figure 12 Historical and Temporal Development of Realizable Heat Potential—Ambient Heat Input to Heat Pumps—at the National Scale (Energy Reference Basis) 
+###### Figure 8 Historical and Temporal Development of Realizable Heat Potential—Ambient Heat Input to Heat Pumps—at the National Scale (Energy Reference Basis) 
 
-###### Figure 13 Identified Heat Potential—Ambient Heat Input to Heat Pumps—from Shallow Geothermal Open Systems at the National Scale (Energy Reference Basis)
+###### Figure 9 Identified Heat Potential—Ambient Heat Input to Heat Pumps—from Shallow Geothermal Open Systems at the National Scale (Energy Reference Basis)
 	
-###### Figure 14 Identified Potentials for Shallow Geothermal Open Systems at the National Scale (Capacity Reference Basis)
+###### Figure 10 Identified Potentials for Shallow Geothermal Open Systems at the National Scale (Capacity Reference Basis)
 
-###### Figure 15 Identified Potentials for Shallow Geothermal Open Systems at the National Scale, Referenced by Number of Installations
+###### Figure 11 Identified Potentials for Shallow Geothermal Open Systems at the National Scale, Referenced by Number of Installations
 
 	
 ### Evaluation of Results
