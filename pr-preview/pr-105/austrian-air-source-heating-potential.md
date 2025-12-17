@@ -1,15 +1,7 @@
 cover-image: <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/CoverImage-1765899971415.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a1757f13c3021ed26c65f1f858d3568f2ca49887/assets/CoverImage-1765899971415.png" style="display:block; margin:auto;width:100%; height: 100%;"}-->
 ---
 
-<iframe
-  width="100%"
-  height="450"
-  style="border:0; border-radius:12px;"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=16.3700&y=48.2107&z=10.4783&indicator=air_eepot_w23_wocc&datetime=2030-01-01">
-</iframe>
+
 
 # Austrian Air Source Heating Potential  
 ## Background
@@ -43,7 +35,7 @@ The technical usability of ambient air heat is determined primarily by the effic
 <p style="text-align: justify;">
 For determining the seasonal performance factor (SPF/JAZ), the heating demand according to the Austrian Heat Map is divided—based on the distribution of building age classes and renovation levels—into a constant domestic hot water demand (DHW) and a heating degree-day–weighted space heating demand (SHD) (see Figure 1).
 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-1-TF71-Air-PNG-1765891737782.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/038208c539ca2c80713b868ae8624f8b524d6e55/assets/Figure-1-TF71-Air-PNG-1765891737782.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-1-TF71-Air-PNG-1765891737782.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/038208c539ca2c80713b868ae8624f8b524d6e55/assets/Figure-1-TF71-Air-PNG-1765891737782.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 1: Annual Performance Factors of Air-to-Water Heat Pumps Using Graz as an Example, Depending on Supply Temperatures and Space/Hot Water Shares
 
@@ -52,7 +44,7 @@ For air-source heat pumps used for combined space heating and domestic hot water
 
 ###### Table 1: Full load hours of an air heat pump for combined space heating and hot water production in a typical Austrian single-family home (EFH)
 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-1-TF71-Air-PNG-1765896740803.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6279f0938dd79ebdfc224490ad8f7c9db564c7c9/assets/Table-1-TF71-Air-PNG-1765896740803.png" style="display:block; margin:auto;width:70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table-1-TF71-Air-PNG-1765896740803.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6279f0938dd79ebdfc224490ad8f7c9db564c7c9/assets/Table-1-TF71-Air-PNG-1765896740803.png" style="display:block; margin:auto;width:70%; height: 70%;"}-->
 
 <p style="text-align: justify;">
 The seasonal performance factors are modelled at a spatial resolution of 100 m × 100 m under varying boundary conditions (building characteristics, evolution of outdoor air temperatures). Since the heat demand data do not allow differentiation by building type (e.g., single-family homes, office buildings), a uniform value of 1,500 full-load hours per year is assumed for all buildings, in accordance with Table 66. Potential changes in full-load hours resulting from technological or regulatory developments, as well as from the integration of thermal storage systems, are not considered in this analysis.
@@ -68,12 +60,10 @@ The associated decline in heat demand density as a direct impact on the spatial 
 <p style="text-align: justify;">
 The results thus provide a realistic depiction of the technically and practically achievable ambient air heat potentials under tightened efficiency requirements and within the context of an ambitious national heat-transition strategy. In this context, heat potential refers to the amount of thermal energy that is extracted from the ambient air and supplied to the heat pump.
 
-#### National-Level
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-2-TF71-Air-PNG-1765892196926.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94a1b336d21ce092e6b57396fa00a3dd552a09d7/assets/Figure-2-TF71-Air-PNG-1765892196926.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-2-TF71-Air-PNG-1765892196926.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94a1b336d21ce092e6b57396fa00a3dd552a09d7/assets/Figure-2-TF71-Air-PNG-1765892196926.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ######  Figure 2: History and Temporal Development of Achievable Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-3-TF71-Air-PNG-1765892252503.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ad104d6d4d8336381305dfb8784998561f210678/assets/Figure-3-TF71-Air-PNG-1765892252503.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-3-TF71-Air-PNG-1765892252503.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ad104d6d4d8336381305dfb8784998561f210678/assets/Figure-3-TF71-Air-PNG-1765892252503.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 3: Identified Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
 
@@ -85,11 +75,11 @@ Rising air temperatures as a result of climate change affect the efficiency of a
 <p style="text-align: justify;">
 To estimate these temperature-related effects, the air temperature data from the Secures-MET dataset [5] were applied for the climate change scenario RCP4.5 (moderate) for the years 2030 and 2050. Overall, the increase in temperature results in a rise in the potential for ambient air heat, as illustrated in Figure 10. In particular, the technical potential increases by approximately 3.4 TWh, or about 10%. Since heat demand (and thus the amount of heat produced by the heat pump) is incorporated exogenously into the modelling and remains constant across the two scenarios, the electricity demand of heat pumps decreases in the moderate climate change scenario.
 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-10-TF71-Air-PNG-1765892629603.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94b2a26b31200b816ec3f0055e333ca1e20628cc/assets/Figure-10-TF71-Air-PNG-1765892629603.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure-10-TF71-Air-PNG-1765892629603.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94b2a26b31200b816ec3f0055e333ca1e20628cc/assets/Figure-10-TF71-Air-PNG-1765892629603.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 10: Identified Heat Potentials (ambient heat supplied to the heat pump) for Air Heat at the National Level and Comparison with the Impact of Climate Change RCP4.5 on Outdoor Temperature (Reference: Energy; TRANSITION)
 
-### Evaluation of Results
+#### Evaluation of Results
 
 <p style="text-align: justify;">
 Ambient air heat is currently the most widespread ambient heat technology in Austria. Its high availability, comparatively low development costs, and rapid scalability make it a key technology for the heat transition. 
@@ -123,6 +113,16 @@ Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 20
 [Institution] acts as provider for this service.
 	
 EOX complements with its IT expertise, acting as host and front-end expert.
+	
+<iframe
+  width="100%"
+  height="450"
+  style="border:0; border-radius:12px;"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=16.3700&y=48.2107&z=10.4783&indicator=air_eepot_w23_wocc&datetime=2030-01-01">
+</iframe>
 
 
 
