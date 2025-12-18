@@ -27,7 +27,9 @@ cover-image: https://picsum.photos/id/53/800/600
 #### Assessment of Technical Potentials
 
 <p style="text-align: justify;"> Within the framework of the project, an updated mapping of hydrothermal reservoirs in Austria was carried out. The newly developed map (Figure 1) illustrates geological formations with confirmed occurrences of thermal water, applying the criterion that at least one verified borehole must be present. These hydrothermal reservoirs are defined by a temperature threshold exceeding 40 °C and have so far constituted the primary focus of deep geothermal utilization in Austria.
- 
+	
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf4-deep-geothermal/assets/nipargar/Figure-2-TF4-Deep-Geothermal-1766042133749.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4bc0e6bdc6fa1930cdb4ab65caa9dcf53f5f1f59/assets/Figure-2-TF4-Deep-Geothermal-1766042133749.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ###### Figure 1: Overview of hydrothermal reservoirs > 40 °C (blue areas), potential occurrences of thermal waters (light blue), and areas where isolated occurrences of thermal water are possible (green) in Austria.
 
 <p style="text-align: justify;"> The blue areas in the figure indicate regions with proven hydrothermal resources. In addition, so-called “prospective areas” were identified; these are regions that exhibit geoscientific potential for further investigation, irrespective of existing or planned infrastructure for heat offtake. For all identified hydrothermal reservoirs, Geosphere Austria has also prepared detailed descriptions of the individual reservoirs.
@@ -37,6 +39,8 @@ cover-image: https://picsum.photos/id/53/800/600
 #### Assessment of Realizable Potentials
 
 <p style="text-align: justify;"> In the R&I Roadmap for Geothermal Energy [2], the following overview of geothermal potentials and proposed expansion targets was published.
+	
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf4-deep-geothermal/assets/nipargar/Figure-1-TF4-Deep-Geothermal-1766042122466.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/828c8932d67912996c6980d946d07fcba4d4cf0e/assets/Figure-1-TF4-Deep-Geothermal-1766042122466.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
  
 ###### Figure 2 Current scope of application, identified resources, and geothermal expansion targets for 2030 and 2050 as proposed by the Austrian Geothermal Association (GTÖ).
 
