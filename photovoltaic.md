@@ -1,5 +1,11 @@
 # Austrian Photovoltaic Potential
 
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf1-photovoltaic/assets/nipargar/Figure-3-TF1-PV-1766051858352.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/666a79e50f9cb998a997c4437ff59d17de2ba79a/assets/Figure-3-TF1-PV-1766051858352.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf1-photovoltaic/assets/nipargar/Figure-2-TF1-PV-1766051842858.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4776d75859c9f9c4f8887972162a0ec835388bdf/assets/Figure-2-TF1-PV-1766051842858.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf1-photovoltaic/assets/nipargar/Figure-1-TF1-PV-1766051825799.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/975a1ec5d8d91ace2fabf2db8999321bda68c2ee/assets/Figure-1-TF1-PV-1766051825799.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ## Background
 
 <p style="text-align: justify;"> The initial situation of the photovoltaic (PV) technology field comprises the refinement of the general storylines, assumptions regarding the development of new buildings up to 2040, and the ecological requirements relevant for eligibility for funding, with particular emphasis on the installation of PV systems on open land.
