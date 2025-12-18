@@ -8,7 +8,7 @@ cover-image: https://picsum.photos/id/53/800/600
 
 # Deep Geothermal
 
-<p style="text-align: justify;"> ## Background
+## Background
 
 <p style="text-align: justify;"> Deep geothermal energy comprises applications at depths of 300 meters and greater, where temperatures ranging from above 30 °C to well over 100 °C can be exploited. Deep geothermal energy has a long history in Austria and offers substantial potential, particularly for the provision of heat that is independent of diurnal and seasonal fluctuations. Through the utilization of natural thermal water resources and innovative technologies such as petrothermal (enhanced geothermal) systems, deep geothermal energy has gained increasing attention in recent years.
 
