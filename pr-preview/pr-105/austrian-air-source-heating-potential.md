@@ -84,8 +84,9 @@ To estimate these temperature-related effects, the air temperature data from the
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=16.3700&y=48.2107&z=10.4783&indicator=air_eepot_w23_wocc&datetime=2030-01-01">
+  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=13.3333&y=47.5162&z=7&indicator=air_eepot_w23_wocc&datetime=2030-01-01">
 </iframe>
+
 
 #### Evaluation of Results
 
