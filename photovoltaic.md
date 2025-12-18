@@ -40,11 +40,11 @@
 
 ## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf1-photovoltaic/assets/nipargar/Figure-1-TF1-PV-1766051825799.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/975a1ec5d8d91ace2fabf2db8999321bda68c2ee/assets/Figure-1-TF1-PV-1766051825799.png" style="display:block; margin:auto;width: 70%; height: 70%;"}--> 
 
-###### Figure 1: TF Photovoltaics overview of potentials (energy) (E-Control, 2025; Umweltbundesamt, own calculations).
+###### Figure 1: Photovoltaics overview of potentials (energy) (E-Control, 2025; Umweltbundesamt, own calculations).
 
 ## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf1-photovoltaic/assets/nipargar/Figure-2-TF1-PV-1766051842858.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4776d75859c9f9c4f8887972162a0ec835388bdf/assets/Figure-2-TF1-PV-1766051842858.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 	
-###### Figure 2: TF Photovoltaics overview of potentials (capacity) (E-Control, 2025; Umweltbundesamt, own calculations).
+###### Figure 2: Photovoltaics overview of potentials (capacity) (E-Control, 2025; Umweltbundesamt, own calculations).
 
 <p style="text-align: justify;"> Finally, Figure 3 illustrates the historical development and the projected future expansion pathways for the three storylines of the photovoltaic technology field, shown by means of projection curves.
  
