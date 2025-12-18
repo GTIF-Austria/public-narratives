@@ -60,17 +60,17 @@ cover-image: https://picsum.photos/id/53/800/600
 
 ## References
 
-[1] E. Haslinger und G. Götzl, „FTI-Roadmap Geothermie,“ Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK), Wien, 2022.
+<p style="text-align: justify;"> [1] E. Haslinger und G. Götzl, „FTI-Roadmap Geothermie,“ Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK), Wien, 2022.
 
-[2] Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK), „FTI-Roadmap Geothermie - Vision und FTI-politische Fragestellungen,“ BMK, Wien, 2022.
+<p style="text-align: justify;"> [2] Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK), „FTI-Roadmap Geothermie - Vision und FTI-politische Fragestellungen,“ BMK, Wien, 2022.
 
-[3] G. Götzl, C. Steiner, J. Kulich, P. Krois, P. Keglovic, E. Haslinger und J. E. Goldbrunner, Geothermal Energy Use, Country Update for Austria, 2025. 
+<p style="text-align: justify;"> [3] G. Götzl, C. Steiner, J. Kulich, P. Krois, P. Keglovic, E. Haslinger und J. E. Goldbrunner, Geothermal Energy Use, Country Update for Austria, 2025. 
 
-[4] Verein Erneuerbare Energie Österreich (EEÖ), „Österreich Klimaneutral - Potenziale, Beitrag und Optionen zur Klimaneutralität mit erneuerbaren Energien (Positionspapier von Erneuerbare Energie Österreich),“ Wien, 2022.
+<p style="text-align: justify;"> [4] Verein Erneuerbare Energie Österreich (EEÖ), „Österreich Klimaneutral - Potenziale, Beitrag und Optionen zur Klimaneutralität mit erneuerbaren Energien (Positionspapier von Erneuerbare Energie Österreich),“ Wien, 2022.
 
-[5] E. Haslinger, G. Götzl, K. Ponweiser und R. Niederbrucker, „GeoHEAT.at - Aufrüstung bestehender konventioneller Wärmegewinnungs- und Industrieanlagen mit Methoden der Geothermie hinsichtlich einer geothermischen Unterstützung, bivalenten Wärmegewinnung sowie einer saisonalen Wärmespeicherung,“ Klima- und Energiefonds, Publizierbarer Endbericht, e!MISSION.at, 1. Ausschreibung, Wien, 2014.
+<p style="text-align: justify;"> [5] E. Haslinger, G. Götzl, K. Ponweiser und R. Niederbrucker, „GeoHEAT.at - Aufrüstung bestehender konventioneller Wärmegewinnungs- und Industrieanlagen mit Methoden der Geothermie hinsichtlich einer geothermischen Unterstützung, bivalenten Wärmegewinnung sowie einer saisonalen Wärmespeicherung,“ Klima- und Energiefonds, Publizierbarer Endbericht, e!MISSION.at, 1. Ausschreibung, Wien, 2014.
 
-[6] deeep Tiefengeothermie GmbH, „Deeep,“ [Online]. Available: https://www.deeep.at. [Zugriff am 05 12 2025].
+<p style="text-align: justify;"> [6] deeep Tiefengeothermie GmbH, „Deeep,“ [Online]. Available: https://www.deeep.at. [Zugriff am 05 12 2025].
 
 
 ## About 
