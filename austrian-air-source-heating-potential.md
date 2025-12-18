@@ -75,7 +75,7 @@ To estimate these temperature-related effects, the air temperature data from the
 ###### Figure 10: Identified Heat Potentials (ambient heat supplied to the heat pump) for Air Heat at the National Level and Comparison with the Impact of Climate Change RCP4.5 on Outdoor Temperature (Reference: Energy; TRANSITION)
 
 	
-#### Austria GTIF - Air Source Heating Potential
+##### Austria GTIF - Air Source Heating Potential
 
 <iframe
   width="100%"
