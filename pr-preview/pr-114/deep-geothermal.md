@@ -10,11 +10,11 @@ cover-image: https://picsum.photos/id/53/800/600
 
 ## Background
 
-Deep geothermal energy comprises applications at depths of 300 meters and greater, where temperatures ranging from above 30 °C to well over 100 °C can be exploited. Deep geothermal energy has a long history in Austria and offers substantial potential, particularly for the provision of heat that is independent of diurnal and seasonal fluctuations. Through the utilization of natural thermal water resources and innovative technologies such as petrothermal (enhanced geothermal) systems, deep geothermal energy has gained increasing attention in recent years.
+<p style="text-align: justify;"> Deep geothermal energy comprises applications at depths of 300 meters and greater, where temperatures ranging from above 30 °C to well over 100 °C can be exploited. Deep geothermal energy has a long history in Austria and offers substantial potential, particularly for the provision of heat that is independent of diurnal and seasonal fluctuations. Through the utilization of natural thermal water resources and innovative technologies such as petrothermal (enhanced geothermal) systems, deep geothermal energy has gained increasing attention in recent years.
 
-The potential of deep geothermal energy in Austria is considerable. Particularly promising is the integration of geothermal systems into industrial applications and district heating networks, where deep geothermal energy can provide a reliable and sustainable heat source [1].
+<p style="text-align: justify;"> The potential of deep geothermal energy in Austria is considerable. Particularly promising is the integration of geothermal systems into industrial applications and district heating networks, where deep geothermal energy can provide a reliable and sustainable heat source [1].
 
-In Austria, deep geothermal energy is almost exclusively developed as hydro-geothermal energy, i.e. through the use of natural thermal water reservoirs. Hydro-geothermal applications have been in use for nearly 50 years. The development of deep geothermal energy in Austria benefits from a long tradition and a solid foundation of geoscientific exploration data, particularly derived from more than 80 years of hydrocarbon exploration activities.
+<p style="text-align: justify;"> In Austria, deep geothermal energy is almost exclusively developed as hydro-geothermal energy, i.e. through the use of natural thermal water reservoirs. Hydro-geothermal applications have been in use for nearly 50 years. The development of deep geothermal energy in Austria benefits from a long tradition and a solid foundation of geoscientific exploration data, particularly derived from more than 80 years of hydrocarbon exploration activities.
 
 ## Methodology
 
