@@ -48,7 +48,7 @@ Figure 2: TF Photovoltaics overview of potentials (capacity) (E-Control, 2025; U
 <p style="text-align: justify;"> Finally, Figure 3 illustrates the historical development and the projected future expansion pathways for the three storylines of the photovoltaic technology field, shown by means of projection curves.
  
 
-Figure 3: TF Photovoltaics – historical development and temporal evolution of realizable potentials.
+Figure 3: Photovoltaics – historical development and temporal evolution of realizable potentials.
 
 ### Evaluation of the Results
 
