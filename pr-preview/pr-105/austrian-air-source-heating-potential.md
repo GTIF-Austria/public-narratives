@@ -1,25 +1,4 @@
-
----
-title: Deep Geothermal
-cover-image: https://picsum.photos/id/53/800/600
----
-
-# Air Source Heating Potential <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
-
-# Austria GTIF - Air Source Heating Potential
-
-<iframe
-  width="100%"
-  height="450"
-  style="border:0; border-radius:12px;"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=16.3700&y=48.2107&z=10.4783&indicator=air_eepot_w23_wocc&datetime=2030-01-01">
-</iframe>
-
-
-# Austrian Air Source Heating Potential  
+# Air Source Heating Potential
 ## Background
 <p style="text-align: justify;">
 For the sub-technology field of ambient air heat, no nationwide harmonized dataset on the spatial distribution of potential has been available to date. Within the project Spatial Energy Planning for Heat Transition (FFG Project 868850), an initial methodological foundation was established; however, this was not transferred into an operational model. Building on this preliminary work, the present project developed, implemented, and applied a consistent methodological framework suitable for determining the potential across Austria.
@@ -95,6 +74,19 @@ To estimate these temperature-related effects, the air temperature data from the
 
 ###### Figure 10: Identified Heat Potentials (ambient heat supplied to the heat pump) for Air Heat at the National Level and Comparison with the Impact of Climate Change RCP4.5 on Outdoor Temperature (Reference: Energy; TRANSITION)
 
+	
+#### Austria GTIF - Air Source Heating Potential
+
+<iframe
+  width="100%"
+  height="450"
+  style="border:0; border-radius:12px;"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=16.3700&y=48.2107&z=10.4783&indicator=air_eepot_w23_wocc&datetime=2030-01-01">
+</iframe>
+
 #### Evaluation of Results
 
 <p style="text-align: justify;">
@@ -126,7 +118,7 @@ Ambient air heat remains a central technology for the decarbonization of the hea
 <p style="text-align: justify;">
 Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 2030 und 2040 wurde im Auftrag des Klima- und Energiefonds und dotiert aus Mitteln des BMK unter Leitung des AIT Austrian Institute ob Technology GmbH (AIT) gemeinsam mit Umweltbundesamt (UBA), Technische Universität Wien (TU Wien), AEE – Institut für Nachhaltige Technologien (AEE INTEC) und Energiewerkstatt durchgeführt." (muss noch verenglischt werden) und dann noch explizit anführen jene Institutionen, die dieses Technologiefeld bearbeiten, plus uns und EOX
 	
-[Institution] acts as provider for this service.
+[AIT Austrian Institute of Technology GmbH] acts as provider for this service.
 	
 EOX complements with its IT expertise, acting as host and front-end expert.
 	
