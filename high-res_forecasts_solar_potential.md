@@ -2,7 +2,7 @@
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp
 domain: Energy Transition
 tags:  photovolatic, remote sensing, STRAHLGRID
-
+provider: GeoSphere
 ---
 
 # High-resolution Forecasts of Solar Potential
