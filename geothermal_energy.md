@@ -3,7 +3,7 @@ cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/trieb
 
 domain: Energy Transition
 tags:  soil moisture, ground temperature, sustainable heat
-
+provider: GeoSphere
 ---
 
 # Exploring the Earth's Gentle Warmth: A Tool for Harnessing Shallow Geothermal Energy
