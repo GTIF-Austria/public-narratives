@@ -3,7 +3,7 @@ cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/re
 
 domain: Energy Transition
 tags: photovoltaic, remote sensing, computer vision
-
+provider: N Vision
 ---
 
 # Solar Panel Mapping
