@@ -32,7 +32,7 @@ The *Urban Energy Performance Monitor (UEPM)* Capability is the service which re
 
 The monitor service can deliver thematic, geographically mapped data layers to regional and local data bases such as multi-purpose land cover and land use maps. It can complement the picture of collected energy certificates, inspections records, building renovation passports, the smart capability indicator and measured or calculated energy consumption for the buildings. The service can also be combined with recordings of the life cycle emissions of buildings.
 
-A free demonstration version of the UEPM service is available for selected pilot cities. Further pre-commercial demonstration projects may apply for sponsorship through the [ESA Network of Resources](#network-of-resources-\(nor\)). This enables municipalities to evaluate the service without or reduced initial investments.
+A free demonstration version of the UEPM service is available for the selected area of Maria Enzersdorf (Austria). Further pre-commercial demonstration projects may apply for sponsorship through the [ESA Network of Resources](#network-of-resources-\(nor\)). This enables municipalities to evaluate the service without or reduced initial investments.
 
 ### UEPM Information Products
 
@@ -94,7 +94,7 @@ While the current approach prioritizes geospatial standards, a REST API could be
 
 ### UEPM Download
 
-UEPM Maps can also be offered for download as files from an access controlled sFTP Server as GeoPackage (GPKG), an open, non-proprietary, platform-independent standard, building on existing standards, for storing geospatial data (vector and raster data) in a file. 
+UEPM Maps can also be offered for download as files from an access-controlled sFTP server in GeoJSON, an open, non-proprietary, platform-independent standard based on existing standards, for storing geospatial vector data in a file.
 
 ### UEPM Dashboard 
 
