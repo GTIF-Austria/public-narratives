@@ -6,6 +6,7 @@ tags: remote sensing, surface temperature, Sentinel-3
 official: true
 provider: AIT Center for Energy
 provider: OHB-DC
+provider: ubicube
 ---
 
 # Urban Energy Performance Monitor <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Energy-performance-of-buildings-hero-1749975057844.jpg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1434714ec07a9fe83bae56f7978ed34024a28287/assets/Energy-performance-of-buildings-hero-1749975057844.jpg" }-->
@@ -28,9 +29,13 @@ According to the EU Building Directive EPBD, each Member State should set up a n
 
 ## Solution Capability: UEPM
 
-The *Urban Energy Performance Monitor (UEPM)* Capability is the service which responds to the geospatial aspects and local dimension of monitoring the energy efficiency of buildings. It supports the identification of energy-related renovation potential of buildings. It achieves this by delivering on-demand digital cartographic and statistical products derived from time-series of high-resolution thermal satellite imagery processed in combination with bespoke *Energy Performance Index* building stock information within a user-provided Area of Interest defined at street-level.
+The *Urban Energy Performance Monitor (UEPM)* Capability responds to the geospatial aspects and local dimension of monitoring the energy efficiency of buildings. It supports the identification of energy-related renovation potential of buildings by delivering on‑demand cartographic and statistical information products derived from time‑series of high‑resolution thermal satellite imagery, processed in combination with detailed building stock information and local meteorological data for a user‑provided Area of Interest (AoI) defined at street level.
 
-The monitor service can deliver thematic, geographically mapped data layers to regional and local data bases such as multi-purpose land cover and land use maps. It can complement the picture of collected energy certificates, inspections records, building renovation passports, the smart capability indicator and measured or calculated energy consumption for the buildings. The service can also be combined with recordings of the life cycle emissions of buildings.
+In the UEPM delivery chain:
+- **High‑resolution LST time series are provided as an upstream, provider‑operated processing service** (OHB‑DS/OHB‑DC).
+- **Building footprints are provided and maintained as an upstream service** (ubicube “Building Footprints / Building Stock Update”), ensuring spatially and temporally consistent building geometry as a key input layer.
+
+These upstream products are then integrated downstream with contextual building attributes (e.g., construction period/year proxies, building size) and meteorology to derive **locally valid, relative energy performance indices** for screening and prioritization.
 
 A free demonstration version of the UEPM service is available for the selected area of Maria Enzersdorf (Austria). Further pre-commercial demonstration projects may apply for sponsorship through the [ESA Network of Resources](#network-of-resources-\(nor\)). This enables municipalities to evaluate the service without or reduced initial investments.
 
@@ -40,9 +45,9 @@ A free demonstration version of the UEPM service is available for the selected a
 
 The UEPM Capability provides a thematic map product generated on-demand for a customer-selected, geographic Area of Interest (AoI) that may span a building, a block of buildings, a district, or an entire municipality. This map is intended to make the search for locations and areas much easier and, in the interests of identifying energy efficiency and renovation potentials within the building stock.
 
-The UEPM map contains the building energy efficiency index valid for the local context. It is calculated based on the downscaled Land Surface Temperature (LST) data, fine grained information about the built environment, either directly calculated from earth observation data or already [preprocessed building footprints](https://www.data.gv.at/katalog/dataset/bev_digitaleslandschaftsmodellbauwerkestichtag25012023) and local meteorological data. The map may also be based on integrated use of the urban index product generated from multi-temporal Sentinel-2 as part of the [GTIF Building Stock Update service](https://gtif-austria.info/narratives/building_footprints). The building energy efficiency index is calculated based on the effective temperature difference between remotely observed temperature and global temperature, assuming normal building usage and sufficient contrast between outdoor and indoor temperature (e.g. comparison in winter conditions). 
+The UEPM map contains a building energy performance index valid for the local context. It is calculated based on an **effective temperature difference** between remotely observed surface temperature (LST) and outdoor air temperature, assuming normal building usage and sufficient contrast between outdoor and indoor temperature (e.g., winter conditions). The resulting index is designed as a **screening indicator** to support area‑wide prioritization and further investigation.
 
-Copernicus Sentinel-3 LST data freely available globally is downscaled using two distinct methods, including one that leverages the correlation between LST and various land cover indices (e.g., NDVI, NDBI, NDBSI, NDMI, MNDWI, SAVI) through a Random Forest regressor. This method progressively refines the resolution down to 30m, producing a cloud-optimized datacube with a daily thermal time series. The resulting data is integrated with climatological information to derive an energy efficiency index and supports statistical analyses such as yearly or monthly means of all generated data.
+**Upstream LST processing (provider operated):** Copernicus Sentinel‑3 LST data freely available globally is downscaled using two distinct methods, including one that leverages the correlation between LST and various land cover indices (e.g., NDVI, NDBI, NDBSI, NDMI, MNDWI, SAVI) through a Random Forest regressor. This method progressively refines the resolution down to ~30m, producing a cloud‑optimized datacube with a daily thermal time series. The resulting high‑resolution thermal time series is provided to downstream UEPM processing via provider infrastructure (e.g., OHB‑DS/OHB‑DC), where it is integrated with climatological information and local building data for index derivation and statistical analysis.
 
 ![](https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/LST-1749976008835.jpg)
 
@@ -54,9 +59,9 @@ Copernicus Sentinel-3 LST data freely available globally is downscaled using two
 
 *Figure 3 – A comparison of the downscaled Sentinel 3 LST and Landsat LST at 30m resolution with time-series of mean values for a selected AoI polygon over all 20 validation dates, city of Nis, Serbia.*
 
-#### UEPM Report
+#### UEPM Report (WIP)
 
-The *UEPM Report* provides a concise, location-specific assessment of building stock energy efficiency and renovation potential. It summarizes key findings based on the fusion of downscaled LST data from Copernicus Sentinel satellites with local building information such as typology, usage, construction year, and cadastral records.
+**UEPM Report (Work in Progress):** A report product is currently under development. It will provide a concise, location‑specific summary (maps + key statistics + prioritization) and will be released in a future update of the dashboard and delivery chain.
 
 Each report includes:
 
@@ -75,26 +80,11 @@ The report is designed to support data-driven decision-making for municipalities
 
 ### UEPM APIs
 
-The UEPM map is accessible through two specialized Application Programming Interfaces (APIs) to ensure seamless integration into geospatial platforms. 
-
-1. Date values ​​with available map data are delivered via a STAC catalogue API. This is done by calling a web service, specifying the access token and bounding box (Min X, Min Y, Max X, Max Y).  
-* The return value of the web service contains information about the available data in the time-series, which contains the date of the recording.  
-* The return value is delivered in JSON (JavaScript Object Notation) format.
-
-2. By calling a WMS/WMTS API with the desired date value, the corresponding image material is delivered as a raster file. The web service is called by specifying:  
-* X, Y, Z indices.  
-* Desired image format  
-* Access token  
-* RGB representation (optional indices such as NDVI or EVI).  
-* Date of recording  
-  The return value of the WMS/WMTS API service is a raster file according to the parameters.
-
-
-While the current approach prioritizes geospatial standards, a REST API could be considered as a future development to enhance accessibility and interoperability based on user needs (e.g. for calculating statistics of the map time-series data).
+UEPM maps and time‑series products can be accessed through provider and/or project‑specific APIs depending on the deployment context. In the current implementation, time‑series metadata and generated products are exposed through **file‑based web APIs** for programmatic access (e.g., GeoJSON for vector layers and GeoTIFF for raster layers). Where required, standard geospatial interfaces such as **STAC catalogues** and **WMS/WMTS** can be integrated as a future extension or provided by upstream data services.
 
 ### UEPM Download
 
-UEPM Maps can also be offered for download as files from an access-controlled sFTP server in GeoJSON, an open, non-proprietary, platform-independent standard based on existing standards, for storing geospatial vector data in a file.
+UEPM outputs can be delivered as downloadable files depending on the deployment context. In the current implementation, outputs are provided as machine‑readable artifacts such as **GeoJSON** (vector layers) and **GeoTIFF/COG** (raster layers) within a session‑based workspace. Additional packaging options (e.g., GeoPackage bundles and sFTP/S3 delivery) can be added as an operational extension.
 
 ### UEPM Dashboard 
 
