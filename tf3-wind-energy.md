@@ -1,18 +1,14 @@
+## About 
+<p style="text-align: justify;">
+Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 2030 und 2040 wurde im Auftrag des Klima- und Energiefonds und dotiert aus Mitteln des BMK unter Leitung des AIT Austrian Institute ob Technology GmbH (AIT) gemeinsam mit Umweltbundesamt (UBA), Technische Universität Wien (TU Wien), AEE – Institut für Nachhaltige Technologien (AEE INTEC) und Energiewerkstatt durchgeführt." (muss noch verenglischt werden) und dann noch explizit anführen jene Institutionen, die dieses Technologiefeld bearbeiten, plus uns und EOX
+	
+AIT Austrian Institute of Technology GmbH acts as provider for this service.
+	
+EOX complements with its IT expertise, acting as host and front-end expert.
+	
 
----
-title: TF3 Wind Energy
-cover-image: https://picsum.photos/id/53/800/600
----
 
-# TF3 Wind Energy <!--{ as="video" mode="hero" src="https://dlmultimedia.esa.int/download/public/videos/2023/06/010/2306_010_AR_EN.mp4" }-->
 
-## TF3 Wind Energy
 
-Text content
 
-## Section A
-Text content
 
-## Section B
-Text content
-        
