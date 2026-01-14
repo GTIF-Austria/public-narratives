@@ -11,14 +11,19 @@
 * Combined heating and cooling applications
 * Localized topographical or ecological constraints that impede development
 
-## Methodological Concept
+## Methodology
 The following sections provide only a condensed overview of the methodological concept. A comprehensive and fully detailed description of all methodological steps, assumptions, and data sources can be found in the full report.
 
 ##### Fundamental Principle of Aquathermy
 
 <p style="text-align: justify;"> The usable energy is derived by diverting a partial volumetric flow of a watercourse and directing it through a heat exchanger to a heat pump. The heat pump extracts thermal energy from the water and raises it to a temperature level suitable for use in district and local heating networks (Figure 1).
- 
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf72-aquathermy/assets/nipargar/Figure1TF72Aquathermy-1768404313605.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5411dd9431549ba408ab96ec53d113a717d1f8d8/assets/Figure1TF72Aquathermy-1768404313605.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
+
+
 ###### Figure 1: Principle of a Large-Scale Heat Pump Supplied by River Water (“Aquathermy”) with an Open Water Circuit
+
 ###### Technical Potential
 
 <p style="text-align: justify;"> The efficiency of a large-scale heat pump supplied by river water depends primarily on two parameters:
@@ -33,8 +38,8 @@ The following sections provide only a condensed overview of the methodological c
 <p style="text-align: justify;"> The maximum feasible coverage shares for river-water-sourced heat pumps are determined by the system-related and hydraulic limitations of real-world heating networks.
 
 ###### Table 1 Achievable Upper Limits for Aquathermy (as a Percentage of District Heating Demand), TU Wien – EEG
- 	Low	Medium	High
-Aquathermy Share of District Heating Demand	21 %	27 %	32 %
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf72-aquathermy/assets/nipargar/TF7.2-Aquatermia-Table-1-1768404273277.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/8dfc0c53cdfee1d30edfdefb1cae8da23c060d16/assets/TF7.2-Aquatermia-Table-1-1768404273277.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 <p style="text-align: justify;"> The upper coverage limits are based on the WEM 2023 heat demand scenario, as ambient heat from flowing water bodies is primarily utilized in district heating systems, which achieve a greater scale in this scenario compared to Transition 2023.
 
@@ -83,7 +88,9 @@ Aquathermy Share of District Heating Demand	21 %	27 %	32 %
 ## Results
 
 <p style="text-align: justify;"> At the national level, the technical potential of river-water-sourced heat pumps for feeding district heating networks amounts to up to 4,1 TWh/year in 2030 and 4,9 TWh/year in 2040.
- 
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf72-aquathermy/assets/nipargar/Figure2TF72Aquathermy-1768404335468.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/59c26c6de55eac79a91d90bfa28b2ea224cd07db/assets/Figure2TF72Aquathermy-1768404335468.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ###### Figure 2 Technical potential based on the extractable thermal energy from rivers for the target years 2030 and 2040
 
 ##### Austria GTIF – Aquathermy Potential
@@ -95,9 +102,8 @@ Aquathermy Share of District Heating Demand	21 %	27 %	32 %
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=13.3333&y=47.5162&z=7&indicator=hydro_eepot_w23&datetime=2030-01-01">
+  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=13.9463&y=47.7899&z=7.8941&indicator=aquifer_eepot_w23_wocc&datetime=2030-01-01">
 </iframe>
-
 
 ##### Assessment of the Results
 
@@ -112,5 +118,7 @@ Aquathermy Share of District Heating Demand	21 %	27 %	32 %
 ## About 
 
 <p style="text-align: justify;"> The underlying study Erneuerbare Energiepotenziale in Österreich für 2030 und 2040 was commissioned by the Climate and Energy Fund and funded by the Federal Ministry of Economy, Energy and Tourism (BMWET). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+
 AEE INTEC acts as provider for this service.
+
 EOX complements with its IT expertise, acting as host and front-end expert.
