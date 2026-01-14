@@ -34,8 +34,8 @@
 
 <p style="text-align: justify;"> The results for the projected expansion of wind energy installed capacity in Austria under the three ranges Low, Medium, and High are illustrated in Figure 1. For the period up to 2024, the historical expansion of wind energy in Austria is additionally shown. The period from 2013 to 2023 served as the empirical basis for modelling future expansion rates. 
 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf3-wind-energy/assets/nipargar/TF3-Wind-Figure-1-1768385219715.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/54d1fa3ccc9dc3410a917685214406df287063db/assets/TF3-Wind-Figure-1-1768385219715.png" style=" style="display:block; margin:auto;width:70%; height: 70%;"}-->
 
+<!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf3-wind-energy/assets/nipargar/TF3-Wind-Figure-1-1768385923304.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4f532db1f8775e485a99f2f73223d11070e42c73/assets/TF3-Wind-Figure-1-1768385923304.png" style="width: 100%; height: 600px;"}-->
 ###### Figure 1 Technical wind energy potential for the reference year 2040, expressed as annual energy production by district. 
 
 <p style="text-align: justify;"> At the upper end of the assumed range (“High”), approximately one third of Austria’s technical wind energy potential would be realized nationwide by 2040. This highlights that the technically available wind energy potential constitutes a sufficiently large reservoir for any realistic expansion pathway over the foreseeable future. Consequently, there remains substantial scope for political decision-making in determining the regions in which wind energy expansion should be implemented. 
@@ -56,13 +56,10 @@
 <p style="text-align: justify;">
 Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 2030 und 2040 wurde im Auftrag des Klima- und Energiefonds und dotiert aus Mitteln des BMK unter Leitung des AIT Austrian Institute ob Technology GmbH (AIT) gemeinsam mit Umweltbundesamt (UBA), Technische Universität Wien (TU Wien), AEE – Institut für Nachhaltige Technologien (AEE INTEC) und Energiewerkstatt durchgeführt." (muss noch verenglischt werden) und dann noch explizit anführen jene Institutionen, die dieses Technologiefeld bearbeiten, plus uns und EOX
 	
-AIT Austrian Institute of Technology GmbH acts as provider for this service.
+AIT Austriasdan Institute of Technology GmbH acts as provider for this service.
 	
 EOX complements with its IT expertise, acting as host and front-end expert.
 	
-
-
-
 
 
 
