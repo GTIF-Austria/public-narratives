@@ -34,6 +34,8 @@
 
 <p style="text-align: justify;"> The results for the projected expansion of wind energy installed capacity in Austria under the three ranges Low, Medium, and High are illustrated in Figure 1. For the period up to 2024, the historical expansion of wind energy in Austria is additionally shown. The period from 2013 to 2023 served as the empirical basis for modelling future expansion rates. 
 
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf3-wind-energy/assets/nipargar/TF3-Wind-Figure-1-1768386092770.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5347319201f3cd63105339f5594729014cb5261e/assets/TF3-Wind-Figure-1-1768386092770.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ###### Figure 1 Technical wind energy potential for the reference year 2040, expressed as annual energy production by district. 
 
 <p style="text-align: justify;"> At the upper end of the assumed range (“High”), approximately one third of Austria’s technical wind energy potential would be realized nationwide by 2040. This highlights that the technically available wind energy potential constitutes a sufficiently large reservoir for any realistic expansion pathway over the foreseeable future. Consequently, there remains substantial scope for political decision-making in determining the regions in which wind energy expansion should be implemented. 
@@ -58,13 +60,6 @@ AIT Austrian Institute of Technology GmbH acts as provider for this service.
 	
 EOX complements with its IT expertise, acting as host and front-end expert.
 	
-
-
-
-
-
-
-
 
 
 
