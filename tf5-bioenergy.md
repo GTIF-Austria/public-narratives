@@ -1,13 +1,5 @@
 
-   # Bioenergy
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-4-TF5-Bioenergy-1768401203754.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/8bd3afaa9f0dfdb9b16df248d3cc482279df5a0c/assets/Figure-4-TF5-Bioenergy-1768401203754.png" style="width: 100%; height: 600px;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-3-TF5-Bioenergy-1768401158085.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ea27d6833582b275e1bfe57e8dd443edfaa911f3/assets/Figure-3-TF5-Bioenergy-1768401158085.png" style="width: 100%; height: 600px;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-2-TF5-Bioenergy-1768401146852.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/39198a8ce37d6769191271d6d00a9354fa48f9e1/assets/Figure-2-TF5-Bioenergy-1768401146852.png" style="width: 100%; height: 600px;"}-->
-
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-1-TF5-Bioenergy-1768401134924.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d681c2378b29296dc571ad0f8c67b9e388843511/assets/Figure-1-TF5-Bioenergy-1768401134924.png" style="width: 100%; height: 600px;"}-->
+# Bioenergy
 
 ## Background
 <p style="text-align: justify;"> The technological field of bioenergy is characterized by a large variety of primary and final energy carriers as well as corresponding conversion technologies. Many bioenergy carriers can be transported over certain distances at acceptable cost and energy input, while this is less feasible for others. Accordingly, this chapter is divided into two sections:
@@ -68,6 +60,10 @@
 
 <p style="text-align: justify;"> In addition to the spatially resolved results for biogas and biomethane presented above, this section now presents the potentials for energy carriers based on solid and liquid biomass at an aggregated, national level (see Figure 1).
  
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-1-TF5-Bioenergy-1768401134924.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d681c2378b29296dc571ad0f8c67b9e388843511/assets/Figure-1-TF5-Bioenergy-1768401134924.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
+
+
 ###### Figure 1. Potentials for primary energy use of different woody biomass fractions
 
 <p style="text-align: justify;"> Primary energy use in the base year 2023 is depicted on the basis of the energy balance of Statistics Austria. The relative annual changes in potential are derived from the results of the representative Care4Paris scenarios. Available woody biomass declines in the Low scenario, remains approximately stable in the Medium scenario, and increases by about 15% in the High scenario.
@@ -80,18 +76,25 @@
 
 <p style="text-align: justify;"> The representation of the Current End-Use Mix variant (see Figure 2) serves as the reference case for the other two intermediate variants. No significant changes are observed in the absolute values of biomass potential for process heat, biomass-based district heating, and decentralized space heating and domestic hot water. However, the share of biomass in district heating consumption decreases from 60% to 45%, due to an increase in total district heat generation. Conversely, the share in decentralized space heating consumption, excluding electricity and district heating, increases to approximately 74%.
  
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-2-TF5-Bioenergy-1768401146852.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/39198a8ce37d6769191271d6d00a9354fa48f9e1/assets/Figure-2-TF5-Bioenergy-1768401146852.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ###### Figure 2. Potential contribution of biomass in the current end-use mix (Medium scenario)
 
 <p style="text-align: justify;"> The Exergy Optimization variant entails a reduction in decentralized space heating and domestic hot water in favor of process heat provision (see Figure 3). In this variant, approximately 31% of final process heat consumption is covered by direct biomass combustion. In addition, around 32% of final industrial energy consumption, excluding electricity and district heating, is supplied by synthetic natural gas (SNG) and biomethane. As a result, a total of 63% of industrial final energy demand (excluding electricity and district heating) is met by biogenic energy carriers.
 
 <p style="text-align: justify;"> The increase in bioenergy contribution in this variant is achieved exclusively through second-generation biofuels, which are based on residual biomass feedstocks.
  
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-3-TF5-Bioenergy-1768401158085.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ea27d6833582b275e1bfe57e8dd443edfaa911f3/assets/Figure-3-TF5-Bioenergy-1768401158085.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
+
 ###### Figure 3. Potential contribution of biomass in the Exergy Optimization variant (Medium scenario)
 
 <p style="text-align: justify;"> In the Balanced Mix variant, the share of biomass in sectoral final consumption for process heat remains stable (see Figure 4). The relative contribution of biomass to district heating decreases, while the share in space heating increases significantly, though less strongly than in the current end-use mix, even though absolute biomass use in decentralized space heating declines.
 
 <p style="text-align: justify;"> Electricity-only generation from biomass decreases in this variant. The biomass previously used for this purpose is reallocated to process heat provision or SNG production. In contrast, electricity generation from CHP plants remains unchanged.
  
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-4-TF5-Bioenergy-1768401203754.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/8bd3afaa9f0dfdb9b16df248d3cc482279df5a0c/assets/Figure-4-TF5-Bioenergy-1768401203754.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ###### Figure 4. Potential contribution of biomass in the Balanced Mix variant (Medium scenario)
 
 <p style="text-align: justify;"> The results demonstrate that biomass potentials remain a significant component of the Austrian energy system, and that their role is likely to increase further in certain sectors. The question of the role biomass can play in space heating and domestic hot water supply, in complementarity with heat pumps and district heating, is addressed through the different allocation variants.
@@ -126,6 +129,3 @@ Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 20
 AIT Austrian Institute of Technology GmbH acts as provider for this service.
 	
 EOX complements with its IT expertise, acting as host and front-end expert.
-
-        
-        
