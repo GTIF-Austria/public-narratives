@@ -132,15 +132,17 @@ Waste Heat (Heat Pump)	25%	31%	37%
 ##### Austria GTIF - Direct Utilization of Industrial Waste Heat (≥ 50 °C) Potential
 
 <iframe
-  width="100%"
+  width="100%"a
   height="450"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json& x=13.3333&y=47.5162&z=6.5&indicator=excess_heat_dir_eepot_w23_wocc&datetime=2030-01-01">
+  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json& x=14.1054&y=47.8382&z=7.4783&indicator=excess_heat_dir_eepot_w23_wocc&datetime=2030-01-01">
 
 </iframe>
+
+
 
 ##### Low-Temperature Waste Heat (< 50 °C) from Industry, Commerce, and Wastewater Treatment Plants
 
@@ -153,7 +155,19 @@ Waste Heat (Heat Pump)	25%	31%	37%
  
 
 ###### Figure 3 Technical Potential of Low-Temperature Waste Heat (< 50 °C) from Industry, Commerce, and Wastewater Treatment Plants for 2030 and 2040
-[insert mapview here]
+
+##### Austria GTIF - Low-Temperature Waste Heat (< 50 °C) Potential
+
+<iframe
+  width="100%"
+  height="450"
+  style="border:0; border-radius:12px;"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=14.1054&y=47.8382&z=7.4783&indicator=excess_heat_hp_eepot_w23_wocc&datetime=2030-01-01">
+
+</iframe>
 
 <p style="text-align: justify;">  Low-temperature waste heat from industry and wastewater treatment plants can play a significant role in the decarbonization of the heating sector, particularly when combined with network-based heat supply systems. 
 
