@@ -3,7 +3,7 @@ cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/trieb
 
 domain: Energy Transition
 tags: wind energy, photovoltaic, RED-III
-
+provider: Energiewerkstatt
 ---
 
 # Site Identification for Renewable Energies
