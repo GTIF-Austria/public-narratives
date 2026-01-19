@@ -82,6 +82,17 @@ The potential assessment distinguishes between two main application areas:
 ##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf6-solar-thermal/assets/nipargar/Figure-2-TF6-Solar-Thermal-1765979398714.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/727e3223083ab7cbe0704af784206e5651c67f64/assets/Figure-2-TF6-Solar-Thermal-1765979398714.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
  
 ###### Figure 2 Identified energy potentials for building-integrated solar thermal systems
+##### Austria GTIF - building-integrated solar thermal energy
+
+<iframe
+  width="100%"
+  height="450"
+  style="border:0; border-radius:12px;"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=13.1211&y=47.8293&z=7.5153&indicator=st_buildings_eepot_w23_wocc&datetime=2030-01-01">
+</iframe>
 
 #### Solar-supported district heating networks
 
