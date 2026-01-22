@@ -122,10 +122,15 @@ Waste Heat (Heat Pump)	25%	31%	37%
 <p style="text-align: justify;">  Based on a regionally differentiated starting value derived from the model, the technical potential for directly utilized waste heat for feeding into district heating systems amounts to up to 3,4 TWh/a in 2030 and 3,6 TWh/a in 2040.
 
 <p style="text-align: justify;">  The theoretical potentials listed in (7,2 GWh/a) represent the total industrial waste heat potential in 2040 at temperatures ≥ 50 °C, without considering recoverability. When these waste heat potentials are restricted by municipal-level district heating demand, the value decreases to 4.6 GWh/a. However, this calculation does not account for the possibility of utilizing waste heat across municipal boundaries via district heating, provided that suitable heat sinks can be accessed.
- 
+
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure1-TF74-WasteHeat-1769065788336.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1b74251c54677358ff65019d18b123de6200795/assets/Figure1-TF74-WasteHeat-1769065788336.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 1 Temporal Evolution of Technical Potentials for Industrial Waste Heat Utilized Directly
- 
+
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure2TF74WasteHeat-1769065846376.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d171e9a2406f7eca92466930b7c0c2bb0bf23d97/assets/Figure2TF74WasteHeat-1769065846376.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 
 ###### Figure 2 Identified Energy Potentials for Directly Utilized Industrial Waste Heat
 
@@ -152,7 +157,10 @@ Waste Heat (Heat Pump)	25%	31%	37%
 
 <p style="text-align: justify;">  The figures presented below encompass the identified low-temperature waste heat potentials from industry and commerce as well as from wastewater treatment plants. Wastewater treatment plants account for approximately 20% of this potential.
 
- 
+
+
+## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure3TF74WasteHeat-1769065860296.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/04639462608ba9979bdd004494432a568eb2386a/assets/Figure3TF74WasteHeat-1769065860296.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 
 ###### Figure 3 Technical Potential of Low-Temperature Waste Heat (< 50 °C) from Industry, Commerce, and Wastewater Treatment Plants for 2030 and 2040
 
