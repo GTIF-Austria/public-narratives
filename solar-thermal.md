@@ -146,10 +146,9 @@ The potential assessment distinguishes between two main application areas:
 <p style="text-align: justify;"> [2] 	P. Biermayr, S. Aigenbauer, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, M. Fuhrmann, M.-C. Haidacher, F. Hengel, M. Jaksch-Fliegenschnee, K. Leonhartsberger, D. Matschegg, S. Moidl, E. Prem, T. Riegler, S. Savic, C. Strasser, P. Wonisch und E. Wopienka, „Innovative Energietechnologien in Österreich Marktentwicklung 2023,“ BMK, Berichte aus Energie- und Umweltforschung 17a/2024, Wien, 2024.
 
 ## About 
-<p style="text-align: justify;">
-Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 2030 und 2040 wurde im Auftrag des Klima- und Energiefonds und dotiert aus Mitteln des BMK unter Leitung des AIT Austrian Institute ob Technology GmbH (AIT) gemeinsam mit Umweltbundesamt (UBA), Technische Universität Wien (TU Wien), AEE – Institut für Nachhaltige Technologien (AEE INTEC) und Energiewerkstatt durchgeführt." (muss noch verenglischt werden) und dann noch explizit anführen jene Institutionen, die dieses Technologiefeld bearbeiten, plus uns und EOX
-	
-AIT Austrian Institute of Technology GmbH acts as provider for this service.
-	
-EOX complements with its IT expertise, acting as host and front-end expert.
+<p style="text-align: justify;">  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+
+<p style="text-align: justify;">  AIT and UBA acts as provider for this service.
+
+<p style="text-align: justify;">  EOX complements with its IT expertise, acting as host and front-end expert.
 
