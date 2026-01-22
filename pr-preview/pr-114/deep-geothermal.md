@@ -43,7 +43,7 @@
 <p style="text-align: justify;">  Because deep subsurface data in Austria remain sparse and partly inaccessible, realizable deep geothermal potentials cannot yet be calculated. Expert estimations therefore serve as the primary basis. 
 <p style="text-align: justify;">  In the R&I Roadmap for Geothermal Energy [2], the following overview of geothermal potentials and proposed expansion targets was published.
 	
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf4-deep-geothermal/assets/nipargar/Figure-2-TF4-Deep-Geothermal-1769072088971.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/0e8967fc5c781f5594e3f0b1ecd31b625b62da0c/assets/Figure-2-TF4-Deep-Geothermal-1769072088971.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf4-deep-geothermal/assets/nipargar/Figure-2-TF4-Deep-Geothermal-1769072088971.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/0e8967fc5c781f5594e3f0b1ecd31b625b62da0c/assets/Figure-2-TF4-Deep-Geothermal-1769072088971.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 2 Current scope of application, identified resources, and geothermal expansion targets for 2030 and 2050 as proposed by the Austrian Geothermal Association (GTÖ).
 
@@ -73,12 +73,11 @@
 
 
 ## About 
-<p style="text-align: justify;">
-Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 2030 und 2040 wurde im Auftrag des Klima- und Energiefonds und dotiert aus Mitteln des BMK unter Leitung des AIT Austrian Institute ob Technology GmbH (AIT) gemeinsam mit Umweltbundesamt (UBA), Technische Universität Wien (TU Wien), AEE – Institut für Nachhaltige Technologien (AEE INTEC) und Energiewerkstatt durchgeführt." (muss noch verenglischt werden) und dann noch explizit anführen jene Institutionen, die dieses Technologiefeld bearbeiten, plus uns und EOX
-	
-AIT Austrian Institute of Technology GmbH acts as provider for this service.
-	
-EOX complements with its IT expertise, acting as host and front-end expert.
+<p style="text-align: justify;">  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+
+<p style="text-align: justify;">  AIT and UBA acts as provider for this service.
+
+<p style="text-align: justify;">  EOX complements with its IT expertise, acting as host and front-end expert.
 	
 
 
