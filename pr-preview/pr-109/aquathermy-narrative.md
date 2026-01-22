@@ -102,7 +102,7 @@ The following sections provide only a condensed overview of the methodological c
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=13.9463&y=47.7899&z=7.8941&indicator=aquifer_eepot_w23_wocc&datetime=2030-01-01">
+  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json& x=13.3333&y=47.5162&z=7&indicator=aquifer_eepot_w23_wocc&datetime=2030-01-01">
 </iframe>
 
 ##### Assessment of the Results
@@ -117,8 +117,8 @@ The following sections provide only a condensed overview of the methodological c
 
 ## About 
 
-<p style="text-align: justify;"> The underlying study Erneuerbare Energiepotenziale in Österreich für 2030 und 2040 was commissioned by the Climate and Energy Fund and funded by the Federal Ministry of Economy, Energy and Tourism (BMWET). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+<p style="text-align: justify;"> The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
-AEE INTEC acts as provider for this service.
+AIT and UBA acts as provider for this service.
 
 EOX complements with its IT expertise, acting as host and front-end expert.
