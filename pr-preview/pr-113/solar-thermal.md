@@ -17,8 +17,8 @@
 
 The potential assessment distinguishes between two main application areas:
 
-* <p style="text-align: justify;"> Building-integrated solar thermal systems: Systems for domestic hot water preparation and partially solar-supported space heating (solar combi-systems). Typical coverage ratios range from 60–75% of domestic hot water demand and from 10–40% of the combined heat demand (space heating, SH, plus domestic hot water, DHW) [2].
-* <p style="text-align: justify;"> Solar-assisted heating networks (ground-mounted systems): Large-scale solar thermal installations supplying local and district heating networks. Typical coverage ratios amount to 5–25% of the total heat demand of the network [2]. 
+* <p style="text-align: justify;"> <b>Building-integrated solar thermal systems: </b>Systems for domestic hot water preparation and partially solar-supported space heating (solar combi-systems). Typical coverage ratios range from 60–75% of domestic hot water demand and from 10–40% of the combined heat demand (space heating, SH, plus domestic hot water, DHW) [2].
+* <p style="text-align: justify;"> <b>Solar-assisted heating networks (ground-mounted systems): </b>Large-scale solar thermal installations supplying local and district heating networks. Typical coverage ratios amount to 5–25% of the total heat demand of the network [2]. 
 
 #### Theoretical Potential
 <p style="text-align: justify;"> The solar radiation potential in Austria is geographically very high. Therefore, an explicit quantification of the theoretical potential has not been conducted. Instead, the assessment focuses on spatial, system-specific, infrastructural, and economic constraints.
