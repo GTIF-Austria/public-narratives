@@ -68,9 +68,8 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 ###### Table 1 Maximum Coverage Shares of Waste Heat in District Heating Networks
 
-Utilisation Pathway 	Low	Medium	High
-Waste Heat (Direct Use)	31%	39%	47%
-Waste Heat (Heat Pump)	25%	31%	37%
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Table1-TF74-WasteHeat-1769066364555.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c98e435c849ca19099c0f65934e1d2801808cae0/assets/Table1-TF74-WasteHeat-1769066364555.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 
 **Realisable Potential**
@@ -124,12 +123,12 @@ Waste Heat (Heat Pump)	25%	31%	37%
 <p style="text-align: justify;">  The theoretical potentials listed in (7,2 GWh/a) represent the total industrial waste heat potential in 2040 at temperatures ≥ 50 °C, without considering recoverability. When these waste heat potentials are restricted by municipal-level district heating demand, the value decreases to 4.6 GWh/a. However, this calculation does not account for the possibility of utilizing waste heat across municipal boundaries via district heating, provided that suitable heat sinks can be accessed.
 
 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure1-TF74-WasteHeat-1769065788336.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1b74251c54677358ff65019d18b123de6200795/assets/Figure1-TF74-WasteHeat-1769065788336.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure1-TF74-WasteHeat-1769065788336.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1b74251c54677358ff65019d18b123de6200795/assets/Figure1-TF74-WasteHeat-1769065788336.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 1 Temporal Evolution of Technical Potentials for Industrial Waste Heat Utilized Directly
 
 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure2TF74WasteHeat-1769065846376.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d171e9a2406f7eca92466930b7c0c2bb0bf23d97/assets/Figure2TF74WasteHeat-1769065846376.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure2TF74WasteHeat-1769065846376.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d171e9a2406f7eca92466930b7c0c2bb0bf23d97/assets/Figure2TF74WasteHeat-1769065846376.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 
 ###### Figure 2 Identified Energy Potentials for Directly Utilized Industrial Waste Heat
@@ -159,7 +158,7 @@ Waste Heat (Heat Pump)	25%	31%	37%
 
 
 
-## Simple Image Example <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure3TF74WasteHeat-1769065860296.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/04639462608ba9979bdd004494432a568eb2386a/assets/Figure3TF74WasteHeat-1769065860296.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure3TF74WasteHeat-1769065860296.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/04639462608ba9979bdd004494432a568eb2386a/assets/Figure3TF74WasteHeat-1769065860296.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 
 ###### Figure 3 Technical Potential of Low-Temperature Waste Heat (< 50 °C) from Industry, Commerce, and Wastewater Treatment Plants for 2030 and 2040
@@ -184,17 +183,8 @@ Waste Heat (Heat Pump)	25%	31%	37%
 <p style="text-align: justify;">  Waste heat represents a strategically significant heat source, particularly when combined with district heating networks and heat pumps. The technical potential of up to 8.4 TWh by 2030 and 9.4 TWh by 2040 underscores the high importance of this resource. The spatial distribution of these potentials is concentrated in industrial centres and urban areas with existing network-based infrastructure and high heat demand density. Table 2 presents the consolidated technical potentials by utilization pathway:
 
 ###### Table 2 Summary of Technical Waste Heat Potentials for Various Utilization Pathways
-Source	Utilization Pathway	Status quo 2023
-[TWh/a]	Technical Potential by 2030
-[TWh/a]
-Low / Medium / High	Technical Potential by 2040
-[TWh/a]
-Low / Medium / High
-Industry	Direct Waste Heat Utilization	1,6	3,0 / 3,2 / 3,4	3,2 / 3,4 / 3,6
-Industry	Utilization via Heat Pump (HP)	n.a	3,4 / 3,7 / 4,0	4,0 / 4,4 / 4,7
-Sewage Treatment Plants	Utilization via Heat Pump (HP)	n.a	0,8 / 0,9 / 0,9	0,9 / 1,0 / 1,0
-Total		1,6	7,2 / 7,8 / 8,4	8,1 / 8,8 / 9,4
 
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Table2-TF74-WasteHeat-1769066386017.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6d857317aab5da0677151630c1b41524e62e2dcf/assets/Table2-TF74-WasteHeat-1769066386017.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ##### Estimation of Realizable Potential (Expert Assessment)
 
