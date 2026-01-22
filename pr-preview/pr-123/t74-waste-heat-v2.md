@@ -215,10 +215,7 @@ The underlying INXS study identifies a total technical waste heat potential of 3
 
 ###### Table 3 Qualitative Classification of Realizable Waste Heat Potentials for Various Utilization Pathways
 
-Utilization Pathway	Technical Potential 2040	Realizable Range	Comments
-Direct Utilization (≥ 50 °C)	up to 3.6 TWh/a	2.2–3.3 TWh/a	High technological maturity; good feasibility
-Heat Pump Utilization (< 50 °C, Industry + Wastewater Treatment Plants)	up to 5.7 TWh/a	1.7–3.2 TWh/a	Higher system complexity; strong site-specific dependence; increasing relevance through low-temperature and anergy networks
-Total Realizable Potential	up to 9.4 TWh/a	approx. 4.0–6.5 TWh/a	Conservative expert estimate
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Table3-TF74-WasteHeat-1769067133253.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a5725bd58b4ac1765e0fdc1444757b56e8e69831/assets/Table3-TF74-WasteHeat-1769067133253.png" style=" display:block; margin:auto;width: 70%; height: 70%; "}-->
 
 ##### Summary
 
