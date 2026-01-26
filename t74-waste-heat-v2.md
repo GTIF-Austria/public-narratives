@@ -1,3 +1,11 @@
+---
+cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Waste%20heat.jpg?raw=true
+ 
+domain: Energy Transformation
+tags: KLIEN, renewable energy, energy potential, energy technology, waste heat, ambient heat
+provider: AIT Center for Energy, AEE Intec
+---
+
 # Waste Heat
 
 ## Background
@@ -116,11 +124,11 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 ##### Direct Use of Industrial Waste Heat (≥50°C)
 
-<p style="text-align: justify;"> The direct utilization of industrial waste heat at higher temperatures (≥50°C) is technically established and comparatively well exploited in Austria. As early as 2020, approximately 1,75 TWh/a of industrial waste heat was fed into district heating networks with a combined connection capacity of roughly 580 MW [1].
+<p style="text-align: justify;"> The direct utilization of industrial waste heat at higher temperatures (≥50°C) is technically established and comparatively well exploited in Austria. As early as 2020, approximately 1.75 TWh/a of industrial waste heat was fed into district heating networks with a combined connection capacity of roughly 580 MW [1].
 
-<p style="text-align: justify;">  Based on a regionally differentiated starting value derived from the model, the technical potential for directly utilized waste heat for feeding into district heating systems amounts to up to 3,4 TWh/a in 2030 and 3,6 TWh/a in 2040.
+<p style="text-align: justify;">  Based on a regionally differentiated starting value derived from the model, the technical potential for directly utilized waste heat for feeding into district heating systems amounts to up to 3.4 TWh/a in 2030 and 3.6 TWh/a in 2040.
 
-<p style="text-align: justify;">  The theoretical potentials listed in (7,2 GWh/a) represent the total industrial waste heat potential in 2040 at temperatures ≥50°C, without considering recoverability. When these waste heat potentials are restricted by municipal-level district heating demand, the value decreases to 4.6 GWh/a. However, this calculation does not account for the possibility of utilizing waste heat across municipal boundaries via district heating, provided that suitable heat sinks can be accessed.
+<p style="text-align: justify;">  The theoretical potentials listed in (7.2 GWh/a) represent the total industrial waste heat potential in 2040 at temperatures ≥50°C, without considering recoverability. When these waste heat potentials are restricted by municipal-level district heating demand, the value decreases to 4.6 GWh/a. However, this calculation does not account for the possibility of utilizing waste heat across municipal boundaries via district heating, provided that suitable heat sinks can be accessed.
 
 
 ##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure1-TF74-WasteHeat-1769065788336.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1b74251c54677358ff65019d18b123de6200795/assets/Figure1-TF74-WasteHeat-1769065788336.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
@@ -184,7 +192,7 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 ###### Table 2 Summary of Technical Waste Heat Potentials for Various Utilization Pathways
 
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Table2-TF74-WasteHeat-1769066386017.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6d857317aab5da0677151630c1b41524e62e2dcf/assets/Table2-TF74-WasteHeat-1769066386017.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Table2-TF74-WasteHeat-1769066386017.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6d857317aab5da0677151630c1b41524e62e2dcf/assets/Table2_TF74_WasteHeat.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ##### Estimation of Realizable Potential (Expert Assessment)
 
