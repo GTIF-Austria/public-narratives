@@ -138,14 +138,21 @@ def extract_metadata(file_path, base_url):
         if img_match:
             img_url = img_match.group(1)
     if img_url:
-        preview_url = fetch_and_resize_media(
-            img_url, "output/assets/previews", 400
-        )
-    else: 
+        preview_url = fetch_and_resize_media(img_url, "output/assets/previews", 400)
+    else:
         preview_url = None
+    # split a comma separated string to list
+    if provider := metadata.get("provider"):
+        metadata.update({"provider": provider.split(",")})
+    # split a comma separated string to list
+    if provider_cap := metadata.get("Provider"):
+        metadata.update({"provider": provider_cap.split(",")})
+        del metadata["Provider"]
 
     # Merge extracted metadata
-    metadata.update({"file": file_url, "title": h1, "subtitle": h3, "image": preview_url})
+    metadata.update(
+        {"file": file_url, "title": h1, "subtitle": h3, "image": preview_url}
+    )
 
     return metadata
 
