@@ -1,11 +1,18 @@
+---
+cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Heat%20Pump.jpg?raw=true
+
+domain: Energy Transformation
+tags: KLIEN, renewable energy, energy potential, energy technology, brine water heat pump, shallow geothermal energy and groundwater, ambient heat
+provider: AIT Center for Energy, AEE Intec
+---
+
 # Shallow Geothermal Energy and Groundwater
 
 ## Background
 
 <p style="text-align: justify;"> Shallow geothermal systems have a long tradition in Austria, particularly in the form of borehole probes, surface collectors, and groundwater-based systems, which have been successfully implemented across many regions for more than 30 years. These technologies have become indispensable in practice and are recognized as efficient solutions for providing both heating and cooling. The share of shallow geothermal energy in Austria’s renewable heating market is estimated at more than 20 %, with further potential in urban areas, especially regarding seasonal thermal storage and cooling applications in anergy networks [1].
 
-<p style="text-align: justify;"> According to the 17/2024 market survey [2], a total of 491.361 heat pump systems were in operation in Austria at the end of 2023, of which 31,7 % used groundwater or the subsurface as a heat source. The current stock (2024) of ground-coupled heat pump systems is estimated at approximately 104.300 to 107.700 installations, corresponding to an average annual growth rate of +3,1 % since 2022. Groundwater heat pumps in particular continue to grow steadily, with 719 new installations recorded in 2024.
-
+<p style="text-align: justify;"> According to the 17/2024 market survey [2], a total of 491.361 heat pump systems were in operation in Austria at the end of 2023, of which 31,7% used groundwater or the subsurface as a heat source. The current stock (2024) of ground-coupled heat pump systems is estimated at approximately 104,300 to 107,700 installations, corresponding to an average annual growth rate of +3,1% since 2022. Groundwater heat pumps in particular continue to grow steadily, with 719 new installations recorded in 2024.
 
 <p style="text-align: justify;"> Looking forward, the development of low-temperature supply networks of the fifth generation (5G networks) is expected to play a major role, enabling the use of shallow geothermal energy for heating, cooling, and seasonal storage applications [3].
 
@@ -13,19 +20,19 @@
 
 <p style="text-align: justify;"> The following sections provide only a condensed overview of the methodological concept used for calculating shallow geothermal energy and groundwater potentials. A comprehensive and fully detailed description of all methodological steps, assumptions, and data sources can be found in the full report.
 
-##### Definition and Scope
+### Definition and Scope
 
-<p style="text-align: justify;"> Shallow geothermal energy (< 300 m below ground surface) encompasses a wide variety of technologies used to access near-surface thermal resources. In addition to the well-known systems, closed vertical collectors (borehole heat exchangers) and open systems based on groundwater extraction, a range of alternative technologies can harness low-temperature heat from the subsurface (“ambient heat”), particularly where drilling is not feasible, or groundwater availability is limited. Examples include spiral collectors, ring trench collectors, and massive absorbers. For this reason, heat from the shallow subsurface has been classified as a universally available resource.
+<p style="text-align: justify;"> Shallow geothermal energy (<300 m below ground surface) encompasses a wide variety of technologies used to access near-surface thermal resources. In addition to the well-known systems, closed vertical collectors (borehole heat exchangers) and open systems based on groundwater extraction, a range of alternative technologies can harness low-temperature heat from the subsurface (“ambient heat”), particularly where drilling is not feasible, or groundwater availability is limited. Examples include spiral collectors, ring trench collectors, and massive absorbers. For this reason, heat from the shallow subsurface has been classified as a universally available resource.
 
 <p style="text-align: justify;"> Thermal groundwater use was designated as available only in areas with sufficient aquifer yield. Closed geothermal systems (e.g., borehole heat exchangers, collectors) were assumed to be deployable in all areas.
 
-##### Theoretical Potential
+### Theoretical Potential
 
-<p style="text-align: justify;"> The thermal energy stored in the shallow subsurface is, in principle, virtually unlimited, as it is replenished continuously by solar radiation, precipitation, and natural geothermal heat flux. Utilization typically occurs at depths of up to 300 meters and temperatures of approximately 25–30 °C using closed systems (borehole heat exchangers, surface collectors, ring trench collectors) or open systems (groundwater heat extraction).
+<p style="text-align: justify;"> The thermal energy stored in the shallow subsurface is, in principle, virtually unlimited, as it is replenished continuously by solar radiation, precipitation, and natural geothermal heat flux. Utilization typically occurs at depths of up to 300 meters and temperatures of approximately 25–30°C using closed systems (borehole heat exchangers, surface collectors, ring trench collectors) or open systems (groundwater heat extraction).
 
 <p style="text-align: justify;"> An exact quantification of the total theoretical potential was not carried out due to its theoretical inexhaustibility and its strong dependence on local geological and hydrogeological conditions.
 
-##### Technical Potential
+### Technical Potential
 
 <p style="text-align: justify;"> The technical feasibility of shallow geothermal systems is determined primarily by the efficiency of the heat pump, which, for the three system types considered (closed vertical, closed horizontal, open), depends largely on the following factors:
 
@@ -56,9 +63,9 @@
 
 ###### Figure 3 Seasonal Performance Factors of Water–Water Heat Pumps (Open Systems) in Graz as a Function of Supply Temperatures (ST) and Space-Heating (SH) /Domestic Hot Water (DHW) Shares 
 
-##### Realizable Potential
+### Realisable Potential
 
-<p style="text-align: justify;"> The realizable potential is determined using a diffusion model (S-curve). This approach represents a model-based approximation whose limitations must be considered when interpreting the results.
+<p style="text-align: justify;"> The realisable potential is determined using a diffusion model (S-curve). This approach represents a model-based approximation whose limitations must be considered when interpreting the results.
 <p style="text-align: justify;"> Due to the high complexity and strong heterogeneity of local boundary conditions, site-specific constraints could not be incorporated into the assessment of shallow geothermal potentials. Such constraints include, for example, permissible extraction volumes (“consensus volumes”) from aquifers, the actually available surface area for various collector types, and prohibitions issued by water authorities due to technical or geological restrictions.
 
 ## Results
@@ -78,7 +85,7 @@
 * Undisturbed ground temperatures
 
 <p style="text-align: justify;"> These datasets were updated by the Environment Agency Austria, Geosphere Austria, and the AIT Austrian Institute of Technology.
-##### Results of Closed Systems (GS)
+### Results of Closed Systems (GS)
 
 <p style="text-align: justify;">  In this study, closed systems—both vertical and horizontal configurations—were analysed separately at first and subsequently combined. This procedure was chosen because the potential of horizontal systems depends strongly on the available land area. As no specific spatial data on available surface area were available for this study, a combined assessment of the two system types was carried out.
 
@@ -95,7 +102,20 @@
 
 ###### Figure 5 Identified Realisable Heat Potentials (Ambient Heat Input to Heat Pumps) from Shallow Geothermal Energy (Closed Systems) at the National Scale (Energy Reference Basis)
 
-##### Results of Open Systems (OS)
+##### Austria GTIF – Ground Source Heat Pump: Close System
+
+<iframe
+  width="100%"
+  height="450"
+  style="border:0; border-radius:12px;"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://gtif-austria.info/explore?x=13.2674&y=47.9350&z=6.8857&template=light&indicator=closed_systems_eepot_w23_wocc&datetime=2030-01-01">
+</iframe>
+
+
+### Results of Open Systems (OS)
 
 
 ## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-6-T7.3-Geothermal-1768407838651.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/fa90c8a1c040bafbecf253dba1d688a62e17b6a6/assets/Figure-6-T7.3-Geothermal-1768407838651.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
@@ -107,7 +127,7 @@
 
 ###### Figure 7 Identified Heat Potential (Ambient Heat Input to Heat Pumps) from Shallow Geothermal Open Systems at the National Scale (Energy Reference Basis)
 
-##### Austria GTIF – Shallow Geothermal Energy and Groundwater
+##### Austria GTIF – Ground Source Heat Pump: Open System
 
 <iframe
   width="100%"
@@ -116,29 +136,29 @@
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x= x=13.3333&y=47.5162&z=7&indicator=closed_systems_eepot_w23_wocc&datetime=2030-01-01">
+  src=" https://gtif-austria.info/explore?x=13.2674&y=47.9350&z=6.8857&template=light&indicator=aquifer_eepot_w23_wocc&datetime=2030-01-01 ">
 </iframe>
 
-##### Evaluation of Results
+## Evaluation of Results
 <p style="text-align: justify;">  Shallow geothermal energy represents a highly promising renewable heating and cooling technology. It offers substantial potential, particularly in urban areas, due to its flexibility, broad applicability, and compatibility with other renewable heat sources.
 
 <p style="text-align: justify;">  However, the potential analysis shows that the currently installed capacities fall far short of the technical potentials. This is due, on the one hand, to the still limited awareness of the diverse application possibilities of geothermal systems. On the other hand, higher investment costs—especially when compared to air-source heat pumps, the most widespread ambient heat technology—play a significant role.
 
 <p style="text-align: justify;">  Shallow geothermal systems nevertheless hold a central position in the heating transition, especially for space heating. The following aspects are essential for increasing the share of shallow geothermal installations [7]:
 
-<em><u>Promoting the Use of Geothermal Energy in Existing Buildings</em></u>
+##### Promoting the Use of Geothermal Energy in Existing Buildings
 
 <p style="text-align: justify;">  While geothermal systems already constitute standard practice in many new building projects, they are equally suitable for retrofitting existing buildings, including historic or protected structures. State-of-the-art solutions and best-practice examples—particularly in densely built urban areas—should be made accessible to a broad group of stakeholders to highlight potential applications and increase visibility.
 
 <p style="text-align: justify;">  Successful deployment of geothermal systems in existing buildings is closely linked to renovation measures. Particular attention should be given to the economic synergies between major refurbishment efforts and the integration of geothermal energy, from absorber installation through the building’s climate control concept.
 
-<em><u>Recognizing Cooling as a Relevant Component of the Energy Transition</em></u>
+##### Recognizing Cooling as a Relevant Component of the Energy Transition
 
 <p style="text-align: justify;">  Increasing summer overheating caused by climate change—together with the formation of urban heat islands and a rising number of tropical nights—places growing strain on the population, particularly on vulnerable groups. Geothermal systems are particularly well suited as a renewable cooling solution: they can not only extract heat from the subsurface but also inject excess heat into it. This stored heat can subsequently be recovered in winter for space heating.
 
 <p style="text-align: justify;">  This ability to operate within a seasonal “thermal cycle” is a major advantage of geothermal energy over other technologies. Moreover, by storing excess heat in the ground rather than releasing it into the atmosphere, geothermal cooling avoids further intensifying the urban heat island effect.
 
-<em><u>Integration of Geothermal Energy in Multivalent Heating and Cooling Applications and Anergy Networks; Improving Sector Coupling</em></u>
+##### Integration of Geothermal Energy in Multivalent Heating and Cooling Applications and Anergy Networks; Improving Sector Coupling
 
 <p style="text-align: justify;">  Shallow geothermal systems exhibit strong integration potential with other low-temperature renewable energy sources. Multivalent low-temperature applications significantly enhance the energy efficiency of geothermal systems when geothermal technologies provide baseload coverage and storage for volatile renewables. In recent years, the first pilot projects for geothermal-assisted low-temperature heating and cooling networks (“anergy networks”) have been implemented in Austria.
 
@@ -153,8 +173,6 @@
 
 ## About 
 
-<p style="text-align: justify;">  The underlying study Erneuerbare Energiepotenziale in Österreich für 2030 und 2040 was commissioned by the Climate and Energy Fund and funded by the Federal Ministry of Econoimy, Energy and Tourism (BMWET). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
-
-<p style="text-align: justify;">  AIT and AEE INTEC acts as provider for this service.
-
-<p style="text-align: justify;">  EOX complements with its IT expertise, acting as host and front-end expert. 
+<p style="text-align: justify;">  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+<p style="text-align: justify;"> AIT acts as provider for this service.
+<p style="text-align: justify;">  EOX complements with its IT expertise, acting as host and front-end expert.
