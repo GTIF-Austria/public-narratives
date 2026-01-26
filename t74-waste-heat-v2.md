@@ -114,13 +114,13 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 <p style="text-align: justify;"> The technical potential incorporates the upper coverage limits of district heating demand across three bands (low–medium–high) as well as maximum pipeline distances to district heating networks. The modelling also accounts for changes in district heating demand toward 2030 and 2040 according to the WEM (With Existing Measures) 2023 heat demand scenario, as well as expected reductions in high-temperature industrial waste heat due to energy efficiency measures.
 
-##### Direct Use of Industrial Waste Heat (≥ 50°C)
+##### Direct Use of Industrial Waste Heat (≥50°C)
 
-<p style="text-align: justify;"> The direct utilization of industrial waste heat at higher temperatures (≥ 50°C) is technically established and comparatively well exploited in Austria. As early as 2020, approximately 1,75 TWh/a of industrial waste heat was fed into district heating networks with a combined connection capacity of roughly 580 MW [1].
+<p style="text-align: justify;"> The direct utilization of industrial waste heat at higher temperatures (≥50°C) is technically established and comparatively well exploited in Austria. As early as 2020, approximately 1,75 TWh/a of industrial waste heat was fed into district heating networks with a combined connection capacity of roughly 580 MW [1].
 
 <p style="text-align: justify;">  Based on a regionally differentiated starting value derived from the model, the technical potential for directly utilized waste heat for feeding into district heating systems amounts to up to 3,4 TWh/a in 2030 and 3,6 TWh/a in 2040.
 
-<p style="text-align: justify;">  The theoretical potentials listed in (7,2 GWh/a) represent the total industrial waste heat potential in 2040 at temperatures ≥ 50°C, without considering recoverability. When these waste heat potentials are restricted by municipal-level district heating demand, the value decreases to 4.6 GWh/a. However, this calculation does not account for the possibility of utilizing waste heat across municipal boundaries via district heating, provided that suitable heat sinks can be accessed.
+<p style="text-align: justify;">  The theoretical potentials listed in (7,2 GWh/a) represent the total industrial waste heat potential in 2040 at temperatures ≥50°C, without considering recoverability. When these waste heat potentials are restricted by municipal-level district heating demand, the value decreases to 4.6 GWh/a. However, this calculation does not account for the possibility of utilizing waste heat across municipal boundaries via district heating, provided that suitable heat sinks can be accessed.
 
 
 ##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure1-TF74-WasteHeat-1769065788336.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1b74251c54677358ff65019d18b123de6200795/assets/Figure1-TF74-WasteHeat-1769065788336.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
@@ -133,7 +133,7 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 ###### Figure 2 Identified Energy Potentials for Directly Utilized Industrial Waste Heat
 
-##### Austria GTIF - Direct Utilization of Industrial Waste Heat (≥ 50°C) Potential
+##### Austria GTIF - Direct Utilization of Industrial Waste Heat (≥50°C) Potential
 
 <iframe
   width="100%"a
@@ -148,11 +148,11 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 
 
-##### Low-Temperature Waste Heat (< 50°C) from Industry, Commerce, and Wastewater Treatment Plants
+##### Low-Temperature Waste Heat (<50°C) from Industry, Commerce, and Wastewater Treatment Plants
 
-<p style="text-align: justify;"> At present, the direct utilization of industrial waste heat at higher temperatures (≥ 50°C) is technically well established and comparatively well exploited. In contrast, the potential associated with low-temperature waste heat (< 50°C) remains largely untapped.
+<p style="text-align: justify;"> At present, the direct utilization of industrial waste heat at higher temperatures (≥50°C) is technically well established and comparatively well exploited. In contrast, the potential associated with low-temperature waste heat (<50°C) remains largely untapped.
 
-<p style="text-align: justify;"> Across Austria, the technical potential for low-temperature waste heat (< 50°C) amounts to up to 5.0 TWh/a in 2030 and 5.7 TWh/a in 2040.
+<p style="text-align: justify;"> Across Austria, the technical potential for low-temperature waste heat (<50°C) amounts to up to 5.0 TWh/a in 2030 and 5.7 TWh/a in 2040.
 
 <p style="text-align: justify;">  The figures presented below encompass the identified low-temperature waste heat potentials from industry and commerce as well as from wastewater treatment plants. Wastewater treatment plants account for approximately 20% of this potential.
 
@@ -161,9 +161,9 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 ##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure3TF74WasteHeat-1769065860296.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/04639462608ba9979bdd004494432a568eb2386a/assets/Figure3TF74WasteHeat-1769065860296.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 
-###### Figure 3 Technical Potential of Low-Temperature Waste Heat (< 50°C) from Industry, Commerce, and Wastewater Treatment Plants for 2030 and 2040
+###### Figure 3 Technical Potential of Low-Temperature Waste Heat (<50°C) from Industry, Commerce, and Wastewater Treatment Plants for 2030 and 2040
 
-##### Austria GTIF - Low-Temperature Waste Heat (< 50°C) Potential
+##### Austria GTIF - Low-Temperature Waste Heat (<50°C) Potential
 
 <iframe
   width="100%"
@@ -200,12 +200,12 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 The underlying INXS study identifies a total technical waste heat potential of 34.3 TWh/a without applying spatial constraints. Under the methodology used here, this value decreases to 9.4 TWh/a by 2040, following the application of spatial (maximum pipeline distance) and systemic (coverage limit) restrictions.
 ##### Assessment of Utilization Pathways
 
-**Direct Utilization of Industrial Waste Heat (≥ 50°C)**
+**Direct Utilization of Industrial Waste Heat (≥50°C)**
 
 <p style="text-align: justify;"> Direct utilization demonstrates a high level of technological maturity, low system complexity, and strong spatial alignment with existing and planned district heating networks. At present, approximately 1.6 TWh/a are already in use, corresponding to roughly 43% of the technical potential. By 2040, a technical potential of 3.6 TWh/a is projected.
 <p style="text-align: justify;"> Experts estimate that 70–90% of this potential is realizable. This corresponds to a realizable potential of approximately 2.2–3.3 TWh/a by 2040.
 
-**Heat Pump Utilization of Low-Temperature Waste Heat (< 50°C)**
+**Heat Pump Utilization of Low-Temperature Waste Heat (<50°C)**
 
 <p style="text-align: justify;"> The technical potential for low-temperature waste heat amounts to 5.7 TWh/a by 2040, yet its exploitation is more challenging due to site-specific conditions. Contributing factors include dependence on suitable heat sinks, higher system complexity, and limited project experience and business models.
 
