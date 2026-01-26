@@ -2,7 +2,7 @@
 
 ## Background
 
-<p style="text-align: justify;"> Industrial processes as well as municipal wastewater treatment plants constitute significant sources of waste heat that have thus far been only partially exploited. This heat is available at different temperature levels and (depending on the source temperature) can be fed into heating networks either directly or via heat pumps. While the direct use of waste heat is already technically established, the substantial potential of low-temperature waste heat (< 50°C) from industry, commerce, and wastewater remains largely unused.
+<p style="text-align: justify;"> Industrial processes as well as municipal wastewater treatment plants constitute significant sources of waste heat that have thus far been only partially exploited. This heat is available at different temperature levels and (depending on the source temperature) can be fed into heating networks either directly or via heat pumps. While the direct use of waste heat is already technically established, the substantial potential of low-temperature waste heat (<50°C) from industry, commerce, and wastewater remains largely unused.
 
 ## Methodology
 
