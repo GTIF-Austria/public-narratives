@@ -32,9 +32,9 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 * <p style="text-align: justify;"> Top-down for energy-extensive sectors (derived from statistical data and standardised energy indicators)
 
-<p style="text-align: justify;"> The potential was classified according to source types (flue gases, waste/cooling water, machinery heat, condensation, other) and three temperature levels (< 50°C / 50–100°C / > 100°C).
+<p style="text-align: justify;"> The potential was classified according to source types (flue gases, waste/cooling water, machinery heat, condensation, other) and three temperature levels (< 50°C / 50–100°C / >100°C).
 
-<p style="text-align: justify;"> Source temperatures were assumed to remain constant in the future, based on current conditions. For the assessment of potential related to direct integration into district heating networks, the classes 50–100°C and > 100°C were combined.
+<p style="text-align: justify;"> Source temperatures were assumed to remain constant in the future, based on current conditions. For the assessment of potential related to direct integration into district heating networks, the classes 50–100°C and >100°C were combined.
 
 **Theoretical Potential**
 
