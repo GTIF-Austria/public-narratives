@@ -6,6 +6,7 @@ tags: KLIEN, renewable energy, energy potential, energy technology, air source h
 provider: AIT Center for Energy, AEE Intec
 ---
 
+
 # Air-Source Heat Pump
 
 ## Background
@@ -34,7 +35,10 @@ provider: AIT Center for Energy, AEE Intec
 
 * <p style="text-align: justify;"> <b>Heat sink: </b> Required supply temperature in the heating and domestic hot water system, depending on the building’s construction period and renovation status
 <p style="text-align: justify;"> For determining the seasonal performance factor (SPF), the heating demand according to the Austrian Heat Map is divided (based on the distribution of building age classes and renovation levels) into a constant domestic hot water demand (DHW) and a heating degree-day, weighted space heating demand (SH) (see Figure 1).
-  
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure1TF71AirPNG-1769435140715.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/30ad88ad0f7df33354b2290906d7e11bb01cf85f/assets/Figure1TF71AirPNG-1769435140715.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+
+
 ###### Figure 1: Seasonal performance factors of air-source heat pumps using Graz as an example, depending on supply temperatures and space heating/domestic hot water shares.
 
 #### Explanation of Performance Calculation
@@ -43,10 +47,11 @@ provider: AIT Center for Energy, AEE Intec
 
 ###### Table 1: Full load hours of an air heat pump for combined space heating and hot water production in a typical Austrian single-family home (EFH)
 
-Building Type 	SH + DHW [kWh/a]	Heat Pump Rated Power [kWth]	Full Load Hours [h/a]
-Old Building (unrenovated)	20,000 – 25,000	10 – 14	1,800 – 2,200
-New Building (well insulated)	8,000 – 12,000	6 – 8	1,300 – 1,600
-Low energy / Passive House	4,000 – 6,000	3 – 5	1,000 – 1,500
+
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Table1TF71AirPNG-1769435573803.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b548b9e8761ff7467edc85c4974ce20f958f3bec/assets/Table1TF71AirPNG-1769435573803.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+
+
 
 
 <p style="text-align: justify;"> The seasonal performance factors are modelled at a spatial resolution of 100 m × 100 m under varying conditions (building characteristics, ambient air temperatures). Since the data do not allow differentiation by building type (e.g., single-family homes, office buildings), a uniform value of 1,500 full-load hours per year is assumed for all buildings, in accordance with Table 66. Potential changes in full-load hours resulting from technological or regulatory developments, as well as from the integration of thermal storage systems, are not considered.
@@ -58,21 +63,44 @@ Low energy / Passive House	4,000 – 6,000	3 – 5	1,000 – 1,500
 <p style="text-align: justify;"> The associated decline in heat demand density has a direct impact on the spatial extent of prospective district heating areas. Consequently, the focus of future heat supply increasingly shifts toward decentralized solutions, in which air source heat pumps can assume a central role, especially in single-family homes and in the existing building stock with reduced supply temperature requirements.
 <p style="text-align: justify;">  The results thus provide a realistic depiction of the technically and practically realisable ambient air heat potentials under tightened efficiency requirements and within the context of an ambitious national heat-transition strategy. In this context, heat potential refers to the amount of thermal energy that is extracted from the ambient air and supplied to the heat pump.
 
- 
+
+
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure2TF71AirPNG-1769435154737.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f38e9afb5dc832838a52b4b2731cc2801b338837/assets/Figure2TF71AirPNG-1769435154737.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+
+
 
 ###### Figure 2: History and temporal development of realisable heat potentials (ambient heat supplied to the heat pump) at the national level
- 
+
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure3TF71AirPNG-1769435164812.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/3ffae75f225a10ab4833a976922c2d55beac9e65/assets/Figure3TF71AirPNG-1769435164812.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 3: Identified Heat Potentials (ambient heat supplied to the heat pump) at the National Level (Reference: Energy; TRANSITION)
 
-[Insert Mapview here]
+
+
+##### Austria GTIF - Air-Source Heat Pump
+
+<iframe
+  width="100%"a
+  height="450"
+  style="border:0; border-radius:12px;"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src=" https://gtif-austria.info/explore?x=13.2674&y=47.9350&z=6.8857&template=light&indicator=air_eepot_w23_wocc&datetime=2030-01-01">
+
+</iframe>
 
 #### Impact of Climate Change and Comparison
 
 <p style="text-align: justify;"> Rising air temperatures as a result of climate change affect the efficiency of air-source heat pumps in two ways. First, higher average outdoor air temperatures improve the Carnot efficiency, thereby increasing the seasonal performance factor (SPF/JAZ). Second, atmospheric warming reduces the demand for space heating, a development that is already reflected in the underlying heat demand data.
 
 <p style="text-align: justify;">  To estimate these temperature-related effects, the air temperature data from the Secures-MET dataset [4] were applied for the climate change scenario RCP4.5 (moderate) for the years 2030 and 2050. Overall, the increase in temperature results in a rise in the potential for ambient air heat, as illustrated in Figure 4. In particular, the technical potential increases by approximately 3.4 TWh, or about 10%. Since heat demand (and thus the amount of heat produced by the heat pump) is incorporated exogenously into the modelling and remains constant across the two scenarios, the electricity demand of heat pumps decreases in the moderate climate change scenario.
- 
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure4TF71AirPNG-1769435586726.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ad7df705a0400de8dc173288ec4c9f0a31a9e40c/assets/Figure4TF71AirPNG-1769435586726.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+
+
 ###### Figure 4: Identified Heat Potentials (ambient heat supplied to the heat pump) for Air Heat at the National Level and Comparison with the Impact of Climate Change RCP4.5 on Outdoor Temperature (Reference: Energy; TRANSITION)
 
 ##### Evaluation of Results
