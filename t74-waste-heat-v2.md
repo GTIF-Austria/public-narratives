@@ -52,8 +52,8 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 <p style="text-align: justify;"> It is assumed that industrial waste heat can only be utilised if it can be fed into an existing or newly constructed district heating network. Exclusively decentralised (building-internal) uses are not considered in this assessment.
 <p style="text-align: justify;"> Two technical utilisation pathways are distinguished:
 
-* <p style="text-align: justify;"> <b>Direct use (≥ 50°C):</b> Injection of waste heat into the district heating network without additional temperature lifting, e.g., via heat exchangers.
-* <p style="text-align: justify;"> <b>Heat pump utilisation (< 50°C): </b> Raising the temperature level using central large-scale compression heat pumps prior to injection into the district heating network.
+* <p style="text-align: justify;"> <b>Direct use (≥50°C):</b> Injection of waste heat into the district heating network without additional temperature lifting, e.g., via heat exchangers.
+* <p style="text-align: justify;"> <b>Heat pump utilisation (<50°C): </b> Raising the temperature level using central large-scale compression heat pumps prior to injection into the district heating network.
 
 <p style="text-align: justify;"> At this stage, neither spatial constraints (e.g., maximum pipeline distances) nor system-level limitations (e.g., maximum coverage shares) are considered. The theoretically maximum usable waste heat potential at the municipal level is capped by the local district heating demand. In addition, a theoretical potential not constrained by municipal-level heat demand is provided, which is relevant for regional or inter-municipal district heating systems.
 
