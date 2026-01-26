@@ -251,7 +251,7 @@ The underlying INXS study identifies a total technical waste heat potential of 3
  
 <p style="text-align: justify;">  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
-<p style="text-align: justify;">  AIT and UBA acts as provider for this service.
+<p style="text-align: justify;">  AIT and AEE Intec acts as provider for this service.
 
 <p style="text-align: justify;">  EOX complements with its IT expertise, acting as host and front-end expert.
 
