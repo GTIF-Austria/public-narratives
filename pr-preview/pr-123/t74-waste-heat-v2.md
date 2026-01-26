@@ -2,7 +2,7 @@
 
 ## Background
 
-<p style="text-align: justify;"> Industrial processes as well as municipal wastewater treatment plants constitute significant sources of waste heat that have thus far been only partially exploited. This heat is available at different temperature levels and (depending on the source temperature) can be fed into heating networks either directly or via heat pumps. While the direct use of waste heat is already technically established, the substantial potential of low-temperature waste heat (< 50 °C) from industry, commerce, and wastewater remains largely unused.
+<p style="text-align: justify;"> Industrial processes as well as municipal wastewater treatment plants constitute significant sources of waste heat that have thus far been only partially exploited. This heat is available at different temperature levels and (depending on the source temperature) can be fed into heating networks either directly or via heat pumps. While the direct use of waste heat is already technically established, the substantial potential of low-temperature waste heat (< 50°C) from industry, commerce, and wastewater remains largely unused.
 
 ## Methodology
 
@@ -22,7 +22,7 @@
 
 ##### Industrial Waste Heat
 
-<p style="text-align: justify;">  The utilisation of industrial waste heat above 50 °C for direct integration into district heating systems is technically well established. According to NEA 2023 [2], 9,2 % of district heating already originated from industrial waste heat in 2020 [3]. In contrast, the use of low-temperature waste heat via heat pumps is still at an early stage of development.
+<p style="text-align: justify;">  The utilisation of industrial waste heat above 50°C for direct integration into district heating systems is technically well established. According to NEA 2023 [2], 9,2% of district heating already originated from industrial waste heat in 2020 [3]. In contrast, the use of low-temperature waste heat via heat pumps is still at an early stage of development.
 
 **Methodology and Data Basis**
 
@@ -32,9 +32,9 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 * <p style="text-align: justify;"> Top-down for energy-extensive sectors (derived from statistical data and standardised energy indicators)
 
-<p style="text-align: justify;"> The potential was classified according to source types (flue gases, waste/cooling water, machinery heat, condensation, other) and three temperature levels (< 50 °C / 50–100 °C / > 100 °C).
+<p style="text-align: justify;"> The potential was classified according to source types (flue gases, waste/cooling water, machinery heat, condensation, other) and three temperature levels (< 50°C / 50–100°C / > 100°C).
 
-<p style="text-align: justify;"> Source temperatures were assumed to remain constant in the future, based on current conditions. For the assessment of potential related to direct integration into district heating networks, the classes 50–100 °C and > 100 °C were combined.
+<p style="text-align: justify;"> Source temperatures were assumed to remain constant in the future, based on current conditions. For the assessment of potential related to direct integration into district heating networks, the classes 50–100°C and > 100°C were combined.
 
 **Theoretical Potential**
 
@@ -52,8 +52,8 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 <p style="text-align: justify;"> It is assumed that industrial waste heat can only be utilised if it can be fed into an existing or newly constructed district heating network. Exclusively decentralised (building-internal) uses are not considered in this assessment.
 <p style="text-align: justify;"> Two technical utilisation pathways are distinguished:
 
-* <p style="text-align: justify;"> <b>Direct use (≥ 50 °C):</b> Injection of waste heat into the district heating network without additional temperature lifting, e.g., via heat exchangers.
-* <p style="text-align: justify;"> <b>Heat pump utilisation (< 50 °C): </b> Raising the temperature level using central large-scale compression heat pumps prior to injection into the district heating network.
+* <p style="text-align: justify;"> <b>Direct use (≥ 50°C):</b> Injection of waste heat into the district heating network without additional temperature lifting, e.g., via heat exchangers.
+* <p style="text-align: justify;"> <b>Heat pump utilisation (< 50°C): </b> Raising the temperature level using central large-scale compression heat pumps prior to injection into the district heating network.
 
 <p style="text-align: justify;"> At this stage, neither spatial constraints (e.g., maximum pipeline distances) nor system-level limitations (e.g., maximum coverage shares) are considered. The theoretically maximum usable waste heat potential at the municipal level is capped by the local district heating demand. In addition, a theoretical potential not constrained by municipal-level heat demand is provided, which is relevant for regional or inter-municipal district heating systems.
 
@@ -94,13 +94,13 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 <p style="text-align: justify;"> The calculation of technical potential is based on the following assumptions:
 
-* <p style="text-align: justify;"> <b>Temperature profile: </b> summer 20 °C / winter 10 °C
+* <p style="text-align: justify;"> <b>Temperature profile: </b> summer 20°C / winter 10°C
 
 * <p style="text-align: justify;"> <b>Temperature drop: </b> average 5 K (cooling)
 
-* <p style="text-align: justify;"> <b>Reduction factor</b> (e.g., due to stormwater dilution): 30 %
+* <p style="text-align: justify;"> <b>Reduction factor</b> (e.g., due to stormwater dilution): 30%
 
-<p style="text-align: justify;">  Analogous to industrial waste heat below 50 °C, it is assumed that heat recovery from wastewater treatment plants can only be achieved using heat pumps. Direct heat utilization is feasible solely through anergy networks. For the purposes of this potential assessment, it is therefore assumed that a heat pump is required. Utilization is only considered meaningful if a suitable heat sink (e.g., a district heating network) exists within an economically viable distance.
+<p style="text-align: justify;">  Analogous to industrial waste heat below 50°C, it is assumed that heat recovery from wastewater treatment plants can only be achieved using heat pumps. Direct heat utilization is feasible solely through anergy networks. For the purposes of this potential assessment, it is therefore assumed that a heat pump is required. Utilization is only considered meaningful if a suitable heat sink (e.g., a district heating network) exists within an economically viable distance.
 
 <p style="text-align: justify;"> The modelling approach incorporates the previously introduced constraint of a maximum pipeline distance and is identical to the modelling applied to heat-pump-based recovery of industrial waste heat.
 
@@ -114,13 +114,13 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 <p style="text-align: justify;"> The technical potential incorporates the upper coverage limits of district heating demand across three bands (low–medium–high) as well as maximum pipeline distances to district heating networks. The modelling also accounts for changes in district heating demand toward 2030 and 2040 according to the WEM (With Existing Measures) 2023 heat demand scenario, as well as expected reductions in high-temperature industrial waste heat due to energy efficiency measures.
 
-##### Direct Use of Industrial Waste Heat (≥ 50 °C)
+##### Direct Use of Industrial Waste Heat (≥ 50°C)
 
-<p style="text-align: justify;"> The direct utilization of industrial waste heat at higher temperatures (≥ 50 °C) is technically established and comparatively well exploited in Austria. As early as 2020, approximately 1,75 TWh/a of industrial waste heat was fed into district heating networks with a combined connection capacity of roughly 580 MW [1].
+<p style="text-align: justify;"> The direct utilization of industrial waste heat at higher temperatures (≥ 50°C) is technically established and comparatively well exploited in Austria. As early as 2020, approximately 1,75 TWh/a of industrial waste heat was fed into district heating networks with a combined connection capacity of roughly 580 MW [1].
 
 <p style="text-align: justify;">  Based on a regionally differentiated starting value derived from the model, the technical potential for directly utilized waste heat for feeding into district heating systems amounts to up to 3,4 TWh/a in 2030 and 3,6 TWh/a in 2040.
 
-<p style="text-align: justify;">  The theoretical potentials listed in (7,2 GWh/a) represent the total industrial waste heat potential in 2040 at temperatures ≥ 50 °C, without considering recoverability. When these waste heat potentials are restricted by municipal-level district heating demand, the value decreases to 4.6 GWh/a. However, this calculation does not account for the possibility of utilizing waste heat across municipal boundaries via district heating, provided that suitable heat sinks can be accessed.
+<p style="text-align: justify;">  The theoretical potentials listed in (7,2 GWh/a) represent the total industrial waste heat potential in 2040 at temperatures ≥ 50°C, without considering recoverability. When these waste heat potentials are restricted by municipal-level district heating demand, the value decreases to 4.6 GWh/a. However, this calculation does not account for the possibility of utilizing waste heat across municipal boundaries via district heating, provided that suitable heat sinks can be accessed.
 
 
 ##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Figure1-TF74-WasteHeat-1769065788336.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f1b74251c54677358ff65019d18b123de6200795/assets/Figure1-TF74-WasteHeat-1769065788336.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
@@ -133,7 +133,7 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 ###### Figure 2 Identified Energy Potentials for Directly Utilized Industrial Waste Heat
 
-##### Austria GTIF - Direct Utilization of Industrial Waste Heat (≥ 50 °C) Potential
+##### Austria GTIF - Direct Utilization of Industrial Waste Heat (≥ 50°C) Potential
 
 <iframe
   width="100%"a
