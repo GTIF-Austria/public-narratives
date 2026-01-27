@@ -1,18 +1,36 @@
-# Austrian Photovoltaic Potential
+---
+cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/PV-ground-mounted.jpg?raw=true
+
+domain: Energy Transformation
+tags: KLIEN, renewable energy, energy potential, energy technology, photovoltaic, electricity
+provider: Umweltbundesamt, AIT Center for Energy
+---
+
+# Photovoltaic
 
 ## Background
 
-<p style="text-align: justify;"> The initial situation of the photovoltaic (PV) technology field comprises the refinement of the general storylines, assumptions regarding the development of new buildings up to 2040, and the ecological requirements relevant for eligibility for funding, with particular emphasis on the installation of PV systems on open land.
+<p style="text-align: justify;">The photovoltaic (PV) analysis is based on assumptions regarding new building development up to 2040 and on a framework relevant for rating the necessary extent of land use and the viability of land use change. The assessing criterias include characteristic technical, economical and social patterns of 26 different existing land use classes.
+
+<p style="text-align: justify;">Three storylines illustrate different pathways for PV deployment:
+
+* <p style="text-align: justify;"> <b> Low: </b> Ongoing permitting, planning, grid, and supply‑chain barriers slow expansion. Reduced incentives, limited storage and slow grid development lead to increasing curtailment and lower total yields. PV remains concentrated on buildings using the best suited areas only. Ground-mounted PV is falling short of its area potential resulting in highly efficient and spatial concentrated PV but little total energy yield.
+
+* <p style="text-align: justify;"> <b> Medium: </b> Gradual removal of administrative and grid‑related barriers enables continued growth, mainly on buildings, complemented by increasing ground‑mounted and multi‑use installations. Electrification and infrastructure development progress steadily under generally favourable conditions.
+
+* <p style="text-align: justify;"> <b> High: </b> Most barriers are removed, grid access is widely available, and PV systems are optimised for self‑consumption and integration. Storage, energy communities and digital energy management enable high flexibility and output, strongly supporting innovation‑driven expansion while activating the potential area on buildings and open space.
+
+<p style="text-align: justify;"> New and renovated buildings are assumed to be PV‑optimised in line with EU building regulations and spatial‑energy planning, with rooftop installations prioritised. Based on projected new built‑up areas, municipal‑level PV potentials for new buildings were derived for 2030 and 2040.
 
 ## Methodology
 
-<p style="text-align: justify;"> Fundamentally, a nationwide, uniform land assessment is conducted across Austria, which is aggregated into three assessment dimensions: building-integrated PV, ground-mounted PV on sealed surfaces, and ground-mounted PV on unsealed surfaces. PV installations along and on linear technical infrastructure are considered part of ground-mounted PV on sealed surfaces.
+<p style="text-align: justify;"> Fundamentally a nationwide, uniform land use assessment is conducted across Austria, which is aggregated into three dimensions: building-integrated PV, ground-mounted PV on sealed surfaces, and ground-mounted PV on unsealed surfaces. PV installations along and on linear technical infrastructure are considered part of ground-mounted PV on sealed surfaces.
 
 #### Assessment of Technical Potentials 
 
 **Buildings (Roof and Façade)**
 
-<p style="text-align: justify;"> The PV electricity yield potential for roofs and façades across the Austrian territory is derived from GIS datasets. Taking into account averaged system efficiencies, which are assumed to improve slightly over time (from 18.98% in the target year 2030 to 20.4% in the target year 2040), a potential electricity yield in kilowatt-hours of alternating current is calculated for each roof type. As technological innovation and cost reductions in electricity generation are expected within the sector, the long-term potential for 2040 includes an expansion of eligible roof areas to those with global irradiation values of at least 550 kWh/m²·a.
+<p style="text-align: justify;"> The PV electricity yield potential for roofs and facades across the Austrian territory is derived from GIS datasets. Taking into account averaged system efficiencies, which are assumed to improve slightly over time (from 19.0% in the target year 2030 to 20.4% in the target year 2040), a potential electricity yield in kilowatt-hours of alternating current is calculated for each roof type. As technological innovation and cost reductions in electricity generation are expected within the sector, the long-term potential for 2040 includes an expansion of eligible roof areas to those with global irradiation values of at least 550 kWh/m²·a. PV on facades were calculated using the solar radiation on vertical surfaces while taking into account the distant and near shading situation on municipality level.
 
 **Open Land**
 
@@ -24,54 +42,44 @@
 
 **Buildings (Roof and Façade)**
 
-<p style="text-align: justify;"> The technically usable roof and façade areas are reduced by economic and social realization factors. Potentials on pitched and flat roofs are assessed with slightly different weighting. The building footprint areas expanded in the target years are distributed analogously to the existing proportions of the two roof types. This results in realizable potentials differentiated by three storylines and two target years.
+<p style="text-align: justify;"> The technically usable roof and facade areas are reduced by economic and social realisation factors. Potentials on pitched and flat roofs are assessed with slightly different weighting. The building footprint areas expanded in the target years are distributed analogously to the existing proportions of the two roof types. This results in realisable potentials differentiated by three storylines and two target years.
+
 
 **Open Land**
 
-<p style="text-align: justify;"> Realizable potentials for the target years 2030 and 2040 are determined on the basis of additional parameters and expert assumptions, applying economic and social realization factors in a two-step procedure. Individual usability factors are assigned to different land-cover classes under the respective considerations. 
+<p style="text-align: justify;"> Realisable potentials for the target years 2030 and 2040 are determined on the basis of additional, specificparameters and expert assumptions, applying economic and social realization factors in a two-step procedure. Individual usability factors are assigned to different land-cover classes under the respective considerations. 
 
 ## Results
 
-<p style="text-align: justify;"> The following chapter presents the results of the potential assessment for the years 2030 and 2040. For both target years, potentials are aggregated across three spatial levels: national, federal state, and municipal.
+<p style="text-align: justify;"> Figure 1 informs on the status quo (as of 2024) and it summarises the outcomes related to the realisable photovoltaic potentials for the target years 2030 and 2040   in Austria.
 
-#### Presentation of Results
-
-<p style="text-align: justify;"> Figure 1 and Figure 2 summarize the realizable photovoltaic potentials for the target years, as well as the existing installed capacity in 2024 and the technical potential for 2040 for Austria.
-
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf1-photovoltaic/assets/nipargar/Figure-1-TF1-PV-1766051825799.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/975a1ec5d8d91ace2fabf2db8999321bda68c2ee/assets/Figure-1-TF1-PV-1766051825799.png" style="display:block; margin:auto;width: 70%; height: 70%;"}--> 
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf1-photovoltaic/assets/nipargar/Figure-1-TF1-PV-1769506325443.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6b1d2870ac496a060574d698a47f55ffa456847d/assets/Figure-1-TF1-PV-1769506325443.png" style="display:block; margin:auto;width: 70%; height: 70%;"}--> 
 
 ###### Figure 1: Photovoltaics overview of potentials (energy) (E-Control, 2025; Umweltbundesamt, own calculations).
 
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf1-photovoltaic/assets/nipargar/Figure-2-TF1-PV-1766051842858.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4776d75859c9f9c4f8887972162a0ec835388bdf/assets/Figure-2-TF1-PV-1766051842858.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-	
+<p style="text-align: justify;">Figure 2 illustrates the History and temporal development for the three storylines for photovoltaic, shown by means of projection curves.
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf1-photovoltaic/assets/nipargar/Figure-2-TF1-PV-1769506402411.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d8afd27938a5ede822d679f210ddcb273335f732/assets/Figure-2-TF1-PV-1769506402411.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+
 ###### Figure 2: Photovoltaics overview of potentials (capacity) (E-Control, 2025; Umweltbundesamt, own calculations).
 
-<p style="text-align: justify;"> Finally, Figure 3 illustrates the historical development and the projected future expansion pathways for the three storylines of the photovoltaic technology field, shown by means of projection curves.
- 
- 
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf1-photovoltaic/assets/nipargar/Figure-3-TF1-PV-1766051858352.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/666a79e50f9cb998a997c4437ff59d17de2ba79a/assets/Figure-3-TF1-PV-1766051858352.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
-	
-###### Figure 3: Photovoltaics – historical development and temporal evolution of realizable potentials.
+<iframe  width="100%"a  height="450"  style="border:0; border-radius:12px;"  loading="lazy" allowfullscreen  referrerpolicy="no-referrer-when-downgrade"  src="https://gtif-austria.info/explore?indicator=pv_total_eepot_w23_wocc&x=13.3000&y=47.7675&z=8.1845&datetime=2030-01-01&template=light"></iframe>
 
 ### Evaluation of the Results
 
-<p style="text-align: justify;"> The realizable potentials for 2030 (across all ranges) and for 2040 (in the Low and Medium ranges) are broadly comparable in scale to those identified in earlier assessments (Umweltbundesamt, 2023). In the High range, however, the realizable potential for 2040 reaches 53.4 TWh, which is significantly higher than the 47.1 TWh estimated in the aforementioned study.
+<p style="text-align: justify The realisable PV potentials for 2030, and for 2040 in the Low and Medium storylines, are broadly consistent with earlier assessments. In the High storyline, however, the realisable potential for 2040 reaches 50.7 TWh, exceeding previous estimates and reflecting more favourable framework conditions.
 
-<p style="text-align: justify;"> Over the analysis period, the ratio between building-integrated PV and conventional ground-mounted PV converges, although the majority of deployment in the present model continues to occur on buildings. This outcome reflects both the observed trends of recent years and broader structural developments, including the electrification of building-related applications, the increasing (and economically viable) availability of storage solutions, the requirements of the EU Energy Performance of Buildings Directive with regard to “solar readiness,” and the high level of acceptance of energy communities.
+<p style="text-align: justify;"> Over time, the balance between building‑integrated and ground‑mounted PV becomes more even, although buildings remain the dominant deployment area. This development is driven by electrification, increased availability of storage, EU requirements on solar readiness of buildings, and growing acceptance of energy communities.
 
-<p style="text-align: justify;"> Higher realization factors were assumed for commercial and industrial sites, as these areas are considered to be well developed, secured, and readily integrable into planning processes. They are also typically associated with sufficient demand and available investment capital, and a high level of social acceptance was assumed. In combination with the substantial availability of such areas, this results in comparatively high PV potentials. Similar considerations apply to other sealed and already developed surfaces; however, due to their more fragmented spatial structure and potentially higher infrastructural, political, and social requirements, their relative contribution to the overall mix remains smaller.
+<p style="text-align: justify;"> Commercial and industrial sites account for a particularly high share of realisable potential due to favourable planning conditions, sufficient demand, available investment capital, and high social acceptance. Other sealed and already developed surfaces also contribute, although their fragmented structure limits their overall share.
 
-<p style="text-align: justify;"> The comparatively small share of realizable potential attributed to other unsealed open land is explained by the high ecological and social value associated with these categories. These include, in addition to managed and unmanaged grassland, protected natural assets, designated habitat corridors, and areas classified under IUCN categories V and VI. In practice, grassland could potentially be utilized more intensively than indicated in this study, as such areas are subject to higher ownership dynamics and may allow for more flexible compensation area management. In these cases, actual realizability will be strongly influenced by the feasibility of grid connection.
+<p style="text-align: justify;"> By contrast, unsealed open land shows relatively low realisable potential due to ecological and social constraints. Ground‑mounted PV on such land is unevenly distributed, with the largest potentials located mainly in eastern Austria, while building‑based and sealed‑surface PV reflects the country’s decentralised settlement structure.
 
-<p style="text-align: justify;"> For ground-mounted PV on unsealed land, greater spatial disparities in realizable potentials are observed compared to the other two categories, with the largest potentials located predominantly in eastern Austria. By contrast, the distribution of realizable PV potentials on buildings and sealed/developed open land reflects Austria’s decentralized settlement structure and the nationwide presence of building stock.
-
-<p style="text-align: justify;"> Expansion strategies in several federal states prioritize economically efficient and decentralized PV deployment on already sealed surfaces and buildings. The considerations and objectives of these strategies were incorporated into the applied realization factors. Empirical assessments of PV deployment to date indicate a higher degree of spatial concentration than is reflected in the present nationwide modeling approach. These analyses also suggest that the majority of ground-mounted PV installations to date have been realized on unsealed land. At the same time, it becomes evident that substantial portions of the technical potential on other land categories may remain unused. This highlights the considerable scope available for steering and shaping framework conditions through policy measures, with a view to achieving electricity demand coverage and providing adequate balancing capacity within an integrated electricity grid.
-
-<p style="text-align: justify;"> Overall, achieving the generation capacities envisaged in the Austrian National Infrastructure Plan (ÖNIP) for the target year 2040 appears feasible. The electricity volumes required for this objective, along with a plausible composition of the necessary spatially distributed surface qualities, are reflected in the Medium storyline.
+<p style="text-align: justify Overall, the results indicate that the generation targets of the Austrian National Infrastructure Plan (ÖNIP) for 2040 are achievable. The required electricity volumes and an appropriate spatial distribution of PV deployment are best represented by the Medium storyline.
 
 ## About 
-<p style="text-align: justify;"> Die zugrundeliegende Studie Erneuerbare Energiepotenziale in Österreich für 2030 und 2040 wurde im Auftrag des Klima- und Energiefonds und dotiert aus Mitteln des BMK unter Leitung des AIT Austrian Institute ob Technology GmbH (AIT) gemeinsam mit Umweltbundesamt (UBA), Technische Universität Wien (TU Wien), AEE – Institut für Nachhaltige Technologien (AEE INTEC) und Energiewerkstatt durchgeführt." (muss noch verenglischt werden) und dann noch explizit anführen jene Institutionen, die dieses Technologiefeld bearbeiten, plus uns und EOX
-	
-AIT Austrian Institute of Technology GmbH acts as provider for this service.
+<p style="text-align: justify;"> The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
-EOX complements with its IT expertise, acting as host and front-end expert.
+<p style="text-align: justify;">UBA and AIT act as providers for this service.
+
+<p style="text-align: justify;">EOX complements with its IT expertise, acting as host and front-end expert.
