@@ -3,7 +3,7 @@ cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thum
  
 domain: Energy Transformation
 tags: KLIEN, renewable energy, energy potential, energy technology, waste heat, ambient heat
-provider: AIT Center for Energy, AEE Intec
+provider: AEE INTEC, AIT Center for Energy, 
 ---
 
 # Waste Heat
@@ -150,7 +150,7 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json& x= x=13.2674&y=47.9350&z=6.8857&indicator=excess_heat_dir_eepot_w23_wocc&datetime=2030-01-01">
+  src=" https://gtif-austria.info/explore? x=13.2674&y=47.9350&z=6.8857&template=light&indicator=excess_heat_dir_eepot_w23_wocc&datetime=2030-01-01 ">
 
 </iframe>
 
@@ -180,7 +180,7 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json& x=13.2674&y=47.9350&z=6.8857&indicator=excess_heat_hp_eepot_w23_wocc&datetime=2030-01-01">
+  src=" https://gtif-austria.info/explore? x=13.2674&y=47.9350&z=6.8857&template=light&indicator=excess_heat_hp_eepot_w23_wocc&datetime=2030-01-01">
 
 </iframe>
 
@@ -192,7 +192,7 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 ###### Table 2 Summary of Technical Waste Heat Potentials for Various Utilization Pathways
 
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Table2-TF74-WasteHeat-1769066386017.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6d857317aab5da0677151630c1b41524e62e2dcf/assets/Table2_TF74_WasteHeat.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/t74-waste-heat-v2/assets/nipargar/Table2TF74WasteHeat-1769433557906.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/74af2d797bf665f69addaa61670fa3cf90aff0df/assets/Table2TF74WasteHeat-1769433557906.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ##### Estimation of Realizable Potential (Expert Assessment)
 
@@ -251,7 +251,7 @@ The underlying INXS study identifies a total technical waste heat potential of 3
  
 <p style="text-align: justify;">  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
-<p style="text-align: justify;">  AIT and AEE Intec acts as provider for this service.
+<p style="text-align: justify;"> AEE INTEC and AIT acts as provider for this service.
 
-<p style="text-align: justify;">  EOX complements with its IT expertise, acting as host and front-end expert.
+<p style="text-align: justify;"> EOX complements with its IT expertise, acting as host and front-end expert.
 
