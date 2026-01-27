@@ -1,10 +1,18 @@
+---
+cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Solar%20Thermal%20Collectors.jpg?raw=true
+ 
+domain: Energy Transformation
+tags: KLIEN, renewable energy, energy potential, energy technology, solar thermal collector, solar heat
+provider: AEE INTEC, AIT Center for Energy
+---
+
 # Solar Thermal
 
 ## Background
 
 <p style="text-align: justify;"> Solar thermal systems utilize solar irradiation to supply space heating and domestic hot water. The technology has been well established for several decades and is applied both in individual buildings and in solar-assisted local and district heating networks.
 
-<p style="text-align: justify;"> In contrast to photovoltaics, solar thermal energy is spatially constrained by the presence of local heat sinks. In the absence of adequate thermal storage or an immediate heat demand, a portion of the technically achievable energy yield cannot be utilized. Consequently, the realizable potential depends to a large extent on spatial and systemic integration. Key influencing factors include:
+<p style="text-align: justify;"> In contrast to photovoltaics, solar thermal energy is spatially constrained by the presence of local heat sinks. In the absence of adequate thermal storage or an immediate heat demand, a portion of the technically achievable energy yield cannot be utilized. Consequently, the realisable potential depends to a large extent on spatial and systemic integration. Key influencing factors include:
 
 * Development of future heat demand
 * Availability of suitable roof areas
@@ -15,56 +23,55 @@
 
 <p style="text-align: justify;"> The analysis exclusively considers space heating and domestic hot water demand in residential and non-residential buildings (hereinafter jointly referred to as heat demand). Cooling energy and process heat are not included. Heat demand is differentiated—based on existing heating networks and modelled heat demand densities—into shares suitable for district heating (ground-mounted solar thermal systems) and shares not suitable for district heating (building-integrated solar thermal systems).
 
-The potential assessment distinguishes between two main application areas:
+<p style="text-align: justify;"> The potential assessment distinguishes between two main application areas:
 
 * <p style="text-align: justify;"> <b>Building-integrated solar thermal systems: </b>Systems for domestic hot water preparation and partially solar-supported space heating (solar combi-systems). Typical coverage ratios range from 60–75% of domestic hot water demand and from 10–40% of the combined heat demand (space heating, SH, plus domestic hot water, DHW) [1].
 * <p style="text-align: justify;"> <b>Solar-assisted heating networks (ground-mounted systems): </b>Large-scale solar thermal installations supplying local and district heating networks. Typical coverage ratios amount to 5–25% of the total heat demand of the network [1]. 
 
-#### Theoretical Potential
+### Theoretical Potential
 <p style="text-align: justify;"> The solar radiation potential in Austria is geographically very high. Therefore, an explicit quantification of the theoretical potential has not been conducted. Instead, the assessment focuses on spatial, system-specific, infrastructural, and economic constraints.
 
-#### Technical Potential
+### Technical Potential
 
 <p style="text-align: justify;"> The technical potential refers to the amount of energy that can be utilized under idealized technical conditions. This involves determining which areas are fundamentally suitable for solar thermal energy, how much collector area can be installed on these surfaces, and what solar yields can potentially be achieved.
 
-**Area Assessment – Building-Integrated Solar Thermal Systems**
+**Area Assessment for Building-Integrated Solar Thermal Systems**
 
 <p style="text-align: justify;"> The assessment of the suitability and utilization potential of roof areas is conducted on a raster basis (1 × 1 m). For the determination of the technical potential, roof areas with annual irradiation levels above 850 kWh/m²·a are assumed to be fully suitable. It is assumed that by 2040, less favourable irradiation classes will be exploited to a greater extent than in 2030. The conversion of roof area potentials into installable collector areas is carried out depending on the roof type and the selected mounting configuration
 
-**Area Assessment for “Ground-Mounted Solar Thermal Systems”**
+**Area Assessment for Ground-Mounted Solar Thermal Systems**
 
 <p style="text-align: justify;"> For ground-mounted solar thermal systems, four land-use classes were identified as potentially suitable areas and evaluated nationwide based on georeferenced data: Industrial, Agricultural cropland, Agricultural used grassland and Landfills and secured contained sites. 
 
 <p style="text-align: justify;"> All areas with the following characteristics were excluded from use:
-	
-* <p style="text-align: justify;"> 	Protected areas 
-*	<p style="text-align: justify;"> Built-up areas (e.g. buildings, infrastructure)
-*	<p style="text-align: justify;"> Topographically unsuitable locations (altitude above 2,500 m or steep slopes exceeding 30°–60°, depending on spatial scale)
+
+* <p style="text-align: justify;"> Protected areas 
+* <p style="text-align: justify;"> Built-up areas (e.g. buildings, infrastructure)
+* <p style="text-align: justify;"> Topographically unsuitable locations (altitude above 2,500 m or steep slopes exceeding 30°–60°, depending on spatial scale)
 
 <p style="text-align: justify;"> For the potential assessment, it is assumed that open land areas with annual irradiation levels above 850 kWh/m²·a are fully suitable. The installable collector area is derived using an area utilization factor of 0.4, analogous to installations mounted on flat roofs. In addition, it is verified whether the areas are located in suitable proximity to heating networks.
 
-#### Realizable Potentials
+### Realisable Potentials
 
-<p style="text-align: justify;"> The realizable potentials are derived from the technical potential by applying additional system-related, spatial, and market-related constraints. They represent those energy quantities that appear to be practically attainable by the target years 2030 and 2040 under realistic assumptions regarding system integration and market dynamics. Within building-integrated solar thermal applications, a distinction is made between solar domestic hot water systems and solar combi-systems (space heating plus domestic hot water). The share between these two system types is assumed to be 75% and 25%, respectively.
+<p style="text-align: justify;"> The realisable potentials are derived from the technical potential by applying additional system-related, spatial, and market-related constraints. They represent those energy quantities that appear to be practically attainable by the target years 2030 and 2040 under realistic assumptions regarding system integration and market dynamics. Within building-integrated solar thermal applications, a distinction is made between solar domestic hot water systems and solar combi-systems (space heating plus domestic hot water). The share between these two system types is assumed to be 75% and 25%, respectively.
 
 **System-related constraints**
 
-<p style="text-align: justify;"> The realizable collector areas and the associated solar thermal yields are limited by applying technology-specific upper bounds on heat demand coverage. These limits are aligned with systemically meaningful shares for meeting the respective heat demand and serve to avoid energetic oversizing.
+<p style="text-align: justify;"> The realisable collector areas and the associated solar thermal yields are limited by applying technology-specific upper bounds on heat demand coverage. These limits are aligned with systemically meaningful shares for meeting the respective heat demand and serve to avoid energetic oversizing.
 
 **Spatial constraints**
 
-<p style="text-align: justify;"> In determining both the technical and realizable potentials for ground-mounted solar thermal systems, additional spatial criteria are applied. For each identified suitable area, it is assessed whether it is located in sufficient spatial proximity to a district heating area as defined under the WEM scenario. Only areas within an economically feasible transmission distance are considered.
+<p style="text-align: justify;"> In determining both the technical and realisable potentials for ground-mounted solar thermal systems, additional spatial criteria are applied. For each identified suitable area, it is assessed whether it is located in sufficient spatial proximity to a district heating area as defined under the WEM scenario. Only areas within an economically feasible transmission distance are considered.
 
 **Market-Related Constraints – S-Curve Model**
 
-<p style="text-align: justify;"> The realizable potential for 2030 and 2040 is constrained using a technology-specific S-curve model. This model represents the expected deployment pathway of solar thermal energy based on historical market development as documented in market statistics [2]. A dynamic growth pattern analogous to the Austrian market development between 2000 and 2010 is assumed.
+<p style="text-align: justify;"> The realisable potential for 2030 and 2040 is constrained using a technology-specific S-curve model. This model represents the expected deployment pathway of solar thermal energy based on historical market development as documented in market statistics [2]. A dynamic growth pattern analogous to the Austrian market development between 2000 and 2010 is assumed.
 
-#### Calculation of Levelized Cost of Heat
+### Calculation of Levelized Cost of Heat
 
+<p style="text-align: justify;"> To compare the economic performance of the realisable heat potentials, the levelized cost of heat (LCOH) was calculated for both application types. LCOH expresses the average cost per unit of heat generated over the lifetime of a system and enables a transparent comparison across different technologies and locations.
 
-<p style="text-align: justify;"> To compare the economic performance of the realizable heat potentials, the levelized cost of heat (LCOH) was calculated for both application types. LCOH expresses the average cost per unit of heat generated over the lifetime of a system and enables a transparent comparison across different technologies and locations.
-
-<p style="text-align: justify;"> The calculation builds on the realizable collector areas identified in the analysis, the associated thermal peak capacities, and the location‑specific heat yields derived from regression models. By performing the assessment at the municipal level, regional differences in irradiation, local heat demand, and system integration conditions are consistently reflected.
+<p style="text-align: justify;"> The calculation builds on the realisable collector areas identified in the analysis, the associated thermal peak capacities, and the location‑specific heat yields derived from regression models. By performing the assessment at the municipal level, regional differences in irradiation, local heat demand, and system integration conditions are consistently reflected.
 
 <p style="text-align: justify;"> A uniform economic framework was applied across all regions. A real weighted average cost of capital (WACC) of 6,52 % was assumed. Electricity costs were excluded, as the electricity demand for pumps, control systems, and similar components was considered negligible in relation to the heat output. System lifetimes were set to 20 years for building‑integrated installations and 25 years for ground‑mounted systems, ensuring comparability between different deployment options.
 
@@ -86,7 +93,7 @@ The potential assessment distinguishes between two main application areas:
  
 ###### Figure 2 Identified energy potentials for building-integrated solar thermal systems
 
-##### Austria GTIF - building-integrated solar thermal energy
+##### Austria GTIF - Building-Integrated Solar Thermal Energy
 
 <iframe
   width="100%"
@@ -95,7 +102,7 @@ The potential assessment distinguishes between two main application areas:
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json& x=13.2674&y=47.9350&z=6.8857&indicator=st_buildings_eepot_w23_wocc&datetime=2030-01-01">
+  src=" https://gtif-austria.info/explore?x=13.2674&y=47.9350&z=6.8857&template=light&indicator=st_buildings_eepot_w23_wocc&datetime=2030-01-01">
 </iframe>
 
 #### Solar-supported district heating networks
@@ -112,7 +119,7 @@ The potential assessment distinguishes between two main application areas:
  
 ###### Figure 4 Identified energy potentials for ground-mounted solar thermal systems
 
-##### Austria GTIF - building-integrated solar thermal energy
+##### Austria GTIF - Ground-mounted solar thermal energy
 
 <iframe
   width="100%"
@@ -121,7 +128,7 @@ The potential assessment distinguishes between two main application areas:
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json&x=13.2674&y=47.9350&z=6.8857&indicator=st_ground_mounted_eepot_w23_wocc&datetime=2030-01-01">
+  src=" https://gtif-austria.info/explore?x=13.2674&y=47.9350&z=6.8857&template=light&indicator=st_ground_mounted_eepot_w23_wocc&datetime=2030-01-01 ">
 </iframe>
 
 
@@ -133,11 +140,11 @@ The potential assessment distinguishes between two main application areas:
 
 <p style="text-align: justify;"> In the long term, solar thermal energy—particularly in combination with thermal storage, hybrid supply systems, and the reduction of system temperatures in space heating—can make a substantial contribution to the decarbonisation of the Austrian heat sector. Key levers in this regard include:
 
-*	<p style="text-align: justify;"> targeted integration into municipal heat planning processes,
-*	<p style="text-align: justify;"> the creation of appropriate investment incentives,
-*	<p style="text-align: justify;"> regulatory requirements for solar integration in new construction and building renovation,
-*	<p style="text-align: justify;"> the reduction of system temperatures in district heating networks and existing buildings, and
-*	<p style="text-align: justify;"> the consistent expansion of fourth- and fifth-generation district heating networks (low-temperature and anergy networks) with integrated solar thermal systems.
+* <p style="text-align: justify;"> targeted integration into municipal heat planning processes,
+* <p style="text-align: justify;"> the creation of appropriate investment incentives,
+* <p style="text-align: justify;"> regulatory requirements for solar integration in new construction and building renovation,
+* <p style="text-align: justify;"> the reduction of system temperatures in district heating networks and existing buildings, and
+* <p style="text-align: justify;"> the consistent expansion of fourth- and fifth-generation district heating networks (low-temperature and anergy networks) with integrated solar thermal systems.
 
 ### References
 
@@ -148,7 +155,7 @@ The potential assessment distinguishes between two main application areas:
 ## About 
 <p style="text-align: justify;">  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
-<p style="text-align: justify;">  AIT and UBA acts as provider for this service.
+<p style="text-align: justify;">AEE INTEC and AIT acts as provider for this service.
 
-<p style="text-align: justify;">  EOX complements with its IT expertise, acting as host and front-end expert.
+<p style="text-align: justify;">EOX complements with its IT expertise, acting as host and front-end expert.
 
