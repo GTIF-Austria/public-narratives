@@ -1,9 +1,9 @@
 ---
 cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Wind%20Power.jpg?raw=true
 
-domain: Energy Transformation
-tags: KLIEN, renewable energy, energy potential, energy technology, wind power, electricity
-provider: AIT Center for Energy, Energiewerkstatt
+domain:Energy Transformation
+tags:KLIEN,renewable energy,energy potential,energy technology,wind power,electricity
+provider:AIT Center for Energy,Energiewerkstatt
 ---
 
 # Wind Power 
