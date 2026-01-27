@@ -63,6 +63,8 @@ provider: Umweltbundesamt, AIT Center for Energy
 
 ###### Figure 2: Photovoltaics overview of potentials (capacity) (E-Control, 2025; Umweltbundesamt, own calculations).
 
+##### Austria GTIF – Total PV Potential
+
 <iframe  width="100%"a  height="450"  style="border:0; border-radius:12px;"  loading="lazy" allowfullscreen  referrerpolicy="no-referrer-when-downgrade"  src="https://gtif-austria.info/explore?indicator=pv_total_eepot_w23_wocc&x=13.3000&y=47.7675&z=8.1845&datetime=2030-01-01&template=light"></iframe>
 
 ### Evaluation of the Results
