@@ -110,4 +110,4 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 <p style="text-align: justify;"/> UBA and AIT acts as provider for this service.
 
-<p style="text-align: justify;">  EOX complements with its IT expertise, acting as host and front-end expert.
+<p style="text-align: justify;"/>  EOX complements with its IT expertise, acting as host and front-end expert.

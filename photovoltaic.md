@@ -84,4 +84,4 @@ provider: Umweltbundesamt,AIT Center for Energy
 
 <p style="text-align: justify;"/>UBA and AIT act as providers for this service.
 
-<p style="text-align: justify;">EOX complements with its IT expertise, acting as host and front-end expert.
+<p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
