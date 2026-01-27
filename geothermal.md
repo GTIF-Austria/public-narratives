@@ -97,7 +97,7 @@ provider: AIT Center for Energy,AEE INTEC
 
 ###### Figure 4 Historical and Temporal Development of Realisable Heat Potentials (Ambient Heat Input to Heat Pumps) at the National Scale (Energy Reference Basis)
 
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf73-geothermal/assets/nipargar/Figure-5-T7.3-Geothermal-1768407814859.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5477f0e4fc7057e2d9ad9ae3c2f2dedd336d8ce6/assets/Figure-5-T7.3-Geothermal-1768407814859.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/main/assets/nipargar/Figure-5-T7.3-Geothermal-1768407814859.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/main/assets/nipargar/Figure-5-T7.3-Geothermal-1768407814859.png" style="display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 
 ###### Figure 5 Identified Realisable Heat Potentials (Ambient Heat Input to Heat Pumps) from Shallow Geothermal Energy (Closed Systems) at the National Scale (Energy Reference Basis)
