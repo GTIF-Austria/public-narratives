@@ -1,40 +1,54 @@
+---
+cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Wind%20Power.jpg?raw=true
+
+domain: Energy Transformation
+tags: KLIEN, renewable energy, energy potential, energy technology, bioenergy
+provider: TU Wien, AIT Center for Energy
+---
+
 # Bioenergy
 
 ## Background
 <p style="text-align: justify;"> The technological field of bioenergy is characterized by a large variety of primary and final energy carriers as well as corresponding conversion technologies. Many bioenergy carriers can be transported over certain distances at acceptable cost and energy input, while this is less feasible for others. 
 
-##### Biogas/Biomethane
+### Biogas/Biomethane
 
 <p style="text-align: justify;"> In the course of work on the ÖNIP, the Austrian Environment Agency assessed the potential for biomethane production from anaerobic digestion of the following substrates:
-	
-*	Animal manure from agriculture (cattle, pigs, sheep, goats, horses, poultry);
-*	Straw, leaves, catch crops from agricultural cultivation; green waste (grass and shrub cuttings from private and public areas);
-*	Organic household waste (biowaste bins);
-*	Home garden compost;
-*	Food waste (food in municipal solid waste, waste from kitchens and gastronomy, and waste from the food industry).
+
+* Animal manure from agriculture (cattle, pigs, sheep, goats, horses, poultry);
+
+* Straw, leaves, catch crops from agricultural cultivation; green waste (grass and shrub cuttings from private and public areas);
+
+* Organic household waste (biowaste bins);
+
+* Home garden compost;
+
+* Food waste (food in municipal solid waste, waste from kitchens and gastronomy, and waste from the food industry).
 
 <p style="text-align: justify;"> Only residues, by-products, or wastes were selected as substrates in order to avoid land-use conflicts with food or feed production (i.e. the digestion of starchy energy crops such as maize or cereals was not the focus of the analysis). Furthermore, only existing agricultural structures were considered. Comparable studies can be found in [1] and [2].
 
 <p style="text-align: justify;"> Sewage sludge was not included in the calculations. Due to the obligation to incinerate sewage sludge from larger wastewater treatment plants (see “Abfallverbrennungsverordnung 2024”) and the high internal energy demand of digestion facilities [3], no substantial volumes of gas for grid injection are expected to remain. This does not exclude the possibility that individual facilities may still be able to inject gas economically. 
 
-##### Energy carriers based on solid and liquid biomass
+### Energy carriers based on solid and liquid biomass
 
 <p style="text-align: justify;"> The supply, processing, and use of raw materials, substrates, intermediate and final products, and the associated (global) economic activities are closely interlinked. This is reflected, among other aspects, in the various primary energy fractions, numerous conversion technologies, secondary energy carriers, and final uses.
 
 <p style="text-align: justify;"> The energetic use of wood in Austria depends on numerous framework conditions within and outside the forest-based sector. At present, there are no robust assessments of which wood flows from forest management, the wood-processing industry, and wood imports will be available for energy services (including wood gas) in Austria in the future.
 
-<p style="text-align: justify;"> Nevertheless, several studies have addressed biomass potentials in the past, including initiatives such as Enspreso and BioSustain. In addition, a dedicated sub project entitled “Holzbiomasse für die energetische Nutzung in Österreich” was commissioned within the framework of this study. This sub project assessed the quantities of energetically used wood originating from Austrian forests, wood imports, and other biomass sources such as recovered wood as well as landscape management and agricultural residues. The assessment of bioenergy potentials presented here is therefore based on the results of this sub project, providing an updated and coherent basis for evaluating the role of solid and liquid biomass in Austria’s future energy system.  
+<p style="text-align: justify;"> Nevertheless, several studies have addressed biomass potentials in the past, including initiatives such as Enspreso and BioSustain. In addition, a dedicated sub project entitled “Holzbiomasse für die energetische Nutzung in Österreich” was commissioned within the framework of this study. This sub project assessed the quantities of energetically used wood originating from Austrian forests, wood imports, and other biomass sources such as recovered wood as well as landscape management and agricultural residues. The assessment of bioenergy potentials presented here is therefore based on the results of this sub project, providing an updated and coherent basis for evaluating the role of solid and liquid biomass in Austria’s future energy system. 
 
 ## Methodology
 
-##### Biogas/Biomethane
+### Biogas/Biomethane
 
 <p style="text-align: justify;"> The spatial allocation aggregates biomethane potential at the municipal level and considers residue fractions with currently low competing uses. Future biomethane grid injection can partly build on existing biogas infrastructure. 
+
 <p style="text-align: justify;"> Technology development, substrate availability (including competing uses), electricity and biogas production costs, and evolving legal frameworks in Austria are assessed. Based on this, future biogas and biomethane production is estimated as technical potential at the municipal level. 
+
 <p style="text-align: justify;"> Economic feasibility is determined primarily by collection effort. Key factors include farm size, livestock type, manure management system, crop type, transport suitability, and distance to biogas plants. Seasonality of substrate availability is not considered. Manure is assumed to provide stable supply throughout the year. On the demand side, natural gas plays a diminishing role as a seasonal heating fuel, while industrial biomethane demand is expected to be more evenly distributed over the year. 
 <p style="text-align: justify;"> Realisable potentials are aggregated at municipal and grid levels for 2030 and 2040, with particular attention to identifying injection points into gas and electricity grids. 
 
-##### Energy Carriers Based on Solid and Liquid Biomass
+### Energy Carriers Based on Solid and Liquid Biomass
 
 <p style="text-align: justify;"> Given the uncertainties described above, potentials for solid and liquid biomass for energy services and wood gas are presented. “Solid biomass” comprises forestry and agricultural raw materials and residues, notably wood, straw, and green waste. “Woody biomass” refers exclusively to forest and landscape maintenance biomass. Wood gas is distinguished from biomethane and refers to gas produced via gasification of woody biomass.
 
@@ -46,7 +60,7 @@
 
 ## Results
 
-##### Biogas/Biomethane – Spatially Resolved Results
+### Biogas/Biomethane – Spatially Resolved Results
 
 <p style="text-align: justify;"> The technical potential was estimated at 14,7 TWh/a, which is consistent with values reported in the literature. The realisable potential was quantified at 6,8 TWh/a for 2030 (see Figure 1) and 10 TWh/a for 2040 (see Figure 2). These estimates take into account competing uses, such as the retention of straw for humus formation, as well as economic constraints related to the collection and logistics of suitable substrates. 
 
@@ -54,23 +68,19 @@
 
 <p style="text-align: justify;"> When proximity to a gas grid connection point is introduced as a criterion, it becomes evident that certain regions in Austria currently lack pipeline infrastructure. To achieve a biomethane supply of 10 TWh, the realisable potentials would need to be exploited across large parts of the national territory.
 
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-1-TF5-Bioenergy-1769069929576.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/dd049cbed17fdb26a61ac158b6487d9468d6a10c/assets/Figure-1-TF5-Bioenergy-1769069929576.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
-
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-1-TF5-Bioenergy-1769069929576.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/dd049cbed17fdb26a61ac158b6487d9468d6a10c/assets/Figure-1-TF5-Bioenergy-1769069929576.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 1. Spatially resolved realisable biomethane potential for 2030
 
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-2-TF5-Bioenergy-1769069943414.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/de06fe9c7e7c749ebd46bdbe0e63d6e730e15b17/assets/Figure-2-TF5-Bioenergy-1769069943414.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
-
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-2-TF5-Bioenergy-1769069943414.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/de06fe9c7e7c749ebd46bdbe0e63d6e730e15b17/assets/Figure-2-TF5-Bioenergy-1769069943414.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 2. Spatially resolved realisable biomethane potential for 2040
 
-
-##### Bioenergy Potentials – Aggregated Analysis at the National Level
+### Bioenergy Potentials – Aggregated Analysis at the National Level
 
 <p style="text-align: justify;"> In addition to the spatially resolved results for biogas and biomethane presented above, this section now presents the potentials for energy carriers based on solid and liquid biomass at an aggregated, national level (see Figure 3). 
  
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-3-TF5-Bioenergy-1769069955372.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a905534883638a980687bf194a28bb970a3c36db/assets/Figure-3-TF5-Bioenergy-1769069955372.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
-
+##<!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-3-TF5-Bioenergy-1769069955372.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a905534883638a980687bf194a28bb970a3c36db/assets/Figure-3-TF5-Bioenergy-1769069955372.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 3. Potentials for primary energy use of different woody biomass fractions
 
@@ -78,14 +88,13 @@
 
 <p style="text-align: justify;"> Potentials attributed to the wood-processing industry also include quantities generated in Austria from imported wood. For example, this category includes sawmill by-products produced by the Austrian sawmilling industry even if they originate from imported roundwood. As an energy-rich liquid biomass from pulp production, black liquor plays a central role in industrial energy use. Its current potential amounts to approximately 17–18 TWh and is included in the total potential of the wood-processing industry.
 
-
-##### Presentation of the Potential Contribution of Bioenergy via Different Conversion Pathways for Various End Uses
+### Presentation of the Potential Contribution of Bioenergy via Different Conversion Pathways for Various End Uses
 
 <p style="text-align: justify;"> The potential contribution of biomass to final energy consumption via different conversion pathways and for different end uses was analyzed on the basis of the WAM scenario of the Austrian Environment Agency [4]. From the sectors decentralized space heating and domestic hot water as well as process heat, electricity and district heating were excluded, and the remaining shares were compared with the available biomass potential.
 
 <p style="text-align: justify;"> Across all variants, it is evident that a partly substantial share of district heating demand could be covered by biomass heating plants, waste heat from CHP plants, and waste heat from SNG or Fischer–Tropsch fuel production. As a simplifying assumption, the heat output from CHP plants is fully allocated to district heating in all variants. However, CHP plants may also be used to supply process heat. The extreme variants are again presented in the appendix.
 
-<p style="text-align: justify;"> The representation of the Current End-Use Mix variant (see Figure 4) serves as the reference case for the other two intermediate variants. No significant changes are observed in the absolute values of biomass potential for process heat, biomass-based district heating, and decentralized space heating and domestic hot water. However, the share of biomass in district heating consumption decreases from 60 % to 45 %, due to an increase in total district heat generation. Conversely, the share in decentralized space heating consumption, excluding electricity and district heating, increases to approximately 74 %.
+<p style="text-align: justify;"> The representation of the Current End-Use Mix variant (see Figure 4) serves as the reference case for the other two intermediate variants. No significant changes are observed in the absolute values of biomass potential for process heat, biomass-based district heating, and decentralized space heating and domestic hot water. However, the share of biomass in district heating consumption decreases from 60% to 45%, due to an increase in total district heat generation. Conversely, the share in decentralized space heating consumption, excluding electricity and district heating, increases to approximately 74%.
  
 ##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-4-TF5-Bioenergy-1769069973180.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5403f6b78f496b92044fe0c1117a3f3f6c6381db/assets/Figure-4-TF5-Bioenergy-1769069973180.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
@@ -97,13 +106,11 @@
  
 ##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-5-TF5-Bioenergy-1769069983555.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b4b84ce73475d604917bf657c8a3d876bad77cfc/assets/Figure-5-TF5-Bioenergy-1769069983555.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
-
 ###### Figure 5. Potential contribution of biomass in the Exergy Optimization variant (Medium scenario)
 
 <p style="text-align: justify;"> In the Balanced Mix variant, the share of biomass in sectoral final consumption for process heat remains stable (see Figure 6). The relative contribution of biomass to district heating decreases, while the share in space heating increases significantly, though less strongly than in the current end-use mix, even though absolute biomass uses in decentralized space heating declines.
 
 <p style="text-align: justify;"> Electricity-only generation from biomass decreases in this variant. The biomass previously used for this purpose is reallocated to process heat provision or SNG production. In contrast, electricity generation from CHP plants remains unchanged.
- 
 
 ##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-6-TF5-Bioenergy-1769070003291.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d2a2b85f9a1b8944a7fc6c1c9f06c228f755cfd4/assets/Figure-6-TF5-Bioenergy-1769070003291.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
@@ -134,6 +141,6 @@
 
 <p style="text-align: justify;">  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
-<p style="text-align: justify;">  AIT and UBA acts as provider for this service.
+<p style="text-align: justify;"> TU Wien and AIT acts as provider for this service.
 
-<p style="text-align: justify;">  EOX complements with its IT expertise, acting as host and front-end expert.
+<p style="text-align: justify;"> EOX complements with its IT expertise, acting as host and front-end expert.
