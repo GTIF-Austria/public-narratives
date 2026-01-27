@@ -10,7 +10,7 @@ provider: ubicube
 The GTIF Building Footprints service provides a comprehensive solution for monitoring and analyzing urban infrastructure through satellite-based observation. This service delivers up-to-date, spatially and temporally consistent building data, serving as a fundamental component for Smart City solutions.
 
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-01.png)
+![](https://raw.githubusercontent.com/gtif-austria/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-01.png)
 
 ## Service Overview
 The Building Footprints service combines advanced satellite imagery analysis with sophisticated data processing to provide accurate, timely information about urban development and infrastructure changes. Key features include:
@@ -23,7 +23,7 @@ The Building Footprints service combines advanced satellite imagery analysis wit
 ## Workflow
 The service implements three core technological components.
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-02.png)
+![](https://raw.githubusercontent.com/gtif-austria/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-02.png)
 
 ### Constant Monitoring
 The service provides continuous surveillance of urban areas through:
@@ -31,10 +31,10 @@ The service provides continuous surveillance of urban areas through:
 *	Automated change detection
 *	Temporal analysis of urban development
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-03.png)
+![](https://raw.githubusercontent.com/gtif-austria/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-03.png)
 
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-04.png)
+![](https://raw.githubusercontent.com/gtif-austria/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-04.png)
 
 
 ### Data Fusion
@@ -50,16 +50,16 @@ Advanced algorithms are employed to extract building information:
 *	Automated footprint generation
 *	Change analysis and verification
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-07.png)
+![](https://raw.githubusercontent.com/gtif-austria/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-07.png)
 
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-05.png)
+![](https://raw.githubusercontent.com/gtif-austria/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-05.png)
 
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-06.png)
+![](https://raw.githubusercontent.com/gtif-austria/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-06.png)
 
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-08.png)
+![](https://raw.githubusercontent.com/gtif-austria/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-08.png)
 
 
 ### Advanced AI-Powered Building Detection
@@ -129,7 +129,7 @@ The service offers several advantages:
 *	Flexible integration capabilities
 *	Regular updates for current information
 
-![](https://raw.githubusercontent.com/silvester-pari/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-09.png)
+![](https://raw.githubusercontent.com/gtif-austria/public-narratives/e7b97b072896a5ac9778e1bdbe9cdb0afc78ffe3/assets/ubiwb/building-footprints-09.png)
 
 ## Pricing Model 
 Our business model is based on square kilometers of analyzed area. As we focus exclusively on the built environment, we employ advanced spatial clustering algorithms to minimize the area of interest, creating an optimal trade-off between coverage and cost.
