@@ -1,7 +1,7 @@
 ---
 cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Energy%20Planning%20-%20Electricity.jpg?raw=true
 
-domain: Energy Transformation
+domain: Energy Transition
 tags: KLIEN,renewable energy,energy potential,energy technology,energy planning,electricity
 provider: AIT Center for Energy,Umweltbundesamt,Energiewerkstatt
 ---
