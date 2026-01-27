@@ -3,9 +3,8 @@ cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thum
 
 domain: Energy Transformation
 tags: KLIEN, renewable energy, energy potential, energy technology, air source heat pump, ambient heat
-provider: AIT Center for Energy, AEE Intec
+provider: AIT Center for Energy, AEE INTEC
 ---
-
 
 # Air-Source Heat Pump
 
@@ -19,6 +18,7 @@ provider: AIT Center for Energy, AEE Intec
 ## Methodological Concept
 
 </p> <p style="text-align: justify;"> The following sections provide only a condensed overview of the methodological concept used for calculating air‑source heat pump potentials. A comprehensive and fully detailed description of all methodological steps, assumptions, and data sources can be found in the full report
+
 #### Definition and Delimitation
 
 </p> <p style="text-align: justify;"> </p> <p style="text-align: justify;"> Ambient air heat potential refers to the use of outdoor air as an energy source for air-to-water heat pumps, particularly for meeting space heating and domestic hot water demand in buildings, as well as for feeding heat into district heating networks. Domestic hot water heat pumps, air-to-air heat pumps, and residential ventilation systems with heat recovery are also considered part of this technology field in decentralized applications. 
@@ -98,7 +98,7 @@ provider: AIT Center for Energy, AEE Intec
 
 <p style="text-align: justify;">  To estimate these temperature-related effects, the air temperature data from the Secures-MET dataset [4] were applied for the climate change scenario RCP4.5 (moderate) for the years 2030 and 2050. Overall, the increase in temperature results in a rise in the potential for ambient air heat, as illustrated in Figure 4. In particular, the technical potential increases by approximately 3.4 TWh, or about 10%. Since heat demand (and thus the amount of heat produced by the heat pump) is incorporated exogenously into the modelling and remains constant across the two scenarios, the electricity demand of heat pumps decreases in the moderate climate change scenario.
 
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure4TF71AirPNG-1769435586726.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ad7df705a0400de8dc173288ec4c9f0a31a9e40c/assets/Figure4TF71AirPNG-1769435586726.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure4TF71AirPNG-1769502278264.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c6fac1d73d09b88749fcbbc11ac8db028f2250d2/assets/Figure4TF71AirPNG-1769502278264.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 
 ###### Figure 4: Identified Heat Potentials (ambient heat supplied to the heat pump) for Air Heat at the National Level and Comparison with the Impact of Climate Change RCP4.5 on Outdoor Temperature (Reference: Energy; TRANSITION)
