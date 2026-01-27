@@ -3,7 +3,7 @@ cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thum
 
 domain: Energy Transformation
 tags: KLIEN, renewable energy, energy potential, energy technology, water sourced heat from flowing water bodies, ambient heat
-provider: AIT Center for Energy, AEE Intec
+provider: AEE INTEC, AIT Center for Energy
 ---
 
 # Water-Sourced Heat from Flowing Water Bodies (Aquathermy)
@@ -73,7 +73,7 @@ The following sections provide only a condensed overview of the methodological c
 
 * <p style="text-align: justify;"><b> Flood and debris risks: </b> Flowing water bodies are highly vulnerable to flood events, floating debris, blockages, and temporary pollution. For large open-water intakes, this often constitutes a technical exclusion criterion, as plant safety and flood protection may be compromised. Although existing river-crossing structures (particularly run-of-river hydropower plants with screening systems) may offer advantages, the municipality-level modelling did not differentiate between risk categories or structural quality.
 
-* <p style="text-align: justify;"> <b> Operational limitations due to low water temperatures: </b>Year-round usability is strongly temperature dependent. In this study, mean monthly temperatures were used, and a utilisation threshold of 5 °C was applied, below which no heat extraction was assumed. This simplification affects the calculated annual operating hours and does not account for whether a real heating-generation portfolio could integrate such a system up to the stated coverage limits.
+* <p style="text-align: justify;"> <b> Operational limitations due to low water temperatures: </b>Year-round usability is strongly temperature dependent. In this study, mean monthly temperatures were used, and a utilisation threshold of 5°C was applied, below which no heat extraction was assumed. This simplification affects the calculated annual operating hours and does not account for whether a real heating-generation portfolio could integrate such a system up to the stated coverage limits.
 
 ### Calculation of Levelized Cost of Heat
 <p style="text-align: justify;"> Reliable and uniformly scalable cost data for large river-water heat pumps are not available that would allow for a nationwide economic assessment for Austria. Economic viability depends strongly on:
@@ -107,7 +107,7 @@ The following sections provide only a condensed overview of the methodological c
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src=" https://eodash.github.io/preview-instance/?stacEndpoint=https%3A%2F%2FGTIF-Austria.github.io%2Fpublic-catalog%2Fpr-preview%2Fpr-66%2FGTIF-Austria%2Fcatalog.json& x=13.3333&y=47.5162&z=7&indicator=aquifer_eepot_w23_wocc&datetime=2030-01-01">
+  src="https://gtif-austria.info/explore?x=13.2674&y=47.9350&z=6.8857&template=light&indicator=river_eepot_w23_wocc&datetime=2030-01-01">
 </iframe>
 
 ##### Assessment of the Results
