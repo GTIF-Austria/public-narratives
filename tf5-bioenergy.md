@@ -3,7 +3,7 @@ cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thum
 
 domain: Energy Transformation
 tags: KLIEN, renewable energy, energy potential, energy technology, bioenergy
-provider: TU Wien, AIT Center for Energy
+provider: TU Wien ESEA, AIT Center for Energy
 ---
 
 # Bioenergy
@@ -80,7 +80,7 @@ provider: TU Wien, AIT Center for Energy
 
 <p style="text-align: justify;"> In addition to the spatially resolved results for biogas and biomethane presented above, this section now presents the potentials for energy carriers based on solid and liquid biomass at an aggregated, national level (see Figure 3). 
  
-##<!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-3-TF5-Bioenergy-1769069955372.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a905534883638a980687bf194a28bb970a3c36db/assets/Figure-3-TF5-Bioenergy-1769069955372.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf5-bioenergy/assets/nipargar/Figure-3-TF5-Bioenergy-1769588985222.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/3a432d8bad1924e5c1ac8b4a769849fedd01fc53/assets/Figure-3-TF5-Bioenergy-1769588985222.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 3. Potentials for primary energy use of different woody biomass fractions
 
