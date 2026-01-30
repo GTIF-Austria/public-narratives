@@ -1,5 +1,5 @@
 ---
-cover-image: ![header_image](https://github.com/user-attachments/assets/b8eda311-d699-4937-8d0e-34258fd31ece)
+cover-image: https://github.com/user-attachments/assets/b8eda311-d699-4937-8d0e-34258fd31ece
 ---
 
 # Site identification capability for solar energy expansion
