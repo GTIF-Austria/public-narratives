@@ -145,7 +145,7 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 <iframe
   width="100%"a
-  height="450"
+  height="700"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen
@@ -175,7 +175,7 @@ The data basis is derived from the project INXS – Industrial Excess Heat (2021
 
 <iframe
   width="100%"
-  height="450"
+  height="700"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen

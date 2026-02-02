@@ -65,7 +65,7 @@ provider: Umweltbundesamt,AIT Center for Energy
 
 ##### Austria GTIF – Total PV Potential
 
-<iframe width="100%" height="450" style="border:0; border-radius:12px;"  loading="lazy" allowfullscreen  referrerpolicy="no-referrer-when-downgrade"  src="https://gtif-austria.info/explore?indicator=pv_total_eepot_w23_wocc&x=13.3000&y=47.7675&z=8.1845&datetime=2030-01-01&template=light"></iframe>
+<iframe width="100%" height="700" style="border:0; border-radius:12px;"  loading="lazy" allowfullscreen  referrerpolicy="no-referrer-when-downgrade"  src="https://gtif-austria.info/explore?indicator=pv_total_eepot_w23_wocc&x=13.3000&y=47.7675&z=8.1845&datetime=2030-01-01&template=light"></iframe>
 
 ### Evaluation of the Results
 

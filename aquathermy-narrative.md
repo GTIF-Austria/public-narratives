@@ -102,7 +102,7 @@ The following sections provide only a condensed overview of the methodological c
 
 <iframe
   width="100%"
-  height="450"
+  height="700"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen
