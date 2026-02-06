@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,photovoltaic,ele
 provider: Umweltbundesamt,AIT Center for Energy
 ---
 
-# Photovoltaic
+# KLIEN Data – Photovoltaic Potential
 
 ## Background
 
