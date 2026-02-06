@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,air source heat 
 provider: AIT Center for Energy,AEE INTEC
 ---
 
-# Air-Source Heat Pump
+# KLIEN Data - Air-Source Heat Pump Potential
 
 ## Background
 
@@ -17,7 +17,7 @@ provider: AIT Center for Energy,AEE INTEC
 
 ## Methodological Concept
 
-<p style="text-align: justify;"/> The following sections provide only a condensed overview of the methodological concept used for calculating air‑source heat pump potentials. A comprehensive and fully detailed description of all methodological steps, assumptions, and data sources can be found in the full report
+<p style="text-align: justify;"/> The following sections provide only a condensed overview of the methodological concept used for calculating air source heat pump potentials. A comprehensive and fully detailed description of all methodological steps, assumptions, and data sources can be found in the full report
 
 #### Definition and Delimitation
 
@@ -83,7 +83,7 @@ provider: AIT Center for Energy,AEE INTEC
 
 <iframe
   width="100%"a
-  height="450"
+  height="700"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen
@@ -139,4 +139,5 @@ provider: AIT Center for Energy,AEE INTEC
 
 <p style="text-align: justify;"/> AIT and AEE INTEC acts as provider for this service.
 <p style="text-align: justify;"/> EOX complements with its IT expertise, acting as host and front-end expert.
+
 
