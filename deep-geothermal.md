@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,deep geothermal 
 provider: AIT Center for Energy
 ---
 
-# Deep Geothermal Energy
+# KLIEN Data - Deep Geothermal Energy Potential
 
 ## Background
 
