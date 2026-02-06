@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,wind power,elect
 provider: AIT Center for Energy,Energiewerkstatt
 ---
 
-# Wind Power 
+# KLIEN Data- Wind Power Potential
 
 ## Background
 
@@ -58,7 +58,7 @@ provider: AIT Center for Energy,Energiewerkstatt
 
 <iframe
   width="100%"
-  height="450"
+  height="700"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen
@@ -74,3 +74,4 @@ provider: AIT Center for Energy,Energiewerkstatt
 <p style="text-align: justify;"/>Energiewerkstatt and AIT act as provider for this service.
 
 <p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
+
