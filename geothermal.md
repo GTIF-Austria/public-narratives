@@ -5,7 +5,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,brine water heat
 provider: AIT Center for Energy,AEE INTEC
 ---
 
-# Shallow Geothermal Energy and Groundwater
+# KLIEN Data - Shallow Geothermal Energy and Groundwater Potential
 
 ## Background
 
