@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,water sourced he
 provider: AEE INTEC,AIT Center for Energy
 ---
 
-# Water-Sourced Heat from Flowing Water Bodies (Aquathermy)
+# KLIEN Data - Water-Sourced Heat Potential from Flowing Water Bodies (Aquathermy)
 
 ## Background
 
