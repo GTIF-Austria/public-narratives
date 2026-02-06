@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,excess heat,ambi
 provider: AEE INTEC,AIT Center for Energy, 
 ---
 
-# Excess Heat
+# KLIEN Data - Excess Heat Potential
 
 ## Background
 
