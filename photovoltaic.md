@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,photovoltaic,ele
 provider: Umweltbundesamt,AIT Center for Energy
 ---
 
-# Photovoltaic
+# KLIEN Data – Photovoltaic Potential
 
 ## Background
 
@@ -14,13 +14,13 @@ provider: Umweltbundesamt,AIT Center for Energy
 
 <p style="text-align: justify;"/>Three storylines illustrate different pathways for PV deployment:
 
-* <p style="text-align: justify;"/> <b> Low: </b> Ongoing permitting, planning, grid, and supply‑chain barriers slow expansion. Reduced incentives, limited storage and slow grid development lead to increasing curtailment and lower total yields. PV remains concentrated on buildings using the best suited areas only. Ground-mounted PV is falling short of its area potential resulting in highly efficient and spatial concentrated PV but little total energy yield.
+* <p style="text-align: justify;"/> <b> Low: </b> Ongoing permitting, planning, grid, and supply chain barriers slow expansion. Reduced incentives, limited storage and slow grid development lead to increasing curtailment and lower total yields. PV remains concentrated on buildings using the best suited areas only. Ground-mounted PV is falling short of its area potential resulting in highly efficient and spatial concentrated PV but little total energy yield.
 
-* <p style="text-align: justify;"/> <b> Medium: </b> Gradual removal of administrative and grid‑related barriers enables continued growth, mainly on buildings, complemented by increasing ground‑mounted and multi‑use installations. Electrification and infrastructure development progress steadily under generally favourable conditions.
+* <p style="text-align: justify;"/> <b> Medium: </b> Gradual removal of administrative and grid related barriers enables continued growth, mainly on buildings, complemented by increasing ground mounted and multi use installations. Electrification and infrastructure development progress steadily under generally favourable conditions.
 
-* <p style="text-align: justify;"/> <b> High: </b> Most barriers are removed, grid access is widely available, and PV systems are optimised for self‑consumption and integration. Storage, energy communities and digital energy management enable high flexibility and output, strongly supporting innovation‑driven expansion while activating the potential area on buildings and open space.
+* <p style="text-align: justify;"/> <b> High: </b> Most barriers are removed, grid access is widely available, and PV systems are optimised for self consumption and integration. Storage, energy communities and digital energy management enable high flexibility and output, strongly supporting innovation driven expansion while activating the potential area on buildings and open space.
 
-<p style="text-align: justify;"/> New and renovated buildings are assumed to be PV‑optimised in line with EU building regulations and spatial‑energy planning, with rooftop installations prioritised. Based on projected new built‑up areas, municipal‑level PV potentials for new buildings were derived for 2030 and 2040.
+<p style="text-align: justify;"/> New and renovated buildings are assumed to be PV optimised in line with EU building regulations and spatial energy planning, with rooftop installations prioritised. Based on projected new built up areas, municipal level PV potentials for new buildings were derived for 2030 and 2040.
 
 ## Methodology
 
@@ -65,17 +65,17 @@ provider: Umweltbundesamt,AIT Center for Energy
 
 ##### Austria GTIF – Total PV Potential
 
-<iframe width="100%" height="450" style="border:0; border-radius:12px;"  loading="lazy" allowfullscreen  referrerpolicy="no-referrer-when-downgrade"  src="https://gtif-austria.info/explore?indicator=pv_total_eepot_w23_wocc&x=13.3000&y=47.7675&z=8.1845&datetime=2030-01-01&template=light"></iframe>
+<iframe width="100%" height="700" style="border:0; border-radius:12px;"  loading="lazy" allowfullscreen  referrerpolicy="no-referrer-when-downgrade"  src="https://gtif-austria.info/explore?indicator=pv_total_eepot_w23_wocc&x=13.3000&y=47.7675&z=8.1845&datetime=2030-01-01&template=light"></iframe>
 
 ### Evaluation of the Results
 
 <p style="text-align: justify;"/> The realisable PV potentials for 2030, and for 2040 in the Low and Medium storylines, are broadly consistent with earlier assessments. In the High storyline, however, the realisable potential for 2040 reaches 50.7 TWh, exceeding previous estimates and reflecting more favourable framework conditions.
 
-<p style="text-align: justify;"/> Over time, the balance between building‑integrated and ground‑mounted PV becomes more even, although buildings remain the dominant deployment area. This development is driven by electrification, increased availability of storage, EU requirements on solar readiness of buildings, and growing acceptance of energy communities.
+<p style="text-align: justify;"/> Over time, the balance between building integrated and ground mounted PV becomes more even, although buildings remain the dominant deployment area. This development is driven by electrification, increased availability of storage, EU requirements on solar readiness of buildings, and growing acceptance of energy communities.
 
 <p style="text-align: justify;"/> Commercial and industrial sites account for a particularly high share of realisable potential due to favourable planning conditions, sufficient demand, available investment capital, and high social acceptance. Other sealed and already developed surfaces also contribute, although their fragmented structure limits their overall share.
 
-<p style="text-align: justify;"/> By contrast, unsealed open land shows relatively low realisable potential due to ecological and social constraints. Ground‑mounted PV on such land is unevenly distributed, with the largest potentials located mainly in eastern Austria, while building‑based and sealed‑surface PV reflects the country’s decentralised settlement structure.
+<p style="text-align: justify;"/> By contrast, unsealed open land shows relatively low realisable potential due to ecological and social constraints. Ground mounted PV on such land is unevenly distributed, with the largest potentials located mainly in eastern Austria, while building based and sealed surface PV reflects the country’s decentralised settlement structure.
 
 <p style="text-align: justify;"/> Overall, the results indicate that the generation targets of the Austrian National Infrastructure Plan (ÖNIP) for 2040 are achievable. The required electricity volumes and an appropriate spatial distribution of PV deployment are best represented by the Medium storyline.
 
@@ -86,3 +86,4 @@ provider: Umweltbundesamt,AIT Center for Energy
 <p style="text-align: justify;"/>UBA and AIT act as providers for this service.
 
 <p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
+
