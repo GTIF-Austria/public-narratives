@@ -5,7 +5,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,brine water heat
 provider: AIT Center for Energy,AEE INTEC
 ---
 
-# Shallow Geothermal Energy and Groundwater
+# KLIEN Data - Shallow Geothermal Energy and Groundwater Potential
 
 ## Background
 
@@ -106,7 +106,7 @@ provider: AIT Center for Energy,AEE INTEC
 
 <iframe
   width="100%"
-  height="450"
+  height="700"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen
@@ -131,7 +131,7 @@ provider: AIT Center for Energy,AEE INTEC
 
 <iframe
   width="100%"
-  height="450"
+  height="700"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen
@@ -176,3 +176,4 @@ provider: AIT Center for Energy,AEE INTEC
 <p style="text-align: justify;"/>  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 <p style="text-align: justify;"/>AIT and AEE INTEC acts as provider for this service.
 <p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
+
