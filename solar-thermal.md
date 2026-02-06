@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,solar thermal co
 provider: AEE INTEC,AIT Center for Energy
 ---
 
-# Solar Thermal
+# KLIEN Data - Solar Thermal Potential
 
 ## Background
 
@@ -71,9 +71,9 @@ provider: AEE INTEC,AIT Center for Energy
 
 <p style="text-align: justify;"/> To compare the economic performance of the realisable heat potentials, the levelized cost of heat (LCOH) was calculated for both application types. LCOH expresses the average cost per unit of heat generated over the lifetime of a system and enables a transparent comparison across different technologies and locations.
 
-<p style="text-align: justify;"/> The calculation builds on the realisable collector areas identified in the analysis, the associated thermal peak capacities, and the location‑specific heat yields derived from regression models. By performing the assessment at the municipal level, regional differences in irradiation, local heat demand, and system integration conditions are consistently reflected.
+<p style="text-align: justify;"/> The calculation builds on the realisable collector areas identified in the analysis, the associated thermal peak capacities, and the location specific heat yields derived from regression models. By performing the assessment at the municipal level, regional differences in irradiation, local heat demand, and system integration conditions are consistently reflected.
 
-<p style="text-align: justify;"/> A uniform economic framework was applied across all regions. A real weighted average cost of capital (WACC) of 6,52 % was assumed. Electricity costs were excluded, as the electricity demand for pumps, control systems, and similar components was considered negligible in relation to the heat output. System lifetimes were set to 20 years for building‑integrated installations and 25 years for ground‑mounted systems, ensuring comparability between different deployment options.
+<p style="text-align: justify;"/> A uniform economic framework was applied across all regions. A real weighted average cost of capital (WACC) of 6,52 % was assumed. Electricity costs were excluded, as the electricity demand for pumps, control systems, and similar components was considered negligible in relation to the heat output. System lifetimes were set to 20 years for building integrated installations and 25 years for ground mounted systems, ensuring comparability between different deployment options.
 
 ## Results
 
@@ -97,7 +97,7 @@ provider: AEE INTEC,AIT Center for Energy
 
 <iframe
   width="100%"
-  height="450"
+  height="700"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen
@@ -123,7 +123,7 @@ provider: AEE INTEC,AIT Center for Energy
 
 <iframe
   width="100%"
-  height="450"
+  height="700"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen
@@ -158,4 +158,5 @@ provider: AEE INTEC,AIT Center for Energy
 <p style="text-align: justify;"/>AEE INTEC and AIT acts as provider for this service.
 
 <p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
+
 
