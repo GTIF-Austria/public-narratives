@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,solar thermal co
 provider: AEE INTEC,AIT Center for Energy
 ---
 
-# Solar Thermal
+# KLIEN Data - Solar Thermal Potential
 
 ## Background
 
