@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,bioenergy
 provider: TU Wien ESEA,AIT Center for Energy
 ---
 
-# Bioenergy
+# KLIEN Data – Bioenergy Potential
 
 ## Background
 <p style="text-align: justify;"/> The technological field of bioenergy is characterized by a large variety of primary and final energy carriers as well as corresponding conversion technologies. Many bioenergy carriers can be transported over certain distances at acceptable cost and energy input, while this is less feasible for others. 
