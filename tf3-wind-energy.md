@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,wind power,elect
 provider: AIT Center for Energy,Energiewerkstatt
 ---
 
-# Wind Power 
+# KLIEN Data- Wind Power Potential
 
 ## Background
 
