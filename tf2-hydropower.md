@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,hydro power,elec
 provider: Umweltbundesamt,AIT Center for Energy, 
 ---
 
-# Hydropower
+# KLIEN Data – Hydropower Potential
 ## Background
 <p style="text-align: justify;"/> Within the framework of developing the Integrated Austrian Grid Infrastructure Plan, the Environment Agency Austria conducted a potential study on the generation of renewable electricity and biomethane for the scenarios 2030 and 2040 [1]. As part of this study, an initial assessment of the potential for electricity generation from hydropower was already carried out.
 <p style="text-align: justify;"/> This potential assessment examined the theoretical remaining potential, composed of new development potential and optimisation potential. The data basis for the NIP potential assessment was also discussed during stakeholder consultations. From this process, the need was derived to (i) extend the reference period for discharge data to the most recent climate period (1991–2020), (ii) assess the impacts of climate change on runoff using two climate scenarios, (iii) complete and update the dataset of hydropower plants, and (iv) further specify non-available river stretches. Those needs were considered in the assessment conducted in the course of the underlying study “Renewable Energy Potentials in Austria for 2030 and 2040.” The therein applied methodology was intended to be comparable to that of the ÖNIP [2], while providing a higher level of detail. Below we inform on the methodological concept and on derived outcomes.
@@ -87,7 +87,7 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 <iframe
   width="100%"
-  height="450"
+  height="700"
   style="border:0; border-radius:12px;"
   loading="lazy"
   allowfullscreen
@@ -111,3 +111,4 @@ provider: Umweltbundesamt,AIT Center for Energy,
 <p style="text-align: justify;"/> UBA and AIT acts as provider for this service.
 
 <p style="text-align: justify;"/>  EOX complements with its IT expertise, acting as host and front-end expert.
+
