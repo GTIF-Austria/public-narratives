@@ -4,9 +4,9 @@ domain: Energy Transition
 tags: wind power, nowcasting, renewable energy, grid operations, wind speed
 provider: GeoSphere Austria
 --- 
-
-# Wind Power Nowcasting for Austria <!--{ as="img" mode="hero" src="https://github.com/user-attachments/assets/e4a90124-22af-4c13-b659-f91991b36d0d" }-->
-
+  
+# Wind Power Nowcasting for Austria <!--{ as="img" mode="hero" src="https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public/WR-03-Energy-Nowcasting-Solar-Wind/wind/hero_composite.png" }-->
+   
 As Austria accelerates its transition to renewable energy, wind power plays an increasingly critical role in the national energy mix. However, the inherent variability of wind presents significant challenges for grid operators who must balance supply and demand in real-time. Our wind power nowcasting system provides high-resolution, short-term predictions of wind speed and power output across Austria, enabling more efficient grid management and supporting the integration of wind energy into the electricity system.
 
 ## The challenge
