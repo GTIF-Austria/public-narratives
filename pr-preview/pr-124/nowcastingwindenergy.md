@@ -1,5 +1,5 @@
 ---
-cover-image: https://github.com/user-attachments/assets/e4a90124-22af-4c13-b659-f91991b36d0d
+cover-image: https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public/WR-03-Energy-Nowcasting-Solar-Wind/wind/hero_composite.pngw
 domain: Energy Transition
 tags: wind power, nowcasting, renewable energy, grid operations, wind speed
 provider: GeoSphere Austria
