@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,wind power,elect
 provider: AIT Center for Energy,Energiewerkstatt
 ---
 
-# KLIEN Data- Wind Power Potential
+# KLIEN Data - Wind Power Potential
 
 ## Background
 
@@ -70,13 +70,13 @@ provider: AIT Center for Energy,Energiewerkstatt
 
 ### Levelized Cost of Energy, Market Value & Impact of Climate Change
 
-<p style="text-align: justify;"/> The evaluation of the levelized cost of energy (LCOE), market value (MV), and the impact of climate change was carried out as a post‑processing step following the potential assessment. 
+<p style="text-align: justify;"/> The evaluation of the levelized cost of energy (LCOE), market value (MV), and the impact of climate change was carried out as a post‑processing step following the assessment of generation potentials
 
 <p style="text-align: justify;"/> The indicated LCOE ranges are based on a site‑specific evaluation that incorporates both construction and operating costs, as well as location‑dependent yield characteristics. Assumptions regarding future cost developments rely on technology‑specific learning curves, international cost trends, and adjusted price and financing parameters. The MV assessment is derived from modeled annual and daily feed in profiles and reflects how its market value may evolve within the electricity system.
 
 <p style="text-align: justify;"/> By combining cost and system perspectives, the results illustrate how the relationship between generation costs and potential market revenues may change over time. For renewable electricity technologies, this comparison between levelized generation costs and potentially achievable market revenues provides an initial indication of how their economic feasibility may develop under future framework conditions.
 
-<p style="text-align: justify;"/> The wind power potential assessment is based on current climatic and meteorological conditions. The impact of climate change was evaluated in a supplementary manner by assessing how moderate (mocc) and strong climate change (stcc) scenarios affect the full‑load hours of wind power plants, based on NUTS‑3‑level indicators.
+<p style="text-align: justify;"/> The wind power assessment is based on current climatic and meteorological conditions. The impact of climate change was evaluated in a supplementary manner by assessing how moderate (mocc) and strong climate change (stcc) scenarios affect the full‑load hours of PV systems, based on NUTS‑3‑level indicators.
 
 ## About 
 <p style="text-align: justify;"/>The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
