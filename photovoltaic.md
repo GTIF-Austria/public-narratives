@@ -67,6 +67,16 @@ provider: Umweltbundesamt,AIT Center for Energy
 
 <iframe width="100%" height="700" style="border:0; border-radius:12px;"  loading="lazy" allowfullscreen  referrerpolicy="no-referrer-when-downgrade"  src="https://gtif-austria.info/explore?indicator=pv_total_eepot_w23_wocc&x=13.3000&y=47.7675&z=8.1845&datetime=2030-01-01&template=light"></iframe>
 
+### Levelized Cost of Energy, Market Value & Impact of Climate Change
+
+<p style="text-align: justify;"/> The evaluation of the levelized cost of energy (LCOE), market value (MV), and the impact of climate change was carried out as a post‑processing step following the assessment of generation potentials
+
+<p style="text-align: justify;"/> The indicated LCOE ranges are based on a site‑specific evaluation that incorporates both construction and operating costs, as well as location‑dependent yield characteristics. Assumptions regarding future cost developments rely on technology‑specific learning curves, international cost trends, and adjusted price and financing parameters. The MV assessment is derived from modeled annual and daily feed in profiles and reflects how its market value may evolve within the electricity system.
+
+<p style="text-align: justify;"/> By combining cost and system perspectives, the results illustrate how the relationship between generation costs and potential market revenues may change over time. For renewable electricity technologies, this comparison between levelized generation costs and potentially achievable market revenues provides an initial indication of how their economic feasibility may develop under future framework conditions.
+
+<p style="text-align: justify;"/> The PV potential assessment is based on current climatic and meteorological conditions. The impact of climate change was evaluated in a supplementary manner by assessing how moderate (mocc) and strong climate change (stcc) scenarios affect the full‑load hours of PV systems, based on NUTS‑3‑level indicators.
+
 ### Evaluation of the Results
 
 <p style="text-align: justify;"/> The realisable PV potentials for 2030, and for 2040 in the Low and Medium storylines, are broadly consistent with earlier assessments. In the High storyline, however, the realisable potential for 2040 reaches 50.7 TWh, exceeding previous estimates and reflecting more favourable framework conditions.
