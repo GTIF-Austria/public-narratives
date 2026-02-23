@@ -104,12 +104,11 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 <p style="text-align: justify;"/> The evaluation of the levelized cost of energy (LCOE), market value (MV) was carried out as a post‑processing step following the potential assessment. 
 
-<p style="text-align: justify;"/> The indicated LCOE ranges are based on a regionalized evaluation that incorporates both construction and operating costs, as well as location‑dependent yield characteristics. Assumptions regarding future cost developments rely on technology‑specific learning curves, international cost trends, and adjusted price and financing parameters. The MV assessment is derived from modeled annual and daily feed in profiles and reflects how its market value may evolve within the electricity system.
+<p style="text-align: justify;"/> The indicated LCOE ranges are based on a site‑specific evaluation that incorporates both construction and operating costs, as well as location‑dependent yield characteristics. Assumptions regarding future cost developments rely on technology‑specific learning curves, international cost trends, and adjusted price and financing parameters. The MV assessment is derived from modeled annual and daily feed in profiles and reflects how its market value may evolve within the electricity system.
 
 <p style="text-align: justify;"/> By combining cost and system perspectives, the results illustrate how the relationship between generation costs and potential market revenues may change over time. For renewable electricity technologies, this comparison between levelized generation costs and potentially achievable market revenues provides an initial indication of how their economic feasibility may develop under future framework conditions.
 
 <p style="text-align: justify;"/> For hydropower, the impact of climate change was an integral part of the potential assessment. Climate related effects were evaluated by analyzing projected changes in runoff patterns under both moderate (RCP4.5) and strong (RCP8.5) climate change scenarios.
-
 
 ## References
 <p style="text-align: justify;"/>[1] Umweltbundesamt, Erzeugung von Erneuerbarem Strom und Biomethan, Bde. %1 von %2REP-0874, 2023.
