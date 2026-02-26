@@ -20,6 +20,19 @@ In general, the products can be delivered in all common geospatial data formats 
 
 ## Illustrations
 
+<p align="center">
+  <img src="https://workspace-ui-public.aducat.hub-otc-sc.eox.at/api/public/share/public-3bmaz2ur-01/assets/ingo-schoolmann/green_spaces_diff.png" alt="Green spaces comparison">
+</p>
+
+<p align="center"><em>Comparison Green Spaces 2023 and 2021 in Vienna.</em></p>
 
 
-        
+<p align="center">
+  <img src="https://workspace-ui-public.aducat.hub-otc-sc.eox.at/api/public/share/public-3bmaz2ur-01/assets/ingo-schoolmann/green_spaces.png" alt="Green spaces comparison">
+</p>
+
+<p align="center"><em>Comparison Green Spaces 2023 and 2021 in Vienna.</em></p>
+
+
+
+
