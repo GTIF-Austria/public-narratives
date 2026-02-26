@@ -17,7 +17,7 @@ The EU Nature Restoration Regulation (NRR) places strong emphasis on restoring a
 
 In view of the Green Space Monitoring related to the EU Nature Restoration Regulation OHB-DS can provide 
 - Geospatial data products at 10m spatial resolution (e.g. geoTiffs) as well as map layers to identify green spaces and their dynamics for any area of interest (e.g. the administrative boundary of Vienna).
-- Quantify the area of green spaces in square kilometers for any area of interest (e.g. the administrative boundary of Vienna or on district-level) and their dynamics with JSON out formats.
+- Quantify the area of green spaces in square kilometers for any area of interest (e.g. the administrative boundary of Vienna or on district-level) and their dynamics with output in common structured data fromats (e.g. JSON or CSV).
 
 In general, the products can be delivered in all common geospatial data formats and interfaces supporting integration into external systems (as the EOX platform or proprietary solutions). As in intermediate layer access to these products can be provided by the existing interface https://vegetation.urbanview.ohb-ds.de/. Please contact ingo.schoolmann@ohb-ds.de in case access, adapations or customization of the products is of interest.
 
@@ -42,4 +42,4 @@ In general, the products can be delivered in all common geospatial data formats 
   <img src="https://workspace-ui-public.aducat.hub-otc-sc.eox.at/api/public/share/public-3bmaz2ur-01/assets/ingo-schoolmann/green_spaces_stats.png" alt="Green spaces comparison">
 </p>
 
-<p align="center"><em>Green Spaces in square kilometers for Vienna based on Copernicus.</em></p>
+<p align="center"><em>Green Spaces in square kilometers for Vienna based on Copernicus datasets.</em></p>
