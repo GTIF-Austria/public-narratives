@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,hydro power,elec
 provider: Umweltbundesamt,AIT Center for Energy, 
 ---
 
-# KLIEN Data – Hydropower Potential
+# Hydropower Potential – Study on Renewable Energy Potentials
 ## Background
 <p style="text-align: justify;"/> Within the framework of developing the Integrated Austrian Grid Infrastructure Plan, the Environment Agency Austria conducted a potential study on the generation of renewable electricity and biomethane for the scenarios 2030 and 2040 [1]. As part of this study, an initial assessment of the potential for electricity generation from hydropower was already carried out.
 <p style="text-align: justify;"/> This potential assessment examined the theoretical remaining potential, composed of new development potential and optimisation potential. The data basis for the NIP potential assessment was also discussed during stakeholder consultations. From this process, the need was derived to (i) extend the reference period for discharge data to the most recent climate period (1991–2020), (ii) assess the impacts of climate change on runoff using two climate scenarios, (iii) complete and update the dataset of hydropower plants, and (iv) further specify non-available river stretches. Those needs were considered in the assessment conducted in the course of the underlying study “Renewable Energy Potentials in Austria for 2030 and 2040.” The therein applied methodology was intended to be comparable to that of the ÖNIP [2], while providing a higher level of detail. Below we inform on the methodological concept and on derived outcomes.
@@ -33,7 +33,7 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 <p style="text-align: justify;"/> In quantitative terms, the methodology for determining the line-based runoff potential for all of Austria yields a theoretical potential of 56.18 TWh/a for Austrian rivers based on discharges during the most recent climate period (1991–2020). According to the selected climate scenarios, climatic conditions could increase the theoretical potential by 5.22 TWh/a by 2040 and by 9.01 TWh/a by 2070 (Figure 2). 
 
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf2-hydropower/assets/nipargar/Figure-2-TF2-Hydropower-1769088628893.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c444cce5817aa3e5161733f6f07c54a1084af115/assets/Figure-2-TF2-Hydropower-1769088628893.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-2-TF2-Hydropower-1773069538343.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/7a195524f4dacb2320444a2330e5d539a7245131/assets/Figure-2-TF2-Hydropower-1773069538343.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 2: Theoretical hydropower potential for all of Austria, disaggregated into summer and winter half-years, for the current period and under RCP 4.5 and RCP 8.5 up to 2040 and 2070.
 
@@ -52,9 +52,7 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 <p style="text-align: justify;"/> An examination of the results shows that both climate models project an increase in technical potential of approximately 0.5 to 1.0 TWh/a. The hydropower potential reaches values similar to, though slightly higher than, those reported in the NIP; however, it is now more robust due to the underlying hydrological data being based on a thirty-year reference period. 
 
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-3-TF2-Hydropower-1773069113588.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6fdfa431b3c00d46f0bffbc588d0ff39ce971ac7/assets/Figure-3-TF2-Hydropower-1773069113588.png" style="width: 100%; height: 600px;"}-->
-
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf2-hydropower/assets/nipargar/Figure-3-TF2-Hydropower-1769088639017.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f00890ed375dcf932adf102c2c6b11529b49e3fb/assets/Figure-3-TF2-Hydropower-1769088639017.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-3-TF2-Hydropower-1773069553800.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f389f1240ac177a771fea999cd4dd4a7e50835b8/assets/Figure-3-TF2-Hydropower-1773069553800.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 3: Technical potential of the hydropower technology field in Austria, excluding existing installations.
 
@@ -71,21 +69,16 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 <p style="text-align: justify;"/> The “Medium” bandwidth represents a continuation of the average growth rate observed over the past ten years (363 GWh per year). At this growth rate, optimisation of existing plants is assumed to be actively pursued alongside new developments, resulting in the full exploitation of the available potential by 2047 (RCP 4.5) or 2048 (RCP 8.5). 
 
-
 <b> Storyline – High: Accelerated Transformation and Systemic Integration </b>
 <p style="text-align: justify;"/> Under this storyline, Austria achieves a comprehensive and dynamic energy transition. National and European climate targets are implemented consistently, and the transformation of the energy system is understood as a collective societal task. Framework conditions for hydropower expansion are highly favourable: stable political commitments, rapidly implemented legal simplifications in nature conservation and water law, and broad societal support provide the basis for accelerated development. 
 
 <p style="text-align: justify;"/> For the “High” bandwidth, it is assumed that the Renewable Energy Expansion Act (EAG) target of an additional 5 TWh by 2030 relative to 2020 is achieved and can be maintained at the same pace thereafter. Under this projection, the available hydropower potential would be fully exploited by 2040 through strongly accelerated new construction and extensive utilization of optimisation measures at existing plants. 
 
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-4-TF2-Hydropower-1773069137673.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b94e29b880e6cfb3c107feeabc50362f22959526/assets/Figure-4-TF2-Hydropower-1773069137673.png" style="width: 100%; height: 600px;"}-->
-
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf2-hydropower/assets/nipargar/Figure-4-TF2-Hydropower-1769088650933.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/60afcb5abdad1137f67afe0f6b2fe29099744675/assets/Figure-4-TF2-Hydropower-1769088650933.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-4-TF2-Hydropower-1773069137673.png" src=https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b94e29b880e6cfb3c107feeabc50362f22959526/assets/Figure-4-TF2-Hydropower-1773069137673.png style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 4: Realisable hydropower potential presented as development bandwidths.
 
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-6-TF2-Hydropower-1773069151648.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/bf2e4628521bef06a78e27751fc537a1d884ef73/assets/Figure-6-TF2-Hydropower-1773069151648.png" style="width: 100%; height: 600px;"}-->
-
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf2-hydropower/assets/nipargar/Figure-6-TF2-Hydropower-1769088664121.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/24095166723b4d9abb742a56e057a26415f7a6ba/assets/Figure-6-TF2-Hydropower-1769088664121.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-6-TF2-Hydropower-1773069151648.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/bf2e4628521bef06a78e27751fc537a1d884ef73/assets/Figure-6-TF2-Hydropower-1773069151648.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 5: Overview of realizable hydropower potentials. The technical potential (Tech. Pot.) is based on the 2070 RCP 8.5 scenario.
 
@@ -122,11 +115,10 @@ provider: Umweltbundesamt,AIT Center for Energy,
 <p style="text-align: justify;"/>[3] Statistik Austria, „Energiebilanzen,“ [Online]. Available: https://www.statistik.at/statistiken/energie-und-umwelt/energie/energiebilanzen. [Zugriff am 17 03 2025].
 
 ## About 
-<p style="text-align: justify;"/>  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+<p style="text-align: justify;"/>  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Austrian Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
 <p style="text-align: justify;"/> UBA and AIT acts as provider for this service.
 
 <p style="text-align: justify;"/>  EOX complements with its IT expertise, acting as host and front-end expert.
 
-
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/KLIEN-Logo-RBG-1773066572881.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6618847ce1e8bd2555e61368f999786b425221ee/assets/KLIEN-Logo-RBG-1773066572881.png" style="width: 100%; height: 600px;"}-->
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/KLIEN-Logo-RBG-1773066572881.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6618847ce1e8bd2555e61368f999786b425221ee/assets/KLIEN-Logo-RBG-1773066572881.png" style="width: 204px; height: 175px;"}-->
