@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,water sourced he
 provider: AEE INTEC,AIT Center for Energy
 ---
 
-# KLIEN Data - Water-Sourced Heat Potential from Flowing Water Bodies (Aquathermy)
+# Water-Sourced Heat Potential from Flowing Water Bodies (Aquathermy) – Study on Renewable Energy Potentials
 
 ## Background
 
@@ -122,9 +122,11 @@ The following sections provide only a condensed overview of the methodological c
 
 ## About 
 
-<p style="text-align: justify;"/> The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+<p style="text-align: justify;"/> The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Austrian Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
 AEE INTEC and AIT acts as provider for this service.
 
 EOX complements with its IT expertise, acting as host and front-end expert.
 
+
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/aquathermienewsess/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f8ed56b6e9af42d527925b6fd3845f8049f4b9c9/assets/KLIEN-Logo-RBG-1773050934882.png" style="width: 204px; height: 175px;"}-->
