@@ -52,6 +52,8 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 <p style="text-align: justify;"/> An examination of the results shows that both climate models project an increase in technical potential of approximately 0.5 to 1.0 TWh/a. The hydropower potential reaches values similar to, though slightly higher than, those reported in the NIP; however, it is now more robust due to the underlying hydrological data being based on a thirty-year reference period. 
 
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-3-TF2-Hydropower-1773069113588.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6fdfa431b3c00d46f0bffbc588d0ff39ce971ac7/assets/Figure-3-TF2-Hydropower-1773069113588.png" style="width: 100%; height: 600px;"}-->
+
 ## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf2-hydropower/assets/nipargar/Figure-3-TF2-Hydropower-1769088639017.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f00890ed375dcf932adf102c2c6b11529b49e3fb/assets/Figure-3-TF2-Hydropower-1769088639017.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 3: Technical potential of the hydropower technology field in Austria, excluding existing installations.
@@ -75,9 +77,13 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 <p style="text-align: justify;"/> For the “High” bandwidth, it is assumed that the Renewable Energy Expansion Act (EAG) target of an additional 5 TWh by 2030 relative to 2020 is achieved and can be maintained at the same pace thereafter. Under this projection, the available hydropower potential would be fully exploited by 2040 through strongly accelerated new construction and extensive utilization of optimisation measures at existing plants. 
 
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-4-TF2-Hydropower-1773069137673.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b94e29b880e6cfb3c107feeabc50362f22959526/assets/Figure-4-TF2-Hydropower-1773069137673.png" style="width: 100%; height: 600px;"}-->
+
 ## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf2-hydropower/assets/nipargar/Figure-4-TF2-Hydropower-1769088650933.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/60afcb5abdad1137f67afe0f6b2fe29099744675/assets/Figure-4-TF2-Hydropower-1769088650933.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 4: Realisable hydropower potential presented as development bandwidths.
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-6-TF2-Hydropower-1773069151648.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/bf2e4628521bef06a78e27751fc537a1d884ef73/assets/Figure-6-TF2-Hydropower-1773069151648.png" style="width: 100%; height: 600px;"}-->
 
 ## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf2-hydropower/assets/nipargar/Figure-6-TF2-Hydropower-1769088664121.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/24095166723b4d9abb742a56e057a26415f7a6ba/assets/Figure-6-TF2-Hydropower-1769088664121.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
