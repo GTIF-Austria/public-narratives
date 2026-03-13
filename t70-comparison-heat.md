@@ -35,8 +35,10 @@ provider: AIT Center for Energy,AEE INTEC
 
 ## About 
 
-<p style="text-align: justify;"/> The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt. 
+<p style="text-align: justify;"/> The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Austrian Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt. 
 
 <p style="text-align: justify;"/> AEE INTEC and AIT acts as provider for this service and largely builds on data provided by AEE INTEC.
 
 <p style="text-align: justify;"/> EOX complements with its IT expertise, acting as host and front-end expert.
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" style="width: 204px; height: 175px;"}-->
