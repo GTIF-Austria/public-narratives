@@ -82,4 +82,4 @@ provider: AIT Center for Energy
 <p style="text-align: justify;"/> EOX complements with its IT expertise, acting as host and front-end expert.
 
 
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/deep-geothermal-newsess/assets/nipargar/KLIEN-Logo-RBG-1773065082335.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/935c870a1136767a79046f686110afcf251627ca/assets/KLIEN-Logo-RBG-1773065082335.png" style="width: 204px; height: 175px;"}-->
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" style="width: 204px; height: 175px;"}-->

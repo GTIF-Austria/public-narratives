@@ -129,4 +129,4 @@ AEE INTEC and AIT acts as provider for this service.
 EOX complements with its IT expertise, acting as host and front-end expert.
 
 
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/aquathermienewsess/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f8ed56b6e9af42d527925b6fd3845f8049f4b9c9/assets/KLIEN-Logo-RBG-1773050934882.png" style="width: 204px; height: 175px;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" style="width: 204px; height: 175px;"}-->
