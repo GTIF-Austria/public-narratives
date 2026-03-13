@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,solar thermal co
 provider: AEE INTEC,AIT Center for Energy
 ---
 
-# KLIEN Data - Solar Thermal Potential
+# Solar Thermal Potential – Study on Renewable Energy Potentials
 
 ## Background
 
@@ -153,10 +153,10 @@ provider: AEE INTEC,AIT Center for Energy
 <p style="text-align: justify;"/> [2] 	P. Biermayr, S. Aigenbauer, C. Dißauer, M. Eberl, M. Enigl, H. Fechner, C. Fink, M. Fuhrmann, M.-C. Haidacher, F. Hengel, M. Jaksch-Fliegenschnee, K. Leonhartsberger, D. Matschegg, S. Moidl, E. Prem, T. Riegler, S. Savic, C. Strasser, P. Wonisch und E. Wopienka, „Innovative Energietechnologien in Österreich Marktentwicklung 2023,“ BMK, Berichte aus Energie- und Umweltforschung 17a/2024, Wien, 2024.
 
 ## About 
-<p style="text-align: justify;"/>  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+<p style="text-align: justify;"/>  The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Austrian Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
 <p style="text-align: justify;"/>AEE INTEC and AIT acts as provider for this service.
 
 <p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
 
-
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" style="width: 204px; height: 175px;"}-->
