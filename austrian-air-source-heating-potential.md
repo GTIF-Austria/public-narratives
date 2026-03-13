@@ -6,7 +6,7 @@ tags: KLIEN,renewable energy,energy potential,energy technology,air source heat 
 provider: AIT Center for Energy,AEE INTEC
 ---
 
-# KLIEN Data - Air-Source Heat Pump Potential
+# Air-Source Heat Pump Potential – Study on Renewable Energy Potentials
 
 ## Background
 
@@ -98,7 +98,7 @@ provider: AIT Center for Energy,AEE INTEC
 
 <p style="text-align: justify;"/>  To estimate these temperature-related effects, the air temperature data from the Secures-MET dataset [4] were applied for the climate change scenario RCP4.5 (moderate) for the years 2030 and 2050. Overall, the increase in temperature results in a rise in the potential for ambient air heat, as illustrated in Figure 4. In particular, the technical potential increases by approximately 3.4 TWh, or about 10%. Since heat demand (and thus the amount of heat produced by the heat pump) is incorporated exogenously into the modelling and remains constant across the two scenarios, the electricity demand of heat pumps decreases in the moderate climate change scenario.
 
-## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/tf71-air-source-austria/assets/nipargar/Figure4TF71AirPNG-1769502278264.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c6fac1d73d09b88749fcbbc11ac8db028f2250d2/assets/Figure4TF71AirPNG-1769502278264.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 
 ###### Figure 4: Identified Heat Potentials (ambient heat supplied to the heat pump) for Air Heat at the National Level and Comparison with the Impact of Climate Change RCP4.5 on Outdoor Temperature (Reference: Energy; TRANSITION)
@@ -135,9 +135,11 @@ provider: AIT Center for Energy,AEE INTEC
 
 ## About 
 
-<p style="text-align: justify;"/>The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+<p style="text-align: justify;"/>The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Austrian Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
 <p style="text-align: justify;"/> AIT and AEE INTEC acts as provider for this service.
 <p style="text-align: justify;"/> EOX complements with its IT expertise, acting as host and front-end expert.
 
 
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/air-source-newsess/assets/nipargar/KLIEN-Logo-RBG-1773064828704.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5ed31e0d7e9f8129f345589f25d1439ac07c4001/assets/KLIEN-Logo-RBG-1773064828704.png" style="width: 204px; height: 175px;"}-->
