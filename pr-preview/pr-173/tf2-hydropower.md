@@ -121,4 +121,4 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 <p style="text-align: justify;"/>  EOX complements with its IT expertise, acting as host and front-end expert.
 
-##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/KLIEN-Logo-RBG-1773066572881.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6618847ce1e8bd2555e61368f999786b425221ee/assets/KLIEN-Logo-RBG-1773066572881.png" style="width: 204px; height: 175px;"}-->
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" style="width: 204px; height: 175px;"}-->
