@@ -1,5 +1,5 @@
 ---
-cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Heat%20Pump.jpg?raw=true
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Heat%20Pump.jpg
 
 domain: Energy Transition
 tags: KLIEN,renewable energy,energy potential,energy technology,water sourced heat from flowing water bodies,ambient heat

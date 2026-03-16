@@ -1,5 +1,5 @@
 ---
-cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Deep%20Geothermal%20Energy.png?raw=true
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Deep%20Geothermal%20Energy.png
 
 domain: Energy Transition
 tags: KLIEN,renewable energy,energy potential,energy technology,deep geothermal energy

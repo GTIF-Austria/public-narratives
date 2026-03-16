@@ -1,5 +1,5 @@
 ---
-cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Solar%20Thermal%20Collectors.jpg?raw=true
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Solar%20Thermal%20Collectors.jpg
  
 domain: Energy Transition
 tags: KLIEN,renewable energy,energy potential,energy technology,solar thermal collector,solar heat

@@ -1,5 +1,5 @@
 ---
-cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Wind%20Power.jpg?raw=true
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Wind%20Power.jpg
 
 domain: Energy Transition
 tags: KLIEN,renewable energy,energy potential,energy technology,wind power,electricity
