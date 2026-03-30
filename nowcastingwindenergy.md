@@ -28,7 +28,7 @@ Current operational forecasts typically provide hourly resolution at best, but w
 
 GeoSphere Austria has developed an advanced wind power nowcasting system that combines high-resolution meteorological data with turbine-specific power curve calculations to deliver detailed predictions across Austria.
 
-![Wind Speed and Power Output Example](https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-03-Energy-Nowcasting-Solar-Wind/wind/ws_150m_202506160900_multitemporal_comp_band05.png)
+![Wind Speed and Power Output Example](https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-03-Energy-Nowcasting-Solar-Wind/wind/ws_150m_202506160900_multitemporal_comp_band06.png)
 
 The system provides:
 
