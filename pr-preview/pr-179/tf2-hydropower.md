@@ -78,7 +78,7 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 ###### Figure 4: Realisable hydropower potential presented as development bandwidths.
 
-## <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-6-TF2-Hydropower-1773069151648.png" src=" https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6f74c582ce532eed7a5051731aa7e175e3be6f4b/assets/Figure-6-TF2-Hydropower-1776259297460.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-6-TF2-Hydropower-1773069151648.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/6f74c582ce532eed7a5051731aa7e175e3be6f4b/assets/Figure-6-TF2-Hydropower-1776259297460.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 5: Overview of realizable hydropower potentials. The technical potential (Tech. Pot.) is based on the 2070 RCP 8.5 scenario.
 
