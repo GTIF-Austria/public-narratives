@@ -74,11 +74,11 @@ provider: Umweltbundesamt,AIT Center for Energy,
 
 <p style="text-align: justify;"/> For the “High” bandwidth, it is assumed that the Renewable Energy Expansion Act (EAG) target of an additional 5 TWh by 2030 relative to 2020 is achieved and can be maintained at the same pace thereafter. Under this projection, the available hydropower potential would be fully exploited by 2040 through strongly accelerated new construction and extensive utilization of optimisation measures at existing plants. 
 
-## <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-4-TF2-Hydropower-1776258750664.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/main/assets/nipargar/Figure-4-TF2-Hydropower-1776258750664.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{ as="img" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/main/assets/nipargar/Figure-4-TF2-Hydropower-1776258750664.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 4: Realisable hydropower potential presented as development bandwidths.
 
-## <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/hydropower-newsess/assets/nipargar/Figure-6-TF2-Hydropower-1773069151648.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/main/assets/nipargar/Figure-6-TF2-Hydropower-1776259297460.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
+## <!--{ as="img" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/main/assets/nipargar/Figure-6-TF2-Hydropower-1776259297460.png" style=" display:block; margin:auto;width: 70%; height: 70%;"}-->
 
 ###### Figure 5: Overview of realizable hydropower potentials. The technical potential (Tech. Pot.) is based on the 2070 RCP 8.5 scenario.
 
