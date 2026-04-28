@@ -44,17 +44,17 @@ We communicate results using a single-layer multi-temporal representation, where
 
 **Products** Multiband raster layer plus interpretation key (2017/18–2025)
 
-**Web UI** GTIF.AT, WM(T)S, public
+**Web UI** [GTIF Austria](https://gtif-austria.info), WM(T)S, public
 
 **Long term perspective**
 
 After the project duration, the public access to all layers for the years 2018-2025 is guaranteed. The service will then be developed into a commercial service for annual nationwide (and beyond) calculations and specialized offerings for on-demand (up-to-date) access.
 
-For more Information: [sims.sen2cube.at](https://arcg.is/0niC5L)
+For more Information: [gtime.sen2cube.at](https://gtime.sen2cube.at/)
 
 **Organizational details and legal information**
 
-Project: GTIF-AT – Copernicus Temporal Spectrum: Multitemporal Vegetation Change Dynamics, FFG project number: FO999918383, Call: Digitaler Zwilling Österreich
+Project: [GTIF Austria](https://gtif-austria.info) – Copernicus Temporal Spectrum: Multitemporal Vegetation Change Dynamics, FFG project number: FO999918383, Call: Digitaler Zwilling Österreich
 
 Paris Lodron University Salzburg, Depart. of Geoinformatics
 
