@@ -1,12 +1,12 @@
 ---
-cover-image: https://placehold.co/600x400/png
+cover-image: https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM_Wien/iStock-1173256779.jpg
 date: 2025-01-01
 theme: theme_name
 tags: tag1,tag2
 provider: narrative_provider1,narrative_provider2
 ---
 
-# Urban Heat Trend Monitor <!--{ as="img" mode="hero" src="https://placehold.co/600x400/png" }-->
+# Urban Heat Trend Monitor <!--{ as="img" mode="hero" src="https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM_Wien/iStock-1173256779.jpg" }-->
 ### Turning satellite data into actionable urban cooling strategies <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Problem
@@ -33,6 +33,8 @@ The UHTM service uses several key algorithms to transform satellite data into ac
 4.	The **Time Series Analysis (Trend Modelling)** uses generalized additive models to analyse temperature trends over time. It separates effects like long-term trend, seasonality, and daily variation to provide robust and explainable results.
 
 The UHTM Service uses a cloud-based, containerized (Docker/Kubernetes) architecture, enabling scalable data processing, standardised APIs, and interactive web-based access.
+
+## Urban Heat Tredn Monitoring for Vienna <!--{as="img" data-fallback-src="" src="https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM_Wien/UHTM_Wien.png" style="width: 100%; height: 100%;"}-->
 
 ## Access
 
