@@ -1,9 +1,9 @@
 ---
 cover-image: https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM_Wien/iStock-1173256779.jpg
 date: 2025-01-01
-theme: theme_name
-tags: tag1,tag2
-provider: narrative_provider1,narrative_provider2
+theme: Sustainable Cities
+tags: remote sensing, surface temperature, Sentinel-3
+provider: OHB Digital Connect
 ---
 
 # Urban Heat Trend Monitor <!--{ as="img" mode="hero" src="https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM_Wien/iStock-1173256779.jpg" }-->
@@ -34,7 +34,10 @@ The UHTM service uses several key algorithms to transform satellite data into ac
 
 The UHTM Service uses a cloud-based, containerized (Docker/Kubernetes) architecture, enabling scalable data processing, standardised APIs, and interactive web-based access.
 
-## Urban Heat Tredn Monitoring for Vienna <!--{as="img" data-fallback-src="" src="https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM_Wien/UHTM_Wien.png" style="width: 100%; height: 100%;"}-->
+![]([https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM/UHTM_Vilnius.png](https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM_Wien/UHTM_Wien.png))
+<p align="left">
+	<em>Figure 1: Urban heat trend monitoring steps: from LST data to local heat trend analysis.</em>
+</p>
 
 ## Access
 
@@ -42,4 +45,4 @@ The UHTM service is delivered via a cloud-based platform with an interactive web
 
 ## Provider
 
-The *Urban Heat Trend Monitor* service was developed by OHB Digital Connect GmbH (Germany) as part of the *BalticGTIF* and *GTIF-AT SC* projects for the *Sustainable Cities* priority area of the ESA’s ***Green Transition Information Factory*** (GTIF) programme.
+The *Urban Heat Trend Monitor* service was developed by [OHB Digital Connect GmbH](https://ohb-dc.de/en/earth-observation-solutions/)  as part of the *BalticGTIF* and *GTIF-AT SC* projects for the *Sustainable Cities* priority area of the ESA’s ***Green Transition Information Factory*** (GTIF) programme [[1]](https://gtif.esa.int).
