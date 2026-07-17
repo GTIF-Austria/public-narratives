@@ -11,7 +11,7 @@ provider: OHB Digital Connect
 
 ## Problem
 
-Cities are increasingly exposed to rising temperatures due to climate change, with urban areas often experiencing significantly higher temperatures than surrounding rural regions. This phenomenon, known as the urban heat island effect, is caused by dense construction materials such as concrete and asphalt that absorb and store heat, reduced vegetation, and limited air circulation between buildings. Additional heat sources such as traffic, air conditioning systems, and industrial activity further intensify the problem. 
+Cities are increasingly exposed to rising temperatures due to climate change, with urban areas often experiencing significantly higher temperatures than surrounding rural regions. This phenomenon, known as the urban heat island effect, is caused by dense construction materials such as concrete and asphalt that absorb and store heat, reduced vegetation, and limited air circulation between buildings. Additional heat sources such as traffic, air conditioning systems, and industrial activity further intensify the problem [[1]](https://publications.jrc.ec.europa.eu/repository/handle/JRC137891).
 
 These elevated temperatures pose serious challenges. Heatwaves have become more frequent and severe, directly impacting public health, particularly for vulnerable populations such as the elderly and those with pre-existing conditions. Importantly, heat exposure is not evenly distributed across a city: some neighbourhoods experience much stronger heating due to differences in land use, green space availability, and urban structure. 
 
@@ -45,4 +45,4 @@ The UHTM service is delivered via a cloud-based platform with an interactive web
 
 ## Provider
 
-The *Urban Heat Trend Monitor* service was developed by [OHB Digital Connect GmbH](https://ohb-dc.de/en/earth-observation-solutions/)  as part of the *BalticGTIF* and *GTIF-AT SC* projects for the *Sustainable Cities* priority area of the ESA’s ***Green Transition Information Factory*** (GTIF) programme [[1]](https://gtif.esa.int).
+The *Urban Heat Trend Monitor* service was developed by [OHB Digital Connect GmbH](https://ohb-dc.de/en/earth-observation-solutions/)  as part of the *BalticGTIF* and *GTIF-AT SC* projects for the *Sustainable Cities* priority area of the ESA’s ***Green Transition Information Factory*** (GTIF) programme [[2]](https://gtif.esa.int).
