@@ -34,7 +34,7 @@ The UHTM service uses several key algorithms to transform satellite data into ac
 
 The UHTM Service uses a cloud-based, containerized (Docker/Kubernetes) architecture, enabling scalable data processing, standardised APIs, and interactive web-based access.
 
-![]([https://workspace-ui-public.baltic-gtif.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM/UHTM_Vilnius.png](https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM_Wien/UHTM_Wien.png))
+![](https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM_Wien/UHTM_Wien.png)
 <p align="left">
 	<em>Figure 1: Urban heat trend monitoring steps: from LST data to local heat trend analysis.</em>
 </p>
