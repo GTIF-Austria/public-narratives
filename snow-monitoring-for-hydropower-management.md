@@ -67,6 +67,15 @@ The [**Waterjade**](https://waterjade.com/en/homepage/) approach allows for high
 - **Anomaly detection**: the service can calculate the SWE anomaly with respect to past years
 - **Forecast**: the service provides snowfall, snowmelt and, possibly, water inflow
 
+## GTIF Snow Products Description
+
+The modeling chain used for the snow monitoring and reanalysis service is based on the methodology used for the DTA project, and described by Dall’Amico et al. (2025)<sup>6</sup> . Furthermore, the EO-retrieved SCA assimilation has been used to correct model output.
+
+## Map Tour Example <!--{ as="eox-map" mode="tour" }-->
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15,48] zoom="5" animationOptions="{duration:500}" }-->
+#### Snow Cover Area (SCA)
+The product for the 2025/2026 winter season is extracted from [Copernicus Gap-filled Fractional Snow Cover](https://land.copernicus.eu/en/products/snow) (GFSC) products  and it reports the values of GFSC from 0 to 100. Values above 100 represent clouds and no data.
 
 ## References
 <small>
@@ -82,3 +91,4 @@ The [**Waterjade**](https://waterjade.com/en/homepage/) approach allows for high
 
 [6] Dall’Amico, M., Tasin, S., Di Paolo, F. et al. 30-years (1991-2021) Snow Water Equivalent Dataset in the Po River District, Italy. Sci Data 12, 374 (2025). https://doi.org/10.1038/s41597-025-04633-5
 </small>
+
