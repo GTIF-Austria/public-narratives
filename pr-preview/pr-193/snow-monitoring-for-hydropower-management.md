@@ -20,7 +20,7 @@ This question is generally raised by public and private institutions interested 
 The most important snow variables that are commonly observed are **snow water equivalent** (SWE) and **snow depth** (HS). In recent years new methodologies have emerged in snow monitoring. For example, physically-based models calculate snow evolution by transforming the meteorological forcing into snow accumulation or melting according to the mass and energy balance in the snow pack. At the same time, Earth Observation (EO) techniques have emerged thanks to the availability of open access high temporal and spatial resolution satellite data. However, the approaches for SWE estimation based on EO data only are limited by the current technological maturity of EO based methods making it necessary to use in-situ calibrations. In addition, the presence of vegetation makes it complicated to use remote-sensing data alone.
 
 
-## Section 1 <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/Section1-1784630436032.jpeg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/fdb92fc92ea6b567fc5b608b23adbfb739783251/assets/Section1-1784630436032.jpeg" style="width: 100%; height: 350px;"}-->
+## Section 1 <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/Section1-1784630436032.jpeg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/fdb92fc92ea6b567fc5b608b23adbfb739783251/assets/Section1-1784630436032.jpeg" style="width: 100%; height: 100%;"}-->
 
 ## Technology: EO + physically-based model
 
