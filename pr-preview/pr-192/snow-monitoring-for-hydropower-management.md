@@ -1,13 +1,13 @@
 ---
-cover-image: https://raw.githubusercontent.com/mlsinergise/public-narratives/refs/heads/main/assets/EW-Wasser/IMG_9200.jpeg
+cover-image: https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snowservice/assets/mlsinergise/IMG9200-1784629767762.jpeg
 date: 2026-07-20
 theme: hydrology
 tags: hydropower,snow, water, mountains
 provider: Sinergise,Waterjade,TIWAG
 ---
 
-# Snow monitoring <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/mlsinergise/public-narratives/refs/heads/main/assets/EW-Wasser/IMG_9200.jpeg" }-->
-### for hydropower management <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+# Snow monitoring <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snowservice/assets/mlsinergise/IMG9200-1784629767762.jpeg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/8dea2a117bb24d0257d22f1ded4ffb848c4b9e2b/assets/IMG9200-1784629767762.jpeg" }-->
+### for hydropower management <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Background
 
