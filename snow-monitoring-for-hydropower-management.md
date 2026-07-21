@@ -39,12 +39,17 @@ The SCA is then assimilated through a first correction loop that helps the physi
 
 The physical model is improved by assimilating EO-retrieved SCA maps to correct two processes:
 
-### The precipitation process
+#### The precipitation process
 
 This process forces the physical model to change the input temperature in order to mimic the EO-retrieved SCA (see figure below). Thanks to this approach, any temperature bias present in the input data (such as the one present in ERA5 reanalyses, as reported by Dalla Torre et al., 2024 <sup>5</sup> ) can be corrected during the simulation to accurately simulate the mass during a snowfall.
 
-## SCA simulation <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/SimuSCA-1784641149213.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/71e6f6f126684da55590d771589826e9fd5160fa/assets/SimuSCA-1784641149213.png" style="width: 100%; height: 100%;"}-->
+
+## SCA comparison <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/SimuSCA-1784641149213.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/71e6f6f126684da55590d771589826e9fd5160fa/assets/SimuSCA-1784641149213.png" style="width: 100%; height: 100%;"}-->
 <p style="text-align: center; font-style: italic; font-size: smaller;">Panel A: EO SCA map (left), simulated SCA map (center) and comparison (right) between the two before the assimilation. Panel B: EO SCA map (left), simulated SCA map (center) and comparison (right) between the two after the assimilation of EO-retrieved SCA for temperature correction during a snowfall.</p>
+
+#### The melting process
+
+This process forces the model to change the melting rate in order to mimic the EO-retrieved SCA (see figure below). Thanks to this approach, a more accurate snowpack evolution and melt generation is granted during the melting season (Dall’Amico et al., 2025).
 
 
 ## References
