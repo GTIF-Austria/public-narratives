@@ -49,9 +49,12 @@ This process forces the physical model to change the input temperature in order 
 
 #### The melting process
 
-This process forces the model to change the melting rate in order to mimic the EO-retrieved SCA (see figure below). Thanks to this approach, a more accurate snowpack evolution and melt generation is granted during the melting season (Dall’Amico et al., 2025).
+This process forces the model to change the melting rate in order to mimic the EO-retrieved SCA (see figure below). Thanks to this approach, a more accurate snowpack evolution and melt generation is granted during the melting season (Dall’Amico et al., 2025<sup>6</sup>).
 
+## Melt simu <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/Meltcorrection-1784641679533.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/92c7696fb411d66f26d3b64bb9208c6800c29d00/assets/Meltcorrection-1784641679533.png" style="width: 100%; height: 100%;"}-->
+<p style="text-align: center; font-style: italic; font-size: smaller;">: Panel A: EO SCA map (left), simulated SCA map (center) and comparison (right) between the two before the assimilation. Panel B: EO SCA map (left), simulated SCA map (center) and comparison (right) between the two after the assimilation of EO-retrieved SCA for melting rate correction.</p>
 
+Within selected basins in Austria, a further **correction loop** has been activated using in situ snow data. The assimilation procedure derives the solid precipitation in the accumulation events  thus improving the overall mass balance.
 ## References
 <small>
 [1] Dall’Amico, M., Endrizzi S. and Tasin S. (2018). Mysnowmaps: operative high-resolution real-time snow mapping, Proceedings of the International Snow Science Workshop, Innsbruck, 328-332
@@ -63,7 +66,6 @@ This process forces the model to change the melting rate in order to mimic the E
 [4] García-García et al., Intercomparison of Earth Observation products for hyper-resolution hydrological modelling over Europe, Remote Sensing of Environment, under review.
 
 [5] Dalla Torre, D., Di Marco, N., Menapace, A., Avesani, D., Righetti, M., & Majone, B. (2024). Suitability of ERA5-Land reanalysis dataset for hydrological modelling in the Alpine region. Journal of Hydrology: Regional Studies, 52, 101718.
+
+[6] Dall’Amico, M., Tasin, S., Di Paolo, F. et al. 30-years (1991-2021) Snow Water Equivalent Dataset in the Po River District, Italy. Sci Data 12, 374 (2025). https://doi.org/10.1038/s41597-025-04633-5
 </small>
-
-
-#
