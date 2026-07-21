@@ -21,6 +21,8 @@ The most important snow variables that are commonly observed are **snow water eq
 
 
 ## Section 1 <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/Section1-1784630436032.jpeg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/fdb92fc92ea6b567fc5b608b23adbfb739783251/assets/Section1-1784630436032.jpeg" style="width: 100%; height: 100%;"}-->
+<p style="text-align: center; font-style: italic; font-size: smaller;">Credit: Maxim Lamare, 2026</p>
+
 
 ## Technology: EO + physically-based model
 
@@ -35,6 +37,16 @@ SCA over the Austrian Alps.
 
 The SCA is then assimilated through a first correction loop that helps the physical model results to comply with the snow line resulted by the satellite data, i.e., the minimum snow cover elevation. This allows to maintain a spatial coherence between the model and the simulation and to correctly follow the melting phase. 
 
+The physical model is improved by assimilating EO-retrieved SCA maps to correct two processes:
+
+### The precipitation process
+
+This process forces the physical model to change the input temperature in order to mimic the EO-retrieved SCA (see figure below). Thanks to this approach, any temperature bias present in the input data (such as the one present in ERA5 reanalyses, as reported by Dalla Torre et al., 2024 <sup>5</sup> ) can be corrected during the simulation to accurately simulate the mass during a snowfall.
+
+## SCA simulation <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/SimuSCA-1784641149213.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/71e6f6f126684da55590d771589826e9fd5160fa/assets/SimuSCA-1784641149213.png" style="width: 100%; height: 100%;"}-->
+<p style="text-align: center; font-style: italic; font-size: smaller;">Panel A: EO SCA map (left), simulated SCA map (center) and comparison (right) between the two before the assimilation. Panel B: EO SCA map (left), simulated SCA map (center) and comparison (right) between the two after the assimilation of EO-retrieved SCA for temperature correction during a snowfall.</p>
+
+
 ## References
 <small>
 [1] Dall’Amico, M., Endrizzi S. and Tasin S. (2018). Mysnowmaps: operative high-resolution real-time snow mapping, Proceedings of the International Snow Science Workshop, Innsbruck, 328-332
@@ -44,4 +56,9 @@ The SCA is then assimilated through a first correction loop that helps the physi
 [3] Dall'Amico M., Zambon F., Cagnati A., Crepaz A. and Endrizzi S. (2017): Realizzazione mappe di innevamento, Neve e Valanghe 83, AINEVA. https://www.aineva.it/wp-content/uploads/Pubblicazioni/Rivista83/nv83_3.pdf
 
 [4] García-García et al., Intercomparison of Earth Observation products for hyper-resolution hydrological modelling over Europe, Remote Sensing of Environment, under review.
+
+[5] Dalla Torre, D., Di Marco, N., Menapace, A., Avesani, D., Righetti, M., & Majone, B. (2024). Suitability of ERA5-Land reanalysis dataset for hydrological modelling in the Alpine region. Journal of Hydrology: Regional Studies, 52, 101718.
 </small>
+
+
+#
