@@ -60,6 +60,13 @@ Within selected basins in Austria, a further **correction loop** has been activa
 
 The [**Waterjade**](https://waterjade.com/en/homepage/) approach allows for high accuracy and coherence of snow patterns in complex terrains. The service does not require the survey of any in-situ snow depth or density measurements, thus avoiding personnel costs and liability burdens due to avalanche hazard. 
 
+- **Accuracy**: 2x compared with state of the art
+- **Cost savings**: No field campaigns are required with consequent 60% cost savings 
+- **Real-time**: it runs in near real-time with little latency
+- **Reanalysis**: it can provide reanalysis in until 30 years in the past 
+- **Anomaly detection**: the service can calculate the SWE anomaly with respect to past years
+- **Forecast**: the service provides snowfall, snowmelt and, possibly, water inflow
+
 
 ## References
 <small>
