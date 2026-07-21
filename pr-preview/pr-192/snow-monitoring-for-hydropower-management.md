@@ -1,13 +1,13 @@
 ---
-cover-image: https://github.com/mlsinergise/public-narratives/blob/e80232764adaf726e4a88a4944c256c8f2635cdf/assets/EW-Wasser/IMG_9200.jpeg
+cover-image: https://raw.githubusercontent.com/mlsinergise/public-narratives/refs/heads/main/assets/EW-Wasser/IMG_9200.jpeg
 date: 2026-07-20
-theme: theme_name
-tags: tag1,tag2
-provider: narrative_provider1,narrative_provider2
+theme: hydrology
+tags: hydropower,snow, water, mountains
+provider: Sinergise,Waterjade,TIWAG
 ---
 
-# Narrative <!--{ as="img" mode="hero" src="https://placehold.co/600x400/png" }-->
-### Hero Subtitle <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+# Snow monitoring <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/mlsinergise/public-narratives/refs/heads/main/assets/EW-Wasser/IMG_9200.jpeg" }-->
+### for hydropower management <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Background
 
