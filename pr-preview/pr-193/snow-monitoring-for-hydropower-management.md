@@ -78,9 +78,9 @@ The [**Waterjade**](https://waterjade.com/en/homepage/) approach allows for high
 The modeling chain used for the snow monitoring and reanalysis service is based on the methodology used for the DTA project, and described by Dall’Amico et al. (2025)<sup>6</sup> . Furthermore, the EO-retrieved SCA assimilation has been used to correct model output.
 
 
-## Discover the products <!--{ as="eox-map" mode="tour" }-->
+## Discover the products <!--{ as="eox-map" mode="tour" nav="false" }-->
 
-### <!--{ layers='[{"type":"Tile","properties":{"id":"customId"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"s2cloudless-2017"}}]' center=[10.739,46.958] zoom="11" animationOptions="{duration:500}" }-->
+### <!--{ layers='[{"type":"Tile","properties":{"id":"cloudless-2024;:;EPSG:3857","title":"EOxCloudless 2024","visible":true},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2024_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ EOxCloudless 2024: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2024) }"}},{"type":"Tile","properties":{"id":"SNWMLT;:;2022-06-30T00:00:00Z;:;Snow Melt;:;EPSG:3857","title":"Snow Melt"},"source":{"type":"TileWMS","url":"https://sh.dataspace.copernicus.eu/ogc/wms/1da8fb59-f62e-4a93-b51a-f4f05dd9792c","projection":"EPSG:4326","tileGrid":{"tileSize":[512,512]},"params":{"LAYERS":["SNOW-MELT"],"TILED":true,"TIME":"2022-06-30T00:00:00Z/2022-06-30T23:59:59Z"}}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels","visible":true},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }"}}]' zoom="12.937485186131166" center=[12.715313572113969,47.12631415759088] projection="" animationOptions={duration:500}}-->
 
 #### Snow Cover Area (SCA)
 
