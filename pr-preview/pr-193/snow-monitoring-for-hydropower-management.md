@@ -55,7 +55,7 @@ This process forces the model to change the melting rate in order to mimic the E
 
 Within selected basins in Austria, a further **correction loop** has been activated using in situ snow data. The assimilation procedure derives the solid precipitation in the accumulation events  thus improving the overall mass balance.
 
-## Advantages of this service
+## Advantages of the service
 
 The [**Waterjade**](https://waterjade.com/en/homepage/) approach allows for high accuracy and coherence of snow patterns in complex terrains. The service does not require the survey of any in-situ snow depth or density measurements, thus avoiding personnel costs and liability burdens due to avalanche hazard. 
 
@@ -66,7 +66,7 @@ The [**Waterjade**](https://waterjade.com/en/homepage/) approach allows for high
 - **Anomaly detection**: the service can calculate the SWE anomaly with respect to past years
 - **Forecast**: the service provides snowfall, snowmelt and, possibly, water inflow
 
-## GTIF Snow Products Description
+## Snow Products Description
 
 The modeling chain used for the snow monitoring and reanalysis service is based on the methodology used for the DTA project, and described by Dall’Amico et al. (2025)<sup>6</sup> . Furthermore, the EO-retrieved SCA assimilation has been used to correct model output.
 
