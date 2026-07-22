@@ -43,14 +43,22 @@ The physical model is improved by assimilating EO-retrieved SCA maps to correct 
 
 This process forces the physical model to change the input temperature in order to mimic the EO-retrieved SCA (see figure below). Thanks to this approach, any temperature bias present in the input data (such as the one present in ERA5 reanalyses, as reported by Dalla Torre et al., 2024 <sup>5</sup> ) can be corrected during the simulation to accurately simulate the mass during a snowfall.
 
-<img src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/SCA.png" alt="SCA modelling process" style="width: 80%;" />
+<img 
+  src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/SCA.jpeg" 
+  alt="SCA modelling process" 
+  style="width: 80%; display: block; margin: 0 auto;" 
+/>
 <p style="text-align: center; font-style: italic; font-size: smaller;">Panel A: EO SCA map (left), simulated SCA map (center) and comparison (right) between the two before the assimilation. Panel B: EO SCA map (left), simulated SCA map (center) and comparison (right) between the two after the assimilation of EO-retrieved SCA for temperature correction during a snowfall.</p>
 
 *__The melting process__*
 
 This process forces the model to change the melting rate in order to mimic the EO-retrieved SCA (see figure below). Thanks to this approach, a more accurate snowpack evolution and melt generation is granted during the melting season (Dall’Amico et al., 2025<sup>6</sup>).
 
-<img src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/Melt_correction.png" alt="Melt correction process" style="width: 80%;" />
+<img 
+  src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/Melt_correction.jpeg"
+  alt="Melt correction process" 
+  style="width: 80%; display: block; margin: 0 auto;" 
+/>
 <p style="text-align: center; font-style: italic; font-size: smaller;">Panel A: EO SCA map (left), simulated SCA map (center) and comparison (right) between the two before the assimilation. Panel B: EO SCA map (left), simulated SCA map (center) and comparison (right) between the two after the assimilation of EO-retrieved SCA for melting rate correction.</p>
 
 Within selected basins in Austria, a further **correction loop** has been activated using in situ snow data. The assimilation procedure derives the solid precipitation in the accumulation events  thus improving the overall mass balance.
