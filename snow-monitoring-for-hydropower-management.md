@@ -1,5 +1,5 @@
 ---
-cover-image: https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/IMG9200-1784630230437.jpeg
+cover-image: https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/thumbnail.png
 date: 2026-07-20
 theme: hydrology
 tags: snow,water, hydrology, hydropower, energy production
