@@ -6,7 +6,7 @@ tags: snow, water, hydrology, hydropower, energy production, SCA, melt, mountain
 provider: Sinergise, Waterjade, TIWAG
 ---
 
-# Snow monitoring <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/IMG9200-1784630230437.jpeg" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/7c24d1d137a0f4364418e962300d0943b12a1706/assets/IMG9200-1784630230437.jpeg" }-->
+# Snow monitoring <!--{ as="img" data-fallback-src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/IMG_9200.jpeg" mode="hero" src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/IMG_9200.jpeg" }-->
 ### for hydropower management <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Background
