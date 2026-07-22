@@ -96,5 +96,4 @@ The product for the 2025/2026 winter season is extracted from [Copernicus Gap-fi
 
 Interested in using the Waterjade snow service for your application? Contact the team for more information about pricing and availability here: info@waterjade.com
 
-
-## Waterjade logo <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/mlsinergise/public-narratives/mlsinergise/snow-story/assets/mlsinergise/waterjade-logo-1784710182278.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/9636cfd85f15fac70be0f0bb6d0bf2bb512e079f/assets/waterjade-logo-1784710182278.png" style="width: 100%; height: 100%;"}-->
+![](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/9636cfd85f15fac70be0f0bb6d0bf2bb512e079f/assets/waterjade-logo-1784710182278.png)
