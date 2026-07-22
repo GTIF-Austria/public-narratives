@@ -78,11 +78,30 @@ The [**Waterjade**](https://waterjade.com/en/homepage/) approach allows for high
 
 The modeling chain used for the snow monitoring and reanalysis service is based on the methodology used for the DTA project, and described by Dall’Amico et al. (2025)<sup>6</sup> . Furthermore, the EO-retrieved SCA assimilation has been used to correct model output.
 
-## Map Tour Example <!--{ as="eox-map" mode="tour" }-->
 
-### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15,48] zoom="5" animationOptions="{duration:500}" }-->
+## Discover the products <!--{ as="eox-map" mode="tour" }-->
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"customId"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"s2cloudless-2017"}}]' center=[10.739,46.958] zoom="11" animationOptions="{duration:500}" }-->
+
 #### Snow Cover Area (SCA)
+
 The product for the 2025/2026 winter season is extracted from [Copernicus Gap-filled Fractional Snow Cover](https://land.copernicus.eu/en/products/snow) (GFSC) products  and it reports the values of GFSC from 0 to 100. Values above 100 represent clouds and no data.
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"customId"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"s2cloudless-2017"}}]' center=[12.46,41.89] zoom="11" animationOptions="{duration:500}" }-->
+
+#### Second tour step.
+
+Each tour step is described as an `h3` (`###`) heading.
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"customId"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"s2cloudless-2017"}}]' center=[12.46,41.89] zoom="11" animationOptions="{duration:500}" }-->
+
+#### Third tour step.
+
+To change individual parameters like zoom or center, or to change the map layers for a step, just set them using the HTML comment syntax. This changes the map setting for the current map
+
+
+#### 
+
 
 ## References
 <small>
