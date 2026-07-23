@@ -119,7 +119,7 @@ Kaunertal, 30<sup>th</sup> April 2023.
 
 [3] Dall'Amico M., Zambon F., Cagnati A., Crepaz A. and Endrizzi S. (2017): Realizzazione mappe di innevamento, Neve e Valanghe 83, AINEVA. https://www.aineva.it/wp-content/uploads/Pubblicazioni/Rivista83/nv83_3.pdf
 
-[4] García-García et al., Intercomparison of Earth Observation products for hyper-resolution hydrological modelling over Europe, Remote Sensing of Environment, under review.
+[4] García-García, A., Stradiotti, P., Di Paolo, F., Filippucci, P., Fischer, M., Orság, M., ... & Samaniego, L. (2026). Intercomparison of Earth Observation products for hyper-resolution hydrological modelling over Europe. Remote Sensing of Environment, 333, 115131.
 
 [5] Dalla Torre, D., Di Marco, N., Menapace, A., Avesani, D., Righetti, M., & Majone, B. (2024). Suitability of ERA5-Land reanalysis dataset for hydrological modelling in the Alpine region. Journal of Hydrology: Regional Studies, 52, 101718.
 
