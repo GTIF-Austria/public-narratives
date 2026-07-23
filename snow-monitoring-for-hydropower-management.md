@@ -75,7 +75,7 @@ The [**Waterjade**](https://waterjade.com/en/homepage/) approach allows for high
 
 ## Snow Products Description
 
-The modeling chain used for the snow monitoring and reanalysis service is based on the methodology used for the DTA project, and described by Dall’Amico et al. (2025)<sup>6</sup> . Furthermore, the EO-retrieved SCA assimilation has been used to correct model output.
+The modeling chain used for the snow monitoring and reanalysis service is based on the methodology used for the DTA project, and described by Dall’Amico et al. (2025)<sup>6</sup>. Furthermore, the EO-retrieved SCA assimilation has been used to correct model output.
 
 
 ## Discover the products <!--{ as="eox-map" mode="tour" nav="false" }-->
