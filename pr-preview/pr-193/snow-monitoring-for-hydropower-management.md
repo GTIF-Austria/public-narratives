@@ -6,7 +6,7 @@ tags: snow, water, hydrology, hydropower, energy production, SCA, melt, mountain
 provider: Sinergise, Waterjade, TIWAG
 ---
 
-# Snow monitoring <!--{ as="img" data-fallback-src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/IMG_9200.jpeg" mode="hero" src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/IMG_9200.jpeg" }-->
+# Snow monitoring <!--{ as="img" data-fallback-src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/IMG_9200.jpeg" mode="hero" src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/IMG_9200.jpeg" }-->
 ### for hydropower management <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Background
@@ -19,7 +19,7 @@ This question is generally raised by public and private institutions interested 
 
 The most important snow variables that are commonly observed are **snow water equivalent** (SWE) and **snow depth** (HS). In recent years new methodologies have emerged in snow monitoring. For example, physically-based models calculate snow evolution by transforming the meteorological forcing into snow accumulation or melting according to the mass and energy balance in the snow pack. At the same time, Earth Observation (EO) techniques have emerged thanks to the availability of open access high temporal and spatial resolution satellite data. However, the approaches for SWE estimation based on EO data only are limited by the current technological maturity of EO based methods making it necessary to use in-situ calibrations. In addition, the presence of vegetation makes it complicated to use remote-sensing data alone.
 
-![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/Section1.jpeg)
+![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/Section1.jpeg)
 <p style="text-align: center; font-style: italic; font-size: smaller;">Credit: Maxim Lamare, 2026</p>
 
 
@@ -43,7 +43,7 @@ The physical model is improved by assimilating EO-retrieved SCA maps to correct 
 This process forces the physical model to change the input temperature in order to mimic the EO-retrieved SCA (see figure below). Thanks to this approach, any temperature bias present in the input data (such as the one present in ERA5 reanalyses, as reported by Dalla Torre et al., 2024 <sup>5</sup> ) can be corrected during the simulation to accurately simulate the mass during a snowfall.
 
 <img 
-  src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/SCA.jpeg" 
+  src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/SCA.jpeg" 
   alt="SCA modelling process" 
   style="width: 80%; display: block; margin: 0 auto;" 
 />
@@ -54,7 +54,7 @@ This process forces the physical model to change the input temperature in order 
 This process forces the model to change the melting rate in order to mimic the EO-retrieved SCA (see figure below). Thanks to this approach, a more accurate snowpack evolution and melt generation is granted during the melting season (Dall’Amico et al., 2025<sup>6</sup>).
 
 <img 
-  src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/Melt_correction.jpeg"
+  src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/Melt_correction.jpeg"
   alt="Melt correction process" 
   style="width: 80%; display: block; margin: 0 auto;" 
 />
@@ -67,10 +67,10 @@ Within selected basins in Austria, a further **correction loop** has been activa
 The [**Waterjade**](https://waterjade.com/en/homepage/) approach allows for high accuracy and coherence of snow patterns in complex terrains. The service does not require the survey of any in-situ snow depth or density measurements, thus avoiding personnel costs and liability burdens due to avalanche hazard. 
 
 
-| ![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/accuracy.png) | ![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/campaign.png) |![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/time.png)|
+| ![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/accuracy.png) | ![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/campaign.png) |![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/time.png)|
 |---|---|---|
 |2x better **accuracy** compared with state of the art|No campaigns are required with consequent **60% cost savings** |**Real-time** operation with little latency|
-| ![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/back.png) | ![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/anomaly.png) |![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/forward.png)|
+| ![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/back.png) | ![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/anomaly.png) |![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/forward.png)|
 |**Reanalysis** up to 30 years in the past |**Anomaly detection** with respect to the past years |**Forecast** of snowfall, snowmelt and water inflow|
 
 ## Snow Products Description
@@ -130,4 +130,4 @@ Kaunertal, 30<sup>th</sup> April 2023.
 
 Interested in using the Waterjade snow service for your application? Contact the team for more information about pricing and availability [**via email**](mailto:info@waterjade.com) or through the [**website contact form**](https://waterjade.com/en/contacts/).
 
-![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/waterjade-logo.png)
+![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/waterjade-logo.png)
