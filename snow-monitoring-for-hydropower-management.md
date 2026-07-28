@@ -131,4 +131,4 @@ Kaunertal, 30<sup>th</sup> April 2023.
 
 Interested in using the Waterjade snow service for your application? Contact the team for more information about pricing and availability [**via email**](mailto:info@waterjade.com) or through the [**website contact form**](https://waterjade.com/en/contacts/).
 
-![](https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/waterjade-logo.png)
+<img alt="Waterjade logo" width="755" height="134" src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/waterjade-logo.png"/>
