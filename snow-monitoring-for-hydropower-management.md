@@ -3,7 +3,7 @@ cover-image: https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/sha
 date: 2026-07-20
 theme: hydrology
 tags: snow, water, hydrology, hydropower, energy production, SCA, melt, mountains, energy, resource
-provider: Sinergise, Waterjade, TIWAG
+provider: Sinergise Austria, Waterjade, TIWAG
 ---
 
 # Snow monitoring <!--{ as="img" data-fallback-src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/IMG_9200.jpeg" mode="hero" src="https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/figures/IMG_9200.jpeg" }-->
