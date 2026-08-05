@@ -143,10 +143,10 @@ def extract_metadata(file_path, base_url):
         preview_url = None
     # split a comma separated string to list
     if provider := metadata.get("provider"):
-        metadata.update({"provider": provider.split(",")})
+        metadata.update({"provider": [p.strip() for p in provider.split(",")]})
     # split a comma separated string to list
     if provider_cap := metadata.get("Provider"):
-        metadata.update({"provider": provider_cap.split(",")})
+        metadata.update({"provider": [p.strip() for p in provider_cap.split(",")]})
         del metadata["Provider"]
 
     # Merge extracted metadata
