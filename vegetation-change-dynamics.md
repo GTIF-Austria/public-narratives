@@ -38,23 +38,23 @@ We communicate results using a single-layer multi-temporal representation, where
 
 **Service coverage** Within the funded project, the service will be developed for the whole of Austria, covering at least the years 2018-2025. The approach is designed to be scaled up to any region worldwide since the semantic enrichment approach does not require re-training or adaptations for other regions.
 
-**Benefit** Multi-temporal basemap/background layer for easy communication of changes, closing temporal gaps between aerial image acquisition, can be combined with sensitive stakeholder data, temporal enrichment of static GTIF.AT layers through overlay/intersection.
+**Benefit** Multi-temporal basemap/background layer for easy communication of changes, closing temporal gaps between aerial image acquisition, can be combined with sensitive stakeholder data, temporal enrichment of static [GTIF Austria](https://gtif-austria.info) layers through overlay/intersection.
 
 **Application areas (cross-domain)** Monitoring of green spaces, land use changes, forest changes, environmental/soil protection, soil sealing, and nature conservation.
 
 **Products** Multiband raster layer plus interpretation key (2017/18–2025)
 
-**Web UI** GTIF.AT, WM(T)S, public
+**Web UI** [GTIF Austria](https://gtif-austria.info), WM(T)S, public
 
 **Long term perspective**
 
 After the project duration, the public access to all layers for the years 2018-2025 is guaranteed. The service will then be developed into a commercial service for annual nationwide (and beyond) calculations and specialized offerings for on-demand (up-to-date) access.
 
-For more Information: [sims.sen2cube.at](https://arcg.is/0niC5L)
+For more Information: [gtime.sen2cube.at](https://gtime.sen2cube.at/)
 
 **Organizational details and legal information**
 
-Project: GTIF-AT – Copernicus Temporal Spectrum: Multitemporal Vegetation Change Dynamics, FFG project number: FO999918383, Call: Digitaler Zwilling Österreich
+Project: [GTIF Austria](https://gtif-austria.info) – Copernicus Temporal Spectrum: Multitemporal Vegetation Change Dynamics, FFG project number: FO999918383, Call: Digitaler Zwilling Österreich
 
 Paris Lodron University Salzburg, Depart. of Geoinformatics
 
