@@ -99,3 +99,4 @@ The updatedness of the BRP Map information depends on the acquisition date of th
 
 Remote Sensing Imagery: For extended Areas of Interest the commercial procurement offered by the BRP Capability Provider might become unrealistically expensive and possibly not feasible within a reasonably short period of time.
 
+![satellite.gif](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/8ee15bd71f38496b6d5c2d36dfc91b328bbd1e85/assets/lubojr/satellite-1789033026674.gif)
