@@ -12,7 +12,7 @@ collections: brownfield_recovery_potential
 
 ## Problem
 
-The availability of land is a critical factor in the d![e](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/17b81ebb97b2b7ac163b69e89d83ca88e9626e76/assets/lubojr/satellite-1789034688370.gif)velopment of new commercial projects. However, municipalities and companies seeking to expand or relocate face increasing space constraints, particularly in metropolitan areas. To promote sustainability, the net resealing of commercial areas should be minimized, making the reactivation of underutilized sites—so-called brownfields—an essential strategy. These sites offer several advantages, as they are often already integrated into local supply networks, benefit from established infrastructure, and are easily accessible for employees.
+The availability of land is a critical factor in the development of new commercial projects. However, municipalities and companies seeking to expand or relocate face increasing space constraints, particularly in metropolitan areas. To promote sustainability, the net resealing of commercial areas should be minimized, making the reactivation of underutilized sites—so-called brownfields—an essential strategy. These sites offer several advantages, as they are often already integrated into local supply networks, benefit from established infrastructure, and are easily accessible for employees.
 
 Despite their potential, a major challenge remains: the lack of centralized and comprehensive data on the location, availability, and potential contamination of brownfields. While some municipalities maintain detailed records, others rely on fragmented and inconsistent information, making the efficient redevelopment of these sites more complex. Without a systematic approach, the full potential of brownfield revitalization remains underutilized.
 
@@ -98,9 +98,3 @@ The tool cannot answer whether the identified property is actually available or 
 The updatedness of the BRP Map information depends on the acquisition date of the remote sensing imagery used during its production. The acquisition date is shown in the meta data provided by the BRP Capability. The providers of the tool cannot guarantee that information is regularly updated as this lies entirely within the responsibility of the respective Customer.
 
 Remote Sensing Imagery: For extended Areas of Interest the commercial procurement offered by the BRP Capability Provider might become unrealistically expensive and possibly not feasible within a reasonably short period of time.
-
-![satellite.gif](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/8ee15bd71f38496b6d5c2d36dfc91b328bbd1e85/assets/lubojr/satellite-1789033026674.gif)
-
-## New chapter
-
-![satellite.gif](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f20326da245767e2212669ab03259ea095605271/assets/lubojr/satellite-1789034035852.gif)
