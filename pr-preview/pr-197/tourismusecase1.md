@@ -32,3 +32,17 @@ For each decade between 1951 and 2100, the number of days meeting a given climat
 [1] https://data.hub.geosphere.at/group/oks15
 
 ![logo-geoville.svg](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/7282725b766961a1549eee7e4f0589940901c3c1/assets/lubojr/logo-geoville-1789049725394.svg)
+
+## Exploring Austrian Tourism Hubs <!--{ as="eox-map" mode="tour" position="right" }-->
+
+### <!--{ zoom=10 center=[16.3738,48.2082] layers='[{"type":"Tile","properties":{"id":"s2cloudless"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"s2cloudless-2025_3857"}}]' animationOptions='{"duration":500}' }-->
+#### Vienna
+The capital city represents the urban center of Austrian tourism, often a starting point for international travelers.
+
+### <!--{ zoom=10 center=[13.055,47.8095] layers='[{"type":"Tile","properties":{"id":"s2cloudless"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"s2cloudless-2025_3857"}}]' animationOptions='{"duration":500}' }-->
+#### Salzburg
+Known for its culture and proximity to the northern Alps, Salzburg is a major destination hub.
+
+### <!--{ zoom=10 center=[11.3945,47.2692] layers='[{"type":"Tile","properties":{"id":"s2cloudless"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"s2cloudless-2025_3857"}}]' animationOptions='{"duration":500}' }-->
+#### Innsbruck
+Nestled in the heart of the Alps, Innsbruck is a focal point for winter and summer alpine tourism.
