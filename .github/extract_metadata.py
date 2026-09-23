@@ -143,10 +143,10 @@ def extract_metadata(file_path, base_url):
         preview_url = None
     # split a comma separated string to list
     if provider := metadata.get("provider"):
-        metadata.update({"provider": provider.split(",")})
+        metadata.update({"provider": [p.strip() for p in provider.split(",")]})
     # split a comma separated string to list
     if provider_cap := metadata.get("Provider"):
-        metadata.update({"provider": provider_cap.split(",")})
+        metadata.update({"provider": [p.strip() for p in provider_cap.split(",")]})
         del metadata["Provider"]
 
     # Merge extracted metadata
@@ -165,7 +165,7 @@ os.makedirs(output_dir, exist_ok=True)
 metadata_list = []
 for root, _, files in os.walk("."):
     for file in files:
-        if file.endswith(".md") and file != "README.md" and "scripts" not in root and "templates" not in root:
+        if file.endswith(".md") and file != "README.md" and "scripts" not in root and "templates" not in root and file != "example-narrative.md":
             file_path = os.path.join(root, file)
             metadata = extract_metadata(file_path, BASE_URL)
             if any(metadata.values()):
