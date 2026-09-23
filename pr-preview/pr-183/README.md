@@ -38,3 +38,6 @@ Capabilities implemented under the programme "*Digital Twin Austria - Green Tran
 |GTIF-AT SC|Forschungstätigkeiten in der GTIF-Domäne "Nachhaltige Städte"|High-resolution temperature forecast in cities|GeoSphere||
 |GTIF-AT SC|Forschungstätigkeiten in der GTIF-Domäne "Nachhaltige Städte"|Urban heat islands trendanalysis and heat risk|OHB DC||
 |GTIF-AT SC|Forschungstätigkeiten in der GTIF-Domäne "Nachhaltige Städte"|Update of building stock|Ubicube||
+
+## GitHub Actions inactivity policy:
+GitHub automatically disables automated workflows if a repository has been inactive for 60 days. Workflows are re-enabled automatically once the repository becomes active again (for example, when a new commit, pull request, or other activity occurs).
