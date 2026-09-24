@@ -90,4 +90,7 @@ Behind the three use cases lies a five-stage operating model that turns raw data
 
 **4. Analysis and visualisation**: results are shown as choropleth maps and charts within the GTIF framework, with filters and a comparison mode for different regions, parameters or time periods. 
 
-**5. Decision support and monitoring**: thresholds and alerts, scenario calculators and structured reports translate the data into concrete options for tourism regions, policymakers and funding bodies. 
+**5. Decision support and monitoring**: thresholds and alerts, scenario calculators and structured reports translate the data into concrete options for tourism regions, policymakers and funding bodies.
+## The three use cases at a glance
+Each use case draws on different datasets and time horizons, chosen to suit its particular question:
+![image alt text](url)
