@@ -79,3 +79,15 @@ Across all three use cases, the Climate Change Explorer for Tourism offers the s
 - **Dowload**: use data for your own analysis and applications. 
 
 *Note: the tool does not yet operate in real time at this stage of the project.*
+## How the tool works
+Behind the three use cases lies a five-stage operating model that turns raw data into decision support: 
+
+1. **Data delivery**: climate data (GeoSphere Austria), tourism statistics (Statistik Austria), natural-hazard data, geodata and satellite data (Copernicus) arrive from a wide range of sources. 
+
+2. **Data integration**: datasets are cross-referenced spatially (e.g. matching 1 km climate grids to municipalities), temporally (aligning daily, monthly and seasonal values with booking periods), and by elevation band. 
+
+3. **Processing and quality assurance**: data is cleaned, standard indicators are derived, and results are aggregated to the relevant decision-making levels (day, month, season; municipality, region, state). 
+
+4. **Analysis and visualisation**: results are shown as choropleth maps and charts within the GTIF framework, with filters and a comparison mode for different regions, parameters or time periods. 
+
+5. **Decision support and monitoring**: thresholds and alerts, scenario calculators and structured reports translate the data into concrete options for tourism regions, policymakers and funding bodies. 
