@@ -61,4 +61,21 @@ Beyond tourism regions, destinations, businesses and municipalities, the project
 
 - **Regional and national policymakers**: shaping funding programmes, tourism strategy and spatial planning with evidence. 
 
-- **Science and research**: validating indicators and helping develop the platform's methodology. 
+- **Science and research**: validating indicators and helping develop the platform's methodology.
+
+## What you can do with the tool
+Across all three use cases, the Climate Change Explorer for Tourism offers the same set of interactive functions: 
+
+- **Compare**: place regions and destinations side by side, freely selected. 
+
+- **Simulate**: play through future climate changes and the effect of possible measures. 
+
+- **Explore time**: a time slider spanning months and decades, making the summer/winter contrast visible. 
+
+- **Locate**: search for a location and hover over the map for exact values. 
+
+- **Interpret**: guidance to help make sense of each indicator. 
+
+- **Dowload**: use data for your own analysis and applications. 
+
+*Note: the tool does not yet operate in real time at this stage of the project.*
