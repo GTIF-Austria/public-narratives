@@ -21,4 +21,20 @@ Stakeholder workshops distilled a wide range of user stories into three use case
 
 **“How can we factor climate change into tourism planning and development in Austria?”** 
 
-## The bigger picture
+## The bigger picture 
+
+Beyond the three use cases, the project's operational concept frames a set of longer-term goals for the tool – addressing the challenges of climate change through informed decisions, better planning and greater awareness: 
+
+- **Tourism management**: supporting sustainable planning and adapting tourism offerings and infrastructure, balancing economic and ecological goals. 
+
+- **Public awareness**: making climate impacts understandable to a wider audience, to build awareness and encourage engagement with climate action. 
+
+- **Informed decision-making**: giving policymakers, scientists and businesses a common, evidence-based picture to work from. 
+
+- **Risk management**: as real-time and forecast data are integrated, supporting earlier warnings and better-prepared responses to extreme weather and natural hazards. 
+
+- **Research and development**: providing data access and analysis tools that researchers can use to study patterns, test hypotheses and generate new insights. 
+
+- **Economic opportunity**: giving businesses and investors a basis for sustainable planning and investment decisions. 
+
+- **Transparency and collaboration**: encouraging open data-sharing and joint problem-solving across government, science and industry. 
