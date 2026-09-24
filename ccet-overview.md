@@ -93,4 +93,5 @@ Behind the three use cases lies a five-stage operating model that turns raw data
 **5. Decision support and monitoring**: thresholds and alerts, scenario calculators and structured reports translate the data into concrete options for tourism regions, policymakers and funding bodies.
 ## The three use cases at a glance
 Each use case draws on different datasets and time horizons, chosen to suit its particular question:
-![image alt text](url)
+
+![Bild (8).png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d89d4f2e2a4350c6c9bf5a499f1ce744dc5534e8/assets/MichaelaLandauer/Bild-8-1790260140287.png)
