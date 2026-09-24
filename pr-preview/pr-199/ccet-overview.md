@@ -37,4 +37,28 @@ Beyond the three use cases, the project's operational concept frames a set of lo
 
 - **Economic opportunity**: giving businesses and investors a basis for sustainable planning and investment decisions. 
 
-- **Transparency and collaboration**: encouraging open data-sharing and joint problem-solving across government, science and industry. 
+- **Transparency and collaboration**: encouraging open data-sharing and joint problem-solving across government, science and industry.
+
+## The three use cases
+
+Explore each use case in detail on its own page: 
+
+- **Use Case 1 – Climate Changes**: how the climate in a given region is changing, using indicators such as hot days, tropical nights and strong precipitation days. 
+
+- **Use Case 2 – Climate Threats**: how exposed tourism destinations are to climate-related risks, from declining snow cover to flooding and heat stress. 
+
+- **Use Case 3 – Tourism Indicators**: how climate change is already reflected in visitor demand, by linking climate data with overnight-stay forecasts.
+
+## Who it's for
+
+Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
+
+- **Cable car and ski resort operators**: assessing snow reliability, planning snowmaking and investment. 
+
+- **Tourism associations and destinations**: developing year-round tourism, timing marketing to the climate calendar. 
+
+- **Hospitality and gastronomy**: optimising seasonal planning, preparing heat protection for guests and staff. 
+
+- **Regional and national policymakers**: shaping funding programmes, tourism strategy and spatial planning with evidence. 
+
+- **Science and research**: validating indicators and helping develop the platform's methodology. 
