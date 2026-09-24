@@ -95,3 +95,18 @@ Behind the three use cases lies a five-stage operating model that turns raw data
 Each use case draws on different datasets and time horizons, chosen to suit its particular question:
 
 ![Bild (8).png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d89d4f2e2a4350c6c9bf5a499f1ce744dc5534e8/assets/MichaelaLandauer/Bild-8-1790260140287.png)
+
+*Note: Use Case 1 relies on the ÖKS15 climate projections under two future scenarios (RCP4.5/RCP8.5) running to 2100, whereas Use Cases 2 and 3 are built on observed historical data (SNOWGRID-CL, SPARTACUS) combined with recent and forecast tourism data, focused on the present and very near future.*
+
+## CCET and Austria's Vision T 
+In June 2026, the Federal Ministry for Economic Affairs, Energy and Tourism presented Vision T, Austria's national tourism strategy to 2035, structured around five strategic fields of action. The project's own operational concept explicitly names Vision T as a reference use case for the tool, and four of the five fields connect directly to what the CCET delivers: 
+
+- **Resources & Responsibility**: the strongest fit. This field's 2035 target picture explicitly names temperature changes and weather fluctuations as a new challenge and calls for recognising climate adaptation needs early – precisely what the three CCET use cases are designed to deliver. 
+
+- **Economic Strength & Resilience**: a secondary fit. The strategy's tension field “year-round operation vs. economic viability” explicitly notes that climate-driven demand shifts must be factored into season extension, which Use Cases 1 and 3 speak to directly. 
+
+- **Innovation & Digitalisation**: a structural fit. The strategy calls for “networked data spaces” with low-threshold access to high-quality tourism data – exactly the role the CCET plays for climate-related information. 
+
+- **Value & Co-Design**: a fourth fit. This field is about positioning tourism as a driver for liveable regions, developed together with local communities. By showing concretely how living conditions in a municipality are changing – for example rising heat exposure – the CCET gives residents and tourism actors a shared, evidence-based starting point for jointly developing better infrastructure and quality of life. 
+
+Overall, four of Vision T's five strategic fields connect to the CCET – only Labour Market & Skilled Workers remains unaffected – underlining the tool's broad relevance for the strategy.
