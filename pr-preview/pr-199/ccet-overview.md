@@ -7,9 +7,7 @@ provider: narrative_provider1,narrative_provider2
 ---
 
 # Climate Change Explorer for Tourism <!--{ as="img" mode="hero" src="https://placehold.co/600x400/png" }-->
-### Hero Subtitle <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
-
-## How climate-related geodata can support sustainable tourism planning and development
+### How climate-related geodata can support sustainable tourism planning and development <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Background: a digital climate twin for tourism
 
