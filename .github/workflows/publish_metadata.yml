@@ -40,6 +40,7 @@ jobs:
           clean-exclude: pr-preview
           force: false
   trigger-website-build:
+    if: github.repository == 'GTIF-Austria/public-narratives'
     needs: build
     runs-on: ubuntu-latest
     steps:
