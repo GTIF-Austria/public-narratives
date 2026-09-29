@@ -39,8 +39,6 @@ This approach is:
 
 In-situ noise measurements are used to ground-truth and validate both the model predictions and the official strategic noise maps, providing an independent check on their accuracy.
 
-## How It Works
-
 ## Input Data: The Multi-Layer Spatial Stack <!--{ as="eox-map" mode="tour" }-->
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15.4395,47.0707] zoom="12" animationOptions="{duration:500}" }-->
@@ -69,36 +67,77 @@ Official strategic road traffic noise maps from the Austrian INSPIRE portal ([La
 
 <!-- [SUGGESTION / PLACEHOLDER: Connect directly to the Laerminfo.at / INSPIRE WMS service layer (or EOX-hosted GeoTIFF) here to visually overlay the official 5 dB strategic noise contours for Graz.] -->
 
-## Model Architecture & Spatial Learning <!--{ as="img" mode="tour" }-->
+## The AI Model: Learning Noise from Space
 
-### <!--{ src="https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure2_data_pipeline.png" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/noisesphere/figure2_data_pipeline.png" }-->
-#### 1. End-to-End Processing Pipeline
-To train a predictive noise model from space, heterogeneous geospatial layers are harmonized into a uniform spatial schema. Multispectral Sentinel-2 imagery is converted into semantic spectral classes via [color33](https://app.color33.io), while OpenStreetMap vector graphs provide road classifications and legal speed categories. Official strategic noise maps from Laerminfo.at provide 5 dB ground truth labels. All inputs are rasterized onto the identical 10 × 10 m grid, creating multi-channel feature stacks for model training and spatial inference.
+### End-to-End Processing Pipeline
 
-### <!--{ src="https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure3_input_tiles.png" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/noisesphere/figure3_input_tiles.png" }-->
-#### 2. Multi-Channel Acoustic Tiles (210 × 210 m)
-Noise prediction is performed for the center pixel of a 21 × 21 pixel tile (210 × 210 m). The tile size is derived directly from acoustic physics: assuming peak road traffic sound levels of ~80 dB at 2 m from the source and a decay of ~6 dB per distance doubling, sound levels drop below the 50 dB threshold within ~65 m. A 100 m buffer in every direction provides sufficient spatial context to capture emission sources, sound barriers, building morphology, and ground attenuation.
+To train an AI model capable of predicting noise levels from spaceborne and geospatial observations, heterogeneous data sources are harmonized into a uniform spatial schema. Multispectral Sentinel-2 imagery is converted into semantic spectral classes via [color33](https://app.color33.io), while OpenStreetMap vector graphs provide road classifications and legal speed categories. Official strategic noise maps from Laerminfo.at provide 5 dB ground truth labels. All inputs are rasterized onto the identical 10 × 10 m grid, creating multi-channel feature stacks for supervised training and macroscopic inference.
 
-### <!--{ src="https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure6_figure7_spatial_comparison.png" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/noisesphere/figure6_figure7_spatial_comparison.png" }-->
-#### 3. Spatial Propagation: CNN vs. Random Forest
-Evaluating two distinct model paradigms reveals fundamental trade-offs:
+![Figure 2: Data pipeline for automated noise mapping](https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure2_data_pipeline.png)
+*Figure 2: End-to-end data processing pipeline fusing Sentinel-2 Earth observation, color33 semantic land classes, OpenStreetMap road topology, and strategic noise maps onto a uniform 10 × 10 m grid.*
+
+### Multi-Channel Acoustic Tiles (210 × 210 m)
+
+Noise prediction is performed for the center pixel of a 21 × 21 pixel tile (210 × 210 m). The tile size is derived directly from acoustic physics: assuming peak road traffic sound levels of ~80 dB at 2 m from the source and an attenuation of ~6 dB per distance doubling, sound levels drop below the 50 dB threshold within ~65 m. A 100 m buffer in every direction provides sufficient spatial context to capture emission sources, sound barriers, building morphology, and ground attenuation.
+
+![Figure 3: Multi-channel acoustic input tiles](https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure3_input_tiles.png)
+*Figure 3: Exemplary 21 × 21 pixel (210 × 210 m) multi-channel input tiles showing color33 spectral categorization, OpenStreetMap road geometry, speed limits, and target noise masks.*
+
+### Architecture Comparison: CNN vs. Random Forest
+
+Evaluating two distinct model paradigms reveals fundamental acoustic trade-offs:
 - **Convolutional Neural Network (CNN)**: Because CNN convolutional kernels capture spatial context and multi-pixel neighborhoods, the model successfully reproduces continuous sound propagation away from traffic corridors into adjacent blocks. However, in regions outside official training labels, edge-related boundary artifacts can emerge.
 - **Random Forest (RF)**: Provides sharp, reliable classification along road centerlines without boundary artifacts, but lacks continuous sound decay into surrounding terrain, causing noise levels to drop off abruptly beyond the road verge.
 
-### <!--{ src="https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure5_figure8_confusion_matrices.png" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/noisesphere/figure5_figure8_confusion_matrices.png" }-->
-#### 4. Ordinal Consistency via CORAL Loss
-Environmental noise levels are inherently ordinal: misclassifying a 55–60 dB zone as 60–65 dB reflects a minor transition error, whereas misclassifying it as >75 dB would be a severe failure.
+![Figures 6 and 7: Predicted noise maps for CNN vs. Random Forest](https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure6_figure7_spatial_comparison.png)
+*Figures 6 & 7: Predicted noise distributions across Graz. Left: Convolutional Neural Network (CNN) modeling continuous sound propagation away from road corridors. Right: Random Forest (RF) classifier producing sharp road lines without continuous sound decay.*
+
+### Ordinal Consistency & CORAL Loss Formulation
+
+Environmental noise levels are inherently ordinal: misclassifying a 55–60 dB zone as 60–65 dB reflects a minor transition error, whereas misclassifying it as >75 dB would be a severe physical failure.
 - By training the CNN with a **CORAL (COntinuous RAnked Logits)** loss function, the model penalizes non-adjacent class jumps.
 - As demonstrated in the confusion matrix, top-1 accuracy exceeds 48% across all categories (reaching 84% in the <55 dB quiet class), and errors are confined almost entirely to immediately neighboring categories, ensuring physically plausible predictions across the full urban spectrum.
 
+![Figures 5 and 8: Confusion matrices for CNN and Random Forest](https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure5_figure8_confusion_matrices.png)
+*Figures 5 & 8: Confusion matrix analysis. Left: CNN trained with CORAL (COntinuous RAnked Logits) loss confining errors to adjacent classes. Right: Random Forest baseline.*
+
 ## Validation & Real-World Ground Truth
 
-Validation was carried out using **in-situ noise measurements** at selected locations across Graz, Austria, representing a range of acoustic environments — from quiet residential streets to busy inner-city junctions. Measurements were compared against both the strategic noise map and the AI model predictions.
+Validation was carried out using empirical **in-situ noise measurements** across Graz, Austria, contrasting real-world acoustic ground truth against both official strategic noise maps (Lärminfo.at / CNOSSOS-EU) and the NoiseSphere AI predictions.
 
-Key findings:
-- The **strategic noise map** tends to **overestimate** actual noise levels, particularly at night — by up to 10–15 dB at some locations. This is consistent with its precautionary regulatory design.
-- The **AI model** performs well in moderate noise environments and near road infrastructure but currently **underestimates at high-traffic inner-city sites** and **overestimates in quieter residential areas**, indicating that further training data from diverse urban environments is needed.
-- Both approaches correctly capture the broad spatial structure of noise distribution and respect the ordinal ordering of noise classes.
+### Measurement Methodology & Sensor Setup
+
+To capture authentic soundscapes across varying urban fabrics, the research team conducted dedicated on-site acoustic monitoring:
+- **Sensor Technology**: Measurements were recorded using **Bernard Sound Analyzer (BSA)** sensors — compact, weatherproof, and energy-efficient units (<10 W power consumption) designed for continuous environmental monitoring.
+- **Standardized Mounting**: Sensors were installed directly on municipal lighting poles at a reference height of **4.0 meters** above ground level, adhering strictly to **ISO 1996-2:2017** (*Acoustics — Description, measurement and assessment of environmental noise*).
+- **Measurement Protocol**: 24-hour continuous acoustic logging with a high temporal sampling rate (~2.4-second intervals) conducted under strictly dry meteorological conditions to prevent tire-water splash from distorting pavement rolling acoustics.
+- **Acoustic Indicators**: Sound pressure levels ($L_{\text{eq}}$) were aggregated into European standard indicators ($L_{\text{day}}$, $L_{\text{evening}}$, $L_{\text{night}}$, and $L_{\text{den}}$).
+- **Spatial Data Integration**: The calibrated point measurements are compiled in an open GeoPackage (`in-situ_noise_measurements_points.gpkg`) and will be served dynamically as interactive WMS/WFS layers on the GTIF platform.
+
+<!-- [WMS/WFS SERVICE PLACEHOLDER: Connect dynamic WMS/WFS endpoint for in-situ measurement points once published on GTIF] -->
+
+## In-Situ Ground Truth Tour <!--{ as="eox-map" mode="tour" }-->
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15.443,47.067] zoom="16.5" animationOptions="{duration:500}" }-->
+#### 1. Urban Transit Hub: Jakominiplatz
+Jakominiplatz serves as Graz's central public transport hub, featuring dense pedestrian flows, converging tram corridors, and frequent bus acceleration.
+- **Empirical Measurement (BSA)**: Measured **76.2 dB** over 24 hours ($L_{\text{den}}$ of 78.4 dB), dropping to **53.7 dB** at night when transit frequencies decrease.
+- **Official Strategic Map**: Indicates **70–75 dB** during daytime (slightly underestimating peak multi-modal acceleration and rail squeal) and **65–70 dB** at night — **overestimating nighttime noise by 10–15 dB** due to precautionary standardized assumptions.
+- **NoiseSphere AI Model**: Predicts **55–60 dB**. While capturing the general road corridor, the vision model currently underestimates complex multi-modal transit junctions where rail and bus movements diverge from pure road graph proxies.
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15.413,47.041] zoom="16.5" animationOptions="{duration:500}" }-->
+#### 2. Industrial & Arterial Corridor: Kärntner Straße
+Kärntner Straße is a high-capacity commercial and industrial arterial corridor in southern Graz characterized by continuous heavy vehicle traffic, distribution logistics, and 50–70 km/h driving speeds.
+- **Empirical Measurement (BSA)**: Measured **71.3 dB** over 24 hours and **67.3 dB** during the night. Unlike residential areas, night noise remains persistently elevated due to long-haul freight and commercial logistics.
+- **Official Strategic Map**: Predicts **>75 dB** daytime and **65–70 dB** night, closely tracking the high nighttime freight volume.
+- **NoiseSphere AI Model**: Predicts **<55 dB**. This disparity highlights a current model constraint: because predictions rely on optical land cover and static road classifications, localized high freight proportions and nighttime trucking intensity cannot be fully captured without dynamic traffic fleet data.
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15.412,47.042] zoom="16.5" animationOptions="{duration:500}" }-->
+#### 3. Rural & Peripheral Transition: Robert-Fuchs-Straße
+Located on the southern municipal periphery of Graz, Robert-Fuchs-Straße represents a quiet suburban-to-rural transition zone dominated by detached single-family residences, garden plots, and adjacent agricultural fields.
+- **Empirical Measurement (BSA)**: Measured **45.7 dB** over 24 hours and **41.9 dB** at night, reflecting a tranquil acoustic refuge well below WHO disturbance thresholds.
+- **Official Strategic Map**: Categorizes the area at **60–65 dB** (and **50–55 dB** night) — a massive **overestimation of 15–20 dB**. Regulatory simulations apply standardized calculation buffers that fail to account for local cul-de-sac traffic calming and structural acoustic shielding.
+- **NoiseSphere AI Model**: Predicted **60–65 dB**, inheriting the strategic noise map's upward bias because the model was trained against regulatory labels in the municipal zone.
 
 ## Results
 
