@@ -1,12 +1,12 @@
 ---
-cover-image: https://placehold.co/600x400/png
+cover-image: https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure1_concept.png
 date: 2025-01-01
 domain: Sustainable Cities
 tags: noise, road traffic, AI, machine learning, satellite imagery, urban planning
 provider: Virtual Vehicle Research GmbH, Spatial Services GmbH, ALP.Lab GmbH
 ---
 
-# NoiseSphere <!--{ as="img" mode="hero" src="https://placehold.co/600x400/png" }-->
+# NoiseSphere <!--{ as="img" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/noisesphere/figure1_concept.png" mode="hero" src="https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure1_concept.png" }-->
 ### AI-powered noise mapping — understanding road traffic noise from space <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## The Soundscape We Live In: The Invisible Challenge
@@ -71,21 +71,21 @@ Official strategic road traffic noise maps from the Austrian INSPIRE portal ([La
 
 ## Model Architecture & Spatial Learning <!--{ as="img" mode="tour" }-->
 
-### <!--{ src="assets/noisesphere/figure2_data_pipeline.png" }-->
+### <!--{ src="https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure2_data_pipeline.png" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/noisesphere/figure2_data_pipeline.png" }-->
 #### 1. End-to-End Processing Pipeline
 To train a predictive noise model from space, heterogeneous geospatial layers are harmonized into a uniform spatial schema. Multispectral Sentinel-2 imagery is converted into semantic spectral classes via [color33](https://app.color33.io), while OpenStreetMap vector graphs provide road classifications and legal speed categories. Official strategic noise maps from Laerminfo.at provide 5 dB ground truth labels. All inputs are rasterized onto the identical 10 × 10 m grid, creating multi-channel feature stacks for model training and spatial inference.
 
-### <!--{ src="assets/noisesphere/figure3_input_tiles.png" }-->
+### <!--{ src="https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure3_input_tiles.png" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/noisesphere/figure3_input_tiles.png" }-->
 #### 2. Multi-Channel Acoustic Tiles (210 × 210 m)
 Noise prediction is performed for the center pixel of a 21 × 21 pixel tile (210 × 210 m). The tile size is derived directly from acoustic physics: assuming peak road traffic sound levels of ~80 dB at 2 m from the source and a decay of ~6 dB per distance doubling, sound levels drop below the 50 dB threshold within ~65 m. A 100 m buffer in every direction provides sufficient spatial context to capture emission sources, sound barriers, building morphology, and ground attenuation.
 
-### <!--{ src="assets/noisesphere/figure6_figure7_spatial_comparison.png" }-->
+### <!--{ src="https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure6_figure7_spatial_comparison.png" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/noisesphere/figure6_figure7_spatial_comparison.png" }-->
 #### 3. Spatial Propagation: CNN vs. Random Forest
 Evaluating two distinct model paradigms reveals fundamental trade-offs:
 - **Convolutional Neural Network (CNN)**: Because CNN convolutional kernels capture spatial context and multi-pixel neighborhoods, the model successfully reproduces continuous sound propagation away from traffic corridors into adjacent blocks. However, in regions outside official training labels, edge-related boundary artifacts can emerge.
 - **Random Forest (RF)**: Provides sharp, reliable classification along road centerlines without boundary artifacts, but lacks continuous sound decay into surrounding terrain, causing noise levels to drop off abruptly beyond the road verge.
 
-### <!--{ src="assets/noisesphere/figure5_figure8_confusion_matrices.png" }-->
+### <!--{ src="https://raw.githubusercontent.com/project-noisesphere/public-narratives/project-noisesphere/addnoisesphereproject/assets/noisesphere/figure5_figure8_confusion_matrices.png" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/noisesphere/figure5_figure8_confusion_matrices.png" }-->
 #### 4. Ordinal Consistency via CORAL Loss
 Environmental noise levels are inherently ordinal: misclassifying a 55–60 dB zone as 60–65 dB reflects a minor transition error, whereas misclassifying it as >75 dB would be a severe failure.
 - By training the CNN with a **CORAL (COntinuous RAnked Logits)** loss function, the model penalizes non-adjacent class jumps.
