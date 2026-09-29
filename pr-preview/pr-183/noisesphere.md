@@ -45,19 +45,35 @@ In-situ noise measurements are used to ground-truth and validate both the model 
 
 ## How It Works
 
-### Input Data
+## Input Data: The Multi-Layer Spatial Stack <!--{ as="eox-map" mode="tour" }-->
 
-NoiseSphere combines three types of data into a unified geospatial grid at 10 × 10 m resolution:
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15.4395,47.0707] zoom="12" animationOptions="{duration:500}" }-->
+#### 1. Study Area: Graz, Austria
+The pilot deployment and empirical evaluation of NoiseSphere was conducted across the city of Graz, Austria. Graz features a diverse urban morphology ranging from dense historic fabric and congested public transport interchanges (such as Jakominiplatz) to primary transit corridors and quieter residential perimeter zones. While major arteries are captured by regulatory noise reporting, peripheral links and intermediate streets remain largely unmonitored.
 
-1. **Satellite imagery** processed through the [color33](https://app.color33.io) spectral classification system, which identifies land surface types such as vegetation, built-up areas, water, and bare soil from Sentinel-2 satellite data.
+### <!--{ layers='[{"type":"Tile","properties":{"id":"cloudless-2024;:;EPSG:3857","title":"EOxCloudless 2024"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2024_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857"}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857"}}]' center=[15.4395,47.0707] zoom="12.5" animationOptions="{duration:500}" }-->
+#### 2. Multispectral Sentinel-2 Earth Observation
+Multispectral Earth observation imagery from the European Copernicus Sentinel-2 constellation establishes the optical baseline at 10 × 10 m resolution. Sentinel-2’s ~5-day revisit cycle provides dense temporal coverage across the visible and near-infrared spectrum. Four cloud-free reference acquisitions across 2022 (February, March, June, October) were analyzed to capture seasonal variations in vegetation cover and surface reflectivity.
 
-2. **OpenStreetMap (OSM) road network data**, including road categories and legally permitted maximum speeds — a proxy for typical traffic volumes and noise emission levels.
+### <!--{ layers='[{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857"}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857"}}]' center=[15.4395,47.0707] zoom="13" animationOptions="{duration:500}" }-->
+#### 3. Spectral Semantic Categorization (color33)
+Raw optical bands are translated into physical land surface properties using [color33](https://app.color33.io). Unlike black-box clustering, color33 applies a rule-based physical model to identify stable spectral categories (including sealed built-up surfaces, tree canopy, low vegetation, bare ground, and water). These categories directly determine acoustic ground impedance, sound absorption, and multi-path reflection behavior in the outdoor environment.
 
-3. **Strategic road traffic noise maps** from the Austrian INSPIRE geo-metadata database, used as the reference (ground truth) for model training and evaluation.
+### <!--{ layers='[{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857"}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857"}}]' center=[15.4395,47.0707] zoom="13" animationOptions="{duration:500}" }-->
+#### 4. Temporal Aggregation: Mode Layer 2022
+To eliminate transient anomalies such as clouds, cloud shadows, and temporary surface alterations, all Sentinel-2 acquisitions throughout the full year 2022 were aggregated pixel-by-pixel. By selecting the statistical mode (the most frequently observed spectral class for each 10 × 10 m cell), NoiseSphere derives a robust, cloud-free baseline layer characterizing long-term surface properties influencing sound propagation.
 
-All layers are rasterized onto the same 10 × 10 m grid, enabling pixel-by-pixel comparison and prediction.
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15.4395,47.0707] zoom="13.5" animationOptions="{duration:500}" }-->
+#### 5. OpenStreetMap Infrastructure & Speed Limits
+Road traffic is the dominant driver of urban noise emissions. OpenStreetMap (OSM) vector data provides the road topology, road classification (motorways, primary roads, secondary routes, residential access), and legal maximum speed limits. Extracted as a georeferenced graph, these attributes are clustered and rasterized onto the identical 10 × 10 m grid, serving as primary proxies for traffic volume and tire-pavement rolling noise.
 
-### The AI Model
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15.4395,47.0707] zoom="12" animationOptions="{duration:500}" }-->
+#### 6. Strategic Noise Reference Maps (Lärminfo.at / INSPIRE)
+Official strategic road traffic noise maps from the Austrian INSPIRE portal ([Laerminfo.at](https://www.laerminfo.at)) provide the reference data for supervised training and evaluation. Classified in 5 dB bins (<55 dB to >75 dB) and rasterized to the common 10 × 10 m grid, these maps offer high-quality reference data for major roads — while clearly illustrating the administrative boundary where official data ceases outside the municipal core.
+
+<!-- [SUGGESTION / PLACEHOLDER: Connect directly to the Laerminfo.at / INSPIRE WMS service layer (or EOX-hosted GeoTIFF) here to visually overlay the official 5 dB strategic noise contours for Graz.] -->
+
+## The AI Model
 
 A **Convolutional Neural Network (CNN)** was selected as the core modelling architecture due to its ability to learn spatial patterns from image-like input data. The model works by analysing small tiles of 210 × 210 m around each location, capturing both the immediate surroundings and the broader context needed to estimate how noise spreads.
 
