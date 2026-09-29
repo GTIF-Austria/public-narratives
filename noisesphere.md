@@ -13,8 +13,6 @@ provider: Virtual Vehicle Research GmbH, Spatial Services GmbH, ALP.Lab GmbH
 
 For millions of European citizens, environmental noise is not an abstract statistical metric — it is the persistent, grinding backdrop of daily life. Road traffic noise disrupts restorative sleep, elevates stress hormones, and contributes measurably to cardiovascular illnesses. Yet when residents or urban planners ask a simple question — *"How loud is our street right now, and how has recent traffic growth changed that?"* — the answer is remarkably often met with silence.
 
-<!-- [PLACEHOLDER: Human input - Insert verified local case example here. E.g., describe a real-world scenario from Graz or surrounding communities: A specific residential or mixed-use neighborhood situated near a traffic feeder or newly developed commercial zone where residents report severe sleep disruption, yet no official monitoring data exists to substantiate municipal mitigation measures.] -->
-
 ### The Regulatory Blind Spot
 
 Under the European Environmental Noise Directive (END, Directive 2002/49/EC), public authorities are legally mandated to compute **strategic noise maps**. However, these regulatory maps come with strict boundaries:
@@ -22,8 +20,6 @@ Under the European Environmental Noise Directive (END, Directive 2002/49/EC), pu
 - They are mandatory primarily for major agglomerations exceeding **100,000 inhabitants** and high-volume transport corridors carrying over **3,000,000 vehicles per year**.
 
 As a consequence, the vast majority of our road networks — secondary urban streets, growing suburban towns, and inter-municipal transit links — remain completely unmapped. Even where strategic maps do exist, they represent computationally intensive, retrospective snapshots rather than dynamic, living representations of urban noise.
-
-<!-- [PLACEHOLDER: Human input - Insert quote or practical observation from an urban planner, acoustician, or community representative regarding the high cost, delay, or logistical hurdles of traditional physics-based noise simulation campaigns.] -->
 
 Furthermore, traditional simulation models (such as CNOSSOS-EU) often operate under standardized, precautionary assumptions that can diverge significantly from acoustic reality — tending to systematically overestimate nighttime noise while missing localized traffic dynamics. 
 
@@ -73,15 +69,29 @@ Official strategic road traffic noise maps from the Austrian INSPIRE portal ([La
 
 <!-- [SUGGESTION / PLACEHOLDER: Connect directly to the Laerminfo.at / INSPIRE WMS service layer (or EOX-hosted GeoTIFF) here to visually overlay the official 5 dB strategic noise contours for Graz.] -->
 
-## The AI Model
+## Model Architecture & Spatial Learning <!--{ as="img" mode="tour" }-->
 
-A **Convolutional Neural Network (CNN)** was selected as the core modelling architecture due to its ability to learn spatial patterns from image-like input data. The model works by analysing small tiles of 210 × 210 m around each location, capturing both the immediate surroundings and the broader context needed to estimate how noise spreads.
+### <!--{ src="assets/noisesphere/figure2_data_pipeline.png" }-->
+#### 1. End-to-End Processing Pipeline
+To train a predictive noise model from space, heterogeneous geospatial layers are harmonized into a uniform spatial schema. Multispectral Sentinel-2 imagery is converted into semantic spectral classes via [color33](https://app.color33.io), while OpenStreetMap vector graphs provide road classifications and legal speed categories. Official strategic noise maps from Laerminfo.at provide 5 dB ground truth labels. All inputs are rasterized onto the identical 10 × 10 m grid, creating multi-channel feature stacks for model training and spatial inference.
 
-To handle the inherently ordered nature of noise levels — where being "one class off" (e.g. predicting 55–60 dB instead of 60–65 dB) is far less serious than being multiple classes off — the model is trained with a **CORAL loss function** that explicitly accounts for this ordinal structure. This produces physically consistent predictions, where errors tend to occur between neighbouring noise categories rather than across the full range.
+### <!--{ src="assets/noisesphere/figure3_input_tiles.png" }-->
+#### 2. Multi-Channel Acoustic Tiles (210 × 210 m)
+Noise prediction is performed for the center pixel of a 21 × 21 pixel tile (210 × 210 m). The tile size is derived directly from acoustic physics: assuming peak road traffic sound levels of ~80 dB at 2 m from the source and a decay of ~6 dB per distance doubling, sound levels drop below the 50 dB threshold within ~65 m. A 100 m buffer in every direction provides sufficient spatial context to capture emission sources, sound barriers, building morphology, and ground attenuation.
 
-The model is complemented by a **Random Forest (RF)** classifier that serves as a baseline comparison, offering a simpler but robust alternative for areas with less complex noise environments.
+### <!--{ src="assets/noisesphere/figure6_figure7_spatial_comparison.png" }-->
+#### 3. Spatial Propagation: CNN vs. Random Forest
+Evaluating two distinct model paradigms reveals fundamental trade-offs:
+- **Convolutional Neural Network (CNN)**: Because CNN convolutional kernels capture spatial context and multi-pixel neighborhoods, the model successfully reproduces continuous sound propagation away from traffic corridors into adjacent blocks. However, in regions outside official training labels, edge-related boundary artifacts can emerge.
+- **Random Forest (RF)**: Provides sharp, reliable classification along road centerlines without boundary artifacts, but lacks continuous sound decay into surrounding terrain, causing noise levels to drop off abruptly beyond the road verge.
 
-### Validation
+### <!--{ src="assets/noisesphere/figure5_figure8_confusion_matrices.png" }-->
+#### 4. Ordinal Consistency via CORAL Loss
+Environmental noise levels are inherently ordinal: misclassifying a 55–60 dB zone as 60–65 dB reflects a minor transition error, whereas misclassifying it as >75 dB would be a severe failure.
+- By training the CNN with a **CORAL (COntinuous RAnked Logits)** loss function, the model penalizes non-adjacent class jumps.
+- As demonstrated in the confusion matrix, top-1 accuracy exceeds 48% across all categories (reaching 84% in the <55 dB quiet class), and errors are confined almost entirely to immediately neighboring categories, ensuring physically plausible predictions across the full urban spectrum.
+
+## Validation & Real-World Ground Truth
 
 Validation was carried out using **in-situ noise measurements** at selected locations across Graz, Austria, representing a range of acoustic environments — from quiet residential streets to busy inner-city junctions. Measurements were compared against both the strategic noise map and the AI model predictions.
 
