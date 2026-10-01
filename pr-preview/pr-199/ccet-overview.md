@@ -1,7 +1,7 @@
 ---
-cover-image: https://placehold.co/600x400/png
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b6125b601f1ed99c028d21d633cac982943d7e5e/assets/MichaelaLandauer/CCET-Overview-klein-1790864036628.jpg
 date: 2025-01-01
-theme: theme_name
+theme: Climate Change Explorer for Tourism
 tags: tag1,tag2
 provider: narrative_provider1,narrative_provider2
 ---
