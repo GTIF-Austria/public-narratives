@@ -17,33 +17,26 @@ This use case assesses the increasing exposure of tourism destinations to climat
 
 ## The data behind it
 
+The data for Use Case 2 come from two different sources:
+
+**1. SNOWGRID-CL dataset**
+
 The data for snow depth comes from the public dataset [SNOWGRID-CL dataset](https://data.hub.geosphere.at/dataset/snowgrid_cl-v2-1d-1km) owned by GeoSphere Austria providing daily updated analyses of daily snow depth and snow water equivalent (SWE) on a 1x1 km grid covering all of Austria since 01.01.1961.
-
-HORA Floods: “The ‘flood risk zoning’ map shows those areas at risk from 30-year, 100-year and 300-year flood events. It should be noted that flood defences (particularly those recently constructed) are not taken into account across the entire area.
-
-Avalanches: The risk posed by avalanches is defined in so-called hazard zone plans, which are drawn up by the Austrian Torrent and Avalanche Control Authority. The hazard zone plan (GZP) is a comprehensive assessment of the risks posed by torrents, avalanches and erosion. It forms the basis for planning protective measures and for assessing their urgency. It supports the building authorities, local and regional spatial planning, and serves the purposes of public safety.
-
-Heatwave: A heatwave according to Kysely (Kysely episode) is identified as soon as the maximum temperature exceeds 30 °C on at least three consecutive days and persists for as long as the average maximum temperature over the entire episode remains above 30 °C and the maximum temperature on any given day does not fall below 25 °C. The figure given is the total number of days falling within a Kysely episode. Data source: SPARTACUS (Spatiotemporal Reconstruction Dataset of Climate in Austria)
-
-Hot days: The figures shown represent the average number of days per year during the 1991–2020 climate period. Data source: SPARTACUS (Spatiotemporal Reconstruction Dataset of Climate in Austria)
-
-
-Translated with DeepL.com (free version)
-
-## Processing method
 
 Average snow depth between November and April across Austria is compared between a historical reference period (1961–1990) and recent years (2011–2026) at a spatial resolution of 1 km. For each location, the snow depth anomaly is calculated as both an absolute change in centimeters and a percentage change relative to the historical average.
 
-**Output**
-
 The layer “snow depth changes” shows the percentage of recent gain or loss of snow depth in centimeters.
 
-## Hazards under consideration
-- Flood risk
-- Avalanche risk
-- Head days >=30 C risk
-- Heat episodes risk
-- Snow decline risk
+**2. HORA**
+
+- **Flood risk**: “The ‘flood risk zoning’ map shows those areas at risk from 30-year, 100-year and 300-year flood events. It should be noted that flood defences (particularly those recently constructed) are not taken into account across the entire area.
+
+- **Avalanche risk**: The risk posed by avalanches is defined in so-called hazard zone plans, which are drawn up by the Austrian Torrent and Avalanche Control Authority. The hazard zone plan (GZP) is a comprehensive assessment of the risks posed by torrents, avalanches and erosion. It forms the basis for planning protective measures and for assessing their urgency. It supports the building authorities, local and regional spatial planning, and serves the purposes of public safety.
+
+- **Hot days**: The figures shown represent the average number of days per year during the 1991–2020 climate period. Data source: SPARTACUS (Spatiotemporal Reconstruction Dataset of Climate in Austria)
+ 
+- **Heat episodes**: A heatwave according to Kysely (Kysely episode) is identified as soon as the maximum temperature exceeds 30 °C on at least three consecutive days and persists for as long as the average maximum temperature over the entire episode remains above 30 °C and the maximum temperature on any given day does not fall below 25 °C. The figure given is the total number of days falling within a Kysely episode. Data source: SPARTACUS (Spatiotemporal Reconstruction Dataset of Climate in Austria)
+
 
 ## Benefit for users 
 Tourism regions gain a long-term, evidence-based picture of climate hazards across the whole region, supporting decisions on adapting tourism infrastructure. 
