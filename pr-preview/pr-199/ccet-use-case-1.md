@@ -17,7 +17,7 @@ This use case visualises projected climate changes using metrics that are direct
 
 ## The data behind it
 
-The indicators draw on the ÖKS15 climate projection dataset from GeoSphere Austria [1], calculated under two IPCC scenarios: RCP4.5 (a moderate pathway) and RCP8.5 (a pessimistic, high-emissions pathway). Temperature, precipitation and wind data are available at a spatial resolution of 1 km, on a daily basis, from 2011 to 2100. 
+The indicators draw on the ÖKS15 climate projection dataset from [GeoSphere Austria](url)https://data.hub.geosphere.at/group/oks15, calculated under two IPCC scenarios: RCP4.5 (a moderate pathway) and RCP8.5 (a pessimistic, high-emissions pathway). Temperature, precipitation and wind data are available at a spatial resolution of 1 km, on a daily basis, from 2011 to 2100. 
 
 For each decade between 1951 and 2100, the number of days meeting a given climatic criterion is counted for every month; these monthly counts are then averaged across all years within the respective decade to obtain a monthly climatology. The grid cell values are then spatially averaged within the defined spatial units – municipalities (LAU2 level), the three elevation zones (valley bottom (≤10th altitude percentile), mid-altitude (45th-55th altitude percentile), mountain peaks (≥90th altitude percentile), and tourism destination boundaries provided by Österreich Werbung – to obtain one indicator value per month and decade for each spatial unit. 
 
