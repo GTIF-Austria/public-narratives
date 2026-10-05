@@ -1,16 +1,7 @@
----
-cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/82e054c189bcc2619ff308c5268297f4c4474e0d/assets/MichaelaLandauer/CCET-Overview-1790868019973.png
-date: 2025-01-01
-theme: Climate Change Explorer for Tourism
-tags: tag1,tag2
-provider: narrative_provider1,narrative_provider2
----
-
 # Climate Change Explorer for Tourism <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/82e054c189bcc2619ff308c5268297f4c4474e0d/assets/MichaelaLandauer/CCET-Overview-1790868019973.png" }-->
-### How climate-related geodata can support sustainable tourism planning and development <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+#### 
 
 ## Background: a digital climate twin for tourism
-
 Climate change poses growing challenges for tourism worldwide, significantly altering travel behaviour and the landscape of tourism offerings. The Alpine region is particularly affected by these developments, evident for example in the rapid retreat of glaciers, thawing permafrost, and a marked decline in snow depths. The [second Austrian Climate Change Assessment Report](url), published in June 2025, shows that the country has already warmed by 3.1°C – with dramatic consequences for the population and the economy. Fostering sustainable development in tourism therefore requires well-founded knowledge of local climate hazards. 
 
 Planning and evaluating scenarios and climate-smart options for action require specific climate data and indicators to be combined with tourism-specific data. The Climate Change Explorer for Tourism (CCET) is designed to provide decision-makers in Austria's tourism regions with a user-friendly picture of the expected impacts of climate change, and an assessment of climate-related risk factors, based on climatic data alongside satellite-derived geoinformation. 
@@ -19,9 +10,9 @@ The idea for the tool emerged from a workshop held as part of the Green Data Hub
 
 Stakeholder workshops distilled a wide range of user stories into three use cases, each shedding light on a different facet of the project's guiding question:  
 
-**“How can we factor climate change into tourism planning and development in Austria?”** 
+**“How can we factor climate change into tourism planning and development in Austria?”**
 
-## The bigger picture 
+## The bigger picture
 Beyond the three use cases, the project's operational concept frames a set of longer-term goals for the tool – addressing the challenges of climate change through informed decisions, better planning and greater awareness: 
 
 - **Tourism management**: supporting sustainable planning and adapting tourism offerings and infrastructure, balancing economic and ecological goals. 
@@ -51,6 +42,12 @@ Each use case draws on different datasets and time horizons, chosen to suit its 
 ![Bild (8).png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d89d4f2e2a4350c6c9bf5a499f1ce744dc5534e8/assets/MichaelaLandauer/Bild-8-1790260140287.png)
 
 *Note: Use Case 1 relies on the ÖKS15 climate projections under two future scenarios (RCP4.5/RCP8.5) running to 2100, whereas Use Cases 2 and 3 are built on observed historical data (SNOWGRID-CL, SPARTACUS) combined with recent and forecast tourism data, focused on the present and very near future.*
+
+## Overview of Austrian Tourism Regions <!--{ as="eox-map" mode="tour" position="right" }-->
+
+### <!--{  }-->
+#### 
+
 
 ## Who it's for
 Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
@@ -95,7 +92,7 @@ Behind the three use cases lies a five-stage operating model that turns raw data
 
 **5. Decision support and monitoring**: thresholds and alerts, scenario calculators and structured reports translate the data into concrete options for tourism regions, policymakers and funding bodies.
 
-## CCET and Austria's Vision T 
+## CCET and Austria's Vision T
 In June 2026, the Federal Ministry for Economic Affairs, Energy and Tourism presented Vision T, Austria's national tourism strategy to 2035, structured around five strategic fields of action. The project's own operational concept explicitly names Vision T as a reference use case for the tool, and four of the five fields connect directly to what the CCET delivers: 
 
 - **Resources & Responsibility**: the strongest fit. This field's 2035 target picture explicitly names temperature changes and weather fluctuations as a new challenge and calls for recognising climate adaptation needs early – precisely what the three CCET use cases are designed to deliver. 
@@ -107,7 +104,9 @@ In June 2026, the Federal Ministry for Economic Affairs, Energy and Tourism pres
 - **Value & Co-Design**: a fourth fit. This field is about positioning tourism as a driver for liveable regions, developed together with local communities. By showing concretely how living conditions in a municipality are changing – for example rising heat exposure – the CCET gives residents and tourism actors a shared, evidence-based starting point for jointly developing better infrastructure and quality of life. 
 
 Overall, four of Vision T's five strategic fields connect to the CCET – only Labour Market & Skilled Workers remains unaffected – underlining the tool's broad relevance for the strategy.
+
 ## Outlook
 The project's operational concept also outlines ideas under discussion for further development: daily data feeds from the Green Data Hub and the Österreich Werbung Tourism Data Space, an AI assistant to help translate data into concrete actions, role-based access for different user groups, and usage-based recommendations. These are exploratory directions, not features of the current tool.
+
 ## In summary
 Together, the three use cases make climate change tangible for Austria's tourism sector in three complementary steps: Use Case 1 shows how the climate itself is changing; Use Case 2 shows what hazards this creates for destinations, starting with the decline in snow cover; and Use Case 3 shows how these changes are already reflected in visitor demand. Taken together, the Climate Change Explorer for Tourism gives tourism regions, destinations, businesses and public administration an evidence-based foundation for climate-smart planning.
