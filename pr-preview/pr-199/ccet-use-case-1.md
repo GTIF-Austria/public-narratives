@@ -16,7 +16,6 @@ The Climate Change Explorer for Tourism (CCET) is a joint initiative by GeoVille
 This use case visualises projected climate changes using metrics that are directly relevant and useful for the tourism sector. It forms the foundation of the whole tool, addressing the question: how is the climate in a given region changing, and what long-term trends can be derived from it?
 
 ## The data behind it
-
 The indicators draw on the ÖKS15 climate projection dataset from [GeoSphere Austria](https://data.hub.geosphere.at/group/oks15), calculated under two IPCC scenarios: RCP4.5 (a moderate pathway) and RCP8.5 (a pessimistic, high-emissions pathway). Temperature, precipitation and wind data are available at a spatial resolution of 1 km, on a daily basis, from 2011 to 2100. 
 
 For each decade between 1951 and 2100, the number of days meeting a given climatic criterion is counted for every month; these monthly counts are then averaged across all years within the respective decade to obtain a monthly climatology. The grid cell values are then spatially averaged within the defined spatial units – municipalities (LAU2 level), the three elevation zones (valley bottom (≤10th altitude percentile), mid-altitude (45th-55th altitude percentile), mountain peaks (≥90th altitude percentile), and tourism destination boundaries provided by Österreich Werbung – to obtain one indicator value per month and decade for each spatial unit. 
