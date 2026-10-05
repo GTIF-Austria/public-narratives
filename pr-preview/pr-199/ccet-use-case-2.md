@@ -17,7 +17,9 @@ This use case assesses the increasing exposure of tourism destinations to climat
 
 ## The data behind it
 
-[SNOWGRID-CL dataset](https://data.hub.geosphere.at/dataset/snowgrid_cl-v2-1d-1km) 
+The data for snow depth comes from the public dataset [SNOWGRID-CL dataset](https://data.hub.geosphere.at/dataset/snowgrid_cl-v2-1d-1km) owned by GeoSphere Austria providing daily updated analyses of daily snow depth and snow water equivalent (SWE) on a 1x1 km grid covering all of Austria since 01.01.1961.
+
+
 ## Hazards under consideration
 - Flood risk
 - Avalanche risk
