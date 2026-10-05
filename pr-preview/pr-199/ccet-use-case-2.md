@@ -13,14 +13,19 @@ The Climate Change Explorer for Tourism (CCET) is a joint initiative by GeoVille
 
 ## What it's about
 
-This use case assesses the exposure of tourism destinations to climate-related hazards – in other words, how vulnerable a given destination is becoming as the climate changes.
+This use case assesses the increasing exposure of tourism destinations to climate-related hazards – in other words, how vulnerable a given destination is becoming as the climate changes. In this use case, the term “threat” refers to the impact of temperature changes for tourism. In the scope of the project, snow loss has been assessed as one example of these threats. The development of this indicator aims at completing those provided by the [Platform HORA](https://hora.gv.at/#/chwrz:-/bgrau/a-/@47.72463,13.50823,8z) of the BMLUK, already assessing natural hazards and risks all over Austria.
 
 ## The data behind it
 
 [SNOWGRID-CL dataset](https://data.hub.geosphere.at/dataset/snowgrid_cl-v2-1d-1km) 
+## Hazards under consideration
+- Flood risk
+- Avalanche risk
+- Head days >=30 C risk
+- Heat episodes risk
+- Snow decline risk
 
 ## Benefit for users 
-
 Tourism regions gain a long-term, evidence-based picture of climate hazards across the whole region, supporting decisions on adapting tourism infrastructure. 
 
 Individual destinations can see, cell by cell, how far their local snow cover has already declined – valuable evidence for decisions on snowmaking, resource planning and diversification into snow-independent offerings. 
