@@ -19,6 +19,16 @@ This use case assesses the increasing exposure of tourism destinations to climat
 
 The data for snow depth comes from the public dataset [SNOWGRID-CL dataset](https://data.hub.geosphere.at/dataset/snowgrid_cl-v2-1d-1km) owned by GeoSphere Austria providing daily updated analyses of daily snow depth and snow water equivalent (SWE) on a 1x1 km grid covering all of Austria since 01.01.1961.
 
+## Processing method
+
+Average snow depth between November and April across Austria is compared between a historical reference period (1961–1990) and recent years (2011–2026) at a spatial resolution of 1 km. For each location, the snow depth anomaly is calculated as both an absolute change in centimeters and a percentage change relative to the historical average.
+
+**Output**
+
+The layer “snow depth changes” shows the percentage of recent gain or loss of snow depth in centimeters.
+
+**Spatial resolution**: 1km grid
+**Temporal resolution**: mean of November to April from 2011 to 2026 compared to November to April from 1961 to 1990
 
 ## Hazards under consideration
 - Flood risk
