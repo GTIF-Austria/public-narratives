@@ -17,6 +17,8 @@ This use case assesses the exposure of tourism destinations to climate-related h
 
 ## The data behind it
 
+[SNOWGRID-CL dataset](https://data.hub.geosphere.at/dataset/snowgrid_cl-v2-1d-1km) 
+
 ## Benefit for users 
 
 Tourism regions gain a long-term, evidence-based picture of climate hazards across the whole region, supporting decisions on adapting tourism infrastructure. 
