@@ -11,4 +11,3 @@ provider: narrative_provider1,narrative_provider2
 
 ## First section
 
-![CCET_UC3_Tourism indicators II.jpg](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/15b40e551592acfb70cc317f4d5ba64f88a36840/assets/MichaelaLandauer/CCETUC3Tourism-indicators-II-1791189337034.jpg)
