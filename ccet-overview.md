@@ -28,28 +28,6 @@ Beyond the three use cases, the project's operational concept frames a set of lo
 
 - **Transparency and collaboration**: encouraging open data-sharing and joint problem-solving across government, science and industry.
 
-## Use Case 1 - Climate Indicators <!--{ as="eox-map" mode="tour" position="right" }-->
-
-### <!--{  }-->
-#### 
-
-
-### <!--{  }-->
-#### 
-
-
-### <!--{  }-->
-#### 
-
-
-### <!--{  }-->
-#### 
-
-
-### <!--{  }-->
-#### 
-
-
 ## The three use cases
 Explore each use case in detail on its own page: 
 
