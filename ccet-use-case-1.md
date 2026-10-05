@@ -23,21 +23,21 @@ For each decade between 1951 and 2100, the number of days meeting a given climat
 
 ## What is measured
 
-- Hot days: days with a maximum temperature above 30°C 
+- **Hot day**s: days with a maximum temperature above 30°C 
 
-- Tropical nights: days with a minimum temperature above 20°C 
+- **Tropical nights**: days with a minimum temperature above 20°C 
 
-- Beach/lake days: days with a maximum temperature above 23°C and more than 250 W/m² of daily mean solar radiation 
+- **Beach/lake days**: days with a maximum temperature above 23°C and more than 250 W/m² of daily mean solar radiation 
 
-- Ice days: days with a maximum temperature below 0°C 
+- **Ice days**: days with a maximum temperature below 0°C 
 
-- Heat wave duration index (HWDI): the annual count of days forming part of a run of at least three consecutive days on which the maximum temperature exceeds the 90th-percentile threshold, based on the 1961–1990 reference period 
+- **Heat wave duration index (HWDI)**: the annual count of days forming part of a run of at least three consecutive days on which the maximum temperature exceeds the 90th-percentile threshold, based on the 1961–1990 reference period 
 
-- Strong precipitation days: days with 10 mm or more of precipitation 
+- **Strong precipitation day**s: days with 10 mm or more of precipitation 
 
-- Dry days: days with less than 1 mm of precipitation 
+- **Dry days**: days with less than 1 mm of precipitation 
 
-- Strong wind days: days on which the mean wind speed exceeds 11.1 m/s
+- **Strong wind days**: days on which the mean wind speed exceeds 11.1 m/s
 
 ## Benefit for users
 
