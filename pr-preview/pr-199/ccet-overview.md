@@ -11,7 +11,7 @@ provider: narrative_provider1,narrative_provider2
 
 ## Background: a digital climate twin for tourism
 
-Climate change poses growing challenges for tourism worldwide, significantly altering travel behaviour and the landscape of tourism offerings. The Alpine region is particularly affected by these developments, evident for example in the rapid retreat of glaciers, thawing permafrost, and a marked decline in snow depths. The [second Austrian Climate Change Assessment Report](url), published in June 2025, shows that the country has already warmed by 3.1°C – with dramatic consequences for the population and the economy. Fostering sustainable development in tourism therefore requires well-founded knowledge of local climate risks. 
+Climate change poses growing challenges for tourism worldwide, significantly altering travel behaviour and the landscape of tourism offerings. The Alpine region is particularly affected by these developments, evident for example in the rapid retreat of glaciers, thawing permafrost, and a marked decline in snow depths. The [second Austrian Climate Change Assessment Report](url), published in June 2025, shows that the country has already warmed by 3.1°C – with dramatic consequences for the population and the economy. Fostering sustainable development in tourism therefore requires well-founded knowledge of local climate hazards. 
 
 Planning and evaluating scenarios and climate-smart options for action require specific climate data and indicators to be combined with tourism-specific data. The Climate Change Explorer for Tourism (CCET) is designed to provide decision-makers in Austria's tourism regions with a user-friendly picture of the expected impacts of climate change, and an assessment of climate-related risk factors, based on climatic data alongside satellite-derived geoinformation. 
 
@@ -22,7 +22,6 @@ Stakeholder workshops distilled a wide range of user stories into three use case
 **“How can we factor climate change into tourism planning and development in Austria?”** 
 
 ## The bigger picture 
-
 Beyond the three use cases, the project's operational concept frames a set of longer-term goals for the tool – addressing the challenges of climate change through informed decisions, better planning and greater awareness: 
 
 - **Tourism management**: supporting sustainable planning and adapting tourism offerings and infrastructure, balancing economic and ecological goals. 
@@ -34,23 +33,20 @@ Beyond the three use cases, the project's operational concept frames a set of lo
 - **Risk management**: as real-time and forecast data are integrated, supporting earlier warnings and better-prepared responses to extreme weather and natural hazards. 
 
 - **Research and development**: providing data access and analysis tools that researchers can use to study patterns, test hypotheses and generate new insights. 
-
 - **Economic opportunity**: giving businesses and investors a basis for sustainable planning and investment decisions. 
 
 - **Transparency and collaboration**: encouraging open data-sharing and joint problem-solving across government, science and industry.
 
 ## The three use cases
-
 Explore each use case in detail on its own page: 
 
 - **Use Case 1 – Climate Changes**: how the climate in a given region is changing, using indicators such as hot days, tropical nights and strong precipitation days. 
 
-- **Use Case 2 – Climate Threats**: how exposed tourism destinations are to climate-related risks, from declining snow cover to flooding and heat stress. 
+- **Use Case 2 – Climate Hazards**: how exposed tourism destinations are to climate-related hazards, from declining snow cover to flooding and heat stress. 
 
 - **Use Case 3 – Tourism Indicators**: how climate change is already reflected in visitor demand, by linking climate data with overnight-stay forecasts.
 
 ## Who it's for
-
 Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
 
 - **Cable car and ski resort operators**: assessing snow reliability, planning snowmaking and investment. 
@@ -79,6 +75,7 @@ Across all three use cases, the Climate Change Explorer for Tourism offers the s
 - **Dowload**: use data for your own analysis and applications. 
 
 *Note: the tool does not yet operate in real time at this stage of the project.*
+
 ## How the tool works
 Behind the three use cases lies a five-stage operating model that turns raw data into decision support: 
 
@@ -91,6 +88,7 @@ Behind the three use cases lies a five-stage operating model that turns raw data
 **4. Analysis and visualisation**: results are shown as choropleth maps and charts within the GTIF framework, with filters and a comparison mode for different regions, parameters or time periods. 
 
 **5. Decision support and monitoring**: thresholds and alerts, scenario calculators and structured reports translate the data into concrete options for tourism regions, policymakers and funding bodies.
+
 ## The three use cases at a glance
 Each use case draws on different datasets and time horizons, chosen to suit its particular question:
 
