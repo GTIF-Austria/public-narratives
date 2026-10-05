@@ -37,7 +37,6 @@ The layer “snow depth changes” shows the percentage of recent gain or loss o
  
 - **Heat episodes**: A heatwave according to Kysely (Kysely episode) is identified as soon as the maximum temperature exceeds 30 °C on at least three consecutive days and persists for as long as the average maximum temperature over the entire episode remains above 30 °C and the maximum temperature on any given day does not fall below 25 °C. The figure given is the total number of days falling within a Kysely episode. Data source: SPARTACUS (Spatiotemporal Reconstruction Dataset of Climate in Austria)
 
-
 ## Benefit for users 
 Tourism regions gain a long-term, evidence-based picture of climate hazards across the whole region, supporting decisions on adapting tourism infrastructure. 
 
