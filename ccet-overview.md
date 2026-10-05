@@ -28,7 +28,7 @@ Beyond the three use cases, the project's operational concept frames a set of lo
 
 - **Transparency and collaboration**: encouraging open data-sharing and joint problem-solving across government, science and industry.
 
-## Exploring Alpine Vulnerability <!--{ as="eox-map" mode="tour" position="right" }-->
+## Use Case 1 - Climate Indicators <!--{ as="eox-map" mode="tour" position="right" }-->
 
 ### <!--{  }-->
 #### 
