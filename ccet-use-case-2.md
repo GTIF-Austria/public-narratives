@@ -13,7 +13,7 @@ The Climate Change Explorer for Tourism (CCET) is a joint initiative by GeoVille
 
 ## What it's about
 
-This use case assesses the exposure of tourism destinations to climate-related threats – in other words, how vulnerable a given destination is becoming as the climate changes.
+This use case assesses the exposure of tourism destinations to climate-related hazards – in other words, how vulnerable a given destination is becoming as the climate changes.
 
 ## Benefit for users 
 
