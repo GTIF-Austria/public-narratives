@@ -46,6 +46,12 @@ Explore each use case in detail on its own page:
 
 - **Use Case 3 – Tourism Indicators**: how climate change is already reflected in visitor demand, by linking climate data with overnight-stay forecasts.
 
+Each use case draws on different datasets and time horizons, chosen to suit its particular question:
+
+![Bild (8).png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d89d4f2e2a4350c6c9bf5a499f1ce744dc5534e8/assets/MichaelaLandauer/Bild-8-1790260140287.png)
+
+*Note: Use Case 1 relies on the ÖKS15 climate projections under two future scenarios (RCP4.5/RCP8.5) running to 2100, whereas Use Cases 2 and 3 are built on observed historical data (SNOWGRID-CL, SPARTACUS) combined with recent and forecast tourism data, focused on the present and very near future.*
+
 ## Who it's for
 Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
 
@@ -89,13 +95,6 @@ Behind the three use cases lies a five-stage operating model that turns raw data
 
 **5. Decision support and monitoring**: thresholds and alerts, scenario calculators and structured reports translate the data into concrete options for tourism regions, policymakers and funding bodies.
 
-## The three use cases at a glance
-Each use case draws on different datasets and time horizons, chosen to suit its particular question:
-
-![Bild (8).png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d89d4f2e2a4350c6c9bf5a499f1ce744dc5534e8/assets/MichaelaLandauer/Bild-8-1790260140287.png)
-
-*Note: Use Case 1 relies on the ÖKS15 climate projections under two future scenarios (RCP4.5/RCP8.5) running to 2100, whereas Use Cases 2 and 3 are built on observed historical data (SNOWGRID-CL, SPARTACUS) combined with recent and forecast tourism data, focused on the present and very near future.*
-
 ## CCET and Austria's Vision T 
 In June 2026, the Federal Ministry for Economic Affairs, Energy and Tourism presented Vision T, Austria's national tourism strategy to 2035, structured around five strategic fields of action. The project's own operational concept explicitly names Vision T as a reference use case for the tool, and four of the five fields connect directly to what the CCET delivers: 
 
@@ -111,4 +110,4 @@ Overall, four of Vision T's five strategic fields connect to the CCET – only L
 ## Outlook
 The project's operational concept also outlines ideas under discussion for further development: daily data feeds from the Green Data Hub and the Österreich Werbung Tourism Data Space, an AI assistant to help translate data into concrete actions, role-based access for different user groups, and usage-based recommendations. These are exploratory directions, not features of the current tool.
 ## In summary
-Together, the three use cases make climate change tangible for Austria's tourism sector in three complementary steps: Use Case 1 shows how the climate itself is changing; Use Case 2 shows what risks this creates for destinations, starting with the decline in snow cover; and Use Case 3 shows how these changes are already reflected in visitor demand. Taken together, the Climate Change Explorer for Tourism gives tourism regions, destinations, businesses and public administration an evidence-based foundation for climate-smart planning.
+Together, the three use cases make climate change tangible for Austria's tourism sector in three complementary steps: Use Case 1 shows how the climate itself is changing; Use Case 2 shows what hazards this creates for destinations, starting with the decline in snow cover; and Use Case 3 shows how these changes are already reflected in visitor demand. Taken together, the Climate Change Explorer for Tourism gives tourism regions, destinations, businesses and public administration an evidence-based foundation for climate-smart planning.
