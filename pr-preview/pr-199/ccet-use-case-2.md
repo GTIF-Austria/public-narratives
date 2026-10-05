@@ -28,6 +28,7 @@ Average snow depth between November and April across Austria is compared between
 The layer “snow depth changes” shows the percentage of recent gain or loss of snow depth in centimeters.
 
 **Spatial resolution**: 1km grid
+
 **Temporal resolution**: mean of November to April from 2011 to 2026 compared to November to April from 1961 to 1990
 
 ## Hazards under consideration
