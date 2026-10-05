@@ -37,4 +37,12 @@ For each decade between 1951 and 2100, the number of days meeting a given climat
 
 - Dry days: days with less than 1 mm of precipitation 
 
-- Strong wind days: days on which the mean wind speed exceeds 11.1 m/s 
+- Strong wind days: days on which the mean wind speed exceeds 11.1 m/s
+
+## Benefit for users
+
+- Tourism regions can compare climate data across several destinations and use this to build long-term strategies for sustainable tourism across an entire region. 
+
+- Individual destinations get a clear picture of how their local climate is changing, informing climate-friendly development strategies. 
+
+- Because projections run to 2100 under two scenarios, destinations can weigh a moderate against a high-emissions future and plan infrastructure adaptations accordingly, well ahead of time. 
