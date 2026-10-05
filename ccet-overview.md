@@ -53,7 +53,7 @@ Beyond the three use cases, the project's operational concept frames a set of lo
 ## The three use cases
 Explore each use case in detail on its own page: 
 
-- **[Use Case 1 – Climate Changes](url)**: how the climate in a given region is changing, using indicators such as hot days, tropical nights and strong precipitation days. 
+- **[Use Case 1 – Climate Changes](https://gtif-austria.info/explore?indicator=climate_indicators&x=13.3000&y=47.7675&z=8.2272&template=light&datetime=2026-05-26)**: how the climate in a given region is changing, using indicators such as hot days, tropical nights and strong precipitation days. 
 
 - **[Use Case 2 – Climate Hazards](url)**: how exposed tourism destinations are to climate-related hazards, from declining snow cover to flooding and heat stress. 
 
