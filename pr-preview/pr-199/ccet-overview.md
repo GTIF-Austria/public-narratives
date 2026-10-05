@@ -28,6 +28,28 @@ Beyond the three use cases, the project's operational concept frames a set of lo
 
 - **Transparency and collaboration**: encouraging open data-sharing and joint problem-solving across government, science and industry.
 
+## Exploring Alpine Vulnerability <!--{ as="eox-map" mode="tour" position="right" }-->
+
+### <!--{  }-->
+#### 
+
+
+### <!--{  }-->
+#### 
+
+
+### <!--{  }-->
+#### 
+
+
+### <!--{  }-->
+#### 
+
+
+### <!--{  }-->
+#### 
+
+
 ## The three use cases
 Explore each use case in detail on its own page: 
 
@@ -42,12 +64,6 @@ Each use case draws on different datasets and time horizons, chosen to suit its 
 ![Bild (8).png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d89d4f2e2a4350c6c9bf5a499f1ce744dc5534e8/assets/MichaelaLandauer/Bild-8-1790260140287.png)
 
 *Note: Use Case 1 relies on the ÖKS15 climate projections under two future scenarios (RCP4.5/RCP8.5) running to 2100, whereas Use Cases 2 and 3 are built on observed historical data (SNOWGRID-CL, SPARTACUS) combined with recent and forecast tourism data, focused on the present and very near future.*
-
-## Overview of Austrian Tourism Regions <!--{ as="eox-map" mode="tour" position="right" }-->
-
-### <!--{  }-->
-#### 
-
 
 ## Who it's for
 Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
