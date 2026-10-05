@@ -55,7 +55,7 @@ Explore each use case in detail on its own page:
 
 - **[Use Case 1 – Climate Changes](https://gtif-austria.info/explore?indicator=climate_indicators&x=13.3000&y=47.7675&z=8.2272&template=light&datetime=2026-05-26)**: how the climate in a given region is changing, using indicators such as hot days, tropical nights and strong precipitation days. 
 
-- **[Use Case 2 – Climate Hazards](url)**: how exposed tourism destinations are to climate-related hazards, from declining snow cover to flooding and heat stress. 
+- **[Use Case 2 – Climate Hazards](https://gtif-austria.info/explore?indicator=tourism_uc2_stats&x=13.3000&y=47.7675&z=8.2272&datetime=2030-01-01&template=light)**: how exposed tourism destinations are to climate-related hazards, from declining snow cover to flooding and heat stress. 
 
 - **[Use Case 3 – Tourism Indicators](url)**: how climate change is already reflected in visitor demand, by linking climate data with overnight-stay forecasts.
 
