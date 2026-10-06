@@ -7,12 +7,12 @@ provider: narrative_provider1,narrative_provider2
 ---
 
 # Climate Change Explorer for Tourism <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a119e16f897695fb696bb1d963ff901183c7332e/assets/MichaelaLandauer/CCETUC-2Climate-threats-1790866217063.jpg" }-->
-### Use Case 2 - Climate Hazards <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+### Use Case 2 - Climate Hazards
 
-The Climate Change Explorer for Tourism (CCET) is a joint initiative by GeoVille, Österreich Werbung, EOX and BRZ within Digital Twin Austria (GTIF-AT EA), giving Austria's tourism regions a user-friendly picture of climate change impacts and hazards. This page looks at the second of three use cases showcased in the tool.
+## Overview
+The Climate Change Explorer for Tourism (CCET) is a joint initiative by GeoVille, Österreich Werbung, EOX and BRZ within Digital Twin Austria (GTIF-AT EA), giving Austria's tourism regions a user-friendly picture of climate change impacts and risks. This page looks at the first of three use cases showcased in the tool.
 
-## What it's about
-
+## What Use Case 2 is about 
 This use case assesses the increasing exposure of tourism destinations to climate-related hazards – in other words, how vulnerable a given destination is becoming as the climate changes. In this use case, the term “threat” refers to the impact of temperature changes for tourism. In the scope of the project, snow loss has been assessed as one example of these threats. The development of this indicator aims at completing those provided by the [Platform HORA](https://hora.gv.at/#/chwrz:-/bgrau/a-/@47.72463,13.50823,8z) of the BMLUK, already assessing natural hazards and risks all over Austria.
 
 ## The data behind it
