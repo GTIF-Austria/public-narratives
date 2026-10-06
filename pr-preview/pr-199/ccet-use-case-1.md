@@ -1,7 +1,7 @@
 ---
 cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d00b1ba0ec630812811f0fb37cd6df9f655fd8a8/assets/MichaelaLandauer/20260929121021-1790865830383.jpg
 date: 2025-01-01
-theme: Use Case 1 - Climate Indicators
+theme: CCET - Use Case 1: Climate Indicators
 tags: tag1,tag2
 provider: narrative_provider1,narrative_provider2
 ---
