@@ -37,7 +37,7 @@ Beyond the three use cases, the project's operational concept frames a set of lo
 - **Transparency and collaboration**: encouraging open data-sharing and joint problem-solving across government, science and industry.
 
 ## The three Use Cases
-Explore each use case in detail on its own page: 
+Explore each Use Case in detail on its own page: 
 
 - **[Use Case 1 – Climate Indicators](https://gtif-austria.info/explore?indicator=climate_indicators&x=13.3000&y=47.7675&z=8.2272&template=light&datetime=2026-05-26)**: how the climate in a given region is changing, using indicators such as hot days, tropical nights and strong precipitation days. 
 
