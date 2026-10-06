@@ -51,19 +51,6 @@ Each use case draws on different datasets and time horizons, chosen to suit its 
 
 *Note: Use Case 1 relies on the ÖKS15 climate projections under two future scenarios (RCP4.5/RCP8.5) running to 2100, whereas Use Cases 2 and 3 are built on observed historical data (SNOWGRID-CL, SPARTACUS) combined with recent and forecast tourism data, focused on the present and very near future.*
 
-## Who it's for
-Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
-
-- **Cable car and ski resort operators**: assessing snow reliability, planning snowmaking and investment. 
-
-- **Tourism associations and destinations**: developing year-round tourism, timing marketing to the climate calendar. 
-
-- **Hospitality and gastronomy**: optimising seasonal planning, preparing heat protection for guests and staff. 
-
-- **Regional and national policymakers**: shaping funding programmes, tourism strategy and spatial planning with evidence. 
-
-- **Science and research**: validating indicators and helping develop the platform's methodology.
-
 ## What you can do with the tool
 Across all three use cases, the Climate Change Explorer for Tourism offers the same set of interactive functions: 
 
@@ -80,6 +67,19 @@ Across all three use cases, the Climate Change Explorer for Tourism offers the s
 - **Dowload**: use data for your own analysis and applications. 
 
 *Note: the tool does not yet operate in real time at this stage of the project.*
+
+## Who it's for
+Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
+
+- **Cable car and ski resort operators**: assessing snow reliability, planning snowmaking and investment. 
+
+- **Tourism associations and destinations**: developing year-round tourism, timing marketing to the climate calendar. 
+
+- **Hospitality and gastronomy**: optimising seasonal planning, preparing heat protection for guests and staff. 
+
+- **Regional and national policymakers**: shaping funding programmes, tourism strategy and spatial planning with evidence. 
+
+- **Science and research**: validating indicators and helping develop the platform's methodology.
 
 ## How the tool works
 Behind the three use cases lies a five-stage operating model that turns raw data into decision support: 
