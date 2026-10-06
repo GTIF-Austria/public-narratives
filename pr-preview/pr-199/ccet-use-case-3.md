@@ -1,7 +1,7 @@
 ---
 cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/15b40e551592acfb70cc317f4d5ba64f88a36840/assets/MichaelaLandauer/CCETUC3Tourism-indicators-II-1791189337034.jpg
 date: 2025-01-01
-theme: CCET - Use Case 3: Tourism Indicators
+theme: Use Case 3 - Tourism Indicators
 tags: tag1,tag2
 provider: narrative_provider1,narrative_provider2
 ---
