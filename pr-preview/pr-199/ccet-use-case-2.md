@@ -1,5 +1,5 @@
 ---
-cover-image: https://placehold.co/600x400/png
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a119e16f897695fb696bb1d963ff901183c7332e/assets/MichaelaLandauer/CCETUC-2Climate-threats-1790866217063.jpg
 date: 2025-01-01
 theme: Use Case 2 - Climate Hazards
 tags: tag1,tag2
