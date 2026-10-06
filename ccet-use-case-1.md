@@ -7,7 +7,7 @@ provider: narrative_provider1,narrative_provider2
 ---
 
 # Climate Change Explorer for Tourism <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d00b1ba0ec630812811f0fb37cd6df9f655fd8a8/assets/MichaelaLandauer/20260929121021-1790865830383.jpg" }-->
-### Use Case 1 - Climate Indicators <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+### Use Case 1 - Climate Indicators
 
 The Climate Change Explorer for Tourism (CCET) is a joint initiative by GeoVille, Österreich Werbung, EOX and BRZ within Digital Twin Austria (GTIF-AT EA), giving Austria's tourism regions a user-friendly picture of climate change impacts and risks. This page looks at the first of three use cases showcased in the tool.
 
