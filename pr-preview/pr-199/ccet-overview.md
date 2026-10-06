@@ -87,7 +87,7 @@ Behind the three use cases lies a five-stage operating model that turns raw data
 **5. Decision support and monitoring**: thresholds and alerts, scenario calculators and structured reports translate the data into concrete options for tourism regions, policymakers and funding bodies.
 
 ## CCET and Austria's Vision T
-In June 2026, the Federal Ministry for Economic Affairs, Energy and Tourism presented Vision T, Austria's national tourism strategy to 2035, structured around five strategic fields of action. The project's own operational concept explicitly names Vision T as a reference use case for the tool, and four of the five fields connect directly to what the CCET delivers: 
+In June 2026, the Federal Ministry for Economic Affairs, Energy and Tourism presented [Vision T](https://www.bmwet.gv.at/Themen/Tourismus/vision-t.html), Austria's national tourism strategy to 2035, structured around five strategic fields of action. The project's own operational concept explicitly names Vision T as a reference use case for the tool, and four of the five fields connect directly to what the CCET delivers: 
 
 - **Resources & Responsibility**: the strongest fit. This field's 2035 target picture explicitly names temperature changes and weather fluctuations as a new challenge and calls for recognising climate adaptation needs early – precisely what the three CCET use cases are designed to deliver. 
 
