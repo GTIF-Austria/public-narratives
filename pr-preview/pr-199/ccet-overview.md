@@ -31,11 +31,13 @@ Beyond the three use cases, the project's operational concept frames a set of lo
 ## The three Use Cases
 Explore each Use Case in detail on its own page: 
 
-- **[Use Case 1 – Climate Indicators](https://gtif-austria.info/explore?indicator=climate_indicators&x=13.3000&y=47.7675&z=8.2272&template=light&datetime=2026-05-26)**: how the climate in a given region is changing, using indicators such as hot days, tropical nights and strong precipitation days. 
+- **[Use Case 1 – Climate Indicators](https://gtif-austria.info/explore?indicator=climate_indicators&x=13.3000&y=47.7675&z=8.2272&template=light&datetime=2026-05-26)**: 
 
-- **[Use Case 2 – Climate Hazards](https://gtif-austria.info/explore?indicator=tourism_uc2_stats&x=13.3000&y=47.7675&z=8.2272&datetime=2030-01-01&template=light)**: how exposed tourism destinations are to climate-related hazards, from declining snow cover to flooding and heat stress. 
+[**Use Case 1 - Climate Indicators**](https://gtif-austria.info/narratives/use-case-1-climate-indicators):how the climate in a given region is changing, using indicators such as hot days, tropical nights and strong precipitation days.  
 
-- **[Use Case 3 – Tourism Indicators](https://gtif-austria.info/explore?indicator=tourism_uc3_correlation&x=13.7500&y=47.2688&z=7.2410&template=light&datetime=2026-02-15)**: how climate change is already reflected in visitor demand, by linking climate data with overnight-stay forecasts.
+- [**Use Case 2 – Climate Hazards**](https://gtif-austria.info/narratives/use-case-2-climate-hazards): how exposed tourism destinations are to climate-related hazards, from declining snow cover to flooding and heat stress. 
+
+- [**Use Case 3 – Tourism Indicators**](https://gtif-austria.info/narratives/use-case-3-tourism-indicators): how climate change is already reflected in visitor demand, by linking climate data with overnight-stay forecasts.
 
 Each use case draws on different datasets and time horizons, chosen to suit its particular question:
 
