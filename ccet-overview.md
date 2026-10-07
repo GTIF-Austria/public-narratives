@@ -1,3 +1,11 @@
+---
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/82e054c189bcc2619ff308c5268297f4c4474e0d/assets/MichaelaLandauer/CCET-Overview-1790868019973.png
+date: 2025-01-01
+theme: Climate Change Explorer for Tourism
+tags: tag1,tag2
+provider: narrative_provider1,narrative_provider2
+---
+
 # Climate Change Explorer for Tourism <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/82e054c189bcc2619ff308c5268297f4c4474e0d/assets/MichaelaLandauer/CCET-Overview-1790868019973.png" }-->
 #### 
 
