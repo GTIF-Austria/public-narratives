@@ -1,13 +1,5 @@
----
-cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/82e054c189bcc2619ff308c5268297f4c4474e0d/assets/MichaelaLandauer/CCET-Overview-1790868019973.png
-date: 2025-01-01
-theme: Climate Change Explorer for Tourism
-tags: tag1,tag2
-provider: narrative_provider1,narrative_provider2
----
-
 # Climate Change Explorer for Tourism <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/82e054c189bcc2619ff308c5268297f4c4474e0d/assets/MichaelaLandauer/CCET-Overview-1790868019973.png" }-->
-### How climate-related geodata can support sustainable tourism planning and development
+#### 
 
 ## Background: a digital climate twin for tourism
 Climate change poses growing challenges for tourism worldwide, significantly altering travel behaviour and the landscape of tourism offerings. The Alpine region is particularly affected by these developments, evident for example in the rapid retreat of glaciers, thawing permafrost, and a marked decline in snow depths. The **[second Austrian Climate Change Assessment Report**](url), published in June 2025, shows that the country has already warmed by 3.1°C – with dramatic consequences for the population and the economy. Fostering sustainable development in tourism therefore requires well-founded knowledge of local climate hazards. 
@@ -51,19 +43,6 @@ Each use case draws on different datasets and time horizons, chosen to suit its 
 
 *Note: Use Case 1 relies on the ÖKS15 climate projections under two future scenarios (RCP4.5/RCP8.5) running to 2100, whereas Use Cases 2 and 3 are built on observed historical data (SNOWGRID-CL, SPARTACUS) combined with recent and forecast tourism data, focused on the present and very near future.*
 
-## Who it's for
-Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
-
-- **Cable car and ski resort operators**: assessing snow reliability, planning snowmaking and investment. 
-
-- **Tourism associations and destinations**: developing year-round tourism, timing marketing to the climate calendar. 
-
-- **Hospitality and gastronomy**: optimising seasonal planning, preparing heat protection for guests and staff. 
-
-- **Regional and national policymakers**: shaping funding programmes, tourism strategy and spatial planning with evidence. 
-
-- **Science and research**: validating indicators and helping develop the platform's methodology.
-
 ## What you can do with the tool
 Across all three use cases, the Climate Change Explorer for Tourism offers the same set of interactive functions: 
 
@@ -80,6 +59,41 @@ Across all three use cases, the Climate Change Explorer for Tourism offers the s
 - **Dowload**: use data for your own analysis and applications. 
 
 *Note: the tool does not yet operate in real time at this stage of the project.*
+
+## Mapping Austria's Climate Indicators <!--{ as="eox-map" mode="tour" position="right" }-->
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"cloudless-2025;:;EPSG:3857","title":"EOxCloudless 2025","visible":true},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857","attributions":"{ EOxCloudless 2025: <a href=\"//s2maps.eu\" target=\"_blank\">Sentinel-2 cloudless - s2maps.eu</a> by <a href=\"//eox.at\" target=\"_blank\">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2025) }","tileGrid":{"tileSize":[256,256]}}},{"type":"VectorTile","declutter":true,"properties":{"id":"climate_indicators;:;2026-05-26T00:00:00Z;:;Climate Indicators;:;EPSG:3857","title":"Climate Indicators"},"source":{"type":"VectorTile","format":{"type":"MVT"},"url":"https://eoapi.workspace.gtif-eox.hub-otc.eox.at/vector/collections/public.climate_flat_geoms_master/tiles/WebMercatorQuad/{z}/{x}/{y}?scenario=rcp45&metric=hot_days&decade=2051_2060","projection":"EPSG:3857"},"style":{"variables":{"scenario":"rcp45","decade":"2051_2060","month":"jul","selected_elevation":"full","selected_metric":"hot_days","aggregation":"mean","combined_prop":"full_jul_mean","vmin":0,"vmax":10},"tooltip":[{"id":"tourism_region","title":"Region"},{"id":"scenario","title":"Scenario"},{"id":"metric","title":"Metric"},{"id":"full_jul_mean","title":"Value (full | 2051_2060 jul)","decimals":2}],"fill-color":["interpolate",["linear"],["/",["-",["coalesce",["get","full_jul_mean"],0],0],["-",10,0]],0,[254,224,210,1],0.143,[252,187,161,1],0.286,[252,146,114,1],0.429,[251,106,74,1],0.571,[239,59,44,1],0.714,[203,24,29,1],0.857,[165,15,21,1],1,[103,0,13,1]],"stroke-color":"black","stroke-width":1}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels","visible":true},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857","attributions":"{ Overlay: Data &copy; <a href=\"http://www.openstreetmap.org/copyright\" target=\"_blank\">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering &copy; <a href=\"//eox.at\" target=\"_blank\">EOX</a> }","tileGrid":{"tileSize":[256,256]}}}]' zoom="7.2272" center=[13.350100000000001,47.6455] projection="" animationOptions={duration:500}}-->
+#### Tour step title
+Select one or more regions by clicking with the mouse and compare data on climatic parameters such as hot days, tropical nights and heavy precipitation days, as well as decades between 1951 and 2100.
+
+### <!--{  }-->
+#### 
+
+
+### <!--{  }-->
+#### 
+
+
+### <!--{  }-->
+#### 
+
+
+### <!--{  }-->
+#### 
+
+
+## Who it's for
+Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
+
+- **Cable car and ski resort operators**: assessing snow reliability, planning snowmaking and investment. 
+
+- **Tourism associations and destinations**: developing year-round tourism, timing marketing to the climate calendar. 
+
+- **Hospitality and gastronomy**: optimising seasonal planning, preparing heat protection for guests and staff. 
+
+- **Regional and national policymakers**: shaping funding programmes, tourism strategy and spatial planning with evidence. 
+
+- **Science and research**: validating indicators and helping develop the platform's methodology.
 
 ## How the tool works
 Behind the three use cases lies a five-stage operating model that turns raw data into decision support: 
