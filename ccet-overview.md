@@ -7,6 +7,7 @@ provider: narrative_provider1,narrative_provider2
 ---
 
 # Climate Change Explorer for Tourism <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/82e054c189bcc2619ff308c5268297f4c4474e0d/assets/MichaelaLandauer/CCET-Overview-1790868019973.png" }-->
+### How climate-related geodata can support sustainable tourism planning and development
 #### 
 
 ## Background: a digital climate twin for tourism
