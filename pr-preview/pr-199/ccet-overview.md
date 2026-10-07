@@ -66,22 +66,6 @@ Across all three use cases, the Climate Change Explorer for Tourism offers the s
 #### Tour step title
 Select one or more regions by clicking with the mouse and compare data on climatic parameters such as hot days, tropical nights and heavy precipitation days, as well as decades between 1951 and 2100.
 
-### <!--{  }-->
-#### 
-
-
-### <!--{  }-->
-#### 
-
-
-### <!--{  }-->
-#### 
-
-
-### <!--{  }-->
-#### 
-
-
 ## Who it's for
 Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
 
