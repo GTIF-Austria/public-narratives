@@ -61,11 +61,9 @@ To eliminate transient anomalies such as clouds, cloud shadows, and temporary su
 #### 5. OpenStreetMap Infrastructure & Speed Limits
 Road traffic is the dominant driver of urban noise emissions. OpenStreetMap (OSM) vector data provides the road topology, road classification (motorways, primary roads, secondary routes, residential access), and legal maximum speed limits. Extracted as a georeferenced graph, these attributes are clustered and rasterized onto the identical 10 × 10 m grid, serving as primary proxies for traffic volume and tire-pavement rolling noise.
 
-### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15.4395,47.0707] zoom="12" animationOptions="{duration:500}" }-->
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}},{"type":"Tile","properties":{"id":"laerminfo-strasse-22-24h","title":"Lärminfo.at - 2022 Straße 24h (INSPIRE)","visible":true},"source":{"type":"TileWMS","url":"https://inspire.lfrz.gv.at/000804/ows","projection":"EPSG:3857","params":{"LAYERS":"2022_STRASSE_24H_ZONEN_OE","TILED":true,"FORMAT":"image/png","TRANSPARENT":true}}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857"}}]' center=[15.4395,47.0707] zoom="12" animationOptions="{duration:500}" }-->
 #### 6. Strategic Noise Reference Maps (Lärminfo.at / INSPIRE)
 Official strategic road traffic noise maps from the Austrian INSPIRE portal ([Laerminfo.at](https://www.laerminfo.at)) provide the reference data for supervised training and evaluation. Classified in 5 dB bins (<55 dB to >75 dB) and rasterized to the common 10 × 10 m grid, these maps offer high-quality reference data for major roads — while clearly illustrating the administrative boundary where official data ceases outside the municipal core.
-
-<!-- [SUGGESTION / PLACEHOLDER: Connect directly to the Laerminfo.at / INSPIRE WMS service layer (or EOX-hosted GeoTIFF) here to visually overlay the official 5 dB strategic noise contours for Graz.] -->
 
 ## The AI Model: Learning Noise from Space
 
