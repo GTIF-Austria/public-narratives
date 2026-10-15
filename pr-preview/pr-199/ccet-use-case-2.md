@@ -8,7 +8,6 @@ provider: narrative_provider1,narrative_provider2
 
 # Climate Change Explorer for Tourism <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a119e16f897695fb696bb1d963ff901183c7332e/assets/MichaelaLandauer/CCETUC-2Climate-threats-1790866217063.jpg" }-->
 ### Use Case 2 - Climate Hazards
-#### 
 
 ## Overview
 The Climate Change Explorer for Tourism (CCET) is a joint initiative by [**GeoVille**](https://www.geoville.com/), [**Österreich Werbung**](https://b2b.austria.info/de-at/), [**EOX**](https://eox.at/) and [**BRZ**](https://www.brz.gv.at/) within Digital Twin Austria (GTIF-AT EA), giving Austria's tourism regions a user-friendly picture of climate change impacts and hazards. This page looks at the second of three use cases showcased in the tool.
