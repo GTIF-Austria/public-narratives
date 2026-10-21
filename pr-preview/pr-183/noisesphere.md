@@ -47,23 +47,30 @@ The pilot deployment and empirical evaluation of NoiseSphere was conducted acros
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"cloudless-2024;:;EPSG:3857","title":"EOxCloudless 2024"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2024_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857"}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857"}}]' center=[15.4395,47.0707] zoom="12.5" animationOptions="{duration:500}" }-->
 #### 2. Multispectral Sentinel-2 Earth Observation
-Multispectral Earth observation imagery from the European Copernicus Sentinel-2 constellation establishes the optical baseline at 10 × 10 m resolution. Sentinel-2’s ~5-day revisit cycle provides dense temporal coverage across the visible and near-infrared spectrum. Four cloud-free reference acquisitions across 2022 (February, March, June, October) were analyzed to capture seasonal variations in vegetation cover and surface reflectivity.
+The analysis is based on Multispectral Earth observation imagery from the Copernicus Sentinel-2 sattelite. The used resolution is 10m x 10m. Sentinel-2’s ~5-day revisit cycle provides dense temporal coverage across the visible and near-infrared spectrum. To establish vegetation cover and other surface properties all images of 2022 where analysed. The example shows a cloud-free scene from June 2022.
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857"}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857"}}]' center=[15.4395,47.0707] zoom="13" animationOptions="{duration:500}" }-->
 #### 3. Spectral Semantic Categorization (color33)
-Raw optical bands are translated into physical land surface properties using [color33](https://app.color33.io). Unlike black-box clustering, color33 applies a rule-based physical model to identify stable spectral categories (including sealed built-up surfaces, tree canopy, low vegetation, bare ground, and water). These categories directly determine acoustic ground impedance, sound absorption, and multi-path reflection behavior in the outdoor environment.
+Raw optical bands are translated into semantic categories that encode surface properties using [color33](https://app.color33.io). Unlike black-box clustering, color33 applies a rule-based physical model to identify stable spectral categories (e.g. sealed/built-up surfaces, vegetation, bare ground, and water). The map shows the same sample scene after processing with color33.
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857"}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857"}}]' center=[15.4395,47.0707] zoom="13" animationOptions="{duration:500}" }-->
-#### 4. Temporal Aggregation: Mode Layer 2022
-To eliminate transient anomalies such as clouds, cloud shadows, and temporary surface alterations, all Sentinel-2 acquisitions throughout the full year 2022 were aggregated pixel-by-pixel. By selecting the statistical mode (the most frequently observed spectral class for each 10 × 10 m cell), NoiseSphere derives a robust, cloud-free baseline layer characterizing long-term surface properties influencing sound propagation.
+#### 4. Temporal Aggregation of categorized data
+To eliminate non-permanent features such as clouds and temporary surface alterations, all processed Sentinel-2 acquisitions throughout the full year 2022 were aggregated pixelwise. This resulted in two layers - one with a category count per pixel and one with the category that was observed most.
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"terrain-light;:;EPSG:3857","title":"Terrain light"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/terrain-light_3857/default/g/{z}/{y}/{x}.jpeg","projection":"EPSG:3857"}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857"}}]' center=[15.4395,47.0707] zoom="13" animationOptions="{duration:500}" }-->
+#### 5. Temporal Aggregation of categorized data
+To eliminate non-permanent features such as clouds and temporary surface alterations, all processed Sentinel-2 acquisitions throughout the full year 2022 were aggregated pixelwise. This resulted in two layers - one with a category count per pixel and one with the category that was observed most.
+
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15.4395,47.0707] zoom="13.5" animationOptions="{duration:500}" }-->
-#### 5. OpenStreetMap Infrastructure & Speed Limits
+#### 6. OpenStreetMap Infrastructure & Speed Limits
 Road traffic is the dominant driver of urban noise emissions. OpenStreetMap (OSM) vector data provides the road topology, road classification (motorways, primary roads, secondary routes, residential access), and legal maximum speed limits. Extracted as a georeferenced graph, these attributes are clustered and rasterized onto the identical 10 × 10 m grid, serving as primary proxies for traffic volume and tire-pavement rolling noise.
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}},{"type":"Tile","properties":{"id":"laerminfo-strasse-22-24h","title":"Lärminfo.at - 2022 Straße 24h (INSPIRE)","visible":true},"source":{"type":"TileWMS","url":"https://inspire.lfrz.gv.at/000804/ows","projection":"EPSG:3857","params":{"LAYERS":"2022_STRASSE_24H_ZONEN_OE","TILED":true,"FORMAT":"image/png","TRANSPARENT":true}}},{"type":"Tile","properties":{"id":"overlay_bright;:;EPSG:3857","title":"Overlay labels"},"source":{"type":"XYZ","url":"https://s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png","projection":"EPSG:3857"}}]' center=[15.4395,47.0707] zoom="12" animationOptions="{duration:500}" }-->
-#### 6. Strategic Noise Reference Maps (Lärminfo.at / INSPIRE)
+#### 7. Strategic Noise Reference Maps (Lärminfo.at / INSPIRE)
 Official strategic road traffic noise maps from the Austrian INSPIRE portal ([Laerminfo.at](https://www.laerminfo.at)) provide the reference data for supervised training and evaluation. Classified in 5 dB bins (<55 dB to >75 dB) and rasterized to the common 10 × 10 m grid, these maps offer high-quality reference data for major roads — while clearly illustrating the administrative boundary where official data ceases outside the municipal core.
+
+![Lärminfo.at Strategic Noise Map Legend](https://inspire.lfrz.gv.at/000804/ows?service=WMS&version=1.3.0&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=2022_STRASSE_24H_ZONEN_OE)
 
 ## The AI Model: Learning Noise from Space
 
@@ -114,7 +121,7 @@ To capture authentic soundscapes across varying urban fabrics, the research team
 
 <!-- [WMS/WFS SERVICE PLACEHOLDER: Connect dynamic WMS/WFS endpoint for in-situ measurement points once published on GTIF] -->
 
-## In-Situ Ground Truth Tour <!--{ as="eox-map" mode="tour" }-->
+## In-Situ noise measurements <!--{ as="eox-map" mode="tour" }-->
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15.443,47.067] zoom="16.5" animationOptions="{duration:500}" }-->
 #### 1. Urban Transit Hub: Jakominiplatz
