@@ -4,6 +4,7 @@
 ## Product description
 High quality data on solar radiation is an essential input for a wide range of applications in the context of energy and mobility transitions, sustainable energy planning and climate change adaption.
 
+
 These solar potential forecasts offer significant benefits for energy management and grid stability. Forecasted radiation data can enable predictive control of heat pumps and thermal storage systems, improve conditions for selling surplus energy and support better planning for electric vehicle charging. The 30-hour forecasts also contribute to grid stability by allowing for the regulation of PV peaks through other power plants or supplementary loads. In the long term, this information could also enhance transaction optimization at electricity markets.
 
 Furthermore, warnings can be developed and integrated to notify when a covering layer (such as snow or dust) is likely to impact efficiency.
