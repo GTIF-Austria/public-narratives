@@ -56,9 +56,9 @@ For more Information: [gtime.sen2cube.at](https://gtime.sen2cube.at/)
 
 Project: [GTIF Austria](https://gtif-austria.info) – Copernicus Temporal Spectrum: Multitemporal Vegetation Change Dynamics, FFG project number: FO999918383, Call: Digitaler Zwilling Österreich
 
-Paris Lodron University Salzburg, Depart. of Geoinformatics
+University Salzburg, Depart. of Geoinformatics
 
-![](https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/logo-ZGIS-1741677835182.png)
+![](https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/logo-ZGIS-2362471352722.png)
 
 ![](https://raw.githubusercontent.com/GTIME-25/public-narratives/GTIME-25/multitemporal-vegetation-change-dynamics-across-all-sentinel-2-observations/assets/GTIME-25/logo-SPASE-1741677830244.png)
 
