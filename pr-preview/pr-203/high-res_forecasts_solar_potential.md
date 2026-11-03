@@ -1,5 +1,14 @@
+---
+cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp
+domain: Energy Transition
+tags:  photovolatic, remote sensing, STRAHLGRID
+provider: GeoSphere
+---
+
 # High-resolution Forecasts of Solar Potential <!--{ as="img" mode="hero" src="" }-->
 #### 
+
+
 
 ## Introduction
 This service provides high-resolution information on solar radiation and theoretical photovoltaic potential. It combines meteorological data, high-resolution geospatial information and physical modelling approaches. Factors considered include topographic influences, local shading and weather-related conditions such as temperature, wind, dust and snow. This enables spatially and temporally differentiated analyses of solar energy potential.
