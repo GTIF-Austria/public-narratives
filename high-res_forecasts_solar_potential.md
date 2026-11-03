@@ -15,6 +15,14 @@ Building on the solar radiation information, theoretical photovoltaic potential 
 By combining these data and models, the service produces a detailed representation of solar energy potential that makes both spatial differences and temporal changes visible. It therefore enables a differentiated assessment of solar radiation and theoretical photovoltaic potential under changing environmental and weather conditions.
 
 
+## Workflow 
+The processing chain brings together solar radiation calculations, spatial refinement and photovoltaic modelling. Additional modules can be used to incorporate estimates of dust- and snow-related effects.
+
+![workflow_eng.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/19eeaee6e2bf8bbd2a2ac61d27693b086ac9cbe5/assets/vseitner/workfloweng-1793716854352.png)
+
+## Examples
+
+
 
 
 
