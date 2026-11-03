@@ -1,15 +1,22 @@
 # High-resolution Forecasts of Solar Potential <!--{ as="img" mode="hero" src="" }-->
 #### 
 
-## Product description
-High quality data on solar radiation is an essential input for a wide range of applications in the context of energy and mobility transitions, sustainable energy planning and climate change adaption.
+## Introduction
+
+This service provides high-resolution information on solar radiation and theoretical photovoltaic potential. It combines meteorological data, high-resolution geospatial information and physical modelling approaches. Factors considered include topographic influences, local shading and weather-related conditions such as temperature, wind, dust and snow. This enables spatially and temporally differentiated analyses of solar energy potential.
+
+## Service Description
+Solar energy availability is influenced by a range of meteorological and geographical factors. In addition to solar radiation and current weather conditions, the geographical characteristics of a location play an important role. Topography, terrain orientation and shading from buildings or vegetation affect the amount of solar radiation available at a given surface. Temperature, wind, dust deposition and snow cover can also influence the performance of photovoltaic systems.
+
+To represent these different influencing factors together, the service combines meteorological data, high-resolution geospatial information and physical modelling approaches. On this basis, near-surface solar radiation and theoretical photovoltaic generation potential are calculated and represented in a spatially and temporally differentiated way.
+The calculations are based on STRAHLGRID, a solar radiation model developed by GeoSphere Austria. It calculates direct, diffuse and global radiation while taking atmospheric conditions, cloud cover and topographic effects into account. The integration of high-resolution digital surface models further refines the calculations. This makes it possible to account not only for large-scale topography but also for local shading effects caused by buildings, structures and trees. The spatial resolution of the radiation information can thereby be increased from 100 metres to as fine as one metre.
+
+Building on the solar radiation information, theoretical photovoltaic potential is estimated using temperature and wind forecasts. In addition, model-based information on potential performance reductions caused by dust deposition and snow cover on photovoltaic modules can be incorporated. This means that the assessment takes account of further relevant influences alongside meteorological and geographical conditions.
+By combining these data and models, the service produces a detailed representation of solar energy potential that makes both spatial differences and temporal changes visible. It therefore enables a differentiated assessment of solar radiation and theoretical photovoltaic potential under changing environmental and weather conditions.
 
 
-These solar potential forecasts offer significant benefits for energy management and grid stability. Forecasted radiation data can enable predictive control of heat pumps and thermal storage systems, improve conditions for selling surplus energy and support better planning for electric vehicle charging. The 30-hour forecasts also contribute to grid stability by allowing for the regulation of PV peaks through other power plants or supplementary loads. In the long term, this information could also enhance transaction optimization at electricity markets.
 
-Furthermore, warnings can be developed and integrated to notify when a covering layer (such as snow or dust) is likely to impact efficiency.
 
-The starting point for calculating the solar potential is the GeoSphere Austria radiation model *STRAHLGRID*. *STRAHLGRID* calculates direct and diffuse radiation (and their sum, global radiation) on horizontal and real surfaces in the spectral range of 0.3 to 3 µm. The model accounts for atmospheric turbidity effects (e.g. water vapor and aerosols), cloud cover and horizon shading. The cloud parametrization is derived from the calibration of satellite cloud data with ground based radiation measurements. For the calculations, a high-quality digital elevation model is used to account for topographic effects, alongside meteorological input data (integrated water vapor content, air pressure and cloud cover) to adress atmospheric effects. For the meteorological input data, forecast data from AROME/INCA is used as initial data. 
 
 ![infodienst_solar_step1](https://github.com/user-attachments/assets/d85df220-58a1-400d-9faa-bbcb1cd1e664)
 
@@ -25,6 +32,13 @@ _Fig 3: Example output of solar potential. 1300 UTC of an arbitrary day._
 
 ![infodienst_solar_potential_step2](https://github.com/user-attachments/assets/5e93041a-39d0-4d48-9469-5c1a86939032)
 _Fig 4: Example output of solar potential. 1400 UTC of an arbitrary day._
+
+## Data and Modelling Overview
+The processing chain brings together solar radiation calculations, spatial refinement and photovoltaic modelling. Additional modules can be used to incorporate estimates of dust- and snow-related effects.
+
+
+
+## Snow and Dust Infromation
 
 And addiation feature of this product is, that not only the solar potential can be calculated, but also warnings on snow and dust covers can be provided. These warnings are genereted through the integration of GeoSphere Austria's operational snow model *SNOWGRID*, and dust forecasts from *WRF-Chem*.
 
