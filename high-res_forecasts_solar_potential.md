@@ -1,17 +1,14 @@
 ---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp
 domain: Energy Transition
-tags:  photovolatic, remote sensing, STRAHLGRID
+tags:  photovolatic, remote sensing, solar radiation
 provider: GeoSphere
 ---
 
-# High-resolution Forecasts of Solar Potential <!--{ as="img" mode="hero" src="" }-->
-#### 
+# High-resolution High-resolution Forecasts of Solar Potential <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp"}-->
 
+Every location tells a different story when it comes to solar energy. The amount of sunlight reaching a surface is shaped not only by weather, but also by terrain, surrounding features and local environmental conditions. By combining high-resolution geospatial and meteorological data with physical modelling, this service brings these elements together to uncover the solar radiation and photovoltaic potential of any given area. The result is a detailed spatial and temporal perspective on where solar energy potential lies and how it changes over time.
 
-
-## Introduction
-This service provides high-resolution information on solar radiation and theoretical photovoltaic potential. It combines meteorological data, high-resolution geospatial information and physical modelling approaches. Factors considered include topographic influences, local shading and weather-related conditions such as temperature, wind, dust and snow. This enables spatially and temporally differentiated analyses of solar energy potential.
 
 ## Service Description
 Solar energy availability is influenced by a range of meteorological and geographical factors. In addition to solar radiation and current weather conditions, the geographical characteristics of a location play an important role. Topography, terrain orientation and shading from buildings or vegetation affect the amount of solar radiation available at a given surface. Temperature, wind, dust deposition and snow cover can also influence the performance of photovoltaic systems.
@@ -75,10 +72,10 @@ The model chain for Austria is implemented as default. The model can be adapted 
 #### 
 
 ## Available services
-* **Free Version** <br>
-Example forecasts for selected Austrian cities during project runtime. Long term strategy TBD.
-* **Commercial Service**<br>
-Service on demand. Please contact: Kundenservice GeoSphere Austria
+1. **Free Version** <br>
+Example forecasts for selected Austrian cities during project runtime.
+2. **Commercial version:** upon request, please contact [Gerhard Wotawa](mailto:gerhard.wotawa@geosphere.at), [Bernhard Niedermoser](mailto:bernhard.niedermoser@geosphere.at)
+
 
 # References <!--{ as="img" mode="hero" src="" }-->
 #### 
