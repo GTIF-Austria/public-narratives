@@ -48,3 +48,6 @@ Tourism regions gain a long-term, evidence-based picture of climate hazards acro
 Individual destinations can see, cell by cell, how far their local snow cover has already declined – valuable evidence for decisions on snowmaking, resource planning and diversification into snow-independent offerings. 
 
 As further hazards such as flooding, avalanches or heat stress are added, destinations will increasingly be able to weigh up several climate hazards together, rather than assessing each in isolation.
+
+![Bild (6).png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/7c50b4e38227260c495eeb622ac4379d2c9cf52d/assets/MichaelaLandauer/Bild-6-1793798933282.png)
+Using the SNOWGRID-CL and HORA datasets, users can compare several Austrian destinations in terms of the risk of snow decline, avalanches or flooding.
