@@ -15,6 +15,8 @@ The Climate Change Explorer for Tourism (CCET) is a joint initiative by [**GeoVi
 ## What Use Case 3 is about
 This use case combines climate indicators with tourism-related metrics, helping to interpret how climate change may already be affecting tourism in practice – arguably the question of most direct interest to destinations and tourism professionals. 
 
+**Explore the Tourism Indicators dataset [HERE](url).**
+
 ## The data behind it
 
 Observed daily precipitation and maximum temperature come from [GeoSphere Austria's SPARTACUS v2.1 dataset](https://data.hub.geosphere.at/dataset/spartacus-v2-1d-1km) (a 1 km grid, daily since 1961). These are combined with snow depth data – the same [SNOWGRID-CL dataset](https://data.hub.geosphere.at/dataset/snowgrid_cl-v2-1d-1km) used in Use Case 2, considered only during the winter season (November to April) – and with a daily forecast of overnight stays supplied by Österreich Werbung at tourism-destination level. All three data streams are spatially aggregated to Austria's tourism destinations for the period 2023–2026 and linked together, resulting in a combined dataset of climate and tourism indicators covering both winter and summer seasons, on a daily basis, from 1 January 2023 to 15 February 2026.
