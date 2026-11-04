@@ -26,8 +26,6 @@ Stakeholder workshops distilled a wide range of user stories into three use case
 #### Hot days in Austria 2051-2060
 The map shows the projected number of hot days (> 30° Celsius) in July in Austria between 2051 and 2060, based on a moderate climate scenario (RCP 4.5). The darker the colour, the hotter the region. Gaps in the map indicate that some municipalities cannot be assigned to a tourist destination.
 
-
-
 ## The bigger picture
 Beyond the three use cases, the project's operational concept frames a set of longer-term goals for the tool – addressing the challenges of climate change through informed decisions, better planning and greater awareness: 
 
@@ -75,6 +73,9 @@ Across all three use cases, the Climate Change Explorer for Tourism offers the s
 - **Dowload**: use data for your own analysis and applications. 
 
 *Note: the tool does not yet operate in real time at this stage of the project.*
+
+![Bild (5).png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/cd847cffcb90173936b99ae4ff9487eea77f8293/assets/MichaelaLandauer/Bild-5-1793788455887.png)
+The dataset also allows for a comparison between two destinations: in this case, Innsbruck and its holiday villages, and the Mostviertel region.
 
 ## Who it's for
 Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
