@@ -75,7 +75,7 @@ Across all three use cases, the Climate Change Explorer for Tourism offers the s
 *Note: the tool does not yet operate in real time at this stage of the project.*
 
 ![Bild (5).png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/cd847cffcb90173936b99ae4ff9487eea77f8293/assets/MichaelaLandauer/Bild-5-1793788455887.png)
-The dataset also allows for a comparison between two destinations: in this case, Innsbruck and its holiday villages, and the Mostviertel region.
+The dataset also allows for a comparison between two destinations: in this case, Innsbruck and its holiday villages (in blue), and the Mostviertel region (in orange).
 
 ## Who it's for
 Beyond tourism regions, destinations, businesses and municipalities, the project's operational concept names a wider circle of users who benefit from the tool: 
