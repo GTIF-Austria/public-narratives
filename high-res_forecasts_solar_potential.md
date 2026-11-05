@@ -54,7 +54,13 @@ _Fig 4: Example output of solar potential. 1400 UTC of an arbitrary day._
 
 The following figures show examples of global radiation and theoretical solar potential for the municipality of Baden on 5 March 2026. Comparing the 100 m and 1 m resolutions illustrates how local terrain, buildings and vegetation effects become more apparent at the finer resolution.
 
-![Glo_real_100m_1 ](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/19eeaee6e2bf8bbd2a2ac61d27693b086ac9cbe5/assets/vseitner/GLO_real_100m_Baden_cropped_2026-03-05-1100.png) ![Glo_real_100m_2](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/19eeaee6e2bf8bbd2a2ac61d27693b086ac9cbe5/assets/vseitner/GLO_real_100m_Baden_cropped_2026-03-05-1400.png)
+| <sub>**11:00 UTC**<sub> | <sub>**14:00  UTC**<sub> |
+|:---:|:---:|
+| ![GLO_real_100m_Baden_cropped_2026-03-05-1100.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/e5d3580f1ff0a325cd158d6c42af78125f713eda/assets/vseitner/GLOreal100mBadencropped2026-03-05-1100-1793867873944.png) <sub> GLO real (100m) <sub> | ![GLO_real_100m_Baden_cropped_2026-03-05-1400.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/87883185bc10345f61da72a4bbf1751f1f16f251/assets/vseitner/GLOreal100mBadencropped2026-03-05-1400-1793867893453.png) <sub> GLO real (100m) <sub>|
+| ![PVpot_100m_Baden_cropped_2026-03-05-1100.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/13219b7e43f973fa596c36de97a2425925436045/assets/vseitner/PVpot100mBadencropped2026-03-05-1100-1793868225287.png) <sub> PV pot (100m) <sub> | ![PVpot_100m_Baden_cropped_2026-03-05-1400.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/0a5d5632feb6625b8549401e343fa4ca2800b119/assets/vseitner/PVpot100mBadencropped2026-03-05-1400-1793868255134.png) <sub> PV pot (100m) <sub>|
+|![glo_real_downscaled_2026-03-05-1100.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/bb48701d3b9e781c19dc0e1e919e39f454e88056/assets/vseitner/glorealdownscaled2026-03-05-1100-1793868489211.png) <sub> GLO real (1m) <sub> | ![glo_real_downscaled_2026-03-05-1400.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/bcc2ce4edd8c540d76a2d594f2c09330d78e60d3/assets/vseitner/glorealdownscaled2026-03-05-1400-1793868513250.png) <sub> GLO real (1m) <sub>|
+| ![pvpot_downscaled_2026-03-05-1100.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/64a3272b2ac1c3b6b6bca15743a409a397b47a88/assets/vseitner/pvpotdownscaled2026-03-05-1100-1793868549275.png) <sub> PV pot (1m) <sub>| ![pvpot_downscaled_2026-03-05-1400.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94ba0d2eb64de943fd3feec0376d62902e48287a/assets/vseitner/pvpotdownscaled2026-03-05-1400-1793868569892.png) <sub> PV pot (1m) <sub>|
+
 
 ## Data and Modelling Overview
 The processing chain brings together solar radiation calculations, spatial refinement and photovoltaic modelling. Additional modules can be used to incorporate estimates of dust- and snow-related effects.
@@ -87,4 +93,4 @@ Example forecasts for selected Austrian cities during project runtime.
 
 
 # References <!--{ as="img" mode="hero" src="" }-->
-#### 
+#### ![PVpot_100m_Baden_cropped_2026-03-05-1400.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ea68ddbe80a250c6cf87690a1f62c97d171d150d/assets/vseitner/PVpot100mBadencropped2026-03-05-1400-1793868234259.png)
