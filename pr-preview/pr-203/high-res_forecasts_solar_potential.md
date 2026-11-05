@@ -1,4 +1,4 @@
----
+W---
 cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp
 domain: Energy Transition
 tags:  photovolatic, remote sensing, solar radiation
@@ -9,12 +9,12 @@ provider: GeoSphere
 
 Every location tells a different story when it comes to solar energy. The amount of sunlight reaching a surface is shaped not only by weather, but also by terrain, surrounding features and local environmental conditions. By combining high-resolution geospatial and meteorological data with physical modelling, this service brings these elements together to uncover the solar radiation and photovoltaic potential of any given area. The result is a detailed spatial and temporal perspective on where solar energy potential lies and how it changes over time.
 
-## The service ...
+## About the service
 
-##### What influences solar energy potential?
+##### What influences the solar energy potential?
 
 <div id="user-content-toc">
-🌅 <strong>Sun and weather</strong>
+🌅 <strong>Sun and Weather</strong>
   <ul>
     ☀️ solar radiation<br>
     ☁️ cloud cover<br>
@@ -25,9 +25,21 @@ Every location tells a different story when it comes to solar energy. The amount
   </ul>
 </div>
 
+<div id="user-content-toc">
+🌅 <strong>Geographic Conditons</strong>
+  <ul>
+    🏔️ topography<br>
+    🧭 terrain orientation<br>
+    🌥️ shading<br>
+    🏢 buildings<br>
+    🌳 vegetation
+  </ul>
+</div>
+
+
 
 ## Service Description
-Solar energy availability is influenced by a range of meteorological and geographical factors. In addition to solar radiation and current weather conditions, the geographical characteristics of a location play an important role. Topography, terrain orientation and shading from buildings or vegetation affect the amount of solar radiation available at a given surface. Temperature, wind, dust deposition and snow cover can also influence the performance of photovoltaic systems.
+
 
 To represent these different influencing factors together, the service combines meteorological data, high-resolution geospatial information and physical modelling approaches. On this basis, near-surface solar radiation and theoretical photovoltaic generation potential are calculated and represented in a spatially and temporally differentiated way.
 The calculations are based on STRAHLGRID, a solar radiation model developed by GeoSphere Austria. It calculates direct, diffuse and global radiation while taking atmospheric conditions, cloud cover and topographic effects into account. The integration of high-resolution digital surface models further refines the calculations. This makes it possible to account not only for large-scale topography but also for local shading effects caused by buildings, structures and trees. The spatial resolution of the radiation information can thereby be increased from 100 metres to as fine as one metre.
