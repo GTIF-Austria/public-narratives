@@ -128,7 +128,9 @@ This service is provided by [GeoSphere Austria](https://www.geosphere.at/en).
 Example forecasts for selected muncipality during project runtime.
 2. **Commercial version:** upon request, please contact [Gerhard Wotawa](mailto:gerhard.wotawa@geosphere.at), [Bernhard Niedermoser](mailto:bernhard.niedermoser@geosphere.at)
 
-##### Scientific Background and References
+###### Scientific Background and References
+<div style="font-size: 10px; line-height: 1.3;">
+
 * Seitner et al. (2024): STRAHLGRID, a solar radiation model with applications across different spatial scales. https://doi.org/10.5194/ems2024-366
 * Hieden et al. (2011): The Integrated Nowcasting through Comprehensive Analysis (INCA) System and its validation over the Eastern Alpine Region. DOI: 10.1175/2010WAF2222451.1
 * Göbel et al. (2022): Development of a very high resolution solar radiation cadaster for estimating solar energy potential across the entire federal state of Salzburg, Austria. https://doi.org/10.5194/ems2022-396
@@ -136,5 +138,5 @@ Example forecasts for selected muncipality during project runtime.
 * Olefs et al. (2020): Changes in snow depth, snow cover duration, and potential snowmaking conditions in Austria, 1961–2020 – a model based approach. Atmosphere, 11(12), 1330. https://doi.org/10.3390/atmos11121330
 * HSU Soiling Model, pvlib-python documentation: https://pvlib-python.readthedocs.io/en/latest/reference/generated/pvlib.soiling.hsu.html
 * NREL Snow Model, pvlib-python documentation: https://pvlib-python.readthedocs.io/en/stable/reference/effects_on_pv_system_output/snow.html
-
+</div>
 
