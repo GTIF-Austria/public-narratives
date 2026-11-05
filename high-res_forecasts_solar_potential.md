@@ -45,12 +45,18 @@ This service combines meteorological data, high-resolution geospatial informatio
 <div style="flex:1; background:#FFFACD; padding:16px; border-radius:10px;">
     <h5> ☀️ ️Radiation Modelling</h5>
     <p> STRAHLGRID model <br> --> caluclation of direct, diffuse and global radiation <br> --> <strong>100x100m</strong> spatial resolution
-    <p> Downscaling to <strong>building scale</strong> can be performed.
+    <p> Downscaling to <strong>1x1m</strong> can be performed to include <strong>shading</strong> effects of <strong>buildings</strong> and <strong>vegetation</strong>.
   </div>
 
 <br>
 
-
+<div style="flex:1; background:#C1E1C1; padding:16px; border-radius:10px;">
+    <h5> 🔋 PV potential Modelling</h5>
+    <p>This combines solar radiation output with <strong>temperature</strong> and <strong>wind</strong> forecasts. </p>
+    <p>💨 Wind</p>
+    <p>🌫️ Dust</p>
+    <p>❄️ Snow cover</p>
+  </div>
 
 ## Service Description
 
@@ -59,7 +65,7 @@ This service combines meteorological data, high-resolution geospatial informatio
 
 <div style="flex:1; background:#DCEEFF; padding:16px; border-radius:10px;">
     <h3>🌡️ 2. PV Modelling</h3>
-    <p>🌡️ Temperature</p>
+    <p>This combines solar radiation output with <strong>temperature</strong> and <strong>wind</strong> forecasts. <br>
     <p>💨 Wind</p>
     <p>🌫️ Dust</p>
     <p>❄️ Snow cover</p>
