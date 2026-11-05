@@ -42,9 +42,6 @@ This service combines meteorological data, high-resolution geospatial informatio
 
 The processing chain brings together solar radiation calculations, spatial refinement and photovoltaic modelling. Additional modules can be used to incorporate estimates of dust- and snow-related effects.
 
-
-<br>
-
 <div style="flex:1; background:#FFFACD; padding:16px; border-radius:10px;">
     <h5> ☀️ ️Radiation Information</h5>
     <p> Radiation modelling is done with the STRAHLGRID model <br> --> caluclation of direct, diffuse and global radiation <br> --> <strong>100x100m</strong> spatial resolution
@@ -74,9 +71,9 @@ The processing chain brings together solar radiation calculations, spatial refin
 * **Dust effects:** Model-based estimation of potential soiling of PV modules using particulate matter and precipitation forecasts.
 * **Snow effects:** Model-based estimation of snow coverage and potential associated performance losses, taking snowfall, temperature, irradiance and module inclination into account.
 
-## Examples
+## What might it look like?
 
-### Overview
+##### Overview
 
 ![infodienst_solar_step1](https://github.com/user-attachments/assets/d85df220-58a1-400d-9faa-bbcb1cd1e664)
 
@@ -93,7 +90,7 @@ _Fig 3: Example output of solar potential. 1300 UTC of an arbitrary day._
 ![infodienst_solar_potential_step2](https://github.com/user-attachments/assets/5e93041a-39d0-4d48-9469-5c1a86939032)
 _Fig 4: Example output of solar potential. 1400 UTC of an arbitrary day._
 
-### Examples of spatial representation
+##### Examples of spatial representation
 
 The following figures show examples of global radiation and theoretical solar potential for the municipality of Baden on 5 March 2026. Comparing the 100 m and 1 m resolutions illustrates how local terrain, buildings and vegetation effects become more apparent at the finer resolution.
 
@@ -105,35 +102,39 @@ The following figures show examples of global radiation and theoretical solar po
 | ![pvpot_downscaled_2026-03-05-1100.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/64a3272b2ac1c3b6b6bca15743a409a397b47a88/assets/vseitner/pvpotdownscaled2026-03-05-1100-1793868549275.png) <sub> PV pot (1m) <sub>| ![pvpot_downscaled_2026-03-05-1400.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/94ba0d2eb64de943fd3feec0376d62902e48287a/assets/vseitner/pvpotdownscaled2026-03-05-1400-1793868569892.png) <sub> PV pot (1m) <sub>|
 
 
-## Data and Modelling Overview
-The processing chain brings together solar radiation calculations, spatial refinement and photovoltaic modelling. Additional modules can be used to incorporate estimates of dust- and snow-related effects.
 
-## Snow and Dust Infromation
-And addiation feature of this product is, that not only the solar potential can be calculated, but also warnings on snow and dust covers can be provided. These warnings are genereted through the integration of GeoSphere Austria's operational snow model *SNOWGRID*, and dust forecasts from *WRF-Chem*.
 
 ## Technical features
 |                       |               |
 | --------------------- | -------------: |
-| spatial resolution    | 100(0) m         |
+| spatial resolution    | 100 m  (up to 1m)        |
 | temporal resolution   | 1 hour        |
 | forecast range        | +30 hours     |
 | forecast time         | 00 UTC        |
 | snow cover            | yes/no        |
 | dust cover      | yes/no              |
 
-The model chain for Austria is implemented as default. The model can be adapted to other regions with some additional effort.
+The model chain can be adapted to any other region with some additional effort.
 
-# Offene Fragen... <!--{ as="img" mode="hero" src="" }-->
-#### 
 
-# Organizational details and contact <!--{ as="img" mode="hero" src="" }-->
-#### 
 
-## Available services
+## Details
+
+##### Organisation
+This service is provided by [GeoSphere Austria](https://www.geosphere.at/en).
+
+##### Available services
 1. **Free Version** <br>
-Example forecasts for selected Austrian cities during project runtime.
+Example forecasts for selected muncipality during project runtime.
 2. **Commercial version:** upon request, please contact [Gerhard Wotawa](mailto:gerhard.wotawa@geosphere.at), [Bernhard Niedermoser](mailto:bernhard.niedermoser@geosphere.at)
 
+##### Scientific Background and References
+* Seitner et al. (2024): STRAHLGRID, a solar radiation model with applications across different spatial scales. https://doi.org/10.5194/ems2024-366
+* Hieden et al. (2011): The Integrated Nowcasting through Comprehensive Analysis (INCA) System and its validation over the Eastern Alpine Region. DOI: 10.1175/2010WAF2222451.1
+* Göbel et al. (2022): Development of a very high resolution solar radiation cadaster for estimating solar energy potential across the entire federal state of Salzburg, Austria. https://doi.org/10.5194/ems2022-396
+* Jerez et al. (2015): The impact of climate change on photovoltaic power generation in Europe. Nature Communications. https://doi.org/10.1038/ncomms10014
+* Olefs et al. (2020): Changes in snow depth, snow cover duration, and potential snowmaking conditions in Austria, 1961–2020 – a model based approach. Atmosphere, 11(12), 1330. https://doi.org/10.3390/atmos11121330
+* HSU Soiling Model, pvlib-python documentation: https://pvlib-python.readthedocs.io/en/latest/reference/generated/pvlib.soiling.hsu.html
+* NREL Snow Model, pvlib-python documentation: https://pvlib-python.readthedocs.io/en/stable/reference/effects_on_pv_system_output/snow.html
 
-# References <!--{ as="img" mode="hero" src="" }-->
-#### ![PVpot_100m_Baden_cropped_2026-03-05-1400.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ea68ddbe80a250c6cf87690a1f62c97d171d150d/assets/vseitner/PVpot100mBadencropped2026-03-05-1400-1793868234259.png)
+
