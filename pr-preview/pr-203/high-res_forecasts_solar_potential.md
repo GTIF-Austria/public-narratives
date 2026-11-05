@@ -54,7 +54,7 @@ _Fig 4: Example output of solar potential. 1400 UTC of an arbitrary day._
 
 The following figures show examples of global radiation and theoretical solar potential for the municipality of Baden on 5 March 2026. Comparing the 100 m and 1 m resolutions illustrates how local terrain, buildings and vegetation effects become more apparent at the finer resolution.
 
-
+![Glo_real_100m_1 ](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/19eeaee6e2bf8bbd2a2ac61d27693b086ac9cbe5/assets/vseitner/GLO_real_100m_Baden_cropped_2026-03-05-1100.png) ![Glo_real_100m_2](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/19eeaee6e2bf8bbd2a2ac61d27693b086ac9cbe5/assets/vseitner/GLO_real_100m_Baden_cropped_2026-03-05-1400.png)
 
 ## Data and Modelling Overview
 The processing chain brings together solar radiation calculations, spatial refinement and photovoltaic modelling. Additional modules can be used to incorporate estimates of dust- and snow-related effects.
