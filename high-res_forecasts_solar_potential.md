@@ -32,6 +32,9 @@ The processing chain brings together solar radiation calculations, spatial refin
 * **Snow effects:** Model-based estimation of snow coverage and potential associated performance losses, taking snowfall, temperature, irradiance and module inclination into account.
 
 ## Examples
+
+### Overview
+
 ![infodienst_solar_step1](https://github.com/user-attachments/assets/d85df220-58a1-400d-9faa-bbcb1cd1e664)
 
 _Fig 1: Example output of global solar radiation from *STRAHLGRID*. 1300 UTC of an arbitrary day._
@@ -46,6 +49,12 @@ _Fig 3: Example output of solar potential. 1300 UTC of an arbitrary day._
 
 ![infodienst_solar_potential_step2](https://github.com/user-attachments/assets/5e93041a-39d0-4d48-9469-5c1a86939032)
 _Fig 4: Example output of solar potential. 1400 UTC of an arbitrary day._
+
+### Examples of spatial representation
+
+The following figures show examples of global radiation and theoretical solar potential for the municipality of Baden on 5 March 2026. Comparing the 100 m and 1 m resolutions illustrates how local terrain, buildings and vegetation effects become more apparent at the finer resolution.
+
+
 
 ## Data and Modelling Overview
 The processing chain brings together solar radiation calculations, spatial refinement and photovoltaic modelling. Additional modules can be used to incorporate estimates of dust- and snow-related effects.
