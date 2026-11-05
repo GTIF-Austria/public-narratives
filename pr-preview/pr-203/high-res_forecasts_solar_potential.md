@@ -9,6 +9,22 @@ provider: GeoSphere
 
 Every location tells a different story when it comes to solar energy. The amount of sunlight reaching a surface is shaped not only by weather, but also by terrain, surrounding features and local environmental conditions. By combining high-resolution geospatial and meteorological data with physical modelling, this service brings these elements together to uncover the solar radiation and photovoltaic potential of any given area. The result is a detailed spatial and temporal perspective on where solar energy potential lies and how it changes over time.
 
+## The service ...
+
+##### What influences solar energy potential?
+
+<div id="user-content-toc">
+🌅 <strong>Sun and weather</strong>
+  <ul>
+    ☀️ solar radiation<br>
+    ☁️ cloud cover<br>
+    🌡️ temperature<br>
+    🌬️  wind<br>
+    🌫  ️dust cover<br>
+    ❄️ snow cover
+  </ul>
+</div>
+
 
 ## Service Description
 Solar energy availability is influenced by a range of meteorological and geographical factors. In addition to solar radiation and current weather conditions, the geographical characteristics of a location play an important role. Topography, terrain orientation and shading from buildings or vegetation affect the amount of solar radiation available at a given surface. Temperature, wind, dust deposition and snow cover can also influence the performance of photovoltaic systems.
