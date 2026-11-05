@@ -38,59 +38,34 @@ This service combines meteorological data, high-resolution geospatial informatio
   </ul>
 </div>
 
-##### How is it calculated? 
+##### What does the service deliver? 
+
+The processing chain brings together solar radiation calculations, spatial refinement and photovoltaic modelling. Additional modules can be used to incorporate estimates of dust- and snow-related effects.
+
 
 <br>
 
 <div style="flex:1; background:#FFFACD; padding:16px; border-radius:10px;">
-    <h5> ☀️ ️Radiation Modelling</h5>
-    <p> STRAHLGRID model <br> --> caluclation of direct, diffuse and global radiation <br> --> <strong>100x100m</strong> spatial resolution
+    <h5> ☀️ ️Radiation Information</h5>
+    <p> Radiation modelling is done with the STRAHLGRID model <br> --> caluclation of direct, diffuse and global radiation <br> --> <strong>100x100m</strong> spatial resolution
     <p> Downscaling to <strong>1x1m</strong> can be performed to include <strong>shading</strong> effects of <strong>buildings</strong> and <strong>vegetation</strong>.
   </div>
 
 <br>
 
 <div style="flex:1; background:#C1E1C1; padding:16px; border-radius:10px;">
-    <h5> 🔋 PV potential Modelling</h5>
-    <p>This combines solar radiation output with <strong>temperature</strong> and <strong>wind</strong> forecasts. </p>
-    <p>💨 Wind</p>
-    <p>🌫️ Dust</p>
-    <p>❄️ Snow cover</p>
+    <h5> 🔋 PV potential Information</h5>
+    <p>The PV potential modelling combines solar radiation output with <strong>temperature</strong> and <strong>wind</strong> forecasts.</p>
+    <p>--> theoretical photovoltaic <strong>potential</strong> </p>
+  </div>
+  
+<br>
+  
+<div style="flex:1; background:#F1EBFA; padding:16px; border-radius:10px;">
+    <h5> ℹ️ Additional Information</h5>
+    <p> The assessment takes account of further relevant <strong>influences</strong> alongside meteorological and geographical conditions. This includes information on <strong>snow cover</strong> and <strong>dust deposition</strong> coverage on photovoltaic modules.
   </div>
 
-## Service Description
-
-
-<div style="display:flex; align-items:center;">➜</div>
-
-<div style="flex:1; background:#DCEEFF; padding:16px; border-radius:10px;">
-    <h3>🌡️ 2. PV Modelling</h3>
-    <p>This combines solar radiation output with <strong>temperature</strong> and <strong>wind</strong> forecasts. <br>
-    <p>💨 Wind</p>
-    <p>🌫️ Dust</p>
-    <p>❄️ Snow cover</p>
-  </div>
-
-  <div style="display:flex; align-items:center;">➜</div>
-
-  <div style="flex:1; background:#DDF3E5; padding:16px; border-radius:10px;">
-    <h3>⚡ 3. PV Potential</h3>
-    <p>🗺️ Spatial distribution</p>
-    <p>⏱️ Temporal changes</p>
-    <p>📊 Theoretical PV performance</p>
-  </div>
-
-</div>
-
-The calculations are based on STRAHLGRID, a solar radiation model developed by GeoSphere Austria. It calculates direct, diffuse and global radiation while taking atmospheric conditions, cloud cover and topographic effects into account. The integration of high-resolution digital surface models further refines the calculations. This makes it possible to account not only for large-scale topography but also for local shading effects caused by buildings, structures and trees. The spatial resolution of the radiation information can thereby be increased from 100 metres to as fine as one metre.
-
-Building on the solar radiation information, theoretical photovoltaic potential is estimated using temperature and wind forecasts. In addition, model-based information on potential performance reductions caused by dust deposition and snow cover on photovoltaic modules can be incorporated. This means that the assessment takes account of further relevant influences alongside meteorological and geographical conditions.
-By combining these data and models, the service produces a detailed representation of solar energy potential that makes both spatial differences and temporal changes visible. It therefore enables a differentiated assessment of solar radiation and theoretical photovoltaic potential under changing environmental and weather conditions.
-
-## Workflow
-The processing chain brings together solar radiation calculations, spatial refinement and photovoltaic modelling. Additional modules can be used to incorporate estimates of dust- and snow-related effects.
-
-![workflow_eng.png](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/19eeaee6e2bf8bbd2a2ac61d27693b086ac9cbe5/assets/vseitner/workfloweng-1793716854352.png)
 
 ## Key Features
 * **Solar radiation:** Calculation of direct, diffuse and global radiation on horizontal surfaces and surfaces following the actual terrain.
