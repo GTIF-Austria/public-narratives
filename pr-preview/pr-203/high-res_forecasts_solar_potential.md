@@ -21,8 +21,8 @@ This service combines meteorological data, high-resolution geospatial informatio
     ☀️ solar radiation<br>
     ☁️ cloud cover<br>
     🌡️ temperature<br>
-    🌬️  wind<br>
-    🌫  ️dust cover<br>
+    🌬️️️  wind<br>
+    💨 ️dust cover<br>
     ❄️ snow cover
   </ul>
 </div>
@@ -37,6 +37,8 @@ This service combines meteorological data, high-resolution geospatial informatio
     🌳 vegetation
   </ul>
 </div>
+
+##### How is it calculated? 
 
 
 
