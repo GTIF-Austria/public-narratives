@@ -40,11 +40,41 @@ This service combines meteorological data, high-resolution geospatial informatio
 
 ##### How is it calculated? 
 
+<br>
+
+<div style="flex:1; background:#FFFACD; padding:16px; border-radius:10px;">
+    <h5> ☀️ ️Radiation Modelling</h5>
+    <p> STRAHLGRID model <br> --> caluclation of direct, diffuse and global radiation <br> --> <strong>100x100m</strong> spatial resolution
+    <p> Downscaling to <strong>building scale</strong> can be performed.
+  </div>
+
+<br>
+
 
 
 ## Service Description
 
 
+<div style="display:flex; align-items:center;">➜</div>
+
+<div style="flex:1; background:#DCEEFF; padding:16px; border-radius:10px;">
+    <h3>🌡️ 2. PV Modelling</h3>
+    <p>🌡️ Temperature</p>
+    <p>💨 Wind</p>
+    <p>🌫️ Dust</p>
+    <p>❄️ Snow cover</p>
+  </div>
+
+  <div style="display:flex; align-items:center;">➜</div>
+
+  <div style="flex:1; background:#DDF3E5; padding:16px; border-radius:10px;">
+    <h3>⚡ 3. PV Potential</h3>
+    <p>🗺️ Spatial distribution</p>
+    <p>⏱️ Temporal changes</p>
+    <p>📊 Theoretical PV performance</p>
+  </div>
+
+</div>
 
 The calculations are based on STRAHLGRID, a solar radiation model developed by GeoSphere Austria. It calculates direct, diffuse and global radiation while taking atmospheric conditions, cloud cover and topographic effects into account. The integration of high-resolution digital surface models further refines the calculations. This makes it possible to account not only for large-scale topography but also for local shading effects caused by buildings, structures and trees. The spatial resolution of the radiation information can thereby be increased from 100 metres to as fine as one metre.
 
