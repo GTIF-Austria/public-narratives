@@ -44,9 +44,9 @@ The processing chain brings together solar radiation calculations, spatial refin
 
 <div style="flex:1; background:#FFFACD; padding:16px; border-radius:10px;">
     <h5> ☀️ ️Radiation Information</h5>
-    <p> Radiation modelling is done with the STRAHLGRID model <br> --> caluclation of direct, diffuse and global radiation <br> --> <strong>100x100m</strong> spatial resolution
-    <p> Downscaling to <strong>1x1m</strong> can be performed to include <strong>shading</strong> effects of <strong>buildings</strong> and <strong>vegetation</strong>.
-  </div>
+    <p> Radiation modelling is done with the STRAHLGRID model <br> --> caluclation of direct, diffuse and global radiation <br> --> <strong>100x100m</strong> spatial resolution</p>
+    <p> Downscaling to <strong>1x1m</strong> can be performed to include <strong>shading</strong> effects of <strong>buildings</strong> and <strong>vegetation</strong>.</p>
+</div>
 
 <br>
 
@@ -54,14 +54,14 @@ The processing chain brings together solar radiation calculations, spatial refin
     <h5> 🔋 PV potential Information</h5>
     <p>The PV potential modelling combines solar radiation output with <strong>temperature</strong> and <strong>wind</strong> forecasts.</p>
     <p>--> theoretical photovoltaic <strong>potential</strong> </p>
-  </div>
+</div>
   
 <br>
   
 <div style="flex:1; background:#F1EBFA; padding:16px; border-radius:10px;">
     <h5> ℹ️ Additional Information</h5>
-    <p> The assessment takes account of further relevant <strong>influences</strong> alongside meteorological and geographical conditions. This includes information on <strong>snow cover</strong> and <strong>dust deposition</strong> coverage on photovoltaic modules.
-  </div>
+    <p> The assessment takes account of further relevant <strong>influences</strong> alongside meteorological and geographical conditions. This includes information on <strong>snow cover</strong> and <strong>dust deposition</strong> coverage on photovoltaic modules.</p>
+</div>
 
 
 ## Key Features
