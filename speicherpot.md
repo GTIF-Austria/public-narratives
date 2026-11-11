@@ -4,6 +4,7 @@ domain: Energy Transition
 tags: SpeicherPot, renewable energy, energy storage, BESS, hydrogen, heat storage, Austria
 provider: GTIF Austria
 ---
+#SpeicherPot 2030/2040
 
 ## SpeicherPot - Speicherpotenziale 2030/2040 <!--{ as="eox-map" class="overlay-br" mode="tour" }-->
 
