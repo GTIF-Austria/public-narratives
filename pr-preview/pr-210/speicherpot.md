@@ -1,3 +1,10 @@
+---
+cover-image: https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/speicherpot/banner.jpeg
+domain: Energy Transition
+tags: SpeicherPot, renewable energy, energy storage, BESS, hydrogen, heat storage, Austria
+provider: GTIF Austria
+---
+
 ## SpeicherPot - Speicherpotenziale 2030/2040 <!--{ as="eox-map" class="overlay-br" mode="tour" }-->
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"cloudless"},"source":{"type":"XYZ","url":"https://a.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg"}},{"type":"Tile","properties":{"id":"overlay"},"source":{"type":"XYZ","url":"https://a.s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png"}}]' center=[13.7087,47.2912] zoom="6.5" animationOptions="{duration:500}" }-->
