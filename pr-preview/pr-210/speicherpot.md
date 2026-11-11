@@ -5,7 +5,24 @@ tags: SpeicherPot, renewable energy, energy storage, BESS, hydrogen, heat storag
 provider: GTIF Austria
 ---
 
-# SpeicherPot 2030/2040
+# SpeicherPot – Speicherpotenziale 2030/2040 in Österreich
+
+Österreich hat sich ehrgeizige Ziele gesetzt: Bis **2030** soll der gesamte Strombedarf (bilanziell) zu 100 % aus heimischen, erneuerbaren Energieträgern gedeckt werden, und bis **2040** strebt das Land die vollständige Klimaneutralität an. 
+
+Doch die Transformation unserer Energieinfrastruktur, weg von fossilen Brennstoffen und hin zu unbeständigen Quellen wie Wind und Sonne, gelingt nur, wenn wir Energie dann speichern können, wenn sie im Überfluss vorhanden ist, um sie bei Bedarf wieder abzurufen. Hierfür ist eine integrierte und systemische Planung aller Erzeugungs-, Verteilungs- und Speichertechnologien unerlässlich.
+
+Das zukunftsweisende Projekt **SpeicherPot** liefert hierfür die entscheidende Grundlage: die erste flächendeckende, räumlich und zeitlich hoch aufgelöste Speicherpotenzialanalyse für **Strom, Gase und Wärme** in Österreich.
+
+---
+
+### Ein Meilenstein für die Energiewende
+Das Projekt untersucht und bewertet bestehende sowie potenzielle Speicherlösungen – von Kurzzeit- über Saisonspeicher bis hin zu chemischen (z.B. Wasserstoff), elektrochemischen (z.B. Batterien), mechanischen und thermischen Speichern. 
+
+Durch die Modellierung komplexer Szenarien für die Zieljahre **2030 und 2040** zeigt SpeicherPot, wo in Österreich welche Speicherkapazitäten und Netzinfrastrukturen am dringendsten benötigt werden und wo die größten Potenziale liegen.
+
+*Scrollen Sie nach unten, um die interaktive Map Tour zu starten und die regionalen Speicherpotenziale für Österreich selbst zu erkunden!*
+
+---
 
 ## SpeicherPot - Speicherpotenziale 2030/2040 <!--{ as="eox-map" class="overlay-br" mode="tour" }-->
 
