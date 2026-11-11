@@ -56,4 +56,5 @@ Kurzfristig besteht das größte Potenzial für die Speicherung von Wasserstoff 
 #### Wärme – Großskalige Wärmespeicher [2030]
 
 Potenziale zur Speicherung von Wärme in großer Skala wurden in erster Linie in ultimativer Nähe zu Fernwärmenetzen bzw. Orten mit hoher Wärmebedarfsdichte identifiziert.
+
 <color-legend titletext="Wärmespeicher 2030" scaletype="continuous" tickformat=".0f" domain="[6, 12, 20, 28, 36]" range='["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]'></color-legend>
