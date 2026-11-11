@@ -38,7 +38,7 @@ Scrollen Sie weiter, um die verschiedenen Schwerpunkte im Detail zu erkunden.
 
 Die größten (Strom-) Speicherpotenziale ergeben sich 2030 entlang der starken Wind- & PV (Freiflächen) Potenziale. Die Summe der Potenziale erreichen in Nord/Ostösterreich eine Spitze.
 
-<color-legend titletext="Heimspeicher 2030 (MW)" scaletype="continuous" tickformat=".1f" domain="[0.05, 0.2, 0.5, 1.5, 5]" range='["#eff3ff", "#bdd7e7", "#6baed6", "#3182bd", "#08519c"]'></color-legend>
+<color-legend titletext="Heimspeicher 2030 (MW)" scaletype="continuous" tickformat=".1f" domain="[0,5]" range='["#eff3ff", "#bdd7e7", "#6baed6", "#3182bd", "#08519c"]'></color-legend>
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"cloudless"},"source":{"type":"XYZ","url":"https://a.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg"}},{"type":"Vector","properties":{"id":"heimspeicher_layer"},"source":{"type":"Vector","url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/speicherpot/bezirke_energiesystem.geojson","format":{"type":"GeoJSON","dataProjection":"EPSG:4326"}},"style":{"fill-color":["case",["between",["get","heimspeicher_2030"],0.001,1000],["interpolate",["linear"],["get","heimspeicher_2030"],0.05,"rgba(239, 243, 255, 1)",0.2,"rgba(189, 215, 231, 1)",0.5,"rgba(107, 174, 214, 1)",1.5,"rgba(49, 130, 189, 1)",5,"rgba(8, 81, 156, 1)"],"rgba(0, 0, 0, 0)"],"stroke-color":"black","stroke-width":1}},{"type":"Tile","properties":{"id":"overlay"},"source":{"type":"XYZ","url":"https://a.s2maps-tiles.eu/wmts/1.0.0/overlay_base_bright_3857/default/g/{z}/{y}/{x}.png"}}]' center=[12.5,47.5] zoom="7.2" animationOptions="{duration:500}" }-->
 #### Strom – BESS Heimspeicher [2030]
@@ -57,4 +57,4 @@ Kurzfristig besteht das größte Potenzial für die Speicherung von Wasserstoff 
 
 Potenziale zur Speicherung von Wärme in großer Skala wurden in erster Linie in ultimativer Nähe zu Fernwärmenetzen bzw. Orten mit hoher Wärmebedarfsdichte identifiziert.
 
-<color-legend titletext="Wärmespeicher 2030" scaletype="continuous" tickformat=".0f" domain="[6, 12, 20, 28, 36]" range='["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]'></color-legend>
+<color-legend titletext="Wärmespeicher 2030" scaletype="continuous" tickformat=".0f" domain="[6,36]" range='["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]'></color-legend>
