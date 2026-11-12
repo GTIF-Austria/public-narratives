@@ -25,7 +25,7 @@ One important factor influencing land surface temperature is land use, as this a
 This capability provides high-resolution (70 m) projections of land surface temperature (LST), based on the SSP3-7.0 scenario (Shared Socioeconomic Pathway, high-emission future with continuous increases in CO₂ emissions and limited global mitigation efforts) and two models. The capability focuses on the urban areas of Vienna, Graz and Innsbruck in Austria, covering the period from 2000 to 2049 (aggregated in decades) and showing the average minimum and maximum temperatures during hot spells in the morning and afternoon.
 Furthermore, it examines the relationship between land use and LST to evaluate the potential influence of alternative land use on local surface temperatures. This enables users to explore the temperature effects of land use changes (LUC) under future climate conditions.
 The resulting maps highlight spatial variations in future LST, aiding the identification of potential hotspots and the assessment of the implications of land use choices. They also facilitate the exploration of targeted measures for urban heat mitigation and adaptation to urban heat risks.
-![*Overview map of the areas of interest*](https://data.services.geoville.com/s/bcz6wpGK93mnpwZ)
+![*Overview map of the areas of interest*](https://github.com/gofweiss-source/Heatgrid/blob/a056a475ebd99da08bfd75e0aae25a4aabcf7bbd/AoI%20Heatgrid.png)
 
 ### Method
 ![*Flowchart of the method*](https://data.services.geoville.com/s/ow6N8NSBXMt3TCQ)
@@ -70,6 +70,9 @@ The capability can support planning and assessment related to:
 
 ### About us
 Provider: [GeoVille](https://www.geoville.com/)
-![GeoVille logo](https://data.services.geoville.com/s/5aEiFkobPyPzFmZ)
-Project partners:  [EOX](https://eox.at/), [Austria Tourism](http://www.austriatourism.com/),  [Bundesrechenzentrum](https://www.brz.gv.at/) (BRZ) and [Land-, forst- und wasserwirtschaftliche Rechenzentrum](https://www.lfrz.gv.at/) (LFRZ)
-![image alt text](https://data.services.geoville.com/s/NrW6Ki2dF8pLSw8)![image alt text](https://data.services.geoville.com/s/BBbPERdnPXnkz6Z)![image alt text](https://data.services.geoville.com/s/sXBYs6KpEFa2o27)![image alt text](https://data.services.geoville.com/s/CndEeYADbKz35eH)
+![GeoVille logo](https://data.services.geoville.com/s/5aEiFkobPyPzFmZ) <!--{ width="100" }-->
+Project partners:  [EOx](https://eox.at/), [Austria Tourism](http://www.austriatourism.com/),  [Bundesrechenzentrum](https://www.brz.gv.at/) (BRZ) and [Land-, forst- und wasserwirtschaftliche Rechenzentrum](https://www.lfrz.gv.at/) (LFRZ)
+![EOx logo](https://data.services.geoville.com/s/NrW6Ki2dF8pLSw8) <!--{ width="100" }-->
+![Austria Tourism logo](https://data.services.geoville.com/s/BBbPERdnPXnkz6Z) <!--{ width="100" }-->
+![Bundesrechenzentrum logo](https://data.services.geoville.com/s/sXBYs6KpEFa2o27) <!--{ width="100" }-->
+![Land-, forst- und wasserwirtschaftliche Rechenzentrum logo](https://data.services.geoville.com/s/CndEeYADbKz35eH) <!--{ width="100" }-->
