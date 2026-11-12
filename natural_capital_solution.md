@@ -2,7 +2,7 @@
 cover-image:   "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/Thumbnail/ncs.jpg"
     
 
-domain: Carbon Accoutning
+domain: Carbon Accounting
 tags: land cover, remote sensing, National Inventory Report
 provider: ECOSYS,EOX
 ---
