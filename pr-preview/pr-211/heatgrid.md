@@ -26,9 +26,11 @@ This capability provides high-resolution (70 m) projections of land surface temp
 Furthermore, it examines the relationship between land use and LST to evaluate the potential influence of alternative land use on local surface temperatures. This enables users to explore the temperature effects of land use changes (LUC) under future climate conditions.
 The resulting maps highlight spatial variations in future LST, aiding the identification of potential hotspots and the assessment of the implications of land use choices. They also facilitate the exploration of targeted measures for urban heat mitigation and adaptation to urban heat risks.
 ![*Overview map of the areas of interest*](https://raw.githubusercontent.com/gofweiss-source/Heatgrid/a056a475ebd99da08bfd75e0aae25a4aabcf7bbd/AoI%20Heatgrid.png) <!--{ width="400" style="display: block; margin: auto;"}-->
+*Overview map of the areas of interest*
 
 ### Method
 ![*Flowchart of the method*](https://raw.githubusercontent.com/gofweiss-source/Heatgrid/a056a475ebd99da08bfd75e0aae25a4aabcf7bbd/Method%20Heatgrid.png)
+*Flowchart of the method*
 
 ### Technical features
 
