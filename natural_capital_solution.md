@@ -13,11 +13,13 @@ provider: ECOSYS,EOX
 
 ## About
 **Empowering & Scaling Nature-Positive Agriculture**
+
 The transition to sustainable land management requires robust tools to measure and finance ecological outcomes. The [ECOSYS Natural Capital Solutions platform](https://ncs.eox.at/), powered by EOX, acts as a foundational digital Measurement, Reporting, and Verification (dMRV) hub. Designed for the Green Transition, it bridges the gap between Earth Observation (EO) data, ecological science, real-world farming systems, and financial markets. By translating complex environmental signals into transparent, verifiable metrics, the platform empowers stakeholders to develop, evaluate, and scale biodiversity and carbon farming activities effectively. 
 Within this framework, the yearly Biodiversity & Carbon Farming Index (BCFI) for arable land provides a publicly accessible, parcel-level data infrastructure that links official land registry data with dynamic ecological performance indicators. By summarising EU-compliance-based metrics into a single comparable indicator across millions of individual parcels, the BCFI makes ecological change measurable, comparable, and traceable over time, ensuring that progress is demonstrable and outcomes are verifiable.
 
 ## The Context & Challenge
 **Bridging the Gap Between Ecology and Capital**
+
 Across Europe, arable croplands hold vast potential to sequester soil organic carbon, strengthen resilience against extreme weather events, and sustain farmland biodiversity. At the same time, evolving frameworks such as the Nature Restoration Law (NRL), the Common Agricultural Policy (CAP), and the Corporate Sustainability Reporting Directive (CSRD) are placing growing pressure on financial markets and the agricultural sector to measure and disclose ecological outcomes. Yet both sectors have historically lacked a unified method to quantify nature-related risks and environmental performance at the field level.
 
 Translating high-level biodiversity goals into tangible, compliance-ready assets remains a central bottleneck. Evaluating the ecological impact of annual farming practices, including crop diversification, winter soil cover, and field-margin stewardship, has traditionally relied on costly manual field surveys or coarse regional averages, leaving biodiversity monitoring without scalable, parcel-level evidence. Without a reliable framework to establish baselines, evaluate risk, and monitor long-term progress at scale, unlocking finance for farmers who actively protect soil health, water resources, and biodiversity remains difficult.
@@ -26,6 +28,7 @@ Through an automated processing pipeline that integrates satellite observations 
 
 ## The Methodology
 **Biodiversity & Carbon Farming Index**
+
 To make the ecological outcomes of sustainable land management measurable, ECOSYS employs a science-led methodology that operates consistently from the individual parcel level up to national portfolios.
 
 Data Integration: The framework fuses satellite-based Earth Observation signals with official parcel boundaries and compliance datasets (LPIS, IACS, and AMS), Area Monitoring System (AMS) event markers, soil maps, land-cover layers, and farm activity records. 
@@ -34,6 +37,7 @@ The BCFI Metric: At the core of the methodology is the Biodiversity & Carbon Far
 
 ## Stakeholders & Applications
 **Scalable Solutions for the Green Transition**
+
 Accessible within the explorer interface, the BCFI indicator enables users to inspect individual parcel ratings, compare yearly performance, and examine the underlying subindex drivers behind each score. When paired with True Value Accounting (see [ECOSYS Natural Capital Solutions platform](https://ncs.eox.at/)) to translate ecological scores into standardized ecosystem-service valuations, the index delivers auditable, decision-ready intelligence that directly supports targeted CAP eco-scheme allocation, Nature Restoration Law and corporate sustainability reporting, ecological baseline verification, and de-risked investment in nature-positive agriculture across key sectors:
 
 - Project Developers & NGOs: Rapid landscape screening and parcel analytics establish ecological baselines, enabling the design of Nature-Based Solutions with verified impact metrics and investor-ready reporting. For instance, conservation organizations planning regional habitat corridors can pinpoint low-scoring arable parcels bordering existing hedgerows or waterways, target them for buffer strips or regenerative interventions, and document measurable multi-year biodiversity uplift.
