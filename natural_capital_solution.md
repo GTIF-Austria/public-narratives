@@ -6,7 +6,7 @@ domain: Carbon Accounting
 tags: land cover, remote sensing, National Inventory Report
 provider: ECOSYS,EOX
 ---
-# Natural Capital Accountin with BCFI <!--{ as="img" data-fallback-src="https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/Thumbnail/ncs.jpg" mode="hero" src="https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/Thumbnail/ncs.jpg" }-->
+# Natural Capital Accounting with BCFI <!--{ as="img" data-fallback-src="https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/Thumbnail/ncs.jpg" mode="hero" src="https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/Thumbnail/ncs.jpg" }-->
 ### by ECOSYS - EOX <!--{ style="font-size:1rem;opacity:0.7;margin-top:1rem;" }-->
 
 
