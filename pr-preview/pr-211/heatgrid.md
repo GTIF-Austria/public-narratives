@@ -6,7 +6,7 @@ tags: Land Surface Tempreature, Land Use Change, Climate Change
 provider: GeoVille
 ---
 
-# Land surface temperatures projections, considering climate and land use changes <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/gofweiss-source/Heatgrid/a056a475ebd99da08bfd75e0aae25a4aabcf7bbd/Title_picture_gtif_heatgrid.png" }-->
+# Land surface temperatures projections, considering climate and land use changes <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/gofweiss-source/Heatgrid/1205ece7917ee012d668bb6eebba29376c290f3f/Title_picture_gtif_heatgrid_Vienna%20extended.png" }-->
 ### High-resolution projections of future land surface temperatures across urban areas in Austria under different climate scenarios, revealing the impact of land use changes, to support the mitigation and adaptation of heat risk and identify the effects of a potential urban growth. <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
 ## Challenge
