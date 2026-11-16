@@ -1,5 +1,5 @@
 ---
-cover-image: https://data.services.geoville.com/s/p8oFTGsWmciRt6c
+cover-image: https://raw.githubusercontent.com/gtif-austria/public-narratives/refs/heads/main/assets/gofweiss-source/heatgrid-cover-image.png
 date: 2026-11-11
 theme: Sustainable Cities
 tags: Land Surface Tempreature, Land Use Change, Climate Change
