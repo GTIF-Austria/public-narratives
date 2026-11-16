@@ -10,7 +10,8 @@ provider: AIT Center for Energy
 
 ## Map Tour <!--{ as="eox-map" mode="tour" }-->
 
-### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+### <!--{ layers='[{"type":"WebGLTile","properties":{"id":"heatrisk_a1_2050","title":"Hitzerisiko 0-19 Jahre, Bevölkerungsstand 2050"},"source":{"type":"GeoTIFF","normalize":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2090_multiband.tif"}]},"style":{"color":["case",["==",["band",4],2],"rgba(251,255,200,0.8)",["==",["band",4],3],"rgba(254,221,144,0.8)",["==",["band",4],4],"rgba(244,114,119,0.8)",["==",["band",4],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}},{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+
  
 #### Problemstellung & Ausgangslage
 
