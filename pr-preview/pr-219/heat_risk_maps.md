@@ -77,8 +77,10 @@ The methodology allows the heat risk maps to be recalculated whenever new or upd
 
 It also makes it possible to include **future spatial planning scenarios or demographic developments** and to anticipate future impacts. While open-source data form the basis, available city-specific data can enable higher quality.
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/3fccfa1e48b774193885976c416e71b33919e68e/assets/ExampleViennaSat-1742554565946.png" style="display: block; margin: 0 auto; width: 80%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaSat-1742554565946.png" />
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/214fb85ff18ec9bcf27740f14a7e955aaa138ed0/assets/ExampleViennaRiskbuildings-1742554563509.png" style="display: block; margin: 0 auto; width: 80%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554563509.png" />
+<div style="display: flex; justify-content: center; gap: 2%;">
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/3fccfa1e48b774193885976c416e71b33919e68e/assets/ExampleViennaSat-1742554565946.png" style="width: 49%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaSat-1742554565946.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/214fb85ff18ec9bcf27740f14a7e955aaa138ed0/assets/ExampleViennaRiskbuildings-1742554563509.png" style="width: 49%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554563509.png" />
+</div>
 
 The heat risk maps thus make it possible to determine the **spatial distribution of heat risk** for a **defined population group, infrastructure, etc.** under **selected climatic conditions**. 
 
