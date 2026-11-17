@@ -123,7 +123,38 @@ Thanks to the flexible choice of data, heat risk can be calculated for a wide ra
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}},{"type":"WebGLTile","properties":{"id":"heatrisk_a1_2050","title":"Hitzerisiko 0-19 Jahre, Bevölkerungsstand 2050"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2090_multiband.tif"}]},"style":{"color":["case",["==",["band",3],2],"rgba(251,255,200,0.8)",["==",["band",3],3],"rgba(254,221,144,0.8)",["==",["band",3],4],"rgba(244,114,119,0.8)",["==",["band",3],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
 
-#### Problemstellung & Ausgangslage
+#### Age-specific heat exposure maps
+bla bla 
+
+### Exposure
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr style="border-bottom: 2px solid #999;">
+<th style="padding: 6px; text-align: left; font-size: 0.75em;">Exposure Level</th>
+<th style="padding: 6px; text-align: left; font-size: 0.75em;">Interpretation of the potential risk</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 6px; font-size: 0.75em; background-color: rgb(251,255,200); color: #000;"><strong>Low</strong></td>
+<td style="padding: 6px; font-size: 0.75em;">Warm nights in most summers; indicates increasing frequency of short heat waves</td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 6px; font-size: 0.75em; background-color: rgb(254,221,144); color: #000;"><strong>Medium</strong></td>
+<td style="padding: 6px; font-size: 0.75em;">Warm nights every year; persistent heat wave risk and increasing chronic heat exposure</td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 6px; font-size: 0.75em; background-color: rgb(244,114,119); color: #000;"><strong>Strong</strong></td>
+
+<td style="padding: 6px; font-size: 0.75em;">Warm nights dominate summer; heat waves expected annually; burden on health and emergency services</td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 6px; font-size: 0.75em; background-color: rgb(147,60,220); color: #fff;"><strong>Very strong</strong></td>
+<td style="padding: 6px; font-size: 0.75em;">Warm nights dominate summer; intense, prolonged heat waves; severe burden on health and emergency services</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Quality Control
 The **timeliness of the static input data** is a key quality component. A **trend analysis of surface temperature** (OHB) can identify changes in a city's land use and building structure. At these locations, the timeliness of the input data should be checked.
