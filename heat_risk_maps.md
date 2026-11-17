@@ -11,7 +11,8 @@ provider: AIT Center for Energy
 ## Problem Statement & Starting Point
 Extreme heat during the day and no cooling at night:
 In Vienna, the number of heat days and tropical nights is rising steadily.
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b0c30d850f866cbd8366d0e4639978a62e4079bb/assets/KlimaindizesWien-1742456280058.png" style="display: block; margin: 0 auto; width: 50%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/KlimaindizesWien-1742456280058.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b0c30d850f866cbd8366d0e4639978a62e4079bb/assets/KlimaindizesWien-1742456280058.png" 
+style="display: block; margin: 0 auto; width: 50%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/KlimaindizesWien-1742456280058.png" />
 <p style="font-size: 0.8em;"><em>Source: Klimastatusbericht Österreich 2023, Klimarückblick Wien, ed. CCCA 2024.</em></p>
 
 In **2024**, the **Hohe Warte station in Vienna** recorded  
@@ -124,13 +125,17 @@ Thanks to the flexible choice of data, heat risk can be calculated for a wide ra
 ## Quality Control
 The **timeliness of the static input data** is a key quality component. A **trend analysis of surface temperature** (OHB) can identify changes in a city's land use and building structure. At these locations, the timeliness of the input data should be checked.
 
-### High-Resolution Surface Temperature
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" style="width: 40%; height: 40%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
+#### High-Resolution Surface Temperature
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" 
+style="display: block; margin: 0 auto; width: 40%; height: auto;"
+data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
 
 <p style="font-size: 0.8em;"><em>Source: OHB SE <a href="https://www.ohb.de/">https://www.ohb.de/</a></em></p>
 
-### Surface Temperature Trend Analysis
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6890d9562a2c1bba56e136177bff4cfec398cc2/assets/OHB-1742553790083.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742553790083.png" />
+#### Surface Temperature Trend Analysis
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6890d9562a2c1bba56e136177bff4cfec398cc2/assets/OHB-1742553790083.png"
+style="display: block; margin: 0 auto; width: 90%; height: auto;"
+data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742553790083.png" />
 <p style="font-size: 0.8em;"><em>Source: OHB SE <a href="https://www.ohb.de/">https://www.ohb.de/</a></em></p>
 
 ## Contact
