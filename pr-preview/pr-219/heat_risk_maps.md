@@ -8,7 +8,7 @@ provider: AIT Center for Energy
 
 # Heat Risk Maps
 
-## Problem Statement & Starting Point
+## The Challenge
 Extreme heat during the day and no cooling at night:
 In Vienna, the number of heat days and tropical nights is rising steadily.
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b0c30d850f866cbd8366d0e4639978a62e4079bb/assets/KlimaindizesWien-1742456280058.png" 
@@ -70,7 +70,7 @@ Due to the **use of different input data, calculation methods or objectives**, r
 #### 3. Transferability
 Detailed analyses usually require **tailor-made solutions for individual cities**. So far, there is no standardised method for calculating heat risk that would make it available for many cities and regions. 
 
-## Solution: "Heat Risk Maps"
+## Our Solution
 **Flexible, consistent and transferable heat risk maps** support not only **cities and municipalities**, but also **companies and organisations** that need to assess future heat risks.
 
 In line with the IPCC risk concept (Sixth Assessment Report (AR6), Working Group II), **risk is composed of hazard, exposure and vulnerability**.
@@ -109,6 +109,24 @@ The heat risk maps thus make it possible to determine the **spatial distribution
 ›	People on low incomes   
 ›	Consideration of existing cool spots or similar places to cool down 
 ›	... other factors that increase/reduce vulnerability    
+
+
+### Quality Control
+The **timeliness of the static input data** is a key quality component. A **trend analysis of surface temperature** (OHB) can identify changes in a city's land use and building structure. At these locations, the timeliness of the input data should be checked.
+
+#### High-Resolution Surface Temperature
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" 
+style="display: block; margin: 0 auto; width: 40%; height: auto;"
+data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
+
+<p style="font-size: 0.8em;"><em>Source: OHB SE <a href="https://www.ohb.de/">https://www.ohb.de/</a></em></p>
+
+#### Surface Temperature Trend Analysis
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6890d9562a2c1bba56e136177bff4cfec398cc2/assets/OHB-1742553790083.png"
+style="display: block; margin: 0 auto; width: 90%; height: auto;"
+data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742553790083.png" />
+<p style="font-size: 0.8em;"><em>Source: OHB SE <a href="https://www.ohb.de/">https://www.ohb.de/</a></em></p>
+
 
 ## Use Cases
 Thanks to the flexible choice of data, heat risk can be calculated for a wide range of use cases, including:   
@@ -170,21 +188,7 @@ Following xxx
 
 
 
-## Quality Control
-The **timeliness of the static input data** is a key quality component. A **trend analysis of surface temperature** (OHB) can identify changes in a city's land use and building structure. At these locations, the timeliness of the input data should be checked.
 
-#### High-Resolution Surface Temperature
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" 
-style="display: block; margin: 0 auto; width: 40%; height: auto;"
-data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
-
-<p style="font-size: 0.8em;"><em>Source: OHB SE <a href="https://www.ohb.de/">https://www.ohb.de/</a></em></p>
-
-#### Surface Temperature Trend Analysis
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6890d9562a2c1bba56e136177bff4cfec398cc2/assets/OHB-1742553790083.png"
-style="display: block; margin: 0 auto; width: 90%; height: auto;"
-data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742553790083.png" />
-<p style="font-size: 0.8em;"><em>Source: OHB SE <a href="https://www.ohb.de/">https://www.ohb.de/</a></em></p>
 
 ## Contact
 **Jan Peters-Anders**<br>
