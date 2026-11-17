@@ -183,7 +183,7 @@ Following xxx
 
 ## Contact
 **Jan Peters-Anders**<br>
-jan.peters-anders@ait.ac.at
+jan.peters-anders@ait.ac.at<br>
 Research Engineer<br>
 Digital Resilient Cities<br>
 Center for Energy
