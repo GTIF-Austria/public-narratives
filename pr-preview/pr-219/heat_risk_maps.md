@@ -21,7 +21,6 @@ In **2024**, the **Hohe Warte station in Vienna** recorded
 as in the 1961 - 1990 reference period.
 
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/46bd082b05871481e50abb046467285554293b3a/assets/KlimadashboardatHoheWarte2024-1747648429811.PNG" style="width: 100%; height: 100%;" data-fallback-src="https://raw.githubusercontent.com/schneidermartin/public-narratives/schneidermartin/feedback-implementation/assets/schneidermartin/KlimadashboardatHoheWarte2024-1747648429811.PNG" />
-
 <p style="font-size: 0.8em;"><em>Source: <a href="https://klimadashboard.at/en">www.klimadashboard.at</a></em></p>
 
 **High population density** and the **urban heat island effect** force cities to adapt and take action against this growing threat.
@@ -118,31 +117,31 @@ Thanks to the flexible choice of data, heat risk can be calculated for a wide ra
 •	**Updating current heat risk information**: Changing climate conditions, the development of urban areas and changing population statistics render outdated maps unusable. The algorithm developed allows straightforward updates.   
 •	**Identifying locations with future risks**: Organisations and companies working with vulnerable groups can identify places with high or low, current and future heat risk, which is crucial for planning locations and operations.   
 
+
+
+
+
 ## Quality Control
 The **timeliness of the static input data** is a key quality component. A **trend analysis of surface temperature** (OHB) can identify changes in a city's land use and building structure. At these locations, the timeliness of the input data should be checked.
 
 ### High-Resolution Surface Temperature
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" style="width: 40%; height: 40%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
 
-Source: OHB SE (https://www.ohb.de/)
-
--
+<p style="font-size: 0.8em;"><em>Source: OHB SE <a href="https://www.ohb.de/">https://www.ohb.de/</a></em></p>
 
 ### Surface Temperature Trend Analysis
-
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6890d9562a2c1bba56e136177bff4cfec398cc2/assets/OHB-1742553790083.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742553790083.png" />
+<p style="font-size: 0.8em;"><em>Source: OHB SE <a href="https://www.ohb.de/">https://www.ohb.de/</a></em></p>
 
-Source: OHB SE (https://www.ohb.de/)
-
-# Contact
+## Contact
 **Jan Peters-Anders**<br>
+jan.peters-anders@ait.ac.at
 Research Engineer<br>
 Digital Resilient Cities<br>
 Center for Energy
 
 **AIT Austrian Institute of Technology GmbH**<br>
-Giefinggasse 6 | 1210 Vienna | Austria<br>
-T +43 50550-4586 | M +43 664 8157995<br>
-jan.peters-anders@ait.ac.at | www.ait.ac.at
+<a href="www.ait.ac.at">www.ait.ac.at</a><br>
+
 
 
