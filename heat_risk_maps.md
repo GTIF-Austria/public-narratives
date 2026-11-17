@@ -47,15 +47,6 @@ In recent years, **various studies analysing the urban climate and heat exposure
 </div>
 </div>
 
-
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6074f597bee163dce11a0de69ac2bc71f1f4add/assets/stadtklimaanalyse-karte-001-1742459897452.png" style="display: block; margin: 0 auto; width: 70%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/stadtklimaanalyse-karte-001-1742459897452.png" />
-
-<p style="font-size: 0.8em;"><em>Source: <a href="https://www.wien.gv.at/stadtplanung/stadtklimaanalyse">Stadtklimaanalyse Wien 2020 </a> (City of Vienna - Urban Development and Planning, Weatherpark GmbH, INKEK GmbH)</em></p>
-
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/52ac3fd29e2d4aaba2255e88cc426362c13f02ce/assets/UHVI-1742459936283.PNG" style="display: block; margin: 0 auto; width: 70%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/UHVI-1742459936283.PNG" />
-
-<p style="font-size: 0.8em;"><em>Source: Illustration by orf.at based on data from the City of Vienna (energie.wien.gv.at), ECOTEN, OpenStreetMap</em></p>
-
 ### Where is there room for improvement in providing usable data and information?
 
 #### 1. Flexibility & Timeliness
