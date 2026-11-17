@@ -19,8 +19,8 @@ In **2024**, the **Hohe Warte station in Vienna** recorded
 ›	twice as many summer days,  
 ›	more than four times as many heat days, and     
 ›	more than ten times as many tropical nights     
-
 as in the 1961 - 1990 reference period.
+
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/46bd082b05871481e50abb046467285554293b3a/assets/KlimadashboardatHoheWarte2024-1747648429811.PNG" style="width: 100%; height: 100%;" data-fallback-src="https://raw.githubusercontent.com/schneidermartin/public-narratives/schneidermartin/feedback-implementation/assets/schneidermartin/KlimadashboardatHoheWarte2024-1747648429811.PNG" />
 
 <p style="font-size: 0.8em;"><em>Source: <a href="https://klimadashboard.at/en">www.klimadashboard.at</a></em></p>
@@ -36,27 +36,26 @@ This raises a number of **pressing questions**, including:
 ›	Which areas should be prioritised?  
 
 In recent years, **various studies analysing the urban climate and heat exposure** have been carried out. Examples include the **Vienna Urban Climate Analysis (Stadtklimaanalyse Wien, 2020)** and the **Urban Heat Vulnerability Index (UHVI) Vienna (2019)**.
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6074f597bee163dce11a0de69ac2bc71f1f4add/assets/stadtklimaanalyse-karte-001-1742459897452.png" style="width: 100%; height: 100%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/stadtklimaanalyse-karte-001-1742459897452.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6074f597bee163dce11a0de69ac2bc71f1f4add/assets/stadtklimaanalyse-karte-001-1742459897452.png" style="display: block; margin: 0 auto; width: 70%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/stadtklimaanalyse-karte-001-1742459897452.png" />
 
 <p style="font-size: 0.8em;"><em>Source: <a href="https://www.wien.gv.at/stadtplanung/stadtklimaanalyse">Stadtklimaanalyse Wien 2020 </a> (City of Vienna - Urban Development and Planning, Weatherpark GmbH, INKEK GmbH)</em></p>
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/52ac3fd29e2d4aaba2255e88cc426362c13f02ce/assets/UHVI-1742459936283.PNG" style="width: 100%; height: 30%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/UHVI-1742459936283.PNG" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/52ac3fd29e2d4aaba2255e88cc426362c13f02ce/assets/UHVI-1742459936283.PNG" style="display: block; margin: 0 auto; width: 70%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/UHVI-1742459936283.PNG" />
 
 <p style="font-size: 0.8em;"><em>Source: Illustration by orf.at based on data from the City of Vienna (energie.wien.gv.at), ECOTEN, OpenStreetMap</em></p>
 
-
 ### Where is there room for improvement in providing usable data and information?
 
-### 1. Flexibility & Timeliness
-#### Heat ≠ Heat Risk
+#### 1. Flexibility & Timeliness
+##### Heat ≠ Heat Risk
 
 While some people happily sit in the sun at 30°C, for others this already poses a health risk.
 **One-off, static maps** provide a solid basis, but can raise **further questions and call for additional analyses** that are not immediately available. **Updates** due to changed conditions (land use & development, population structure, etc.) or a variable spatial resolution are not possible.
 
-### 2. Consistency
+#### 2. Consistency
 Due to the **use of different input data, calculation methods or objectives**, related studies can show inconsistencies (in the degree of heat stress, the need for action, etc.) and lead to problems in decision-making and communication.
 
-### 3. Transferability
+#### 3. Transferability
 Detailed analyses usually require **tailor-made solutions for individual cities**. So far, there is no standardised method for calculating heat risk that would make it available for many cities and regions. 
 
 ## Solution: "Heat Risk Maps"
@@ -64,7 +63,7 @@ Detailed analyses usually require **tailor-made solutions for individual cities*
 
 In line with the IPCC risk concept (Sixth Assessment Report (AR6), Working Group II), **risk is composed of hazard, exposure and vulnerability**.
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4988d1aeb84df8b73bdb6692cd30f5c547074cc4/assets/Risikopropeller-1742468288131.png" style="width: 100%; height: 60%;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/Risikopropeller-1742468288131.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4988d1aeb84df8b73bdb6692cd30f5c547074cc4/assets/Risikopropeller-1742468288131.png" style="display: block; margin: 0 auto; width: 50%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/Risikopropeller-1742468288131.png" />
 
 
 A **sound risk assessment** makes it possible to shape future developments, make effective investments and **place measures where they are needed**.
@@ -72,33 +71,31 @@ This requires comprehensively compiling and linking data from different discipli
 
 The heat risk algorithm developed combines **current satellite information**, such as building structure, degree of soil sealing or tree cover, with **population statistics** and high-resolution **climate data** tailored to Austria. 
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f670fdd9c7b0dc24e6be13c01ac46e97d6480ccd/assets/Datasourcessketch2-1747647762985.png" data-fallback-src="https://raw.githubusercontent.com/schneidermartin/public-narratives/schneidermartin/feedback-implementation/assets/schneidermartin/Datasourcessketch2-1747647762985.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f670fdd9c7b0dc24e6be13c01ac46e97d6480ccd/assets/Datasourcessketch2-1747647762985.png" style="display: block; margin: 0 auto; width: 80%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/schneidermartin/public-narratives/schneidermartin/feedback-implementation/assets/schneidermartin/Datasourcessketch2-1747647762985.png" />
 
 The methodology allows the heat risk maps to be recalculated whenever new or updated datasets become available, making the **effects of adaptation measures and urban development visible**.
 
 It also makes it possible to include **future spatial planning scenarios or demographic developments** and to anticipate future impacts. While open-source data form the basis, available city-specific data can enable higher quality.
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/3fccfa1e48b774193885976c416e71b33919e68e/assets/ExampleViennaSat-1742554565946.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaSat-1742554565946.png" />
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/214fb85ff18ec9bcf27740f14a7e955aaa138ed0/assets/ExampleViennaRiskbuildings-1742554563509.png" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554563509.png" />
-
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/3fccfa1e48b774193885976c416e71b33919e68e/assets/ExampleViennaSat-1742554565946.png" style="display: block; margin: 0 auto; width: 80%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaSat-1742554565946.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/214fb85ff18ec9bcf27740f14a7e955aaa138ed0/assets/ExampleViennaRiskbuildings-1742554563509.png" style="display: block; margin: 0 auto; width: 80%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/ExampleViennaRiskbuildings-1742554563509.png" />
 
 The heat risk maps thus make it possible to determine the **spatial distribution of heat risk** for a **defined population group, infrastructure, etc.** under **selected climatic conditions**. 
 
-**Examples: selection of possible heat hazards**:
-- Daily maximum air temperature > 25°C / 30°C / 35°C / 40°C
-- Daily minimum air temperature > 20°C
-- X consecutive days with a daily maximum air temperature > Y°C
-- under current or future climate conditions
-- ... other climate indices 
+**Examples: selection of possible heat hazards**:   
+›	Daily maximum air temperature > 25°C / 30°C / 35°C / 40°C   
+›	Daily minimum air temperature > 20°C    
+›	X consecutive days with a daily maximum air temperature > Y°C   
+›	under current or future climate conditions  
+›	... other climate indices   
 
-**Examples: definition of vulnerable groups**:
-- People younger than 14
-- People older than 65
-- Locations of vulnerable social infrastructure (kindergartens, hospitals, care homes, etc.)
-- People on low incomes
-- Consideration of existing cool spots or similar places to cool down
-- ... other factors that increase/reduce vulnerability
-
+**Examples: definition of vulnerable groups**:  
+›	People younger than 14  
+›	People older than 65    
+›	Locations of vulnerable social infrastructure (kindergartens, hospitals, care homes, etc.)   
+›	People on low incomes   
+›	Consideration of existing cool spots or similar places to cool down 
+›	... other factors that increase/reduce vulnerability    
 
 ## Use Cases
 Thanks to the flexible choice of data, heat risk can be calculated for a wide range of use cases, including:
