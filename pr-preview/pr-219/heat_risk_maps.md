@@ -98,15 +98,12 @@ The heat risk maps thus make it possible to determine the **spatial distribution
 ›	... other factors that increase/reduce vulnerability    
 
 ## Use Cases
-Thanks to the flexible choice of data, heat risk can be calculated for a wide range of use cases, including:
-- **Heat action and heat protection plans**: Integrating heat risk maps can help tailor measures to the areas at risk.
-- **Urban development concepts**: Heat risk maps provide valuable information for spatial planning and urban development, helping cities remain liveable in the future.
-- **Prioritising adaptation measures**: Comparing areas within cities and regions.
-- **Updating current heat risk information**: Changing climate conditions, the development of urban areas and changing population statistics render outdated maps unusable. The algorithm developed allows straightforward updates.
-- **Identifying locations with future risks**: Organisations and companies working with vulnerable groups can identify places with high or low, current and future heat risk, which is crucial for planning locations and operations.
-
-
-
+Thanks to the flexible choice of data, heat risk can be calculated for a wide range of use cases, including:   
+•	**Heat action and heat protection plans**: Integrating heat risk maps can help tailor measures to the areas at risk.   
+•	**Urban development concepts**: Heat risk maps provide valuable information for spatial planning and urban development, helping cities remain liveable in the future.   
+•	**Prioritising adaptation measures**: Comparing areas within cities and regions.    
+•	**Updating current heat risk information**: Changing climate conditions, the development of urban areas and changing population statistics render outdated maps unusable. The algorithm developed allows straightforward updates.   
+•	**Identifying locations with future risks**: Organisations and companies working with vulnerable groups can identify places with high or low, current and future heat risk, which is crucial for planning locations and operations.   
 
 ## Quality Control
 The **timeliness of the static input data** is a key quality component. A **trend analysis of surface temperature** (OHB) can identify changes in a city's land use and building structure. At these locations, the timeliness of the input data should be checked.
