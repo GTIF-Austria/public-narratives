@@ -119,14 +119,26 @@ Thanks to the flexible choice of data, heat risk can be calculated for a wide ra
 •	**Identifying locations with future risks**: Organisations and companies working with vulnerable groups can identify places with high or low, current and future heat risk, which is crucial for planning locations and operations.   
 
 
+## Available services
+1. **Free version:** During project runtime, example forecasts are available for chosen part of Vienna. Long term strategy T.B.D.
+2. **Commercial version:** upon request, please contact [Jan Peters-Anders](mailto:jan.peters-anders@ait.ac.at)
+
+
 ## Example Maps <!--{ as="eox-map" mode="tour" }-->
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}},{"type":"WebGLTile","properties":{"id":"heatrisk_a1_2050","title":"Hitzerisiko 0-19 Jahre, Bevölkerungsstand 2050"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2090_multiband.tif"}]},"style":{"color":["case",["==",["band",3],2],"rgba(251,255,200,0.8)",["==",["band",3],3],"rgba(254,221,144,0.8)",["==",["band",3],4],"rgba(244,114,119,0.8)",["==",["band",3],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
 
 #### Age-specific heat exposure maps
-bla bla 
+These maps show where people of a specific age group in Vienna will be exposed to heat in the future. They combine projected tropical nights (nights with a minimum temperature of at least 20 °C) under future climate conditions with the spatial distribution of the population by age group, based on population projections for 2025, 2030, 2040 and 2050. The exposure levels range from low to very strong and are shown separately for five age groups (0–19, 20–44, 45–64, 65–84 and 85+ years). This makes it possible to see where vulnerable groups, such as young children and older people, are likely to face the highest heat burden, and how this pattern changes as the city’s population develops.  
 
-### Exposure
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}},{"type":"WebGLTile","properties":{"id":"heatrisk_a1_2050","title":"Hitzerisiko 0-19 Jahre, Bevölkerungsstand 2050"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2090_multiband.tif"}]},"style":{"color":["case",["==",["band",3],2],"rgba(251,255,200,0.8)",["==",["band",3],3],"rgba(254,221,144,0.8)",["==",["band",3],4],"rgba(244,114,119,0.8)",["==",["band",3],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+
+#### Age-specific heat exposure maps
+Following xxx
+
+
+
+### Exposure Levels
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
 <tr style="border-bottom: 2px solid #999;">
