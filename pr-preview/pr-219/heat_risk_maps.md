@@ -9,7 +9,6 @@ provider: AIT Center for Energy
 # Heat Risk Maps
 
 ## Problem Statement & Starting Point
-
 Extreme heat during the day and no cooling at night:
 In Vienna, the number of heat days and tropical nights is rising steadily.
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b0c30d850f866cbd8366d0e4639978a62e4079bb/assets/KlimaindizesWien-1742456280058.png" style="display: block; margin: 0 auto; width: 50%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/KlimaindizesWien-1742456280058.png" />
@@ -36,6 +35,19 @@ This raises a number of **pressing questions**, including:
 ›	Which areas should be prioritised?  
 
 In recent years, **various studies analysing the urban climate and heat exposure** have been carried out. Examples include the **Vienna Urban Climate Analysis (Stadtklimaanalyse Wien, 2020)** and the **Urban Heat Vulnerability Index (UHVI) Vienna (2019)**.
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 2%;">
+<div style="flex: 1.416; min-width: 0;">
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6074f597bee163dce11a0de69ac2bc71f1f4add/assets/stadtklimaanalyse-karte-001-1742459897452.png" style="display: block; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/stadtklimaanalyse-karte-001-1742459897452.png" />
+<p style="font-size: 0.8em; margin-top: 0.3em;"><em>Source: <a href="https://www.wien.gv.at/stadtplanung/stadtklimaanalyse">Stadtklimaanalyse Wien 2020</a> (City of Vienna - Urban Development and Planning, Weatherpark GmbH, INKEK GmbH)</em></p>
+</div>
+<div style="flex: 1.768; min-width: 0;">
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/52ac3fd29e2d4aaba2255e88cc426362c13f02ce/assets/UHVI-1742459936283.PNG" style="display: block; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/UHVI-1742459936283.PNG" />
+<p style="font-size: 0.8em; margin-top: 0.3em;"><em>Source: Illustration by orf.at based on data from the City of Vienna (energie.wien.gv.at), ECOTEN, OpenStreetMap</em></p>
+</div>
+</div>
+
+
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6074f597bee163dce11a0de69ac2bc71f1f4add/assets/stadtklimaanalyse-karte-001-1742459897452.png" style="display: block; margin: 0 auto; width: 70%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/stadtklimaanalyse-karte-001-1742459897452.png" />
 
 <p style="font-size: 0.8em;"><em>Source: <a href="https://www.wien.gv.at/stadtplanung/stadtklimaanalyse">Stadtklimaanalyse Wien 2020 </a> (City of Vienna - Urban Development and Planning, Weatherpark GmbH, INKEK GmbH)</em></p>
@@ -64,7 +76,6 @@ Detailed analyses usually require **tailor-made solutions for individual cities*
 In line with the IPCC risk concept (Sixth Assessment Report (AR6), Working Group II), **risk is composed of hazard, exposure and vulnerability**.
 
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4988d1aeb84df8b73bdb6692cd30f5c547074cc4/assets/Risikopropeller-1742468288131.png" style="display: block; margin: 0 auto; width: 50%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/Risikopropeller-1742468288131.png" />
-
 
 A **sound risk assessment** makes it possible to shape future developments, make effective investments and **place measures where they are needed**.
 This requires comprehensively compiling and linking data from different disciplines. 
