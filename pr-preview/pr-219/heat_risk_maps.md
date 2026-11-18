@@ -102,7 +102,7 @@ The heat risk maps thus make it possible to determine the **spatial distribution
 ›	People older than 65    
 ›	Locations of vulnerable social infrastructure (kindergartens, hospitals, care homes, etc.)   
 ›	People on low incomes   
-›	Consideration of existing cool spots or similar places to cool down 
+›	Consideration of existing cool spots or similar places to cool down     
 ›	... other factors that increase/reduce vulnerability    
 
 
