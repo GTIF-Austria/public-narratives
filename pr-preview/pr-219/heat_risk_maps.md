@@ -11,8 +11,8 @@ provider: AIT Center for Energy
 ## The Challenge
 Extreme heat during the day and no cooling at night:
 In Vienna, the number of heat days and tropical nights is rising steadily.
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/b0c30d850f866cbd8366d0e4639978a62e4079bb/assets/KlimaindizesWien-1742456280058.png" 
-style="display: block; margin: 0 auto; width: 50%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/KlimaindizesWien-1742456280058.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/16f9d35ada073d958bfffd47cbd1854e91ad1d94/assets/aakozlowska/KlimaindizesWien-1795023444657.png" 
+style="display: block; margin: 0 auto; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/16f9d35ada073d958bfffd47cbd1854e91ad1d94/assets/aakozlowska/KlimaindizesWien-1795023444657.png" />
 <p style="font-size: 0.8em;"><em>Source: Klimastatusbericht Österreich 2023, Klimarückblick Wien, ed. CCCA 2024.</em></p>
 
 In **2024**, the **Hohe Warte station in Vienna** recorded  
