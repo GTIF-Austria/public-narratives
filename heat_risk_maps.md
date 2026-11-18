@@ -62,11 +62,15 @@ Due to the **use of different input data, calculation methods or objectives**, r
 Detailed analyses usually require **tailor-made solutions for individual cities**. So far, there is no standardised method for calculating heat risk that would make it available for many cities and regions. 
 
 ## Our Solution
-**Flexible, consistent and transferable heat risk maps** support not only **cities and municipalities**, but also **companies and organisations** that need to assess future heat risks.
-
-In line with the IPCC risk concept (Sixth Assessment Report (AR6), Working Group II), **risk is composed of hazard, exposure and vulnerability**.
-
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4988d1aeb84df8b73bdb6692cd30f5c547074cc4/assets/Risikopropeller-1742468288131.png" style="display: block; margin: 0 auto; width: 50%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/Risikopropeller-1742468288131.png" />
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 4%;">
+<div style="flex: 3 1 250px; min-width: 0;">
+<p><strong>Flexible, consistent and transferable heat risk maps</strong> support not only <strong>cities and municipalities</strong>, but also <strong>companies and organisations</strong> that need to assess future heat risks.</p>
+<p>In line with the IPCC risk concept (Sixth Assessment Report (AR6), Working Group II), <strong>risk is composed of hazard, exposure and vulnerability</strong>.</p>
+</div>
+<div style="flex: 0.5 1 250px; min-width: 0;">
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/106e8b112fbf799e62c934d6519f81bb43c5d4cb/assets/aakozlowska/IPCC-AR5-ConceptualFramework-2-1795010279603.png" alt="IPCC risk concept: hazard, exposure and vulnerability" style="display: block; width: 100%; height: auto;" />
+</div>
+</div>
 
 A **sound risk assessment** makes it possible to shape future developments, make effective investments and **place measures where they are needed**.
 This requires comprehensively compiling and linking data from different disciplines. 
