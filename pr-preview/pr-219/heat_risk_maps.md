@@ -42,10 +42,12 @@ In recent years, **various studies analysing the urban climate and heat exposure
 <p style="font-size: 0.8em; margin-top: 0.3em;"><em>Source: <a href="https://www.wien.gv.at/stadtplanung/stadtklimaanalyse">Stadtklimaanalyse Wien 2020</a> (City of Vienna - Urban Development and Planning, Weatherpark GmbH, INKEK GmbH)</em></p>
 </div>
 <div style="flex: 1.768; min-width: 0;">
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/52ac3fd29e2d4aaba2255e88cc426362c13f02ce/assets/UHVI-1742459936283.PNG" style="display: block; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/UHVI-1742459936283.PNG" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5fbefbc9fe628a897e908f24c575df9a9e06c4ce/assets/aakozlowska/UHVI-2-1795020799527.png" style="display: block; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5fbefbc9fe628a897e908f24c575df9a9e06c4ce/assets/aakozlowska/UHVI-2-1795020799527.png" />
 <p style="font-size: 0.8em; margin-top: 0.3em;"><em>Source: Illustration by orf.at based on data from the City of Vienna (energie.wien.gv.at), ECOTEN, OpenStreetMap</em></p>
 </div>
 </div>
+
+
 
 ### Where is there room for improvement in providing usable data and information?
 
