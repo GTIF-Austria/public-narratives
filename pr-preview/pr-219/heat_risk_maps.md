@@ -101,24 +101,6 @@ The heat risk maps thus make it possible to determine the **spatial distribution
 ›	Consideration of existing cool spots or similar places to cool down     
 ›	... other factors that increase/reduce vulnerability    
 
-
-### Quality Control
-The **timeliness of the static input data** is a key quality component. A **trend analysis of surface temperature** (OHB) can identify changes in a city's land use and building structure. At these locations, the timeliness of the input data should be checked.
-
-#### High-Resolution Surface Temperature
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" 
-style="display: block; margin: 0 auto; width: 40%; height: auto;"
-data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
-
-<p style="font-size: 0.8em;"><em>Source: OHB SE <a href="https://www.ohb.de/">https://www.ohb.de/</a></em></p>
-
-#### Surface Temperature Trend Analysis
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6890d9562a2c1bba56e136177bff4cfec398cc2/assets/OHB-1742553790083.png"
-style="display: block; margin: 0 auto; width: 90%; height: auto;"
-data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742553790083.png" />
-<p style="font-size: 0.8em;"><em>Source: OHB SE <a href="https://www.ohb.de/">https://www.ohb.de/</a></em></p>
-
-
 ## Use Cases
 Thanks to the flexible choice of data, heat risk can be calculated for a wide range of use cases, including:   
 •	**Heat action and heat protection plans**: Integrating heat risk maps can help tailor measures to the areas at risk.   
