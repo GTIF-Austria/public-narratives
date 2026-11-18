@@ -6,10 +6,7 @@ tags:  urban climate, remote sensing, exposition, vulnerability
 provider: AIT Center for Energy
 ---
 
-# Heat Risk Maps <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5dd805affa6ed2e0598e25f260fdc8d052c2b55b/assets/aakozlowska/heat-risk-map-2-1795017826102.jpg" }-->
-
-![heat-risk-map-2.jpg](https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5dd805affa6ed2e0598e25f260fdc8d052c2b55b/assets/aakozlowska/heat-risk-map-2-1795017826102.jpg)
-https://raw.githubusercontent.com/GTIF-Austria/public-narratives/7137c0b543b05511e34a50e2587a38fdc6947640/assets/aakozlowska/heat-risk-map-1-1795017721423.jpg
+# Heat Risk Maps <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/47353ce63d973d085fa7a878d51f386434b198e5/assets/aakozlowska/heat-risk-map-2-1795018103478.png" }-->
 
 ## The Challenge
 Extreme heat during the day and no cooling at night:
