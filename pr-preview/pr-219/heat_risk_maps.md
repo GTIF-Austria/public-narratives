@@ -21,7 +21,7 @@ In **2024**, the **Hohe Warte station in Vienna** recorded
 ›	more than ten times as many tropical nights     
 as in the 1961 - 1990 reference period.
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/46bd082b05871481e50abb046467285554293b3a/assets/KlimadashboardatHoheWarte2024-1747648429811.PNG" style="width: 100%; height: 100%;" data-fallback-src="https://raw.githubusercontent.com/schneidermartin/public-narratives/schneidermartin/feedback-implementation/assets/schneidermartin/KlimadashboardatHoheWarte2024-1747648429811.PNG" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/46bd082b05871481e50abb046467285554293b3a/assets/KlimadashboardatHoheWarte2024-1747648429811.PNG" style="display: block; margin: 0 auto; width: 90%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/schneidermartin/public-narratives/schneidermartin/feedback-implementation/assets/schneidermartin/KlimadashboardatHoheWarte2024-1747648429811.PNG" />
 <p style="font-size: 0.8em;"><em>Source: <a href="https://klimadashboard.at/en">www.klimadashboard.at</a></em></p>
 
 **High population density** and the **urban heat island effect** force cities to adapt and take action against this growing threat.
@@ -47,8 +47,6 @@ In recent years, **various studies analysing the urban climate and heat exposure
 </div>
 </div>
 
-
-
 ### Where is there room for improvement in providing usable data and information?
 
 #### 1. Flexibility & Timeliness
@@ -70,7 +68,7 @@ Detailed analyses usually require **tailor-made solutions for individual cities*
 <p>In line with the IPCC risk concept (Sixth Assessment Report (AR6), Working Group II), <strong>risk is composed of hazard, exposure and vulnerability</strong>.</p>
 </div>
 <div style="flex: 0.5 1 250px; min-width: 0;">
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/106e8b112fbf799e62c934d6519f81bb43c5d4cb/assets/aakozlowska/IPCC-AR5-ConceptualFramework-2-1795010279603.png" alt="IPCC risk concept: hazard, exposure and vulnerability" style="display: block; width: 100%; height: auto;" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/106e8b112fbf799e62c934d6519f81bb43c5d4cb/assets/aakozlowska/IPCC-AR5-ConceptualFramework-2-1795010279603.png" alt="IPCC risk concept: hazard, exposure and vulnerability" style="display: block; width: 80%; height: auto;" />
 </div>
 </div>
 
