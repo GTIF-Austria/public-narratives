@@ -41,7 +41,7 @@ In recent years, **various studies analysing the urban climate and heat exposure
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6074f597bee163dce11a0de69ac2bc71f1f4add/assets/stadtklimaanalyse-karte-001-1742459897452.png" style="display: block; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/stadtklimaanalyse-karte-001-1742459897452.png" />
 <p style="font-size: 0.8em; margin-top: 0.3em;"><em>Source: <a href="https://www.wien.gv.at/stadtplanung/stadtklimaanalyse">Stadtklimaanalyse Wien 2020</a> (City of Vienna - Urban Development and Planning, Weatherpark GmbH, INKEK GmbH)</em></p>
 </div>
-<div style="flex: 1.768; min-width: 0;">
+<div style="flex: 1.291; min-width: 0;">
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5fbefbc9fe628a897e908f24c575df9a9e06c4ce/assets/aakozlowska/UHVI-2-1795020799527.png" style="display: block; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/5fbefbc9fe628a897e908f24c575df9a9e06c4ce/assets/aakozlowska/UHVI-2-1795020799527.png" />
 <p style="font-size: 0.8em; margin-top: 0.3em;"><em>Source: Illustration by orf.at based on data from the City of Vienna (energie.wien.gv.at), ECOTEN, OpenStreetMap</em></p>
 </div>
