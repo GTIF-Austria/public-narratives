@@ -77,7 +77,7 @@ This requires comprehensively compiling and linking data from different discipli
 
 The heat risk algorithm developed combines **current satellite information**, such as building structure, degree of soil sealing or tree cover, with **population statistics** and high-resolution **climate data** tailored to Austria. 
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f670fdd9c7b0dc24e6be13c01ac46e97d6480ccd/assets/Datasourcessketch2-1747647762985.png" style="display: block; margin: 0 auto; width: 80%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/schneidermartin/public-narratives/schneidermartin/feedback-implementation/assets/schneidermartin/Datasourcessketch2-1747647762985.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/768aa54889a1280bea9b046f6ba49a537f7a24fd/assets/aakozlowska/processdiagram-1795020460234.png" style="display: block; margin: 0 auto; width: 80%; height: auto;"/>
 
 The methodology allows the heat risk maps to be recalculated whenever new or updated datasets become available, making the **effects of adaptation measures and urban development visible**.
 
