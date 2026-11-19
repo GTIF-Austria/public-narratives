@@ -70,6 +70,9 @@ The capability can support planning and assessment related to:
 -	Climate-resilient site planning — comparing local temperature patterns to inform the placement and design of buildings, outdoor spaces, and infrastructure.
 -	Long-term climate adaptation — exploring how urban surface-temperature patterns may evolve under different climate scenarios.
 
+### Explore data
+[Click here to go to the interactive map](https://gtif-austria.info/explore?indicator=heatgrid_lst&x=13.8955&y=47.6076&z=7.6676&datetime=2040-01-01&template=light)
+
 ### About us
 Provider: [GeoVille](https://www.geoville.com/)
 
