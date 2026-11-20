@@ -172,7 +172,7 @@ By 2090, tropical nights become even more frequent. For citizens, this means tha
 #### Same climate, different age group
 The climate stays the same, but we now look at people aged 65–84. The pattern looks different, because older people live in different parts of the city than children and young people. Heat risk therefore depends not only on where it gets hot, but also on who lives there.
 
-
+This is just one example. The maps shown here are displayed at a reduced level of detail. To explore other climate periods, population years and age groups, visit the [GTIF Austria data explorer](https://gtif-austria.info/explore?indicator=heatrisk_vienna&x=16.3659&y=48.1752&z=12.6272&datetime=2090-01-01&template=expert). 
 
 ## Contact
 **Jan Peters-Anders**<br>
