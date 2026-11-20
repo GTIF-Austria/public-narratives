@@ -81,9 +81,6 @@ Our heat risk algorithm combines **current satellite information**, such as buil
 
 The hazard layer describes how often nights stay warm. It is based on the number of **tropical nights per year** (minimum temperature of at least 20 °C). Climate projections for Austria were downscaled to the city scale using the climate analysis map of the Vienna Urban Climate Analysis, which shows how buildings, sealed surfaces and green spaces influence local night-time cooling. The result is a series of high-resolution heat maps for Vienna from **2020 to 2090** in ten-year steps.
 
-<img src="PLACEHOLDER_URL_heatmaps_vienna.png" alt="Tropical nights per year in Vienna" style="display: block; margin: 0 auto; width: 80%; height: auto;" />
-<p style="font-size: 0.8em;"><em>Tropical nights per year in Vienna, [2020 and 2090, scenario]. Source: AIT Austrian Institute of Technology</em></p>
-
 The exposure layer shows **who lives where**. Current population data from **Statistik Austria** were combined with the **ÖROK population projections up to 2050** and broken down into five age groups (0–19, 20–44, 45–64, 65–84 and 85+ years). This makes it possible to analyse not only where heat occurs, but also which population groups are affected, today and in the future.
 
 The methodology allows the heat risk maps to be recalculated whenever new or updated datasets become available, making the **effects of adaptation measures and urban development visible**.
@@ -162,8 +159,6 @@ Thanks to the flexible choice of data, heat risk can be calculated for a wide ra
 ## Available services
 1. **Free version:** During project runtime, example forecasts are available for chosen part of Vienna. Long term strategy T.B.D.
 2. **Commercial version:** upon request, please contact [Jan Peters-Anders](mailto:jan.peters-anders@ait.ac.at)
-
-https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/watermark.tif
 
 ## Example Maps <!--{ as="eox-map" mode="tour" }-->
 
