@@ -147,14 +147,8 @@ High-resolution **land surface temperature (LST)** data is crucial for urban pla
 ›	Monitoring heat-sensitive infrastructure, e.g. heating pipes, energy infrastructure and the thermal insulation of buildings    
 ›	Calibration and validation (Cal/Val) of satellite missions    
 
-
-
-
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/1161fc4afe6b170fb033c111d7688186563af72f/assets/LST-1742473151887.PNG" style="display: block; margin: 0 auto; width: 60%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/LST-1742473151887.PNG" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f59654a1d18166c50dbe63e212694cbb783d136a/assets/aakozlowska/OHB-1-1795191052742.png" style="display: block; margin: 0 auto; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f59654a1d18166c50dbe63e212694cbb783d136a/assets/aakozlowska/OHB-1-1795191052742.png" />
 <p style="font-size: 0.8em;"><em>High-resolution land surface temperature. Source: <a href="https://www.ohb.de/">OHB SE</a></em></p>
-
-source: OHB
-
 
 ## Use Cases
 Thanks to the flexible choice of data, heat risk can be calculated for a wide range of use cases, including:   
