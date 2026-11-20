@@ -147,7 +147,7 @@ High-resolution **land surface temperature (LST)** data is crucial for urban pla
 ›	Monitoring heat-sensitive infrastructure, e.g. heating pipes, energy infrastructure and the thermal insulation of buildings    
 ›	Calibration and validation (Cal/Val) of satellite missions    
 
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f59654a1d18166c50dbe63e212694cbb783d136a/assets/aakozlowska/OHB-1-1795191052742.png" style="display: block; margin: 0 auto; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f59654a1d18166c50dbe63e212694cbb783d136a/assets/aakozlowska/OHB-1-1795191052742.png" />
+<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/7db9eaeeb32887557a038764a6907dc9e3a3a6b5/assets/aakozlowska/OHB-2-1795191316926.png" style="display: block; margin: 0 auto; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/7db9eaeeb32887557a038764a6907dc9e3a3a6b5/assets/aakozlowska/OHB-2-1795191316926.png" />
 <p style="font-size: 0.8em;"><em>High-resolution land surface temperature. Source: <a href="https://www.ohb.de/">OHB SE</a></em></p>
 
 ## Use Cases
