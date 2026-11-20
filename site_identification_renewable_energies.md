@@ -1,17 +1,13 @@
----
-cover-image: https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Enefit-Greeni-Purtse-hybriidpark-Ida-Virumaal-1749907570161.webp
+# Site Identification for Renewable Energies <!--{ as="img" mode="hero" src="https://loremflickr.com/1920/1080/austria,windfarm,landscape" }-->
+#### Utilizing Earth Observation data for strategic energy planning in Austria.
 
-domain: Energy Transition
-tags: wind energy, photovoltaic, RED-III
-provider: Energiewerkstatt
----
-
-# Site Identification for Renewable Energies
 ## Motivation
 The designation of acceleration areas for renewables, as required by the European renewable energy directive, is a challenging political process involving several stakeholders, including federal and state authorities. One main challenge in the expansion of renewable energies, namely large-scale PV-plants and wind energy, lies in the identification of suitable areas, taking into account the many technical, social and economic restrictions as well as nature and landscape protection. This regionally structured data on renewable resources and potential areas are therefore an important information for the designation of wind energy development zones and a valuable planning basis for project developers. 
 This service as part of GTIF-AT C activity shall be a suitable data basis and a flexible tool for the localization of large-scale PV-plants and wind turbines. Thereby multi-dimensional visual analytics functionality will be provided by GTIF-AT to those stakeholders, who will ultimately have to decide on RED-III priority area identifications.
+
 ## Aim
 This service shall include an user interface for the location of a number of new wind turbines in a user-specified area. All criteria and parameters in the identification of potential renewable energy areas - spatial planning, designated protected areas, plant technology and economic parameters - can be flexibly parameterized, which means that potential renewable energy areas can be calculated under a wide variety of assumptions and conditions.
+
 ## Method
 As a basis for the consideration and the identification of potential renewable energy areas, a number of datasets will be prepared. This shall include:
 *	renewable energy potential (solar irradiation, wind conditions)
@@ -20,6 +16,29 @@ As a basis for the consideration and the identification of potential renewable e
 *	designated protected areas
 *	an up-to-date database of existing power plants (in particular wind)
 Using this input data, a dedicated algorithm will be implemented for the identification of the optimum locations for the renewable energy plants under the given parameters and constraints.
+
+## Regional Case Studies in Austria <!--{ as="eox-map" mode="tour" position="left" }-->
+
+### <!--{ zoom=9 center=[16.37,48.2] layers='[{"type":"Tile","properties":{"id":"terrain-light"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}},{"type":"Tile","properties":{"id":"wind-data"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}}]' animationOptions='{"duration":500}' }-->
+#### Lower Austria Plains
+Analyzing high wind potential areas in the flat regions of eastern Austria, ideal for large-scale wind farm developments.
+
+### <!--{ zoom=10 center=[16.6,47.7] layers='[{"type":"Tile","properties":{"id":"terrain-light"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}},{"type":"Tile","properties":{"id":"infrastructure"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}}]' animationOptions='{"duration":500}' }-->
+#### Burgenland Corridor
+Evaluating existing infrastructure proximity to minimize transmission losses for new wind turbines.
+
+### <!--{ zoom=10 center=[15.43,47.07] layers='[{"type":"Tile","properties":{"id":"terrain-light"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}},{"type":"Tile","properties":{"id":"solar-irradiance"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}}]' animationOptions='{"duration":500}' }-->
+#### Styrian Solar Potential
+Assessing slope orientation and solar irradiance in hilly terrains for optimized PV-plant placement.
+
+### <!--{ zoom=9 center=[14.28,48.3] layers='[{"type":"Tile","properties":{"id":"terrain-light"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}},{"type":"Tile","properties":{"id":"protected-areas"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}}]' animationOptions='{"duration":500}' }-->
+#### Upper Austrian Protected Areas
+Filtering out protected zones and environmentally sensitive habitats from potential energy project sites.
+
+### <!--{ zoom=8 center=[14.55,47.51] layers='[{"type":"Tile","properties":{"id":"terrain-light"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}},{"type":"Tile","properties":{"id":"suitability-map"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}}]' animationOptions='{"duration":500}' }-->
+#### Integration Synthesis
+Viewing the final suitability map where all technical, economic, and ecological constraints converge.
+
 ## Long-term perspective
 After completion of the ESA contact in early 2026, a handover of the results and services into governance by Austrian stakeholders and into sustainable operation is scheduled to take place. The scope of this service is aligned to the requirements of the Austrian stakeholders and the suitable POCs have been nominated to ensure an ongoing input as to the relevant needs and priorities. Austrian stakeholders should thus have a strong interest in the continued availability and maintenance of the results, which will very much help in funding a continued operation.
 An economic operation (business perspective) of the tools and services, e.g. helping wind energy project developers in identifying project areas, is also conceivable.
