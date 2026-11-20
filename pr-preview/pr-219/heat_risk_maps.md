@@ -25,7 +25,7 @@ as in the 1961 - 1990 reference period.
 <p style="font-size: 0.8em;"><em>Source: <a href="https://klimadashboard.at/en">www.klimadashboard.at</a></em></p>
 
 **High population density** and the **urban heat island effect** force cities to adapt and take action against this growing threat.
-**Vulnerable groups** in particular suffer from persistently high temperatures and heat stress - with serious consequences for their health.    
+**Vulnerable groups** in particular suffer from persistently high temperatures and heat stress, with serious consequences for their health.    
 **Yet adaptation measures are often only effective locally, and resources are limited**.
 
 This raises a number of **pressing questions**, including:  
@@ -111,7 +111,7 @@ Thanks to the flexible choice of data, heat risk can be calculated for a wide ra
 •	**Heat action and heat protection plans**: Integrating heat risk maps can help tailor measures to the areas at risk.   
 •	**Urban development concepts**: Heat risk maps provide valuable information for spatial planning and urban development, helping cities remain liveable in the future.   
 •	**Prioritising adaptation measures**: Comparing areas within cities and regions.    
-•	**Updating current heat risk information**: Changing climate conditions, the development of urban areas and changing population statistics render outdated maps unusable. The algorithm developed allows straightforward updates.   
+•	**Updating current heat risk information**: Changing climate conditions, the development of urban areas and changing population statistics render outdated maps unusable. The algorithm allows straightforward updates.   
 •	**Identifying locations with future risks**: Organisations and companies working with vulnerable groups can identify places with high or low, current and future heat risk, which is crucial for planning locations and operations.   
 
 
