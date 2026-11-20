@@ -112,13 +112,14 @@ Thanks to the flexible choice of data, heat risk can be calculated for a wide ra
 1. **Free version:** During project runtime, example forecasts are available for chosen part of Vienna. Long term strategy T.B.D.
 2. **Commercial version:** upon request, please contact [Jan Peters-Anders](mailto:jan.peters-anders@ait.ac.at)
 
+https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/watermark.tif
 
-## Example Maps <!--{ as="eox-map" mode="tour" }-->
+
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}},{"type":"WebGLTile","properties":{"id":"heatrisk_a1_2050","title":"Hitzerisiko 0-19 Jahre, Bevölkerungsstand 2050"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2090_multiband.tif"}]},"style":{"color":["case",["==",["band",3],2],"rgba(251,255,200,0.8)",["==",["band",3],3],"rgba(254,221,144,0.8)",["==",["band",3],4],"rgba(244,114,119,0.8)",["==",["band",3],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
 
 
-https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/watermark.tif
+
 
 #### Age-specific heat exposure maps
 These maps show where people of a specific age group in Vienna will be exposed to heat in the future. They combine projected tropical nights (nights with a minimum temperature of at least 20 °C) under future climate conditions with the spatial distribution of the population by age group, based on population projections for 2025, 2030, 2040 and 2050. The exposure levels range from low to very strong and are shown separately for five age groups (0–19, 20–44, 45–64, 65–84 and 85+ years). This makes it possible to see where vulnerable groups, such as young children and older people, are likely to face the highest heat burden, and how this pattern changes as the city’s population develops.  
@@ -152,16 +153,71 @@ These maps show where people of a specific age group in Vienna will be exposed t
 </tbody>
 </table>
 
+## Example Maps <!--{ as="eox-map" mode="tour" }-->
 
-### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}},{"type":"WebGLTile","properties":{"id":"heatrisk_a1_2050","title":"Hitzerisiko 0-19 Jahre, Bevölkerungsstand 2050"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2090_multiband.tif"}]},"style":{"color":["case",["==",["band",3],2],"rgba(251,255,200,0.8)",["==",["band",3],3],"rgba(254,221,144,0.8)",["==",["band",3],4],"rgba(244,114,119,0.8)",["==",["band",3],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
+### <!--{ layers='[{"type":"Tile","properties":{"id":"satellite","title":"EOxCloudless 2025"},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg","attributions":"Sentinel-2 cloudless - s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)"}},{"type":"WebGLTile","properties":{"id":"heat_step1","title":"Heat exposure 2090, ages 45-64, population 2050"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2090_multiband.tif"}]},"style":{"color":["case",["==",["band",12],2],"rgba(251,255,200,0.8)",["==",["band",12],3],"rgba(254,221,144,0.8)",["==",["band",12],4],"rgba(244,114,119,0.8)",["==",["band",12],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
 
 #### Age-specific heat exposure maps
-Following xxx
+These maps show where people of a specific age group in Vienna will be exposed to heat in the future. They combine projected tropical nights (nights with a minimum temperature of at least 20 °C) under future climate conditions with the spatial distribution of the population by age group, based on population projections for 2025, 2030, 2040 and 2050. The exposure levels range from low to very strong and are shown separately for five age groups (0–19, 20–44, 45–64, 65–84 and 85+ years). This makes it possible to see where vulnerable groups, such as young children and older people, are likely to face the highest heat burden, and how this pattern changes as the city’s population develops.  
 
+Step 1: Heat exposure 2090, ages 45-64, population 2050
+Full view of Vienna. Climate hazard for 2090, population projection for 2050, age group 45-64 years. (Band 12)
 
+### <!--{ layers='[{"type":"Tile","properties":{"id":"satellite","title":"EOxCloudless 2025"},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg","attributions":"Sentinel-2 cloudless - s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)"}},{"type":"WebGLTile","properties":{"id":"heat_step1","title":"Heat exposure 2090, ages 45-64, population 2050"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2090_multiband.tif"}]},"style":{"color":["case",["==",["band",12],2],"rgba(251,255,200,0.8)",["==",["band",12],3],"rgba(254,221,144,0.8)",["==",["band",12],4],"rgba(244,114,119,0.8)",["==",["band",12],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.37349215538594,48.208361321627784] zoom="11" animationOptions="{duration:500}" }-->
 
+#### Exposure Levels
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr style="border-bottom: 2px solid #999;">
+<th style="padding: 6px; text-align: left; font-size: 0.75em;">Exposure Level</th>
+<th style="padding: 6px; text-align: left; font-size: 0.75em;">Interpretation of the potential risk</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 6px; font-size: 0.75em; background-color: rgb(251,255,200); color: #000;"><strong>Low</strong></td>
+<td style="padding: 6px; font-size: 0.75em;">Warm nights in most summers; indicates increasing frequency of short heat waves</td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 6px; font-size: 0.75em; background-color: rgb(254,221,144); color: #000;"><strong>Medium</strong></td>
+<td style="padding: 6px; font-size: 0.75em;">Warm nights every year; persistent heat wave risk and increasing chronic heat exposure</td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 6px; font-size: 0.75em; background-color: rgb(244,114,119); color: #000;"><strong>Strong</strong></td>
 
+<td style="padding: 6px; font-size: 0.75em;">Warm nights dominate summer; heat waves expected annually; burden on health and emergency services</td>
+</tr>
+<tr style="border-bottom: 1px solid #ddd;">
+<td style="padding: 6px; font-size: 0.75em; background-color: rgb(147,60,220); color: #fff;"><strong>Very strong</strong></td>
+<td style="padding: 6px; font-size: 0.75em;">Warm nights dominate summer; intense, prolonged heat waves; severe burden on health and emergency services</td>
+</tr>
+</tbody>
+</table>
 
+### <!--{ layers='[{"type":"Tile","properties":{"id":"satellite","title":"EOxCloudless 2025"},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg","attributions":"Sentinel-2 cloudless - s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)"}},{"type":"WebGLTile","properties":{"id":"heat_step3","title":"Zoom: heat exposure 2020, ages 45-64, population 2025"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2020_multiband.tif"}]},"style":{"color":["case",["==",["band",9],2],"rgba(251,255,200,0.8)",["==",["band",9],3],"rgba(254,221,144,0.8)",["==",["band",9],4],"rgba(244,114,119,0.8)",["==",["band",9],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.372125918114133,48.173026657980216] zoom="14.473833333333333" animationOptions="{duration:500}" }-->
+ 
+#### Step 3: Zoom: heat exposure 2020, ages 45-64, population 2025
+Zoomed-in view. Same map as before: climate hazard for 2020, population for 2025, age group 45-64 years. (Band 9)
+ 
+### <!--{ layers='[{"type":"Tile","properties":{"id":"satellite","title":"EOxCloudless 2025"},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg","attributions":"Sentinel-2 cloudless - s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)"}},{"type":"WebGLTile","properties":{"id":"heat_step4","title":"Zoom: heat exposure 2020, ages 0-19, population 2025"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2020_multiband.tif"}]},"style":{"color":["case",["==",["band",1],2],"rgba(251,255,200,0.8)",["==",["band",1],3],"rgba(254,221,144,0.8)",["==",["band",1],4],"rgba(244,114,119,0.8)",["==",["band",1],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.372125918114133,48.173026657980216] zoom="14.473833333333333" animationOptions="{duration:500}" }-->
+ 
+#### Step 4: Zoom: heat exposure 2020, ages 0-19, population 2025
+Zoomed-in view. Climate hazard for 2020, population for 2025, age group 0-19 years. (Band 1)
+ 
+### <!--{ layers='[{"type":"Tile","properties":{"id":"satellite","title":"EOxCloudless 2025"},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg","attributions":"Sentinel-2 cloudless - s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)"}},{"type":"WebGLTile","properties":{"id":"heat_step5","title":"Zoom: heat exposure 2050, ages 0-19, population 2050"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2050_multiband.tif"}]},"style":{"color":["case",["==",["band",4],2],"rgba(251,255,200,0.8)",["==",["band",4],3],"rgba(254,221,144,0.8)",["==",["band",4],4],"rgba(244,114,119,0.8)",["==",["band",4],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.372125918114133,48.173026657980216] zoom="14.473833333333333" animationOptions="{duration:500}" }-->
+ 
+#### Step 5: Zoom: heat exposure 2050, ages 0-19, population 2050
+Zoomed-in view. Climate hazard for 2050, population projection for 2050, age group 0-19 years. (Band 4)
+ 
+### <!--{ layers='[{"type":"Tile","properties":{"id":"satellite","title":"EOxCloudless 2025"},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg","attributions":"Sentinel-2 cloudless - s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)"}},{"type":"WebGLTile","properties":{"id":"heat_step6","title":"Zoom: heat exposure 2090, ages 0-19, population 2050"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2090_multiband.tif"}]},"style":{"color":["case",["==",["band",4],2],"rgba(251,255,200,0.8)",["==",["band",4],3],"rgba(254,221,144,0.8)",["==",["band",4],4],"rgba(244,114,119,0.8)",["==",["band",4],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.372125918114133,48.173026657980216] zoom="14.473833333333333" animationOptions="{duration:500}" }-->
+ 
+#### Step 6: Zoom: heat exposure 2090, ages 0-19, population 2050
+Zoomed-in view. Climate hazard for 2090, population projection for 2050 (latest available), age group 0-19 years. (Band 4)
+ 
+### <!--{ layers='[{"type":"Tile","properties":{"id":"satellite","title":"EOxCloudless 2025"},"source":{"type":"XYZ","url":"https://{a-e}.s2maps-tiles.eu/wmts/1.0.0/s2cloudless-2025_3857/default/g/{z}/{y}/{x}.jpeg","attributions":"Sentinel-2 cloudless - s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2025)"}},{"type":"WebGLTile","properties":{"id":"heat_step7","title":"Zoom: heat exposure 2090, ages 65-84, population 2050"},"source":{"type":"GeoTIFF","normalize":false,"interpolate":false,"sources":[{"url":"https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/heatrisk/Heatexposure_Vienna_blurred/heatrisk_hazard_2090_multiband.tif"}]},"style":{"color":["case",["==",["band",16],2],"rgba(251,255,200,0.8)",["==",["band",16],3],"rgba(254,221,144,0.8)",["==",["band",16],4],"rgba(244,114,119,0.8)",["==",["band",16],5],"rgba(147,60,220,0.8)","rgba(255,255,255,0)"]}}]' center=[16.372125918114133,48.173026657980216] zoom="14.473833333333333" animationOptions="{duration:500}" }-->
+ 
+#### Step 7: Zoom: heat exposure 2090, ages 65-84, population 2050
+Zoomed-in view. Climate hazard for 2090, population projection for 2050, age group 65-84 years. (Band 16)
 
 
 ## Contact

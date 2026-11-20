@@ -1,16 +1,40 @@
 [
   {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/PV-ground-mounted.jpg",
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Deep%20Geothermal%20Energy.png",
     "domain": "Energy Transition",
-    "tags": "KLIEN,renewable energy,energy potential,energy technology,photovoltaic,electricity",
+    "tags": "KLIEN,renewable energy,energy potential,energy technology,deep geothermal energy",
     "provider": [
-      "Umweltbundesamt",
       "AIT Center for Energy"
     ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/photovoltaic.md",
-    "title": "Photovoltaic Potential – Study on Renewable Energy Potentials",
-    "subtitle": "Levelized Cost of Energy, Market Value & Impact of Climate Change",
-    "image": "assets/previews/PV-ground-mounted_33301185-1cb9-41cb-a8d4-807c23d77896_preview_preview.png"
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/deep-geothermal.md",
+    "title": "Deep Geothermal Energy Potential – Study on Renewable Energy Potentials",
+    "subtitle": "Assessment of Results (Expert Judgement)",
+    "image": "assets/previews/Deep_Geothermal_Energy_f8d28499-17a2-436b-9056-b39a8a1fdf2a_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Windatlas-1749907861729.png",
+    "domain": "Energy Transition",
+    "tags": "wind potential",
+    "provider": [
+      "Energiewerkstatt"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/wind_atlas.md",
+    "title": "Austrian Wind Atlas",
+    "subtitle": "",
+    "image": "assets/previews/Windatlas-1749907861729_40e31da0-1989-4028-8a18-bb450e01e0fd_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Heat%20Pump.jpg",
+    "domain": "Energy Transition",
+    "tags": "KLIEN,renewable energy,energy potential,energy technology,air source heat pump,ambient heat",
+    "provider": [
+      "AIT Center for Energy",
+      "AEE INTEC"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/austrian-air-source-heating-potential.md",
+    "title": "Air-Source Heat Pump Potential – Study on Renewable Energy Potentials",
+    "subtitle": "",
+    "image": "assets/previews/Heat_Pump_dccaa4eb-00bb-4c25-b9bb-f6e6ff3ed02b_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp",
@@ -22,21 +46,31 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/high-res_forecasts_solar_potential.md",
     "title": "High-resolution Forecasts of Solar Potential",
     "subtitle": "",
-    "image": "assets/previews/solar-potential-1749907032353_6422fc25-076a-4bfb-9665-f29062d2c4c0_preview_preview.png"
+    "image": "assets/previews/solar-potential-1749907032353_82b0ded4-6a29-4c27-b9a5-8d9cb3432c06_preview_preview.png"
   },
   {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Waste%20heat.jpg",
+    "cover-image": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-03-Energy-Nowcasting-Solar-Wind/wind/hero_composite.png",
     "domain": "Energy Transition",
-    "tags": "KLIEN,renewable energy,energy potential,energy technology,excess heat,ambient heat",
+    "tags": "wind power, nowcasting, renewable energy, grid operations, wind speed",
     "provider": [
-      "AEE INTEC",
-      "AIT Center for Energy",
-      ""
+      "GeoSphere Austria"
     ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/t74-waste-heat-v2.md",
-    "title": "Excess Heat Potential – Study on Renewable Energy Potentials",
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/nowcastingwindenergy.md",
+    "title": "Wind Power Nowcasting for Austria",
+    "subtitle": "Predict wind power production at fine spatial and temporal resolution",
+    "image": "assets/previews/hero_composite_aeb4bae8-86bf-4806-8d88-d1799851ab1c_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/multi-temporal-vegetation-analysis-1749908113862.png",
+    "domain": "Carbon Accounting",
+    "tags": "remote sensing, semantic data cube",
+    "provider": [
+      "ZGIS"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/vegetation-change-dynamics.md",
+    "title": "Multitemporal Vegetation Change Dynamics across all Sentinel-2 observations",
     "subtitle": "",
-    "image": "assets/previews/Waste_heat_5698c0d3-5a46-4f28-9e6e-5cfe860992ac_preview_preview.png"
+    "image": "assets/previews/multi-temporal-vegetation-analysis-1749908113862_469c49fd-692a-438e-8d5d-a06067cd48d5_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Energy%20Planning%20-%20Electricity.jpg",
@@ -50,89 +84,35 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/tf00-comparison-electricity.md",
     "title": "Support for Energy Planning – Electricity Demand and Supply Potentials",
     "subtitle": "",
-    "image": "assets/previews/Energy_Planning_-_Electricity_d33bf1df-7252-4d73-8209-afb710369e2c_preview_preview.png"
+    "image": "assets/previews/Energy_Planning_-_Electricity_cd9ea559-e984-4882-9186-6808bf25795e_preview_preview.png"
   },
   {
-    "cover-image": "https://github.com/user-attachments/assets/b8eda311-d699-4937-8d0e-34258fd31ece",
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/WR-02-solar.md",
-    "title": "Site identification capability for solar energy expansion",
-    "subtitle": "Inadequate temporal resolution? ",
-    "image": "assets/previews/b8eda311-d699-4937-8d0e-34258fd31ece_8761b1ab-d821-4922-b9a2-653322b73a36_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Bioenergy.jpg",
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Hydropower.jpg",
     "domain": "Energy Transition",
-    "tags": "KLIEN,renewable energy,energy potential,energy technology,bioenergy",
+    "tags": "KLIEN,renewable energy,energy potential,energy technology,hydro power,electricity",
     "provider": [
-      "TU Wien ESEA",
-      "AIT Center for Energy"
+      "Umweltbundesamt",
+      "AIT Center for Energy",
+      ""
     ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/tf5-bioenergy.md",
-    "title": "Bioenergy Potential – Study on Renewable Energy Potentials",
-    "subtitle": "Biogas/Biomethane",
-    "image": "assets/previews/Bioenergy_8e46860b-96c1-4c44-9285-b3205c6bbe2b_preview_preview.png"
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/tf2-hydropower.md",
+    "title": "Hydropower Potential – Study on Renewable Energy Potentials",
+    "subtitle": "Theoretical Potential",
+    "image": "assets/previews/Hydropower_51a40868-51d0-4c59-aba0-905f22d1b255_preview_preview.png"
   },
   {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Deep%20Geothermal%20Energy.png",
-    "domain": "Energy Transition",
-    "tags": "KLIEN,renewable energy,energy potential,energy technology,deep geothermal energy",
-    "provider": [
-      "AIT Center for Energy"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/deep-geothermal.md",
-    "title": "Deep Geothermal Energy Potential – Study on Renewable Energy Potentials",
-    "subtitle": "Assessment of Results (Expert Judgement)",
-    "image": "assets/previews/Deep_Geothermal_Energy_e465da90-1071-4c35-9ec8-324c2b9094e1_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/multi-temporal-vegetation-analysis-1749908113862.png",
-    "domain": "Carbon Accounting",
-    "tags": "remote sensing, semantic data cube",
-    "provider": [
-      "ZGIS"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/vegetation-change-dynamics.md",
-    "title": "Multitemporal Vegetation Change Dynamics across all Sentinel-2 observations",
-    "subtitle": "",
-    "image": "assets/previews/multi-temporal-vegetation-analysis-1749908113862_db42a755-0dff-4278-8732-58fe324518a9_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Heat%20Pump.jpg",
-    "domain": "Energy Transition",
-    "tags": "KLIEN,renewable energy,energy potential,energy technology,brine water heat pump,shallow geothermal energy and groundwater,ambient heat",
+    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Energy-performance-of-buildings-cover-1749975298270.png",
+    "date": "2025-09-06",
+    "theme": "Sustainable Cities",
+    "tags": "remote sensing,surface temperature,Sentinel-3",
     "provider": [
       "AIT Center for Energy",
-      "AEE INTEC"
+      "OHB-DS"
     ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/geothermal.md",
-    "title": "Shallow Geothermal Energy and Groundwater Potential – Study on Renewable Energy Potentials",
-    "subtitle": "Definition and Scope",
-    "image": "assets/previews/Heat_Pump_a703abbd-53ea-4ada-8fb4-551a07eb7ae2_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/evapotranspirationcover-1749285117579.png",
-    "domain": "Carbon Accounting",
-    "tags": "vegetation, remote sensing, green spaces, water balance",
-    "provider": [
-      "Sistema"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/evapotranspiration-monitoring.md",
-    "title": "Evapotranspiration Monitoring Demonstrator for Austria",
-    "subtitle": "by Sistema",
-    "image": "assets/previews/evapotranspirationcover-1749285117579_2f10a0e0-e189-4a67-b549-820f0d9c7160_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Wind%20Power.jpg",
-    "domain": "Energy Transition",
-    "tags": "KLIEN,renewable energy,energy potential,energy technology,wind power,electricity",
-    "provider": [
-      "AIT Center for Energy",
-      "Energiewerkstatt"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/tf3-wind-energy.md",
-    "title": "Wind Power Potential – Study on Renewable Energy Potentials",
-    "subtitle": "Levelized Cost of Energy, Market Value & Impact of Climate Change",
-    "image": "assets/previews/Wind_Power_682fd786-f646-4830-b1d4-f96efe34a6c1_preview_preview.png"
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/urban_energy_performance_monitor.md",
+    "title": "Urban Energy Performance Monitor",
+    "subtitle": "provided by Austrian Institute of Technology and partners",
+    "image": "assets/previews/Energy-performance-of-buildings-cover-1749975298270_68298b83-b8dc-4312-90d8-89d31e8edfa3_preview_preview.png"
   },
   {
     "cover-image": "https://workspace-ui-public.gtif-at-sc.hub-otc.eox.at/api/public/share/public-4wazei3y-02/UHTM_Wien/iStock-1173256779.jpg",
@@ -145,7 +125,19 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/urban-heat-trend-monitor.md",
     "title": "Urban Heat Trend Monitor",
     "subtitle": "Turning satellite data into actionable urban cooling strategies",
-    "image": "assets/previews/iStock-1173256779_65d54078-c577-4d89-80ba-a3e980836585_preview_preview.png"
+    "image": "assets/previews/iStock-1173256779_38cc7395-e12e-4c91-98c2-2db717754764_preview_preview.png"
+  },
+  {
+    "cover-image": "https://github.com/user-attachments/assets/ba568616-1583-4f6b-a647-8b4c2a327bf0",
+    "domain": "Sustainable Cities",
+    "tags": "heat hotspots, remote sensing, risk, vulnerability",
+    "provider": [
+      "GeoSphere"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/temperature-forecast.md",
+    "title": "High-resolution Temperature Forecasts for Cities",
+    "subtitle": "Forecast air temperature on a spatial scale that is representing urban features",
+    "image": "assets/previews/ba568616-1583-4f6b-a647-8b4c2a327bf0_445d9361-cfc6-484a-af94-fc210c5f1302_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Heat%20Pump.jpg",
@@ -158,7 +150,20 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/aquathermy-narrative.md",
     "title": "Water-Sourced Heat Potential from Flowing Water Bodies (Aquathermy) – Study on Renewable Energy Potentials",
     "subtitle": "Fundamental Principle of Aquathermy",
-    "image": "assets/previews/Heat_Pump_d43a64d8-c777-45cc-a530-0d12e6721855_preview_preview.png"
+    "image": "assets/previews/Heat_Pump_475857cb-bf7b-4d9c-8ea1-3a88d0f35d83_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Solar%20Thermal%20Collectors.jpg",
+    "domain": "Energy Transition",
+    "tags": "KLIEN,renewable energy,energy potential,energy technology,solar thermal collector,solar heat",
+    "provider": [
+      "AEE INTEC",
+      "AIT Center for Energy"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/solar-thermal.md",
+    "title": "Solar Thermal Potential – Study on Renewable Energy Potentials",
+    "subtitle": "Theoretical Potential",
+    "image": "assets/previews/Solar_Thermal_Collectors_3ce385c4-f76b-4fb4-8f70-5d9712ac656b_preview_preview.png"
   },
   {
     "cover-image": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/NCS/Thumbnail/ncs.jpg",
@@ -171,19 +176,140 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/natural_capital_solution.md",
     "title": "Natural Capital Accounting with BCFI",
     "subtitle": "by ECOSYS - EOX",
-    "image": "assets/previews/ncs_fb85d1ec-4d59-4ac1-a167-88078781b93e_preview_preview.png"
+    "image": "assets/previews/ncs_edf21042-2634-4a72-b0f3-df54865f957d_preview_preview.png"
   },
   {
-    "cover-image": "https://github.com/user-attachments/assets/ba568616-1583-4f6b-a647-8b4c2a327bf0",
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Waste%20heat.jpg",
+    "domain": "Energy Transition",
+    "tags": "KLIEN,renewable energy,energy potential,energy technology,excess heat,ambient heat",
+    "provider": [
+      "AEE INTEC",
+      "AIT Center for Energy",
+      ""
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/t74-waste-heat-v2.md",
+    "title": "Excess Heat Potential – Study on Renewable Energy Potentials",
+    "subtitle": "",
+    "image": "assets/previews/Waste_heat_f1c75abe-f876-465f-9153-3761994beb66_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Wind%20Power.jpg",
+    "domain": "Energy Transition",
+    "tags": "KLIEN,renewable energy,energy potential,energy technology,wind power,electricity",
+    "provider": [
+      "AIT Center for Energy",
+      "Energiewerkstatt"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/tf3-wind-energy.md",
+    "title": "Wind Power Potential – Study on Renewable Energy Potentials",
+    "subtitle": "Levelized Cost of Energy, Market Value & Impact of Climate Change",
+    "image": "assets/previews/Wind_Power_1ae990e1-4c2f-4e7b-97f3-f68d7840fe41_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-narratives/590fa5ee37a277a148cabb2da96890deba31cce6/assets/aakozlowska/heat-risk-map-3-1795018511482.png",
     "domain": "Sustainable Cities",
-    "tags": "heat hotspots, remote sensing, risk, vulnerability",
+    "tags": "urban climate, remote sensing, exposition, vulnerability",
+    "provider": [
+      "AIT Center for Energy"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/heat_risk_maps.md",
+    "title": "Heat Risk Maps",
+    "subtitle": "Where is there room for improvement in providing usable data and information?",
+    "image": "assets/previews/heat-risk-map-3-1795018511482_6c178ced-38ee-45e8-95d1-374d22eb370a_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/brownfieldcover-1749915393864.jpg",
+    "domain": "Sustainable Cities",
+    "tags": "brownfield, remote sensing, soil sealing",
+    "provider": [
+      "Fraunhofer IIS"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/brownfield-recovery-potential.md",
+    "title": "Brownfield Recovery Potential",
+    "subtitle": "Area mapping of underutilized properties and brownfields from remote sensing imagery and through application of an Artificial Intelligence algorithm trained with local survey data - a Decision Ready Information Service by Fraunhofer IIS",
+    "image": "assets/previews/brownfieldcover-1749915393864_0d00ce7b-1af2-4a61-90db-f302fdf285f4_preview_preview.png"
+  },
+  {
+    "cover-image": "https://github.com/user-attachments/assets/b8eda311-d699-4937-8d0e-34258fd31ece",
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/WR-02-solar.md",
+    "title": "Site identification capability for solar energy expansion",
+    "subtitle": "Inadequate temporal resolution? ",
+    "image": "assets/previews/b8eda311-d699-4937-8d0e-34258fd31ece_dc671350-a439-4a68-b253-0d0a774d29b4_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Bioenergy.jpg",
+    "domain": "Energy Transition",
+    "tags": "KLIEN,renewable energy,energy potential,energy technology,bioenergy",
+    "provider": [
+      "TU Wien ESEA",
+      "AIT Center for Energy"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/tf5-bioenergy.md",
+    "title": "Bioenergy Potential – Study on Renewable Energy Potentials",
+    "subtitle": "Biogas/Biomethane",
+    "image": "assets/previews/Bioenergy_9588e005-c48a-4e70-aea6-cd6080472a07_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Shallow-geothermal-energy-1568x896-1749906773529.jpg",
+    "domain": "Energy Transition",
+    "tags": "soil moisture, ground temperature, sustainable heat",
     "provider": [
       "GeoSphere"
     ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/temperature-forecast.md",
-    "title": "High-resolution Temperature Forecasts for Cities",
-    "subtitle": "Forecast air temperature on a spatial scale that is representing urban features",
-    "image": "assets/previews/ba568616-1583-4f6b-a647-8b4c2a327bf0_01ea74d1-89fc-4dfd-88e5-a422c6cb5fe3_preview_preview.png"
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/geothermal_energy.md",
+    "title": "Exploring the Earth's Gentle Warmth: A Tool for Harnessing Shallow Geothermal Energy",
+    "subtitle": "",
+    "image": "assets/previews/Shallow-geothermal-energy-1568x896-1749906773529_19ccfb0f-5fb1-4f78-afb3-7920e7382faf_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Heat%20Pump.jpg",
+    "domain": "Energy Transition",
+    "tags": "KLIEN,renewable energy,energy potential,energy technology,brine water heat pump,shallow geothermal energy and groundwater,ambient heat",
+    "provider": [
+      "AIT Center for Energy",
+      "AEE INTEC"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/geothermal.md",
+    "title": "Shallow Geothermal Energy and Groundwater Potential – Study on Renewable Energy Potentials",
+    "subtitle": "Definition and Scope",
+    "image": "assets/previews/Heat_Pump_256ddcfd-ad37-4472-8977-45417b00c4a8_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Energy%20Planning%20-%20Heat.jpg",
+    "domain": "Energy Transition",
+    "tags": "KLIEN,renewable energy,energy potential,energy technology,energy planning,ambient heat",
+    "provider": [
+      "AIT Center for Energy",
+      "AEE INTEC"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/t70-comparison-heat.md",
+    "title": "Support for Energy Planning – Heat Demand and Supply Potentials",
+    "subtitle": "",
+    "image": "assets/previews/Energy_Planning_-_Heat_36c51d02-41e4-4455-9802-04acdc5b2e28_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/LULUCFScreenshot-2025-06-13-174126-1749905176511.png",
+    "domain": "Carbon Accounting",
+    "tags": "land cover, remote sensing, National Inventory Report",
+    "provider": [
+      "GeoVille"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/land_use_land_use_change_and_forestry.md",
+    "title": "GHG-KIT LULUCF Activity Data",
+    "subtitle": "",
+    "image": "assets/previews/LULUCFScreenshot-2025-06-13-174126-1749905176511_2425b82b-521a-4f84-bcac-63f08703e4ba_preview_preview.png"
+  },
+  {
+    "cover-image": "https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede",
+    "domain": "Sustainable Cities",
+    "tags": "building footprint, remote sensing, change detection",
+    "provider": [
+      "ubicube"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/building_footprints.md",
+    "title": "Building Stock Update: Smart City Infrastructure Monitoring",
+    "subtitle": "Constant Monitoring",
+    "image": "assets/previews/736dfcf6-0de4-429f-95a4-17ee496fdede_7d27ad80-2dc2-4be1-a534-2439b45631f7_preview_preview.png"
   },
   {
     "cover-image": "https://workspace-ui-public.gtif-at-ew.hub-cf.eox.at/api/public/share/public-5fc4gif9-83/thumbnails/thumbnail.png",
@@ -198,131 +324,19 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/snow-monitoring-for-hydropower-management.md",
     "title": "Snow monitoring",
     "subtitle": "for hydropower management",
-    "image": "assets/previews/thumbnail_75a88041-304b-4ddc-8fbe-39786eb0e82b_preview_preview.png"
+    "image": "assets/previews/thumbnail_4d3e5e95-fdfe-4df3-9b4b-bd3404a8d9a0_preview_preview.png"
   },
   {
-    "cover-image": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-03-Energy-Nowcasting-Solar-Wind/wind/hero_composite.png",
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/nvision-solar-panels-cover.webp",
     "domain": "Energy Transition",
-    "tags": "wind power, nowcasting, renewable energy, grid operations, wind speed",
+    "tags": "photovoltaic, remote sensing, computer vision",
     "provider": [
-      "GeoSphere Austria"
+      "N Vision"
     ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/nowcastingwindenergy.md",
-    "title": "Wind Power Nowcasting for Austria",
-    "subtitle": "Predict wind power production at fine spatial and temporal resolution",
-    "image": "assets/previews/hero_composite_cd3f6d64-db9b-4062-a0db-729220534818_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/road-subsidence-1749906097163.webp",
-    "domain": "Mobility Transition",
-    "tags": "roads, bridges, subsidence, remote sensing, Sentinel-1, EGMS",
-    "provider": [
-      "AIT Center for Transport Technologies"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/monitoring_transport_infrastructure.md",
-    "title": "Deformation Monitoring Service of Critical Infrastructure for Transport Infrastructure Predictive Maintenance",
-    "subtitle": "DMCI Map",
-    "image": "assets/previews/road-subsidence-1749906097163_1ff437ff-4bc0-4435-8352-a654746eba9a_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Windatlas-1749907861729.png",
-    "domain": "Energy Transition",
-    "tags": "wind potential",
-    "provider": [
-      "Energiewerkstatt"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/wind_atlas.md",
-    "title": "Austrian Wind Atlas",
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/solar_panel_mapping.md",
+    "title": "Solar Panel Mapping",
     "subtitle": "",
-    "image": "assets/previews/Windatlas-1749907861729_eb9440e0-1a8c-4439-a909-2528b21a38ac_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Solar%20Thermal%20Collectors.jpg",
-    "domain": "Energy Transition",
-    "tags": "KLIEN,renewable energy,energy potential,energy technology,solar thermal collector,solar heat",
-    "provider": [
-      "AEE INTEC",
-      "AIT Center for Energy"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/solar-thermal.md",
-    "title": "Solar Thermal Potential – Study on Renewable Energy Potentials",
-    "subtitle": "Theoretical Potential",
-    "image": "assets/previews/Solar_Thermal_Collectors_deb75ed4-6d47-4a7a-abe4-b4e2ca284810_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Hydropower.jpg",
-    "domain": "Energy Transition",
-    "tags": "KLIEN,renewable energy,energy potential,energy technology,hydro power,electricity",
-    "provider": [
-      "Umweltbundesamt",
-      "AIT Center for Energy",
-      ""
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/tf2-hydropower.md",
-    "title": "Hydropower Potential – Study on Renewable Energy Potentials",
-    "subtitle": "Theoretical Potential",
-    "image": "assets/previews/Hydropower_5dc03587-08cb-44be-baa2-564fcbc19837_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/brownfield/assets/triebnigg/brownfieldcover-1749915393864.jpg",
-    "domain": "Sustainable Cities",
-    "tags": "brownfield, remote sensing, soil sealing",
-    "provider": [
-      "Fraunhofer IIS"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/brownfield-recovery-potential.md",
-    "title": "Brownfield Recovery Potential",
-    "subtitle": "Area mapping of underutilized properties and brownfields from remote sensing imagery and through application of an Artificial Intelligence algorithm trained with local survey data - a Decision Ready Information Service by Fraunhofer IIS",
-    "image": "assets/previews/brownfieldcover-1749915393864_683893f9-58bc-4d45-855c-226ee2bda793_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Enefit-Greeni-Purtse-hybriidpark-Ida-Virumaal-1749907570161.webp",
-    "domain": "Energy Transition",
-    "tags": "wind energy, photovoltaic, RED-III",
-    "provider": [
-      "Energiewerkstatt"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/site_identification_renewable_energies.md",
-    "title": "Site Identification for Renewable Energies",
-    "subtitle": "",
-    "image": "assets/previews/Enefit-Greeni-Purtse-hybriidpark-Ida-Virumaal-1749907570161_6ea3dc56-1993-4153-8cc4-9413d0cc7e6b_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Energy%20Planning%20-%20Heat.jpg",
-    "domain": "Energy Transition",
-    "tags": "KLIEN,renewable energy,energy potential,energy technology,energy planning,ambient heat",
-    "provider": [
-      "AIT Center for Energy",
-      "AEE INTEC"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/t70-comparison-heat.md",
-    "title": "Support for Energy Planning – Heat Demand and Supply Potentials",
-    "subtitle": "",
-    "image": "assets/previews/Energy_Planning_-_Heat_1290d2bf-da00-478f-bdae-df6591482c91_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/LULUCFScreenshot-2025-06-13-174126-1749905176511.png",
-    "domain": "Carbon Accounting",
-    "tags": "land cover, remote sensing, National Inventory Report",
-    "provider": [
-      "GeoVille"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/land_use_land_use_change_and_forestry.md",
-    "title": "GHG-KIT LULUCF Activity Data",
-    "subtitle": "",
-    "image": "assets/previews/LULUCFScreenshot-2025-06-13-174126-1749905176511_7d43e69c-0ecc-4aaa-bfb4-68e61c9bb1d4_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Shallow-geothermal-energy-1568x896-1749906773529.jpg",
-    "domain": "Energy Transition",
-    "tags": "soil moisture, ground temperature, sustainable heat",
-    "provider": [
-      "GeoSphere"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/geothermal_energy.md",
-    "title": "Exploring the Earth's Gentle Warmth: A Tool for Harnessing Shallow Geothermal Energy",
-    "subtitle": "",
-    "image": "assets/previews/Shallow-geothermal-energy-1568x896-1749906773529_6a84a43e-5d06-4fd7-b37b-ad5db7759359_preview_preview.png"
+    "image": "assets/previews/nvision-solar-panels-cover_4792056e-f307-4e1f-8dfa-5663f3e00718_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Energy%20Planning%20-%20Electricity.jpg",
@@ -336,7 +350,32 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/comparison-grid.md",
     "title": "Comparison of Grid Capacities and Renewable Energy Potentials",
     "subtitle": "",
-    "image": "assets/previews/Energy_Planning_-_Electricity_cefc3901-23b8-4ab5-8921-9e53691b04b4_preview_preview.png"
+    "image": "assets/previews/Energy_Planning_-_Electricity_1e81c781-f30e-4b0f-a2dd-060ff57a7583_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/PV-ground-mounted.jpg",
+    "domain": "Energy Transition",
+    "tags": "KLIEN,renewable energy,energy potential,energy technology,photovoltaic,electricity",
+    "provider": [
+      "Umweltbundesamt",
+      "AIT Center for Energy"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/photovoltaic.md",
+    "title": "Photovoltaic Potential – Study on Renewable Energy Potentials",
+    "subtitle": "Levelized Cost of Energy, Market Value & Impact of Climate Change",
+    "image": "assets/previews/PV-ground-mounted_1b08b52b-5ea9-4f2c-9038-556d2d2f22a6_preview_preview.png"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring/assets/triebnigg/evapotranspirationcover-1749285117579.png",
+    "domain": "Carbon Accounting",
+    "tags": "vegetation, remote sensing, green spaces, water balance",
+    "provider": [
+      "Sistema"
+    ],
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/evapotranspiration-monitoring.md",
+    "title": "Evapotranspiration Monitoring Demonstrator for Austria",
+    "subtitle": "by Sistema",
+    "image": "assets/previews/evapotranspirationcover-1749285117579_c0033804-6cd9-4069-80df-1660c4905d8d_preview_preview.png"
   },
   {
     "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/nvision-green-roofs-cover.webp",
@@ -348,69 +387,30 @@
     "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/green-roof-mapping.md",
     "title": "Green Roof Mapping",
     "subtitle": "",
-    "image": "assets/previews/nvision-green-roofs-cover_9906f01f-296c-4821-8821-43c7594909ea_preview_preview.png"
+    "image": "assets/previews/nvision-green-roofs-cover_13b3fb9e-4eef-4027-8774-341c3004a6d2_preview_preview.png"
   },
   {
-    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Energy-performance-of-buildings-cover-1749975298270.png",
-    "date": "2025-09-06",
-    "theme": "Sustainable Cities",
-    "tags": "remote sensing,surface temperature,Sentinel-3",
-    "provider": [
-      "AIT Center for Energy",
-      "OHB-DS"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/urban_energy_performance_monitor.md",
-    "title": "Urban Energy Performance Monitor",
-    "subtitle": "provided by Austrian Institute of Technology and partners",
-    "image": "assets/previews/Energy-performance-of-buildings-cover-1749975298270_a6446c41-e14d-4f46-b6ca-bbf3952a7caf_preview_preview.png"
-  },
-  {
-    "cover-image": "https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede",
-    "domain": "Sustainable Cities",
-    "tags": "building footprint, remote sensing, change detection",
-    "provider": [
-      "ubicube"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/building_footprints.md",
-    "title": "Building Stock Update: Smart City Infrastructure Monitoring",
-    "subtitle": "Constant Monitoring",
-    "image": "assets/previews/736dfcf6-0de4-429f-95a4-17ee496fdede_4c1c15ec-1c37-4625-81e0-624938de307f_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/nvision-solar-panels-cover.webp",
+    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/Enefit-Greeni-Purtse-hybriidpark-Ida-Virumaal-1749907570161.webp",
     "domain": "Energy Transition",
-    "tags": "photovoltaic, remote sensing, computer vision",
+    "tags": "wind energy, photovoltaic, RED-III",
     "provider": [
-      "N Vision"
+      "Energiewerkstatt"
     ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/solar_panel_mapping.md",
-    "title": "Solar Panel Mapping",
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/site_identification_renewable_energies.md",
+    "title": "Site Identification for Renewable Energies",
     "subtitle": "",
-    "image": "assets/previews/nvision-solar-panels-cover_09a97131-80dd-4841-906f-fdc1016d8c52_preview_preview.png"
+    "image": "assets/previews/Enefit-Greeni-Purtse-hybriidpark-Ida-Virumaal-1749907570161_a6a64344-9701-47f0-b528-6865c3c577b6_preview_preview.png"
   },
   {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Heat%20Pump.jpg",
-    "domain": "Energy Transition",
-    "tags": "KLIEN,renewable energy,energy potential,energy technology,air source heat pump,ambient heat",
+    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/road-subsidence-1749906097163.webp",
+    "domain": "Mobility Transition",
+    "tags": "roads, bridges, subsidence, remote sensing, Sentinel-1, EGMS",
     "provider": [
-      "AIT Center for Energy",
-      "AEE INTEC"
+      "AIT Center for Transport Technologies"
     ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/austrian-air-source-heating-potential.md",
-    "title": "Air-Source Heat Pump Potential – Study on Renewable Energy Potentials",
-    "subtitle": "",
-    "image": "assets/previews/Heat_Pump_21064399-3f67-4b3d-9e21-343185d8cf25_preview_preview.png"
-  },
-  {
-    "cover-image": "https://raw.githubusercontent.com/GTIF-Austria/public-narratives/590fa5ee37a277a148cabb2da96890deba31cce6/assets/aakozlowska/heat-risk-map-3-1795018511482.png",
-    "domain": "Sustainable Cities",
-    "tags": "urban climate, remote sensing, exposition, vulnerability",
-    "provider": [
-      "AIT Center for Energy"
-    ],
-    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/heat_risk_maps.md",
-    "title": "Heat Risk Maps",
-    "subtitle": "Where is there room for improvement in providing usable data and information?",
-    "image": "assets/previews/heat-risk-map-3-1795018511482_f763c1e5-944b-4427-9aea-5706cb4582a4_preview_preview.png"
+    "file": "https://GTIF-Austria.github.io/public-narratives/pr-preview/pr-219/monitoring_transport_infrastructure.md",
+    "title": "Deformation Monitoring Service of Critical Infrastructure for Transport Infrastructure Predictive Maintenance",
+    "subtitle": "DMCI Map",
+    "image": "assets/previews/road-subsidence-1749906097163_c67062e3-8892-4751-906d-0e29f32c6fb4_preview_preview.png"
   }
 ]
