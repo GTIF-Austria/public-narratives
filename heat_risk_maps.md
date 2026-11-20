@@ -79,6 +79,13 @@ The heat risk algorithm developed combines **current satellite information**, su
 
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/768aa54889a1280bea9b046f6ba49a537f7a24fd/assets/aakozlowska/processdiagram-1795020460234.png" style="display: block; margin: 0 auto; width: 80%; height: auto;"/>
 
+The hazard layer describes how often nights stay warm. It is based on the number of **tropical nights per year** (minimum temperature of at least 20 °C). Climate projections for Austria were downscaled to the city scale using the climate analysis map of the Vienna Urban Climate Analysis, which shows how buildings, sealed surfaces and green spaces influence local night-time cooling. The result is a series of high-resolution heat maps for Vienna from **2020 to 2090** in ten-year steps.
+
+<img src="PLACEHOLDER_URL_heatmaps_vienna.png" alt="Tropical nights per year in Vienna" style="display: block; margin: 0 auto; width: 80%; height: auto;" />
+<p style="font-size: 0.8em;"><em>Tropical nights per year in Vienna, [2020 and 2090, scenario]. Source: AIT Austrian Institute of Technology</em></p>
+
+The exposure layer shows **who lives where**. Current population data from **Statistik Austria** were combined with the **ÖROK population projections up to 2050** and broken down into five age groups (0–19, 20–44, 45–64, 65–84 and 85+ years). This makes it possible to analyse not only where heat occurs, but also which population groups are affected, today and in the future.
+
 The methodology allows the heat risk maps to be recalculated whenever new or updated datasets become available, making the **effects of adaptation measures and urban development visible**.
 
 It also makes it possible to include **future spatial planning scenarios or demographic developments** and to anticipate future impacts. While open-source data form the basis, available city-specific data can enable higher quality.
@@ -92,9 +99,9 @@ The heat risk maps thus make it possible to determine the **spatial distribution
 ›	... other climate indices   
 
 **Examples: definition of vulnerable groups**:  
-›	People younger than 14  
-›	People older than 65    
-›	Locations of vulnerable social infrastructure (kindergartens, hospitals, care homes, etc.)   
+›	Children and younger people (e.g. 0-19 years)   
+›	Older people (e.g. 65+ years)    
+›	Locations of vulnerable social infrastructure (kindergartens, hospitals, care homes, etc.)      
 ›	People on low incomes   
 ›	Consideration of existing cool spots or similar places to cool down     
 ›	... other factors that increase/reduce vulnerability    
