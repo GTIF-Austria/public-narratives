@@ -106,6 +106,45 @@ The heat risk maps thus make it possible to determine the **spatial distribution
 ›	Consideration of existing cool spots or similar places to cool down     
 ›	... other factors that increase/reduce vulnerability    
 
+### Urban Heat Monitoring
+#### Optimizing Pre-processing of image data Via Deep Learning technologies
+
+Climate change has significant influence upon the human life in cities, such as habitability, quality of life etc. Urban Heat Islands (UHIs) arise with the urbanization developments that change the thermal and radiative properties of natural landscapes 
+
+Key features
+- Harmonization/consolidation of LST data sources
+- Identification of regions with homogeneous trends (heating / cooling)
+- Analysis of temperature time series to track changes and trends over time.
+- Seasonality-trend decomposition to separate seasonal effects from long-term trends.
+- Informed resolution enhancement (downscaling) to improve the spatial resolution of temperature data for detailed analysis.
+
+Intended applications:
+- Quantification of climate change effects
+- Assessment of causal relationships
+- Monitoring the efficacy of regulatory interventions
+- Data input for devising local heat action plans
+- Data input for microclimate simulations
+- Building value estimation
+
+#### High resolution Temperature Data
+High-resolution land surface temperature (LST) data is crucial for urban planning as it helps identify and mitigate urban heat islands, improving public health and comfort. Additionally, LST data aids in climate adaptation strategies, enhancing resilience against extreme weather.
+
+Key Features:
+- Harmonization/consolidation of LST data sources
+- AI-based superresolution method for up to 10x spatial resolution
+- Provision of (sub-)daily temperature data at high resolution
+- Combination of satellite-based screening and airborne-based spotting
+- OHB’s exclusive, innovative sensor system RAVEN (Remote Airborne Variable Emissivity and Temperature SeNsor) for airborne acquisition
+- 
+Intended applications:
+- Recording heating and cooling events in cities
+- Monitoring of heat sensitive infrastructures, e.g., heat pipes, energy infrastructure, thermal insolation of buildings
+- Cal/Val activities for satellite missions
+
+
+source: OHB
+
+
 ## Use Cases
 Thanks to the flexible choice of data, heat risk can be calculated for a wide range of use cases, including:   
 •	**Heat action and heat protection plans**: Integrating heat risk maps can help tailor measures to the areas at risk.   
