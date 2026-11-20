@@ -75,7 +75,7 @@ Detailed analyses usually require **tailor-made solutions for individual cities*
 A **sound risk assessment** makes it possible to shape future developments, make effective investments and **place measures where they are needed**.
 This requires comprehensively compiling and linking data from different disciplines. 
 
-The heat risk algorithm developed combines **current satellite information**, such as building structure, degree of soil sealing or tree cover, with **population statistics** and high-resolution **climate data** tailored to Austria. 
+Our heat risk algorithm combines **current satellite information**, such as building structure, degree of soil sealing or tree cover, with **population statistics** and high-resolution **climate data** tailored to Austria. 
 
 <img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/768aa54889a1280bea9b046f6ba49a537f7a24fd/assets/aakozlowska/processdiagram-1795020460234.png" style="display: block; margin: 0 auto; width: 80%; height: auto;"/>
 
