@@ -51,7 +51,6 @@ In recent years, **various studies analysing the urban climate and heat exposure
 
 #### 1. Flexibility & Timeliness
 ##### Heat ≠ Heat Risk
-
 While some people happily sit in the sun at 30°C, for others this already poses a health risk.
 **One-off, static maps** provide a solid basis, but can raise **further questions and call for additional analyses** that are not immediately available. **Updates** due to changed conditions (land use & development, population structure, etc.) or a variable spatial resolution are not possible.
 
@@ -103,50 +102,6 @@ The heat risk maps thus make it possible to determine the **spatial distribution
 ›	Consideration of existing cool spots or similar places to cool down     
 ›	... other factors that increase/reduce vulnerability    
 
-
-### Urban Heat Monitoring
-*Optimising the pre-processing of image data with deep learning*
-
-Climate change has a significant influence on life in cities, affecting habitability and quality of life. **Urban heat islands (UHIs)** develop as urbanisation changes the thermal and radiative properties of natural landscapes.
-
-**Key features**:   
-›	Harmonisation and consolidation of land surface temperature (LST) data sources    
-›	Identification of regions with homogeneous trends (heating / cooling)    
-›	Analysis of temperature time series to track changes and trends over time    
-›	Seasonal-trend decomposition to separate seasonal effects from long-term trends    
-›	Informed resolution enhancement (downscaling) to improve the spatial resolution of temperature data for detailed analysis    
-
-**Intended applications**:   
-›	Quantification of climate change effects    
-›	Assessment of causal relationships    
-›	Monitoring the effectiveness of regulatory interventions    
-›	Data input for local heat action plans    
-›	Data input for microclimate simulations    
-›	Building value estimation    
-
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/a6890d9562a2c1bba56e136177bff4cfec398cc2/assets/OHB-1742553790083.png" style="display: block; margin: 0 auto; width: 80%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/Itsman-AT/public-narratives/Itsman-AT/heat-risk-according-to-climate-scenarios/assets/Itsman-AT/OHB-1742553790083.png" />
-<p style="font-size: 0.8em;"><em>Trend analysis of land surface temperature. Source: <a href="https://www.ohb.de/">OHB SE</a></em></p>
-
-### High-Resolution Temperature Data
-*Combined satellite and airborne temperature data*
-
-High-resolution **land surface temperature (LST)** data is crucial for urban planning, as it helps identify and mitigate urban heat islands, improving public health and comfort. LST data also supports **climate adaptation strategies** and strengthens resilience against extreme weather.
-
-**Key features**:   
-›	Harmonisation and consolidation of LST data sources    
-›	AI-based super-resolution method for up to 10x higher spatial resolution    
-›	Provision of (sub-)daily temperature data at high resolution    
-›	Combination of satellite-based screening and airborne spotting    
-›	Airborne acquisition with **RAVEN** (Remote Airborne Variable Emissivity and Temperature SeNsor), OHB’s own innovative sensor system    
-
-**Intended applications**:   
-›	Recording heating and cooling events in cities    
-›	Monitoring heat-sensitive infrastructure, e.g. heating pipes, energy infrastructure and the thermal insulation of buildings    
-›	Calibration and validation (Cal/Val) of satellite missions    
-
-<img src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/7db9eaeeb32887557a038764a6907dc9e3a3a6b5/assets/aakozlowska/OHB-2-1795191316926.png" style="display: block; margin: 0 auto; width: 100%; height: auto;" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/7db9eaeeb32887557a038764a6907dc9e3a3a6b5/assets/aakozlowska/OHB-2-1795191316926.png" />
-<p style="font-size: 0.8em;"><em>High-resolution land surface temperature. Source: <a href="https://www.ohb.de/">OHB SE</a></em></p>
-
 ## Use Cases
 Thanks to the flexible choice of data, heat risk can be calculated for a wide range of use cases, including:   
 •	**Heat action and heat protection plans**: Integrating heat risk maps can help tailor measures to the areas at risk.   
@@ -154,7 +109,6 @@ Thanks to the flexible choice of data, heat risk can be calculated for a wide ra
 •	**Prioritising adaptation measures**: Comparing areas within cities and regions.    
 •	**Updating current heat risk information**: Changing climate conditions, the development of urban areas and changing population statistics render outdated maps unusable. The algorithm allows straightforward updates.   
 •	**Identifying locations with future risks**: Organisations and companies working with vulnerable groups can identify places with high or low, current and future heat risk, which is crucial for planning locations and operations.   
-
 
 ## Available services
 1. **Free version:** During project runtime, example forecasts are available for chosen part of Vienna. Long term strategy T.B.D.
