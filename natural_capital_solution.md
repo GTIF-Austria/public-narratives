@@ -15,7 +15,7 @@ provider: ECOSYS,EOX
 **Empowering & Scaling Nature-Positive Agriculture**
 
 The transition to sustainable land management requires robust tools to measure and finance ecological outcomes. The [ECOSYS Natural Capital Solutions platform](https://ncs.eox.at/), powered by EOX, acts as a foundational digital Measurement, Reporting, and Verification (dMRV) hub. Designed for the Green Transition, it bridges the gap between Earth Observation (EO) data, ecological science, real-world farming systems, and financial markets. By translating complex environmental signals into transparent, verifiable metrics, the platform empowers stakeholders to develop, evaluate, and scale biodiversity and carbon farming activities effectively. 
-Within this framework, the yearly Biodiversity & Carbon Farming Index (BCFI) for arable land provides a publicly accessible, parcel-level data infrastructure that links official land registry data with dynamic ecological performance indicators. By summarising EU-compliance-based metrics into a single comparable indicator across millions of individual parcels, the BCFI makes ecological change measurable, comparable, and traceable over time, ensuring that progress is demonstrable and outcomes are verifiable.
+Within this framework, the yearly Biodiversity Carbon Farming Index (BCFI) for arable land provides a publicly accessible, parcel-level data infrastructure that links official land registry data with dynamic ecological performance indicators. By summarising EU-compliance-based metrics into a single comparable indicator across millions of individual parcels, the BCFI makes ecological change measurable, comparable, and traceable over time, ensuring that progress is demonstrable and outcomes are verifiable.
 
 ## The Context & Challenge
 **Bridging the Gap Between Ecology and Capital**
@@ -27,13 +27,13 @@ Translating high-level biodiversity goals into tangible, compliance-ready assets
 Through an automated processing pipeline that integrates satellite observations products, the BCFI overcomes these limitations, making environmental and biodiversity monitoring faster, more cost-effective, and scalable from individual farm sites to entire regions.
 
 ## The Methodology
-**Biodiversity & Carbon Farming Index**
+**Biodiversity Carbon Farming Index**
 
 To make the ecological outcomes of sustainable land management measurable, ECOSYS employs a science-led methodology that operates consistently from the individual parcel level up to national portfolios.
 
 Data Integration: The framework fuses satellite-based Earth Observation signals with official parcel boundaries and compliance datasets (LPIS, IACS, and AMS), Area Monitoring System (AMS) event markers, soil maps, land-cover layers, and farm activity records. 
 
-The BCFI Metric: At the core of the methodology is the Biodiversity & Carbon Farming Index (BCFI). This index is calculated through an automated pipeline in EOxHUB, a cloud-native geo-AI workflow that rates every arable parcel on four impacts categories : climate, soil, biodiversity and climate For every parcel, specialized subindexes are normalised, weighted according to their respective ecological contributions, and summed into a single composite BCFI score.
+The BCFI Metric: At the core of the methodology is the Biodiversity Carbon Farming Index (BCFI). This index is calculated through an automated pipeline in EOxHUB, a cloud-native geo-AI workflow that rates every arable parcel on four impacts categories : climate, soil, biodiversity and climate For every parcel, specialized subindexes are normalised, weighted according to their respective ecological contributions, and summed into a single composite BCFI score.
 
 ## Stakeholders & Applications
 **Scalable Solutions for the Green Transition**
