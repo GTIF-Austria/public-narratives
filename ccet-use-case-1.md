@@ -1,9 +1,7 @@
 ---
 cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d00b1ba0ec630812811f0fb37cd6df9f655fd8a8/assets/MichaelaLandauer/20260929121021-1790865830383.jpg
-date: 2025-01-01
-theme: Use Case 1 - Climate Indicators
-tags: tag1,tag2
-provider: narrative_provider1,narrative_provider2
+domain: Climate Change & Tourism
+provider: GeoVille,Austria Tourism
 ---
 
 # Climate Change Explorer for Tourism <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/d00b1ba0ec630812811f0fb37cd6df9f655fd8a8/assets/MichaelaLandauer/20260929121021-1790865830383.jpg" }-->
@@ -15,7 +13,7 @@ The Climate Change Explorer for Tourism (CCET) is a joint initiative by [**GeoVi
 ## What Use Case 1 is about 
 This use case visualises projected climate changes using metrics that are directly relevant and useful for the tourism sector. It forms the foundation of the whole tool, addressing the question: how is the climate in a given region changing, and what long-term trends can be derived from it?
 
-**Explore the Climate Indicators dataset [HERE](url).**
+**Explore the Climate Indicators dataset [HERE](https://gtif-austria.info/explore?indicator=climate_indicators).**
 
 
 ## Exploring Climate Indicators for sustainable tourism planning and development <!--{ as="eox-map" mode="tour" position="right" }-->
@@ -26,7 +24,7 @@ Explore indicators such as hot days, tropical nights, ice or heavy precipitation
 ## The data behind it
 The indicators draw on the ÖKS15 climate projection dataset from [GeoSphere Austria](https://data.hub.geosphere.at/group/oks15), calculated under two IPCC scenarios: RCP4.5 (a moderate pathway) and RCP8.5 (a pessimistic, high-emissions pathway). Temperature, precipitation and wind data are available at a spatial resolution of 1 km, on a daily basis, from 2011 to 2100. 
 
-For each decade between 1951 and 2100, the number of days meeting a given climatic criterion is counted for every month; these monthly counts are then averaged across all years within the respective decade to obtain a monthly climatology. The grid cell values are then spatially averaged within the defined spatial units – municipalities (LAU2 level), the three elevation zones (valley bottom (≤10th altitude percentile), mid-altitude (45th-55th altitude percentile), mountain peaks (≥90th altitude percentile), and tourism destination boundaries provided by Österreich Werbung – to obtain one indicator value per month and decade for each spatial unit. 
+For each decade between 1951 and 2100, the number of days meeting a given climatic criterion is counted for every month; these monthly counts are then averaged across all years within the respective decade to obtain a monthly climatology. The grid cell values are then spatially averaged within the defined spatial units – municipalities (LAU2 level), the three elevation zones - valley bottom (≤10th altitude percentile), mid-altitude (45th-55th altitude percentile), mountain peaks (≥90th altitude percentile), and tourism destination boundaries provided by Österreich Werbung – to obtain one indicator value per month and decade for each spatial unit. 
 
 ## What is measured
 
